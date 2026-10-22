@@ -15,7 +15,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,14 +25,37 @@ jobs:
         with:
           python-version: "3.11"
 
+      # 抓取失败（个别源 404/超时）不让整个 job 变红
       - name: Fetch feeds
+        continue-on-error: true
         run: python fetch_feeds.py
+
+      - name: Show result
+        if: always()
+        run: |
+          echo "--- data/latest.json ---"
+          if [ -f data/latest.json ]; then
+            python - <<'PY'
+            import json
+            d = json.load(open('data/latest.json', encoding='utf-8'))
+            print('generated_at:', d.get('generated_at'))
+            print('count:', d.get('count'), ' fresh:', d.get('fresh'), ' ok_sources:', d.get('ok_sources'))
+            errs = d.get('errors') or []
+            print('errors:', len(errs))
+            for e in errs[:10]:
+                print('  -', e)
+            for it in (d.get('items') or [])[:5]:
+                print('  *', it.get('source_name'), '|', (it.get('title') or '')[:70])
+            PY
+          else
+            echo "没有生成 data/latest.json"
+          fi
 
       - name: Commit if changed
         run: |
           git config user.name "intel-bot"
           git config user.email "intel-bot@users.noreply.github.com"
-          git add data/latest.json
+          git add data/latest.json || true
           if git diff --staged --quiet; then
             echo "无变化，跳过提交"
           else

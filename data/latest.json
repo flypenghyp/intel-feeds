@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-22T22:16:26Z",
- "count": 503,
- "fresh": 349,
+ "generated_at": "2026-10-23T00:43:50Z",
+ "count": 557,
+ "fresh": 341,
  "ok_sources": 18,
  "errors": [
   "Politico: HTTP Error 403: Forbidden",
@@ -13,10 +13,50 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
+   "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+   "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+   "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+   "published_at": "2026-10-22T23:16:16Z",
+   "category_hint": "economy",
+   "score_hint": 54
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+   "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+   "published_at": "2026-10-22T21:42:39Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
    "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
    "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
    "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
    "published_at": "2026-10-22T15:56:36Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+   "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+   "published_at": "2026-10-23T00:25:30Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+   "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+   "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+   "published_at": "2026-10-22T22:27:53Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -36,17 +76,7 @@
    "title": "Trump ordered to answer questions under oath in BBC lawsuit",
    "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
    "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-   "published_at": "2026-10-22T17:14:04Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Trump says Musk has restored Ukraine's access after Starlink row",
-   "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-   "published_at": "2026-10-22T21:42:39Z",
+   "published_at": "2026-10-23T00:10:46Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -253,36 +283,6 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "Meta fined $25bn for 'lies' over user data privacy",
-   "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-   "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-   "published_at": "2026-10-21T21:49:07Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "No order, no seat: Starbucks China rolls out new store policy",
-   "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-   "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-   "published_at": "2026-10-22T04:02:29Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-   "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-   "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
-   "published_at": "2026-10-21T22:54:58Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
    "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
    "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
    "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
@@ -333,6 +333,16 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
+   "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+   "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+   "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+   "published_at": "2026-10-22T23:16:20Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
    "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
    "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
    "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
@@ -373,7 +383,7 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "New York bans horse-drawn carriages over safety and abuse concerns",
+   "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
    "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
    "summary": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.",
    "published_at": "2026-10-22T20:49:12Z",
@@ -391,12 +401,102 @@
    "score_hint": 48
   },
   {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Trump's green card curbs test Indian tech workers' American dream",
-   "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-   "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
-   "published_at": "2026-10-21T23:06:37Z",
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Tibet rocked by 7.0-magnitude earthquake",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss",
+   "summary": "Tibet rocked by 7.0-magnitude earthquake",
+   "published_at": "2026-10-23T00:33:16Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+   "summary": "Trump indicates new strikes on Iran, saying the US has knocked the &#039;hell out&#039; of the country.",
+   "published_at": "2026-10-23T00:00:00Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "UK Conservative Party leader responds to Al Jazeera investigation",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/uk-conservative-party-leader-responds-to-al-jazeera-investigation?traffic_source=rss",
+   "summary": "UK Conservative Party MP says the party does not condone former member&#039;s conduct, revealed in Al Jazeera investigation.",
+   "published_at": "2026-10-22T23:34:46Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Almost all shallow-water coral reefs now face extinction risk, study warns",
+   "url": "https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss",
+   "summary": "World authority on threatened wildlife classifies 96 percent of assessed coral reef systems as critically endangered .",
+   "published_at": "2026-10-22T23:32:13Z",
+   "category_hint": "military",
+   "score_hint": 62
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
+   "url": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss",
+   "summary": "Dispute over raising flag of Somali Regional State devolves into fighting between regional forces.",
+   "published_at": "2026-10-22T22:52:35Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+   "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
+   "summary": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
+   "published_at": "2026-10-22T22:25:14Z",
+   "category_hint": "military",
+   "score_hint": 66
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
+   "url": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
+   "summary": "Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.",
+   "published_at": "2026-10-22T22:09:38Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "US judge blocks federal operations seeking to identify non-citizen voters",
+   "url": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss",
+   "summary": "Homeland Security targets nine states in fraud investigations that critics say intimidate voters.",
+   "published_at": "2026-10-22T21:52:52Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Michigan voters closely divided between Rogers and El-Sayed",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/michigan-voters-closely-divided-between-rogers-and-el-sayed?traffic_source=rss",
+   "summary": "Less than two weeks before the midterm elections, some Michigan voters are still deciding.",
+   "published_at": "2026-10-22T21:51:50Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "What is the history behind Trump’s LeBron blast over US national anthem?",
+   "url": "https://www.aljazeera.com/sports/2026/10/22/what-led-to-the-trump-lebron-feud-over-us-national-anthem?traffic_source=rss",
+   "summary": "What led to LeBron James being labelled a disgrace by US President Donald Trump, who says NBA star disgraced anthem?",
+   "published_at": "2026-10-22T21:51:41Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -405,7 +505,7 @@
    "source_name": "Al Jazeera",
    "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
    "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
-   "summary": "The powerful earthquake has killed 16 people and wounded 32 so far, local medics reported.",
+   "summary": "The powerful earthquake has injured 32 others so far, local medics report.",
    "published_at": "2026-10-22T21:23:01Z",
    "category_hint": "policy",
    "score_hint": 48
@@ -543,110 +643,10 @@
   {
    "source": "gh_aljazeera",
    "source_name": "Al Jazeera",
-   "title": "Trump says NBA star LeBron James disrespected US national anthem",
+   "title": "Trump slams NBA star LeBron James for disrespecting US national anthem",
    "url": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
    "summary": "NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem.",
    "published_at": "2026-10-22T18:05:52Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-   "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
-   "summary": "The US has pushed back on the IRGC&#039;s claims, dismissing them as an attempt to increase oil prices ahead of US elections.",
-   "published_at": "2026-10-22T17:58:04Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "US-sanctioned ICC wins top EU human rights award",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
-   "summary": "The EU has awarded the International Criminal Court its top human rights award.",
-   "published_at": "2026-10-22T17:46:03Z",
-   "category_hint": "military",
-   "score_hint": 66
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
-   "url": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss",
-   "summary": "Breast cancer patients in Gaza face delayed diagnoses, medicine shortages and limited access to scans and treatment.",
-   "published_at": "2026-10-22T17:40:24Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Foreign national beaten to death by a mob in South Africa",
-   "url": "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
-   "summary": "Police say a 50-person mob in Durban killed a man amid a wave of anti-migrant marches.",
-   "published_at": "2026-10-22T17:35:44Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs",
-   "url": "https://www.aljazeera.com/sports/2026/10/22/sri-lanka-beat-england-to-overcome-harry-brook-hitting-fastest-200-in-odis?traffic_source=rss",
-   "summary": "England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare.",
-   "published_at": "2026-10-22T17:28:55Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
-   "summary": "A video of an Israeli soldier throwing a cat over a fence has gone viral online.",
-   "published_at": "2026-10-22T17:25:29Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Albanian lawmakers scuffle in parliament as street protests continue",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss",
-   "summary": "Albanian lawmakers have scuffled in parliament, throwing objects at one another and ripping microphones from desks.",
-   "published_at": "2026-10-22T16:35:12Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "FIFA announces USA to host first Women’s Club World Cup in 2028",
-   "url": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss",
-   "summary": "FIFA to stage inaugural Women&#039;s Club World Cup, with 16 of football&#039;s top teams, in United States in 2028.",
-   "published_at": "2026-10-22T16:34:38Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
-   "url": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
-   "summary": "The Syrian Interior Ministry says five suspected fighters killed and six arrested outside of Damascus.",
-   "published_at": "2026-10-22T16:24:43Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "South Africa crush Australia by an innings to level cricket Test series",
-   "url": "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss",
-   "summary": "South Africa storm back to crush Australia by an innings in the second Test and level the series 1-1 with one to play.",
-   "published_at": "2026-10-22T16:09:44Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -751,14 +751,74 @@
    "score_hint": 46
   },
   {
-   "source": "gh_dw",
-   "source_name": "DW World",
-   "title": "Pakistan-Taliban conflict: How India could benefit from shifting regional dynamics",
-   "url": "https://www.dw.com/en/pakistan-taliban-conflict-how-india-could-benefit-from-shifting-regional-dynamics/a-79721426?maca=en-rss-en-world-4025-rdf",
-   "summary": "As Pakistan's influence in Afghanistan comes under strain, India is rebuilding ties with the Taliban in Kabul. Can New Delhi turn this diplomatic opening into lasting strategic gains?",
-   "published_at": "2026-10-21T10:35:00Z",
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Fresh Hong Kong graduates feel AI impact as degree pay advantage narrows",
+   "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371826/fresh-hong-kong-graduates-feel-ai-impact-degree-pay-advantage-narrows",
+   "summary": "Fresh Hong Kong graduates are increasingly feeling the impact of artificial intelligence (AI) as they enter the workforce, human resources experts have said, after a survey found the starting salaries for degree holders and sub-degree graduates had narrowed. The results of the latest annual survey by Baptist University found the disparity between the startin",
+   "published_at": "2026-10-23T00:30:07Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Vietnam partners with Denmark to propel its wind energy ambition",
+   "url": "https://www.scmp.com/week-asia/economics/article/3371827/vietnam-partners-denmark-propel-its-wind-energy-ambition",
+   "summary": "A wind energy partnership between Vietnam and Denmark has fuelled expectations of the Southeast Asian country boosting its competitiveness in renewable electricity to serve overseas and domestic markets. Vietnam is well placed to grow its renewable electricity sector by tapping its large pool of engineering talent and abundant wind resources with help from D",
+   "published_at": "2026-10-23T00:00:17Z",
    "category_hint": "policy",
    "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Video shows fatal shooting of 1-year-old Kohen Wiley by US police officer",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3371838/video-shows-fatal-shooting-1-year-old-kohen-wiley-us-police-officer",
+   "summary": "Mississippi released video on Thursday showing the fatal shooting of a one-year-old boy by a police officer whom state authorities have cleared of criminal wrongdoing. Kohen Wiley was killed in June when Senatobia police officer Sergeant Hunter Foster fired his gun into a moving vehicle while responding to a shoplifting call. Kohen’s family says footage of t",
+   "published_at": "2026-10-22T23:40:47Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Inflation-squeezed Japanese flock to claw machines dangling everyday items",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3371816/inflation-squeezed-japanese-flock-claw-machines-dangling-everyday-items",
+   "summary": "With one eye on her baby in a stroller, Minae Kamata operates an arcade machine in a Tokyo suburb, manipulating a claw to grab not a stuffed toy but a pack of toilet paper. As inflation weighs on Japanese households, huge arcades on the outskirts of major cities are installing claw machines filled with eggs, rice, laundry detergent and other necessities. The",
+   "published_at": "2026-10-22T23:30:08Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Asia Society announces new permanent home in historic Washington building",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3371837/asia-society-announces-new-permanent-home-historic-washington-building",
+   "summary": "The Asia Society announced on Thursday that it had marked out territory on the Washington policy landscape with the purchase of a US$17.5 million building that will give it a permanent spot alongside other US capital think tanks dating back more than a century, striving for influence. The 70-year-old institution, founded by the grandson of oil mogul John D. ",
+   "published_at": "2026-10-22T23:05:58Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "HSBC RedCoin stablecoin launches for 3.3 million PayMe users in Hong Kong",
+   "url": "https://www.scmp.com/business/cryptocurrency/article/3371805/hsbc-redcoin-stablecoin-launches-33-million-payme-users-hong-kong",
+   "summary": "HSBC will launch its Hong Kong dollar-backed stablecoin in stages from Friday for more than 3.3 million users of its PayMe app, as the bank pushes to bring digital currencies into the city’s mainstream retail and investment markets. HSBC RedCoin, available only through PayMe and the bank’s Hong Kong mobile banking app, would initially support peer-to-peer tr",
+   "published_at": "2026-10-22T23:00:09Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Trump invokes Cold War-era Defence Production Act to boost oil production and refining",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3371836/trump-invokes-cold-war-era-defence-production-act-boost-oil-production-and-refining",
+   "summary": "US ⁠President Donald Trump determined ⁠on Thursday that petroleum ⁠production, refining and related activities are essential to national defence, a move that could open up US funding for fossil fuel projects. In a presidential memo, Trump also invoked part of ‌the Cold War-era Defence Production Act, allowing him to provide financial incentives for oil-relat",
+   "published_at": "2026-10-22T22:21:42Z",
+   "category_hint": "military",
+   "score_hint": 64
   },
   {
    "source": "gh_scmp",
@@ -1091,76 +1151,6 @@
    "score_hint": 58
   },
   {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Super Typhoon Champi: Hong Kong airlines cancel at least 12 Taiwan, Japan flights",
-   "url": "https://www.scmp.com/news/hong-kong/transport/article/3371776/super-typhoon-champi-hong-kong-airlines-cancel-least-12-taiwan-japan-flights",
-   "summary": "Airlines in Hong Kong have cancelled or rescheduled more than a dozen flights to and from Taiwan and Japan due to Super Typhoon Champi, with further disruption expected in the coming days. Announcements of flight cancellations from Taiwanese airlines also followed, noting flights between Hong Kong and Taipei or Kaohsiung for Friday and Saturday had been canc",
-   "published_at": "2026-10-22T08:42:48Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Hong Kong port needs a new lease of life in value-driven era",
-   "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371747/hong-kong-port-needs-new-lease-life-value-driven-era",
-   "summary": "Hong Kong’s surging exports amid recent global trade shifts and tariff measures are reason to celebrate. However, they have not reversed the decline in the city’s port’s container throughput, which hit 12.99 million 20-foot equivalent units in 2025, down 5.1 per cent year on year. To address public doubts over the city’s standing as an international shipping",
-   "published_at": "2026-10-22T08:30:09Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Can Prabowo’s economic nationalism save Indonesia from potential MSCI downgrade?",
-   "url": "https://www.scmp.com/week-asia/economics/article/3371767/can-prabowos-economic-nationalism-save-indonesia-potential-msci-downgrade",
-   "summary": "In the wake of Indonesia’s worst stock-market rout since the 1998 Asian financial crisis, President Prabowo Subianto’s administration has turned to appeals to economic nationalism to shore up confidence, urging citizens to rally behind the country’s battered stock market. The government has promised reforms in response to warnings from global index provider ",
-   "published_at": "2026-10-22T08:00:14Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Indonesians turn to eco-art as haze sparks anger and diplomatic tension",
-   "url": "https://www.scmp.com/week-asia/health-environment/article/3371773/indonesians-turn-eco-art-haze-sparks-anger-and-diplomatic-tension",
-   "summary": "As wildfires rage across Sumatra and Kalimantan, frustrated Indonesians are turning to performance art to call for greater government action and draw global attention to the destruction of both the country’s rainforests and rich cultural heritage. In South Sumatra, local art collective Jaga Api recently launched a project titled Tarian Kehancuran Budaya (the",
-   "published_at": "2026-10-22T07:59:54Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Abby Choi trial hears of ex-husband’s watch profits and electric saw mark on remains",
-   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371766/abby-choi-got-share-ex-husbands-luxury-watch-profits-murder-trial-told",
-   "summary": "Slain Hong Kong socialite Abby Choi Tin-fung received a share of her ex-husband’s luxury watch profits, and a cut mark on her dismembered remains matched an electric saw found at the crime scene, her murder trial heard on Thursday. Chan Leong-hang, an employee of Aristo Watch & Jewellery in Tsim Sha Tsui, said on Thursday that Alex Kwong Kong-chi sold upmark",
-   "published_at": "2026-10-22T07:28:07Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Safety of Australian women MPs in focus after man with nunchucks threatens staff",
-   "url": "https://www.scmp.com/news/asia/australasia/article/3371759/safety-australian-women-mps-focus-after-man-nunchucks-threatens-staff",
-   "summary": "A man has been charged with threatening an Australian lawmaker’s staff with nunchucks, police said on Thursday, days after another legislator was critically injured when a man repeatedly hit her with a car. The incidents are heightening concerns about female politicians’ safety and raising concerns about security in a country where lawmakers are highly acces",
-   "published_at": "2026-10-22T07:21:06Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Hong Kong orders urgent checks as critical flaws put websites at risk of hacking",
-   "url": "https://www.scmp.com/news/hong-kong/article/3371756/hong-kong-watchdog-warns-hacking-risks-flaws-web-programming-language",
-   "summary": "Hong Kong authorities have “attached great importance” to two critical flaws in a widely used web programming language that could allow hackers to execute code remotely and take control of servers. The government’s Digital Policy Office said on Thursday that it had issued a security alert to all bureaus, departments and public organisations requesting an imm",
-   "published_at": "2026-10-22T06:37:01Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
    "source": "gh_nyt",
    "source_name": "NYT World",
    "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
@@ -1206,7 +1196,7 @@
    "title": "Serbian Election Underscores the Region’s Long Political Limbo",
    "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
    "summary": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
-   "published_at": "2026-10-22T17:03:13Z",
+   "published_at": "2026-10-22T22:44:35Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1493,26 +1483,6 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "Why These Towers Collapsed in Venezuela’s Earthquakes",
-   "url": "https://www.nytimes.com/video/world/americas/100000011160984/why-these-towers-collapsed-in-venezuelas-earthquakes.html",
-   "summary": "A 3-D reconstruction reveals why multiple apartment towers toppled in the earthquakes that struck Venezuela in June. Our reporter Julie Turkewitz examines how structural flaws — not just the strength of the quakes — left the towers vulnerable to collapse.",
-   "published_at": "2026-10-21T10:23:10Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
-   "url": "https://www.nytimes.com/2026/10/21/world/asia/helen-haines-attack-australian-politicians.html",
-   "summary": "Much remains unclear about why a driver ran a car into Helen Haines, a lawmaker. Even so, fellow representatives, especially women, spoke of feeling threatened in a polarized atmosphere.",
-   "published_at": "2026-10-21T10:57:42Z",
-   "category_hint": "military",
-   "score_hint": 62
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
    "title": "China’s Free A.I. Models Are Thrown Into Uncertainty",
    "url": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
    "summary": "Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.",
@@ -1533,16 +1503,6 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "UK to Headphone Dodgers on Trains: Shush",
-   "url": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
-   "summary": "Prime Minister Andy Burnham announced a campaign against listening to music or videos without headphones on public transportation. We asked London commuters to weigh in.",
-   "published_at": "2026-10-21T11:01:21Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
    "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
    "url": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
    "summary": "Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.",
@@ -1555,7 +1515,7 @@
    "source_name": "Guardian World",
    "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
    "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-   "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s , with the seven-time world champion also stating he believes it is right that F1 is",
+   "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s . The seven-time world champion believes it is right that F1 is to hold a race there",
    "published_at": "2026-10-22T21:53:28Z",
    "category_hint": "policy",
    "score_hint": 46
@@ -1613,6 +1573,26 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
+   "title": "Australia offers astronaut Katherine Bennell-Pegg for space mission to International Space Station",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
+   "summary": "Australian of the Year would become the first astronaut in space to qualify under the Australian flag if she embarks on the 2028 mission Get our breaking news email , free app or daily news podcast The federal government has sent an offer to the European Space Agency (ESA) to send the Australian of the Year, astronaut Katherine Bennell-Pegg, to the Internati",
+   "published_at": "2026-10-22T23:51:24Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
+   "url": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
+   "summary": "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued Australian A-lister Rebel Wilson has secured a major court victory after co-producers of her debut film accused her of sabotage, lying and breaching contracts. The Pitch Perfect star directed, co-produced and starred in The",
+   "published_at": "2026-10-22T23:31:22Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
    "title": "The great moth revival: how bogongs have bounced back",
    "url": "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back",
    "summary": "This animated map shows the insect’s population exploding in Australia’s eastern states, with the endangered species coming back from the brink If you live anywhere on the eastern side of Australia, you’ve probably noticed that bogong moths are back in a big way . While we don’t yet have figures from ecologist-led surveys to compare with previous years, ther",
@@ -1643,22 +1623,12 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Almost every shallow-water coral reef on the planet faces ecosystem collapse by 2075, UN advisors say",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
-   "summary": "Assessment finds global heating is endangering 96% of coral reefs across 80 countries – a figure scientists say should serve as a ‘wake-up call’ Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Almost every shallow-water coral reef on the planet, including Australia’s Great Barrier Reef, faces a high risk of ecosystem c",
-   "published_at": "2026-10-22T12:00:45Z",
+   "title": "Massive student-led rally marches in Belgrade ahead of Serbian election",
+   "url": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
+   "summary": "Student List movement hopes to oust the party of veteran leader Aleksandar Vucic in a pivotal vote on Sunday Explained: what’s at stake in Serbia’s election? The key players, main issues and potential fallout About 150,000 supporters of Serbia’s opposition student movement rallied in central Belgrade on Thursday, seeking to oust the party of veteran leader A",
+   "published_at": "2026-10-23T00:22:56Z",
    "category_hint": "policy",
    "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals",
-   "url": "https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation",
-   "summary": "Treasury is revising all the numbers for the midyear budget update as economists warn of a difficult six months ahead Get our new political email , free app or daily news podcast Jim Chalmers has revealed December’s midyear budget update will project weaker growth and higher unemployment, as economists warn of a difficult six months ahead for the Australian ",
-   "published_at": "2026-10-22T11:30:43Z",
-   "category_hint": "economy",
-   "score_hint": 52
   },
   {
    "source": "gh_guardian",
@@ -1699,16 +1669,6 @@
    "published_at": "2026-10-22T15:07:01Z",
    "category_hint": "policy",
    "score_hint": 48
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
-   "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-   "summary": "It’s the last day of the electoral campaign in Serbia today ahead of this Sunday’s closely contested parliamentary election As we are waiting for Macron , first details of the planned police response to this weekend’s protests are emerging. Junior interior minister, Jean-Didier Berger , said that the police presence will be “20% higher” than last weekend, wi",
-   "published_at": "2026-10-22T15:01:35Z",
-   "category_hint": "policy",
-   "score_hint": 46
   },
   {
    "source": "gh_guardian",
@@ -1783,6 +1743,26 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
+   "title": "King Charles urged ‘as human brother’ to support reparations talks at Caribbean summit",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/22/caricom-reparations-commission-king-charles",
+   "summary": "Caricom commission chair Hilary Beckles wants king to ensure Commonwealth becomes a ‘moral institution committed to human justice’ The head of the Caribbean’s reparations commission has appealed to King Charles III as a “human brother” whose family he said had benefited from slavery to support reparations talks at next month’s Commonwealth leaders meeting in",
+   "published_at": "2026-10-22T23:06:17Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Child health in England at risk from sharp rise in NHS waiting times, report says",
+   "url": "https://www.theguardian.com/society/2026/oct/23/child-health-england-at-risk-sharp-rise-nhs-waiting-times",
+   "summary": "CQC research finds long delays are making conditions harder to treat and highlights regional disparities in care Thousands of children in England are experiencing some of the sharpest rises in waiting times for healthcare in the history of the NHS, a report has revealed. While some adult waiting times have improved, children and young people are being “hit h",
+   "published_at": "2026-10-22T23:01:52Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
    "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
    "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
    "summary": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’ Andy Burnham: We will make the net-zero transition work for Britain Andy Burnham has said he will not “abandon the responsibility” of fighting the climate crisis after the government approved the Jackdaw gasfield, pledging to block new North Sea",
@@ -1813,30 +1793,20 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Raye wins 2026 Mercury prize for This Music May Contain Hope",
-   "url": "https://www.theguardian.com/music/2026/oct/22/raye-wins-2026-mercury-prize-for-this-music-may-contain-hope",
-   "summary": "Singer who has had record-breaking Brit awards success adds to haul thanks to massively ambitious big-band album Raye is the winner of the 2026 Mercury prize, for her second studio album, This Music May Contain Hope. Her win – for a hugely ambitious 73-minute record that spanned big band jazz, power balladry, funk and more – caps an ongoing renaissance for a",
-   "published_at": "2026-10-22T21:24:17Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "UK to relax post-2008 rules that hold City bosses accountable for wrongdoing",
-   "url": "https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing",
-   "summary": "Regulators say removing ‘unnecessary burdens’ will save businesses about £2bn over 10 years The UK is watering down rules introduced in the aftermath of the financial crisis that were designed to hold City bosses accountable for wrongdoing. The plans, put forward by the financial industry’s two top regulators, the Bank of England and the Financial Conduct Au",
-   "published_at": "2026-10-22T20:00:49Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Trump defends Ramaswamy campaign ad condemned by Republicans, saying ‘Vivek should keep it up’ – live",
+   "title": "Trump defends Ohio Democrat’s estranged mother after Ramaswamy’s widely criticized campaign ad – live",
    "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-   "summary": "President claims criticism of ad featuring Democrat Amy Acton’s estranged mother is a ‘concerted’ attack on Republican Ohio governor candidate Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad Reporting from Anchorage, Alaska Mary Peltola’s campaign to represent Alaska in the US Senate ha",
-   "published_at": "2026-10-22T22:04:30Z",
+   "summary": "Trump defends Amy Acton’s estranged mother, who stayed with her husband charged with raping her daughter, and touts Vivek Ramaswamy’s ‘well coordinated’ attack ad Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad Reporting from Anchorage, Alaska Mary Peltola’s campaign to represent Alaska",
+   "published_at": "2026-10-23T00:24:52Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "A possible three tornados wallop Arizona, bringing golf-ball sized hail",
+   "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
+   "summary": "Violent storms overnight knocked over utility poles and trees and carried thunder and heavy winds through state Yet more severe weather struck Thursday in the US south-west as the Four Corners region surveyed blown-away roofs, trees knocked on to homes and power lines downed from overnight tornadoes that injured one person. The injuries weren’t life-threaten",
+   "published_at": "2026-10-22T23:15:40Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1867,16 +1837,6 @@
    "url": "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
    "summary": "Actor also had roles in M*A*S*H, A River Runs Through It and Picket Fences in career spanning 60 years Tom Skerritt, the actor known for roles in Alien and Top Gun, has died at the age of 93. His publicist confirmed to Variety that he died from natural causes. Continue reading...",
    "published_at": "2026-10-22T20:19:49Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Teacher wounded in Oregon school shooting played dead after she was shot",
-   "url": "https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead",
-   "summary": "Becky Drury says she was hit by gunfire before she could intervene in attack that killed four, including three children A teacher wounded in last week’s shooting at a Bend, Oregon, elementary school shared her account of the incident, and how she was shot before she could intervene and “[pretended] to be dead”. Becky Drury was seriously wounded at Silver Rai",
-   "published_at": "2026-10-22T20:12:24Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -2333,22 +2293,22 @@
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
-   "title": "Trump’s tourism push fails to lure visitors",
-   "url": "https://www.ft.com/content/9ddd1583-9296-4264-8ddd-dbf11469def9?syn-25a6b1a6=1",
-   "summary": "Number of tourist arrivals in US continues to drop following football World Cup",
-   "published_at": "2026-10-22T13:54:59Z",
+   "title": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
+   "url": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1",
+   "summary": "Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech",
+   "published_at": "2026-10-22T23:13:15Z",
    "category_hint": "economy",
    "score_hint": 52
   },
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
-   "title": "US to fund speculative fusion venture backed by investors with ties to Trump",
-   "url": "https://www.ft.com/content/d774c15e-22e4-4873-9a1d-92d6561290f9?syn-25a6b1a6=1",
-   "summary": "Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-law",
-   "published_at": "2026-10-22T17:20:01Z",
+   "title": "Moderna shares sink after leaked cancer data missed expectations",
+   "url": "https://www.ft.com/content/9e59746f-9b63-4adb-b868-14088d638b8a?syn-25a6b1a6=1",
+   "summary": "Melanoma vaccine treatment cut risk of recurrence or death by 58% but failed to exceed Wall Street’s lofty expectations",
+   "published_at": "2026-10-22T21:37:25Z",
    "category_hint": "economy",
-   "score_hint": 52
+   "score_hint": 54
   },
   {
    "source": "gh_ft",
@@ -2373,112 +2333,132 @@
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
-   "title": "Moderna shares sink after leaked cancer data missed expectations",
-   "url": "https://www.ft.com/content/9e59746f-9b63-4adb-b868-14088d638b8a?syn-25a6b1a6=1",
-   "summary": "Melanoma vaccine treatment cut risk of recurrence or death by 58% but failed to exceed Wall Street’s lofty expectations",
-   "published_at": "2026-10-22T21:37:25Z",
-   "category_hint": "economy",
-   "score_hint": 54
+   "title": "Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military",
+   "url": "https://www.ft.com/content/8a558139-2318-4509-8acd-199d5f888b9e?syn-25a6b1a6=1",
+   "summary": "Anduril’s co-founder and entrepreneur Ben Lamm conceived of company to clone and genetically edit working canines",
+   "published_at": "2026-10-22T23:29:39Z",
+   "category_hint": "military",
+   "score_hint": 66
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Porch group COO Matthew Neagle sells $562,965 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/porch-group-coo-matthew-neagle-sells-562965-in-shares-93CH-4967717",
+   "title": "U.S. stock futures steady after Nasdaq posts worst day since June",
+   "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
    "summary": "",
-   "published_at": "2026-10-22T22:01:08Z",
+   "published_at": "2026-10-23T00:23:50Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Saba Capital Management buys $262,611 of BNY Mellon Strategic Municipals",
-   "url": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-262611-of-bny-mellon-strategic-municipals-93CH-4967718",
+   "title": "1st Source earnings beat by $0.20, revenue topped estimates",
+   "url": "https://www.investing.com/news/earnings/1st-source-earnings-beat-by-020-revenue-topped-estimates-4967862",
    "summary": "",
-   "published_at": "2026-10-22T22:01:08Z",
+   "published_at": "2026-10-23T00:19:06Z",
    "category_hint": "economy",
    "score_hint": 50
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Porch Group director Amanda Reierson sells $133,401 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/porch-group-director-amanda-reierson-sells-133401-in-shares-93CH-4967716",
+   "title": "Xai floating rate VP John Spence buys $34,140 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/xai-floating-rate-vp-john-spence-buys-34140-in-stock-93CH-4967861",
    "summary": "",
-   "published_at": "2026-10-22T22:01:07Z",
+   "published_at": "2026-10-23T00:16:09Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "SoFi EVP Kelli Keough sells $150,214 of SoFi shares",
+   "url": "https://www.investing.com/news/insider-trading-news/sofi-evp-kelli-keough-sells-150214-of-sofi-shares-93CH-4967860",
+   "summary": "",
+   "published_at": "2026-10-23T00:15:53Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "CME Group director Martin Gepsman sells $121,000 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/cme-group-director-martin-gepsman-sells-121000-in-shares-93CH-4967715",
+   "title": "Hilltop earnings missed by $0.20, revenue fell short of estimates",
+   "url": "https://www.investing.com/news/earnings/hilltop-earnings-missed-by-020-revenue-fell-short-of-estimates-4967853",
    "summary": "",
-   "published_at": "2026-10-22T22:01:05Z",
+   "published_at": "2026-10-23T00:13:00Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Japan is not yet officially out of deflation, economy minister says",
+   "url": "https://www.investing.com/news/economy-news/japan-is-not-yet-officially-out-of-deflation-economy-minister-says-4967852",
+   "summary": "",
+   "published_at": "2026-10-23T00:12:19Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Earnings call transcript: Whitehaven Coal posts strong Q1 2026 output as shares slip",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-whitehaven-coal-posts-strong-q1-2026-output-as-shares-slip-93CH-4967851",
+   "summary": "",
+   "published_at": "2026-10-23T00:11:16Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Cathie Wood’s ARK buys Meta stock, sells Teradyne and Palantir",
+   "url": "https://www.investing.com/news/company-news/cathie-woods-ark-buys-meta-stock-sells-teradyne-and-palantir-93CH-4967850",
+   "summary": "",
+   "published_at": "2026-10-23T00:06:00Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "SK Hynix drops US IPO plan for Solidigm, newspaper reports",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
+   "title": "Banco Bradesco ADR earnings missed, revenue topped estimates",
+   "url": "https://www.investing.com/news/earnings/banco-bradesco-adr-earnings-missed-revenue-topped-estimates-4967849",
    "summary": "",
-   "published_at": "2026-10-22T22:00:46Z",
+   "published_at": "2026-10-23T00:05:56Z",
    "category_hint": "economy",
-   "score_hint": 44
+   "score_hint": 50
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "SS&C Q3 2026 slides: record EBITDA, shares fall on Q4 outlook",
-   "url": "https://www.investing.com/news/company-news/ssc-q3-2026-slides-record-ebitda-shares-fall-on-q4-outlook-93CH-4967708",
+   "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+   "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180",
    "summary": "",
-   "published_at": "2026-10-22T21:59:59Z",
+   "published_at": "2026-10-23T00:00:46Z",
    "category_hint": "economy",
-   "score_hint": 44
+   "score_hint": 48
   },
   {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Huron Consulting stock rises on S&P SmallCap 600 addition",
-   "url": "https://www.investing.com/news/stock-market-news/huron-consulting-stock-rises-on-sp-smallcap-600-addition-4967707",
-   "summary": "",
-   "published_at": "2026-10-22T21:57:24Z",
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
+   "url": "https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html",
+   "summary": "Last month, Shell (NYSE:SHEL), alongside Malaysia's PETRONAS, China's PetroChina, Mitsubishi Corporation and KOGAS, officially approved the Final Investment Decision (FID) for the LNG Canada Phase 2 expansion project, doubling the facility's capacity to 28 million tons per annum (mtpa) and reinforcing the country's potential as a significant long-term suppli",
+   "published_at": "2026-10-23T00:00:00Z",
    "category_hint": "economy",
-   "score_hint": 44
+   "score_hint": 50
   },
   {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Omnicom Q3 2026 slides: organic growth hits 7.2%, margins expand",
-   "url": "https://www.investing.com/news/company-news/omnicom-q3-2026-slides-organic-growth-hits-72-margins-expand-93CH-4967706",
-   "summary": "",
-   "published_at": "2026-10-22T21:56:45Z",
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks",
+   "url": "https://oilprice.com/Energy/Energy-General/Rising-Crude-Oil-Imports-Reduce-Chinas-Need-to-Draw-from-Stocks.html",
+   "summary": "China has relied on its huge crude oil inventories since the Iran war hiked oil prices to above $100 per barrel. The world’s biggest crude importer has drawn from its 1.3-billion-barrel stash for most of the months after March as it slashed imports amid soaring prices. The stock draws, and the reduced imports in the spring and summer, have even kept benchmar",
+   "published_at": "2026-10-22T23:00:00Z",
    "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "South Plains Financial Q3 2026 slides: EPS beats, Houston integration complete",
-   "url": "https://www.investing.com/news/company-news/south-plains-financial-q3-2026-slides-eps-beats-houston-integration-complete-93CH-4967705",
-   "summary": "",
-   "published_at": "2026-10-22T21:56:04Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Brazil’s Bradesco meets profit estimates despite slower credit revenue",
-   "url": "https://www.investing.com/news/stock-market-news/brazils-bradesco-meets-profit-estimates-despite-slower-credit-revenue-4967704",
-   "summary": "",
-   "published_at": "2026-10-22T21:54:35Z",
-   "category_hint": "economy",
-   "score_hint": 44
+   "score_hint": 56
   },
   {
    "source": "gh_oilprice",
@@ -2611,24 +2591,14 @@
    "score_hint": 56
   },
   {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "What Jackdaw’s Approval Means for the Future of North Sea Drilling",
-   "url": "https://oilprice.com/Energy/Energy-General/What-Jackdaws-Approval-Means-for-the-Future-of-North-Sea-Drilling.html",
-   "summary": "A lot has happened since 1 June 2022, the date when ministers first granted permission to tap the Jackdaw gas field. The Conservatives were halfway through their ill-fated final term of three. Kwasi Kwarteng was the business secretary, with equally ill-fated aspirations for higher office. And the Department for Energy Security and Net Zero – now responsible ",
-   "published_at": "2026-10-22T14:00:00Z",
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+   "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+   "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.",
+   "published_at": "2026-10-22T22:43:36Z",
    "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Grid Constraints Curtailed 119 GW of Renewables in India in September",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Grid-Constraints-Curtailed-119-GW-of-Renewables-in-India-in-September.html",
-   "summary": "Grid, flexibility, and transmission constraints amid limited battery storage forced India to curtail as much as 118.6 gigawatts (GW) of solar and wind power capacity in September, data by India’s JMK Research & Analytics showed. A total of 118.6 GW of renewable energy capacity was affected by curtailment last month, including 96.9 GW of solar and 21.7 GW of ",
-   "published_at": "2026-10-22T13:00:00Z",
-   "category_hint": "economy",
-   "score_hint": 50
+   "score_hint": 44
   },
   {
    "source": "gh_coindesk",
@@ -2831,54 +2801,14 @@
    "score_hint": 50
   },
   {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-   "url": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
-   "summary": "Vault12 raised $17.45 million selling VGT in 2018 and says it met or dropped every promise, yet the token has never traded on a centralized exchange.",
-   "published_at": "2026-10-21T12:12:36Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-   "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
-   "summary": "The collaboration will explore card-linked merchant payments for Japanese visitors in South Korea and peer-to-peer wallet transfers among broader cross-border trade remittances.",
-   "published_at": "2026-10-21T12:10:39Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-   "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-   "summary": "Dogecoin Labs will combine MyDoge, DogeOS and merchant payment tools as developers try to turn coin holders into customers for applications and businesses.",
-   "published_at": "2026-10-21T12:00:00Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-   "summary": "Your day-ahead look for Oct. 21, 2026",
-   "published_at": "2026-10-21T11:15:00Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-   "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
-   "summary": "The U.S. Office of the Comptroller of the Currency is the first of several federal agencies to finish writing regulations under the act.",
-   "published_at": "2026-10-21T11:00:00Z",
+   "source": "gh_defenseone",
+   "source_name": "Defense One",
+   "title": "Qatar looks to bolster its military power with new hub, partnerships",
+   "url": "https://www.defenseone.com/policy/2026/10/qatar-looks-bolster-its-military-power-new-hub-partnerships/416775/",
+   "summary": "The Kingdom has spent decades cultivating its reputation as a place where enemies can sit down and talk. Apparently, even that requires an air-defense system.",
+   "published_at": "2026-10-23T00:30:31Z",
    "category_hint": "military",
-   "score_hint": 56
+   "score_hint": 64
   },
   {
    "source": "gh_defenseone",
@@ -3191,14 +3121,64 @@
    "score_hint": 46
   },
   {
-   "source": "gh_techreview",
-   "source_name": "MIT Tech Review",
-   "title": "The Download: introducing the Impossible issue",
-   "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about&#8230;",
-   "published_at": "2026-10-21T12:10:00Z",
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Etsy is cracking down on AI slop listings",
+   "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+   "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use [&#8230;]",
+   "published_at": "2026-10-23T00:09:58Z",
    "category_hint": "other",
-   "score_hint": 46
+   "score_hint": 48
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+   "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+   "summary": "Spotify co-CEO Alex Norstr&#246;m confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the \"crackdown,\" he called it a [&#8230;]",
+   "published_at": "2026-10-22T23:02:43Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+   "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+   "summary": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second thought: Microsoft knows people won't pay that [&#8230;]",
+   "published_at": "2026-10-22T23:00:00Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
+   "published_at": "2026-10-22T21:51:25Z",
+   "category_hint": "other",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+   "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+   "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low. Counterpoint linked the [&#8230;]",
+   "published_at": "2026-10-22T21:30:39Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Fall 2026 earnings watch",
+   "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+   "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.",
+   "published_at": "2026-10-22T21:15:16Z",
+   "category_hint": "economy",
+   "score_hint": 50
   },
   {
    "source": "gh_verge",
@@ -3241,64 +3221,14 @@
    "score_hint": 44
   },
   {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
-   "url": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
-   "summary": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to [&#8230;]",
-   "published_at": "2026-10-22T19:44:51Z",
+   "source": "gh_stat",
+   "source_name": "STAT News",
+   "title": "STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general",
+   "url": "https://www.statnews.com/pharmalot/2026/10/22/gilead-settles-kickback-lawsuit-texas-attorney-general/?utm_campaign=rss",
+   "summary": "Gilead Sciences agreed to pay $45 million to settle allegations of paying kickbacks that improperly influenced prescriptions paid for by the Texas Medicaid program",
+   "published_at": "2026-10-22T23:12:17Z",
    "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
-   "url": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
-   "summary": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, like many other Republicans, celebrated in 2024. But this week, Bhatt did something unexpected: He voted [&#823",
-   "published_at": "2026-10-22T19:15:00Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
-   "url": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
-   "summary": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Manitoba permanently switching to daylight saving this [&#8230;",
-   "published_at": "2026-10-22T19:13:42Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Discord now formats Markdown previews right",
-   "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-   "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects [&#8230;",
-   "published_at": "2026-10-22T18:58:19Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "The new Fire TV Stick 4K is already half off",
-   "url": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
-   "summary": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power [&#8230;]",
-   "published_at": "2026-10-22T18:43:57Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Refurbished PS5 consoles include second controller for an extra $18",
-   "url": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
-   "summary": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because [&#8230;]",
-   "published_at": "2026-10-22T18:38:50Z",
-   "category_hint": "other",
-   "score_hint": 44
+   "score_hint": 48
   },
   {
    "source": "gh_stat",
@@ -3489,6 +3419,616 @@
    "published_at": "2026-10-21T13:26:27Z",
    "category_hint": "other",
    "score_hint": 46
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Trump says Musk has restored Ukraine's access after Starlink row",
+   "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+   "published_at": "2026-10-22T21:42:39Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Meta fined $25bn for 'lies' over user data privacy",
+   "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+   "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+   "published_at": "2026-10-21T21:49:07Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "No order, no seat: Starbucks China rolls out new store policy",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+   "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+   "published_at": "2026-10-22T04:02:29Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+   "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+   "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+   "published_at": "2026-10-21T22:54:58Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "New York bans horse-drawn carriages over safety and abuse concerns",
+   "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+   "summary": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.",
+   "published_at": "2026-10-22T20:49:12Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Trump's green card curbs test Indian tech workers' American dream",
+   "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+   "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+   "published_at": "2026-10-21T23:06:37Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Trump says NBA star LeBron James disrespected US national anthem",
+   "url": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
+   "summary": "NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem.",
+   "published_at": "2026-10-22T18:05:52Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+   "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
+   "summary": "The US has pushed back on the IRGC&#039;s claims, dismissing them as an attempt to increase oil prices ahead of US elections.",
+   "published_at": "2026-10-22T17:58:04Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "US-sanctioned ICC wins top EU human rights award",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
+   "summary": "The EU has awarded the International Criminal Court its top human rights award.",
+   "published_at": "2026-10-22T17:46:03Z",
+   "category_hint": "military",
+   "score_hint": 66
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
+   "url": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss",
+   "summary": "Breast cancer patients in Gaza face delayed diagnoses, medicine shortages and limited access to scans and treatment.",
+   "published_at": "2026-10-22T17:40:24Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Foreign national beaten to death by a mob in South Africa",
+   "url": "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
+   "summary": "Police say a 50-person mob in Durban killed a man amid a wave of anti-migrant marches.",
+   "published_at": "2026-10-22T17:35:44Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs",
+   "url": "https://www.aljazeera.com/sports/2026/10/22/sri-lanka-beat-england-to-overcome-harry-brook-hitting-fastest-200-in-odis?traffic_source=rss",
+   "summary": "England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare.",
+   "published_at": "2026-10-22T17:28:55Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
+   "summary": "A video of an Israeli soldier throwing a cat over a fence has gone viral online.",
+   "published_at": "2026-10-22T17:25:29Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Albanian lawmakers scuffle in parliament as street protests continue",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss",
+   "summary": "Albanian lawmakers have scuffled in parliament, throwing objects at one another and ripping microphones from desks.",
+   "published_at": "2026-10-22T16:35:12Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "FIFA announces USA to host first Women’s Club World Cup in 2028",
+   "url": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss",
+   "summary": "FIFA to stage inaugural Women&#039;s Club World Cup, with 16 of football&#039;s top teams, in United States in 2028.",
+   "published_at": "2026-10-22T16:34:38Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
+   "url": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
+   "summary": "The Syrian Interior Ministry says five suspected fighters killed and six arrested outside of Damascus.",
+   "published_at": "2026-10-22T16:24:43Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "South Africa crush Australia by an innings to level cricket Test series",
+   "url": "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss",
+   "summary": "South Africa storm back to crush Australia by an innings in the second Test and level the series 1-1 with one to play.",
+   "published_at": "2026-10-22T16:09:44Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_dw",
+   "source_name": "DW World",
+   "title": "Pakistan-Taliban conflict: How India could benefit from shifting regional dynamics",
+   "url": "https://www.dw.com/en/pakistan-taliban-conflict-how-india-could-benefit-from-shifting-regional-dynamics/a-79721426?maca=en-rss-en-world-4025-rdf",
+   "summary": "As Pakistan's influence in Afghanistan comes under strain, India is rebuilding ties with the Taliban in Kabul. Can New Delhi turn this diplomatic opening into lasting strategic gains?",
+   "published_at": "2026-10-21T10:35:00Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Super Typhoon Champi: Hong Kong airlines cancel at least 12 Taiwan, Japan flights",
+   "url": "https://www.scmp.com/news/hong-kong/transport/article/3371776/super-typhoon-champi-hong-kong-airlines-cancel-least-12-taiwan-japan-flights",
+   "summary": "Airlines in Hong Kong have cancelled or rescheduled more than a dozen flights to and from Taiwan and Japan due to Super Typhoon Champi, with further disruption expected in the coming days. Announcements of flight cancellations from Taiwanese airlines also followed, noting flights between Hong Kong and Taipei or Kaohsiung for Friday and Saturday had been canc",
+   "published_at": "2026-10-22T08:42:48Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Hong Kong port needs a new lease of life in value-driven era",
+   "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371747/hong-kong-port-needs-new-lease-life-value-driven-era",
+   "summary": "Hong Kong’s surging exports amid recent global trade shifts and tariff measures are reason to celebrate. However, they have not reversed the decline in the city’s port’s container throughput, which hit 12.99 million 20-foot equivalent units in 2025, down 5.1 per cent year on year. To address public doubts over the city’s standing as an international shipping",
+   "published_at": "2026-10-22T08:30:09Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Can Prabowo’s economic nationalism save Indonesia from potential MSCI downgrade?",
+   "url": "https://www.scmp.com/week-asia/economics/article/3371767/can-prabowos-economic-nationalism-save-indonesia-potential-msci-downgrade",
+   "summary": "In the wake of Indonesia’s worst stock-market rout since the 1998 Asian financial crisis, President Prabowo Subianto’s administration has turned to appeals to economic nationalism to shore up confidence, urging citizens to rally behind the country’s battered stock market. The government has promised reforms in response to warnings from global index provider ",
+   "published_at": "2026-10-22T08:00:14Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Indonesians turn to eco-art as haze sparks anger and diplomatic tension",
+   "url": "https://www.scmp.com/week-asia/health-environment/article/3371773/indonesians-turn-eco-art-haze-sparks-anger-and-diplomatic-tension",
+   "summary": "As wildfires rage across Sumatra and Kalimantan, frustrated Indonesians are turning to performance art to call for greater government action and draw global attention to the destruction of both the country’s rainforests and rich cultural heritage. In South Sumatra, local art collective Jaga Api recently launched a project titled Tarian Kehancuran Budaya (the",
+   "published_at": "2026-10-22T07:59:54Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Abby Choi trial hears of ex-husband’s watch profits and electric saw mark on remains",
+   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371766/abby-choi-got-share-ex-husbands-luxury-watch-profits-murder-trial-told",
+   "summary": "Slain Hong Kong socialite Abby Choi Tin-fung received a share of her ex-husband’s luxury watch profits, and a cut mark on her dismembered remains matched an electric saw found at the crime scene, her murder trial heard on Thursday. Chan Leong-hang, an employee of Aristo Watch & Jewellery in Tsim Sha Tsui, said on Thursday that Alex Kwong Kong-chi sold upmark",
+   "published_at": "2026-10-22T07:28:07Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Safety of Australian women MPs in focus after man with nunchucks threatens staff",
+   "url": "https://www.scmp.com/news/asia/australasia/article/3371759/safety-australian-women-mps-focus-after-man-nunchucks-threatens-staff",
+   "summary": "A man has been charged with threatening an Australian lawmaker’s staff with nunchucks, police said on Thursday, days after another legislator was critically injured when a man repeatedly hit her with a car. The incidents are heightening concerns about female politicians’ safety and raising concerns about security in a country where lawmakers are highly acces",
+   "published_at": "2026-10-22T07:21:06Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Hong Kong orders urgent checks as critical flaws put websites at risk of hacking",
+   "url": "https://www.scmp.com/news/hong-kong/article/3371756/hong-kong-watchdog-warns-hacking-risks-flaws-web-programming-language",
+   "summary": "Hong Kong authorities have “attached great importance” to two critical flaws in a widely used web programming language that could allow hackers to execute code remotely and take control of servers. The government’s Digital Policy Office said on Thursday that it had issued a security alert to all bureaus, departments and public organisations requesting an imm",
+   "published_at": "2026-10-22T06:37:01Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Why These Towers Collapsed in Venezuela’s Earthquakes",
+   "url": "https://www.nytimes.com/video/world/americas/100000011160984/why-these-towers-collapsed-in-venezuelas-earthquakes.html",
+   "summary": "A 3-D reconstruction reveals why multiple apartment towers toppled in the earthquakes that struck Venezuela in June. Our reporter Julie Turkewitz examines how structural flaws — not just the strength of the quakes — left the towers vulnerable to collapse.",
+   "published_at": "2026-10-21T10:23:10Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
+   "url": "https://www.nytimes.com/2026/10/21/world/asia/helen-haines-attack-australian-politicians.html",
+   "summary": "Much remains unclear about why a driver ran a car into Helen Haines, a lawmaker. Even so, fellow representatives, especially women, spoke of feeling threatened in a polarized atmosphere.",
+   "published_at": "2026-10-21T10:57:42Z",
+   "category_hint": "military",
+   "score_hint": 62
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "UK to Headphone Dodgers on Trains: Shush",
+   "url": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+   "summary": "Prime Minister Andy Burnham announced a campaign against listening to music or videos without headphones on public transportation. We asked London commuters to weigh in.",
+   "published_at": "2026-10-21T11:01:21Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Almost every shallow-water coral reef on the planet faces ecosystem collapse by 2075, UN advisors say",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
+   "summary": "Assessment finds global heating is endangering 96% of coral reefs across 80 countries – a figure scientists say should serve as a ‘wake-up call’ Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Almost every shallow-water coral reef on the planet, including Australia’s Great Barrier Reef, faces a high risk of ecosystem c",
+   "published_at": "2026-10-22T12:00:45Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals",
+   "url": "https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation",
+   "summary": "Treasury is revising all the numbers for the midyear budget update as economists warn of a difficult six months ahead Get our new political email , free app or daily news podcast Jim Chalmers has revealed December’s midyear budget update will project weaker growth and higher unemployment, as economists warn of a difficult six months ahead for the Australian ",
+   "published_at": "2026-10-22T11:30:43Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
+   "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+   "summary": "It’s the last day of the electoral campaign in Serbia today ahead of this Sunday’s closely contested parliamentary election As we are waiting for Macron , first details of the planned police response to this weekend’s protests are emerging. Junior interior minister, Jean-Didier Berger , said that the police presence will be “20% higher” than last weekend, wi",
+   "published_at": "2026-10-22T15:01:35Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Raye wins 2026 Mercury prize for This Music May Contain Hope",
+   "url": "https://www.theguardian.com/music/2026/oct/22/raye-wins-2026-mercury-prize-for-this-music-may-contain-hope",
+   "summary": "Singer who has had record-breaking Brit awards success adds to haul thanks to massively ambitious big-band album Raye is the winner of the 2026 Mercury prize, for her second studio album, This Music May Contain Hope. Her win – for a hugely ambitious 73-minute record that spanned big band jazz, power balladry, funk and more – caps an ongoing renaissance for a",
+   "published_at": "2026-10-22T21:24:17Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "UK to relax post-2008 rules that hold City bosses accountable for wrongdoing",
+   "url": "https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing",
+   "summary": "Regulators say removing ‘unnecessary burdens’ will save businesses about £2bn over 10 years The UK is watering down rules introduced in the aftermath of the financial crisis that were designed to hold City bosses accountable for wrongdoing. The plans, put forward by the financial industry’s two top regulators, the Bank of England and the Financial Conduct Au",
+   "published_at": "2026-10-22T20:00:49Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Trump defends Ramaswamy campaign ad condemned by Republicans, saying ‘Vivek should keep it up’ – live",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+   "summary": "President claims criticism of ad featuring Democrat Amy Acton’s estranged mother is a ‘concerted’ attack on Republican Ohio governor candidate Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad Reporting from Anchorage, Alaska Mary Peltola’s campaign to represent Alaska in the US Senate ha",
+   "published_at": "2026-10-22T22:04:30Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Teacher wounded in Oregon school shooting played dead after she was shot",
+   "url": "https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead",
+   "summary": "Becky Drury says she was hit by gunfire before she could intervene in attack that killed four, including three children A teacher wounded in last week’s shooting at a Bend, Oregon, elementary school shared her account of the incident, and how she was shot before she could intervene and “[pretended] to be dead”. Becky Drury was seriously wounded at Silver Rai",
+   "published_at": "2026-10-22T20:12:24Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Trump’s tourism push fails to lure visitors",
+   "url": "https://www.ft.com/content/9ddd1583-9296-4264-8ddd-dbf11469def9?syn-25a6b1a6=1",
+   "summary": "Number of tourist arrivals in US continues to drop following football World Cup",
+   "published_at": "2026-10-22T13:54:59Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "US to fund speculative fusion venture backed by investors with ties to Trump",
+   "url": "https://www.ft.com/content/d774c15e-22e4-4873-9a1d-92d6561290f9?syn-25a6b1a6=1",
+   "summary": "Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-law",
+   "published_at": "2026-10-22T17:20:01Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Porch group COO Matthew Neagle sells $562,965 in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/porch-group-coo-matthew-neagle-sells-562965-in-shares-93CH-4967717",
+   "summary": "",
+   "published_at": "2026-10-22T22:01:08Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Saba Capital Management buys $262,611 of BNY Mellon Strategic Municipals",
+   "url": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-262611-of-bny-mellon-strategic-municipals-93CH-4967718",
+   "summary": "",
+   "published_at": "2026-10-22T22:01:08Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Porch Group director Amanda Reierson sells $133,401 in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/porch-group-director-amanda-reierson-sells-133401-in-shares-93CH-4967716",
+   "summary": "",
+   "published_at": "2026-10-22T22:01:07Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "CME Group director Martin Gepsman sells $121,000 in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/cme-group-director-martin-gepsman-sells-121000-in-shares-93CH-4967715",
+   "summary": "",
+   "published_at": "2026-10-22T22:01:05Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "SK Hynix drops US IPO plan for Solidigm, newspaper reports",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
+   "summary": "",
+   "published_at": "2026-10-22T22:00:46Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "SS&C Q3 2026 slides: record EBITDA, shares fall on Q4 outlook",
+   "url": "https://www.investing.com/news/company-news/ssc-q3-2026-slides-record-ebitda-shares-fall-on-q4-outlook-93CH-4967708",
+   "summary": "",
+   "published_at": "2026-10-22T21:59:59Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Huron Consulting stock rises on S&P SmallCap 600 addition",
+   "url": "https://www.investing.com/news/stock-market-news/huron-consulting-stock-rises-on-sp-smallcap-600-addition-4967707",
+   "summary": "",
+   "published_at": "2026-10-22T21:57:24Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Omnicom Q3 2026 slides: organic growth hits 7.2%, margins expand",
+   "url": "https://www.investing.com/news/company-news/omnicom-q3-2026-slides-organic-growth-hits-72-margins-expand-93CH-4967706",
+   "summary": "",
+   "published_at": "2026-10-22T21:56:45Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "South Plains Financial Q3 2026 slides: EPS beats, Houston integration complete",
+   "url": "https://www.investing.com/news/company-news/south-plains-financial-q3-2026-slides-eps-beats-houston-integration-complete-93CH-4967705",
+   "summary": "",
+   "published_at": "2026-10-22T21:56:04Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Brazil’s Bradesco meets profit estimates despite slower credit revenue",
+   "url": "https://www.investing.com/news/stock-market-news/brazils-bradesco-meets-profit-estimates-despite-slower-credit-revenue-4967704",
+   "summary": "",
+   "published_at": "2026-10-22T21:54:35Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "What Jackdaw’s Approval Means for the Future of North Sea Drilling",
+   "url": "https://oilprice.com/Energy/Energy-General/What-Jackdaws-Approval-Means-for-the-Future-of-North-Sea-Drilling.html",
+   "summary": "A lot has happened since 1 June 2022, the date when ministers first granted permission to tap the Jackdaw gas field. The Conservatives were halfway through their ill-fated final term of three. Kwasi Kwarteng was the business secretary, with equally ill-fated aspirations for higher office. And the Department for Energy Security and Net Zero – now responsible ",
+   "published_at": "2026-10-22T14:00:00Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Grid Constraints Curtailed 119 GW of Renewables in India in September",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Grid-Constraints-Curtailed-119-GW-of-Renewables-in-India-in-September.html",
+   "summary": "Grid, flexibility, and transmission constraints amid limited battery storage forced India to curtail as much as 118.6 gigawatts (GW) of solar and wind power capacity in September, data by India’s JMK Research & Analytics showed. A total of 118.6 GW of renewable energy capacity was affected by curtailment last month, including 96.9 GW of solar and 21.7 GW of ",
+   "published_at": "2026-10-22T13:00:00Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
+   "url": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
+   "summary": "Vault12 raised $17.45 million selling VGT in 2018 and says it met or dropped every promise, yet the token has never traded on a centralized exchange.",
+   "published_at": "2026-10-21T12:12:36Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
+   "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+   "summary": "The collaboration will explore card-linked merchant payments for Japanese visitors in South Korea and peer-to-peer wallet transfers among broader cross-border trade remittances.",
+   "published_at": "2026-10-21T12:10:39Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
+   "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
+   "summary": "Dogecoin Labs will combine MyDoge, DogeOS and merchant payment tools as developers try to turn coin holders into customers for applications and businesses.",
+   "published_at": "2026-10-21T12:00:00Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+   "summary": "Your day-ahead look for Oct. 21, 2026",
+   "published_at": "2026-10-21T11:15:00Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+   "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+   "summary": "The U.S. Office of the Comptroller of the Currency is the first of several federal agencies to finish writing regulations under the act.",
+   "published_at": "2026-10-21T11:00:00Z",
+   "category_hint": "military",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_techreview",
+   "source_name": "MIT Tech Review",
+   "title": "The Download: introducing the Impossible issue",
+   "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about&#8230;",
+   "published_at": "2026-10-21T12:10:00Z",
+   "category_hint": "other",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+   "url": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
+   "summary": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to [&#8230;]",
+   "published_at": "2026-10-22T19:44:51Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
+   "url": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
+   "summary": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, like many other Republicans, celebrated in 2024. But this week, Bhatt did something unexpected: He voted [&#823",
+   "published_at": "2026-10-22T19:15:00Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+   "url": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+   "summary": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Manitoba permanently switching to daylight saving this [&#8230;",
+   "published_at": "2026-10-22T19:13:42Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Discord now formats Markdown previews right",
+   "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+   "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects [&#8230;",
+   "published_at": "2026-10-22T18:58:19Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "The new Fire TV Stick 4K is already half off",
+   "url": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
+   "summary": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power [&#8230;]",
+   "published_at": "2026-10-22T18:43:57Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Refurbished PS5 consoles include second controller for an extra $18",
+   "url": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
+   "summary": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because [&#8230;]",
+   "published_at": "2026-10-22T18:38:50Z",
+   "category_hint": "other",
+   "score_hint": 44
   },
   {
    "source": "gh_stat",

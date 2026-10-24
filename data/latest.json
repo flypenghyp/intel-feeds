@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-24T09:50:38Z",
+ "generated_at": "2026-10-24T13:50:48Z",
  "count": 1200,
- "fresh": 302,
+ "fresh": 305,
  "ok_sources": 18,
  "errors": [
   "Politico: HTTP Error 403: Forbidden",
   "Yahoo Finance: HTTP Error 404: Not Found",
   "Scientific American: HTTP Error 404: Not Found",
-  "EurekAlert: HTTP Error 404: Not Found"
+  "EurekAlert: HTTP Error 403: Forbidden"
  ],
  "items": [
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "France prepares for day of protest a week after nationwide riots",
-   "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
-   "published_at": "2026-10-24T09:34:32Z",
+   "title": "Ukraine says Starlink connection 'now stable' after network limits",
+   "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+   "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+   "published_at": "2026-10-24T12:12:40Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -26,7 +26,7 @@
    "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
    "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
    "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-   "published_at": "2026-10-24T09:03:15Z",
+   "published_at": "2026-10-24T11:23:59Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -35,10 +35,20 @@
    "source_name": "BBC World",
    "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
    "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+   "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
    "published_at": "2026-10-23T22:47:07Z",
    "category_hint": "military",
    "score_hint": 60
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+   "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+   "summary": "The children were subsequently rescued from the water, police say.",
+   "published_at": "2026-10-24T09:45:47Z",
+   "category_hint": "policy",
+   "score_hint": 48
   },
   {
    "source": "gh_bbc",
@@ -49,6 +59,36 @@
    "published_at": "2026-10-23T23:08:23Z",
    "category_hint": "policy",
    "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+   "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+   "published_at": "2026-10-24T09:46:53Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Three released without charge after fatal arson attack in Ireland",
+   "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+   "summary": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+   "published_at": "2026-10-24T09:38:28Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Australian MP's condition improves after alleged car attack",
+   "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+   "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+   "published_at": "2026-10-24T01:55:15Z",
+   "category_hint": "military",
+   "score_hint": 60
   },
   {
    "source": "gh_bbc",
@@ -73,32 +113,12 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-   "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-   "published_at": "2026-10-24T09:46:53Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
    "title": "Trump administration sues to block certification of upcoming Alaska election",
    "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
    "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
    "published_at": "2026-10-23T18:49:14Z",
    "category_hint": "policy",
    "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Australian MP's condition improves after alleged car attack",
-   "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-   "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-   "published_at": "2026-10-24T01:55:15Z",
-   "category_hint": "military",
-   "score_hint": 60
   },
   {
    "source": "gh_bbc",
@@ -263,6 +283,196 @@
   {
    "source": "gh_aljazeera",
    "source_name": "Al Jazeera",
+   "title": "Who was behind the deadly church shooting in Jordan?",
+   "url": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss",
+   "summary": "Authorities are investigating the rare attack on a Christian church; the assailants remain unidentified and at large.",
+   "published_at": "2026-10-24T13:39:26Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Netanyahu floats Crypto to bypass sanctions",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
+   "summary": "Netanyahu floats Crypto to bypass sanctions",
+   "published_at": "2026-10-24T13:27:11Z",
+   "category_hint": "economy",
+   "score_hint": 54
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
+   "summary": "A Palestinian man is facing Israeli settler attacks and a demolition order from Israeli forces in Umm Safa village.",
+   "published_at": "2026-10-24T13:16:23Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "FIFA’s Infantino touts global re-election support amid resignation questions",
+   "url": "https://www.aljazeera.com/sports/2026/10/24/fifas-infantino-touts-global-re-election-support-amid-resignation-questions?traffic_source=rss",
+   "summary": "Support from Asian federation bolsters FIFA&#039;s Gianni Infantino as he seeks re-election as president for a fourth term.",
+   "published_at": "2026-10-24T13:12:03Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+   "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+   "summary": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+   "published_at": "2026-10-24T13:06:03Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Jordan’s King Abdullah orders firm response after deadly church attack",
+   "url": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss",
+   "summary": "Authorities are still searching for the attackers and say it is too early to determine if they had ties to known groups.",
+   "published_at": "2026-10-24T13:02:51Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "France protests live: 135 arrested as marches held under tight security",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss",
+   "summary": "Authorities say they are determined to prevent another weekend of looting, burned cars and attacks on public buildings.",
+   "published_at": "2026-10-24T12:55:37Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Is Iran planning attacks on Americans; why is the US on alert?",
+   "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
+   "summary": "US intelligence memo warns that Iranian plots against US citizens in the Middle East &#039;have reached advanced stages&#039;.",
+   "published_at": "2026-10-24T12:51:21Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
+   "summary": "Malaysia has barred civil servants from using Waze for official duties over its links to Israel.",
+   "published_at": "2026-10-24T12:30:42Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Serbia elections test student movement demanding justice for 16 victims",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
+   "summary": "Serbia elections test student movement demanding justice for 16 victims",
+   "published_at": "2026-10-24T12:18:06Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Barcelona housing activists evicted by police from residential building",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss",
+   "summary": "Housing activists in Barcelona seized a mostly empty building to house vulnerable families and create a community hub.",
+   "published_at": "2026-10-24T12:14:00Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
+   "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss",
+   "summary": "Matches between Barca and Real are among the biggest in world football, with their rivalry spanning more than a century.",
+   "published_at": "2026-10-24T12:05:40Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Czech Republic advances media funding overhaul despite criticism",
+   "url": "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss",
+   "summary": "Journalists prepare to strike as politicians push through changes that critics say threaten independence.",
+   "published_at": "2026-10-24T11:50:32Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Democracy by ZIP Code: Two Americas, one election",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election?traffic_source=rss",
+   "summary": "How can Americans living just miles apart experience completely different versions of the American dream?",
+   "published_at": "2026-10-24T11:44:16Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest",
+   "url": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss",
+   "summary": "No injuries were reported at the building, while police said a ‘suspicious person’ had been taken into custody.",
+   "published_at": "2026-10-24T11:01:05Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks",
+   "url": "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss",
+   "summary": "Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be &#039;stable&#039; in hospital.",
+   "published_at": "2026-10-24T10:59:34Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
+   "url": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss",
+   "summary": "Monitoring group reports more Muslims in Europe face racial discrimination as &#039;terrorist&#039; attack kills one in France.",
+   "published_at": "2026-10-24T10:47:07Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "France security on high alert as another day of mass protests kicks off",
+   "url": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
+   "summary": "Several planned marches in major cities in France have been banned by authorities, provoking an uproar by rights groups.",
+   "published_at": "2026-10-24T10:04:25Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Brazil’s Lula and Bolsonaro debate policy proposals before run-off",
+   "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss",
+   "summary": "Polls indicate Brazil&#039;s presidential candidates are neck and neck before Sunday&#039;s voting.",
+   "published_at": "2026-10-24T09:41:56Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
    "title": "Ethiopian PM’s advisor: Tigrayan forces and others hinder stability",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss",
    "summary": "Advisor to Ethiopia’s Prime Minister stated that Tigrayan forces and regional actors are hindering regional stability.",
@@ -319,196 +529,6 @@
    "published_at": "2026-10-24T08:28:25Z",
    "category_hint": "policy",
    "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
-   "url": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
-   "summary": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
-   "published_at": "2026-10-24T08:28:24Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Chicago Bulls storm back from early deficit to beat Milwaukee Bucks in NBA",
-   "url": "https://www.aljazeera.com/sports/2026/10/24/chicago-bulls-storm-back-from-early-deficit-to-beat-milwaukee-bucks-in-nba?traffic_source=rss",
-   "summary": "Jayson Tatum puts up 36 as Boston Celtics send NY Knicks to second straight loss and Lakers surge past Clippers.",
-   "published_at": "2026-10-24T08:24:59Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Massive chemical plant fire triggers mass evacuations in Mexico",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-chemical-plant-fire-triggers-mass-evacuations-in-mexico?traffic_source=rss",
-   "summary": "An explosive fire erupted on Friday at a chemical plant in Leon, Mexico.",
-   "published_at": "2026-10-24T08:14:20Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Dan Sullivan vs Dan Sullivan: Why is Trump’s DOJ suing in Alaska?",
-   "url": "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska?traffic_source=rss",
-   "summary": "US government seeks to delay Alaska Senate result over concerns about two candidates with the same name.",
-   "published_at": "2026-10-24T08:11:17Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Aston Villa vs Manchester City LIVE: Premier League",
-   "url": "https://www.aljazeera.com/sports/liveblog/2026/10/24/aston-villa-vs-manchester-city-live-premier-league?traffic_source=rss",
-   "summary": "Follow updates with build-up and team news from our live text commentary stream as Erling Haaland headlines.",
-   "published_at": "2026-10-24T08:03:52Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Man arrested after fire breaks out at Hitler’s former Alpine retreat",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss",
-   "summary": "A man has been arrested after a fire broke out at Hitler’s former Alpine retreat, the Kehlsteinhaus, on Friday night.",
-   "published_at": "2026-10-24T07:31:42Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
-   "url": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
-   "summary": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
-   "published_at": "2026-10-24T07:09:55Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "North Korea’s Kim Jong Un visits China via newly opened bridge",
-   "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
-   "summary": "Kim arrived in the Chinese border city of Dandong using the New Yalu River Bridge, officially opened about a week ago.",
-   "published_at": "2026-10-24T07:07:20Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "COP17 puts Armenia’s environmental record in the spotlight",
-   "url": "https://www.aljazeera.com/opinions/2026/10/24/cop17-puts-armenias-environmental-record-in-the-spotlight?traffic_source=rss",
-   "summary": "As Yerevan hosts the global biodiversity summit, concerns over mining and environmental protection deserve scrutiny.",
-   "published_at": "2026-10-24T06:52:41Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Ronaldinho’s comeback with Ravenna at 46 set for next month at Forli",
-   "url": "https://www.aljazeera.com/sports/2026/10/24/ronaldinhos-comeback-with-ravenna-at-46-set-for-next-month-at-forli?traffic_source=rss",
-   "summary": "Ex-Barcelona forward to make November return, having last played for Brazilian club Fluminense in 2015.",
-   "published_at": "2026-10-24T06:51:26Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Keeping the world safe when no one is in charge",
-   "url": "https://www.aljazeera.com/opinions/2026/10/24/keeping-the-world-safe-when-no-one-is-in-charge?traffic_source=rss",
-   "summary": "As AI creates new threats and power becomes fragmented, international cooperation is more vital than ever.",
-   "published_at": "2026-10-24T06:45:18Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Lionel Messi receives top Spanish award in recognition of social work",
-   "url": "https://www.aljazeera.com/sports/2026/10/24/lionel-messi-receives-top-spanish-award-in-recognition-of-social-work?traffic_source=rss",
-   "summary": "Messi awarded the Princess of Asturias Award for his work for disadvantaged children&#039;s access to health and education.",
-   "published_at": "2026-10-24T06:44:29Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Has Vivek Ramaswamy’s attack ad against Amy Acton backfired?",
-   "url": "https://www.aljazeera.com/news/2026/10/24/has-vivek-ramaswamys-attack-ad-against-amy-acton-backfired?traffic_source=rss",
-   "summary": "Ramaswamy&#039;s ad featuring Acton&#039;s estranged mother draws Republican criticism as Ohio governor&#039;s race heats up.",
-   "published_at": "2026-10-24T06:21:11Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
-   "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
-   "summary": "As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.",
-   "published_at": "2026-10-24T05:29:07Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
-   "url": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
-   "summary": "Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.",
-   "published_at": "2026-10-24T05:20:35Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
-   "url": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
-   "summary": "Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.",
-   "published_at": "2026-10-24T05:04:32Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss",
-   "summary": "An oil spill off the UAE coast has prompted beach closures after a vessel reportedly hit a naval mine in early October.",
-   "published_at": "2026-10-24T04:48:40Z",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
-   "summary": "Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.",
-   "published_at": "2026-10-24T03:51:58Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Marco Rubio urges Cubans to collaborate with CIA to topple gov’t",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss",
-   "summary": "Secretary of State Marco Rubio has urged Cubans to secretly work with the CIA to topple their government.",
-   "published_at": "2026-10-24T03:50:32Z",
-   "category_hint": "economy",
-   "score_hint": 54
   },
   {
    "source": "gh_dw",
@@ -583,6 +603,96 @@
   {
    "source": "gh_scmp",
    "source_name": "SCMP",
+   "title": "How Operation Santa Claus grew from Christmas donations to ‘engine’ of change",
+   "url": "https://www.scmp.com/news/hong-kong/society/article/3372027/how-operation-santa-claus-grew-christmas-donations-engine-change",
+   "summary": "Over nearly four decades, Operation Santa Claus (OSC) has grown from a quirky holiday fundraiser into an “engine” for community change in Hong Kong. For some beneficiaries, the journey was a full circle. Rachel Chow Chiu-yan learned about the fundraising drive in Young Post when she was a student, later pitched for funds on behalf of a group helping teenage ",
+   "published_at": "2026-10-24T13:37:07Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "France on high alert as Paris march begins in uneasy calm",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3372031/france-high-alert-paris-march-begins-uneasy-calm",
+   "summary": "A dense sea of demonstrators packed the southern edge of Paris on Saturday in a march that has remained peaceful so far, filling the boulevards with an uneasy festive mood despite fears of renewed unrest. Elsewhere in France, police began dispersing unauthorised gatherings in Lyon and Nice, firing tear gas in Lyon as demonstrators defied local protest bans. ",
+   "published_at": "2026-10-24T13:17:24Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Chasing Gothic Lolita demand, Japanese businesses expand to Europe",
+   "url": "https://www.scmp.com/news/world/europe/article/3372030/chasing-gothic-lolita-demand-japanese-businesses-expand-europe",
+   "summary": "A Japanese fashion style inspired by historical European clothing is finding a growing following in Europe, where enthusiasts are embracing its elaborate designs and forming communities around their shared passion for lace, frills and intricate outfits. Gothic Lolita, often shortened to “Goth-Loli,” blends elements of European clothing styles with Japanese f",
+   "published_at": "2026-10-24T13:14:37Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Halloween comes early to Hong Kong as festivities draw crowds, lift bar business",
+   "url": "https://www.scmp.com/news/hong-kong/society/article/3372028/halloween-comes-early-hong-kong-festivities-draw-crowds-lift-bar-business",
+   "summary": "Halloween has arrived early in Hong Kong, with costumed revellers and families thronging the city’s streets a week early and some establishments seeing business increase by up to 20 per cent. The streets of Central were packed on Saturday as visitors and locals alike joined events held under the Tourism Board’s inaugural “Hong Kong Halloween Month”. The camp",
+   "published_at": "2026-10-24T12:47:39Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Ukraine’s Starlink woes should be a wake-up call for Taiwan, analysts say",
+   "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say",
+   "summary": "Taiwan should not rely on a single foreign satellite provider for critical wartime communications, analysts have warned, after sudden restrictions on the use of Elon Musk’s Starlink disrupted Ukrainian drone operations. The episode has renewed debate in Taiwan over the risks of entrusting essential communications to foreign commercial operators whose service",
+   "published_at": "2026-10-24T12:00:14Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "North Korean leader Kim Jong-un visits Chinese border city of Dandong",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong",
+   "summary": "North Korean leader Kim Jong-un visited the Chinese border city of Dandong on Saturday, according to state news agency Xinhua. The trip, Kim’s first visit to China in more than a year, comes ahead of next month’s Asia-Pacific Economic Cooperation summit in the southern Chinese city of Shenzhen, where Donald Trump and other world leaders are expected to visit",
+   "published_at": "2026-10-24T11:08:27Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Indonesia cuts gas to Singapore amid Borneo, Sumatra wildfire haze",
+   "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372025/indonesia-cuts-gas-singapore-amid-borneo-sumatra-wildfire-haze",
+   "summary": "Indonesia cut exports of natural gas to Singapore on Saturday to prioritise domestic demand, an official said, with the two countries at loggerheads over regional air pollution emanating from wildfires on the vast archipelago. The head of SKK Migas, a state agency supervising the oil and gas sector, said Indonesia would cut a total of 31 million standard cub",
+   "published_at": "2026-10-24T10:21:42Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Is Washington misreading Beijing? Decline in US visits to China sparks concern",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3371535/washington-misreading-beijing-decline-us-visits-china-sparks-concern",
+   "summary": "When Grant Newsham, a retired US Marine colonel and security analyst, sat down for an interview that aired last month, he called China’s economic rise illusory and said there were “600 million Chinese at least who live on US$5 a day or less”. His remarks quickly drew online criticism as well as accusations that he was using outdated figures from 2020 while i",
+   "published_at": "2026-10-24T10:03:53Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "China study suggests animal sacrifice may have been part of ancient Sanxingdui rituals",
+   "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372019/china-study-suggests-animal-sacrifice-may-have-been-part-ancient-sanxingdui-rituals",
+   "summary": "Animal sacrifice has played a major role in human history, from mythological stories about Odysseus to modern rituals such as Nepal’s Gadhimai Festival. The tradition also dates back to ancient peoples we know little about. A research paper published in the Journal of Archaeological Science in late August suggests that the enigmatic Sanxingdui people likely ",
+   "published_at": "2026-10-24T10:00:11Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
    "title": "‘Systematically dismantled’: Hegseth’s new offensive against China’s Confucius Institutes",
    "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
    "summary": "Just weeks before Donald Trump’s second trip to China this year and his third meeting with President Xi Jinping, whom he has called a “truly great” friend, his administration is intensifying its crackdown on Confucius Institutes – Beijing-backed centres that promote Chinese language and culture at universities abroad. Long viewed by critics as instruments of",
@@ -595,7 +705,7 @@
    "source_name": "SCMP",
    "title": "33 held in crackdown on credit card theft ring targeting Hongkongers in Shenzhen",
    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372017/33-held-crackdown-credit-card-theft-ring-targeting-hongkongers-shenzhen",
-   "summary": "Hong Kong and mainland Chinese police have arrested 33 people in a joint operation to crack down on a suspected credit card theft syndicate targeting city residents who travel across the border for leisure, with losses exceeding HK$1.8 million (US$229,500). Superintendent Tsang Chun-kit of police’s crime Kowloon East Regional Headquarters said the syndicate ",
+   "summary": "Hong Kong and mainland Chinese police have arrested 33 people in a joint crackdown on a syndicate that allegedly stole credit cards from residents who had travelled north to Shenzhen, with losses exceeding HK$1.8 million (US$229,500). Superintendent Tsang Chun-kit of the Crime Kowloon East Regional Headquarters said on Saturday that “card carriers” then imme",
    "published_at": "2026-10-24T09:00:43Z",
    "category_hint": "policy",
    "score_hint": 46
@@ -653,9 +763,9 @@
   {
    "source": "gh_scmp",
    "source_name": "SCMP",
-   "title": "Hong Kong must revive growth and drive reforms with government’s ‘visible hand’",
+   "title": "Hong Kong urged to revive growth, drive reforms with government’s ‘visible hand’",
    "url": "https://www.scmp.com/news/hong-kong/politics/article/3372011/hong-kong-must-revive-growth-and-drive-reforms-governments-visible-hand",
-   "summary": "Hong Kong authorities should act as a “visible hand” to break down barriers erected by vested interests and revive growth momentum through reform under its maiden five-year plan, a former Beijing official overseeing the city’s affairs has said. Deng Zhonghua, former deputy director of the State Council’s Hong Kong and Macau Affairs Office, also said on Satur",
+   "summary": "Hong Kong authorities should act as a “visible hand” to break down barriers erected by vested interests and revive growth momentum through reform under its maiden five-year plan, a former Beijing official overseeing the city’s affairs has said. Deng Zhonghua, former deputy director of the State Council’s Hong Kong and Macau Affairs Office, also said the city",
    "published_at": "2026-10-24T07:04:50Z",
    "category_hint": "policy",
    "score_hint": 46
@@ -683,7 +793,7 @@
   {
    "source": "gh_scmp",
    "source_name": "SCMP",
-   "title": "How competition between Chinese and Indian firms could reshape Africa’s drug markets",
+   "title": "How competition between Chinese and Indian firms could reshape African drug markets",
    "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
    "summary": "China is challenging India’s long-held dominance of the African market for antimalarial drugs in 12 of the continent’s hardest-hit countries, according to a new study. Last year, Chinese exports of antimalarial drugs reached US$89.3 million, nearly matching India’s US$89.6 million, according to Indian market research company Sol Gravitas. The gap has closed ",
    "published_at": "2026-10-24T07:00:10Z",
@@ -891,102 +1001,32 @@
    "score_hint": 46
   },
   {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Why raising Asia’s fertility rate starts with giving people time to date",
-   "url": "https://www.scmp.com/opinion/asia-opinion/article/3371633/asias-baby-starved-governments-want-people-date-who-has-time",
-   "summary": "In late September, Singapore’s Reddit community erupted over the government’s new dating platform, FirstDate. Curious to get an insider’s perspective, I visited the site, connected to my Singpass account and watched as my name, age and marital status auto-populated the fields on the page. I entered my Gmail address and hit submit. The email field turned red:",
-   "published_at": "2026-10-23T21:30:07Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Kenya reports second Ebola death, a close relative of first patient",
-   "url": "https://www.scmp.com/news/world/africa/article/3371988/kenya-reports-second-ebola-death-close-relative-first-patient",
-   "summary": "Kenya’s health ministry announced the country’s second Ebola death on Friday, saying a 65-year-old woman who was a close relative of the first patient died after developing symptoms while in quarantine. The woman began showing symptoms 10 days ago and began receiving supportive care at an infectious disease unit in the capital, Nairobi. The ministry said med",
-   "published_at": "2026-10-23T21:19:15Z",
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Live Updates: France Deploys Vast Security Force in Bid to Prevent More Riots",
+   "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
+   "summary": "As many as 70,000 police and security officers will try to avert the arson and looting that shocked the country last weekend. The interior minister estimated that 35,000 people were out on streets nationwide by midday.",
+   "published_at": "2026-10-24T13:47:04Z",
    "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Zelensky hopes Beijing can use ‘influence’ over Moscow to help stop Ukraine war",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war",
-   "summary": "Ukrainian President Volodymyr Zelensky said on Friday that Beijing has “influence” over Moscow it should use to stop the war in Ukraine, and that a proposed summit meeting of the US, Chinese and Russian leaders must not lead to the division of his war-torn country. Speaking virtually at an event hosted by Washington-based Hudson Institute think tank, Zelensk",
-   "published_at": "2026-10-23T20:51:17Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Trump to cut some Canada tariffs to help Maine lawmaker’s re-election bid",
-   "url": "https://www.scmp.com/news/world/united-states-canada/article/3371986/trump-lowers-some-canada-tariffs-help-maine-lawmakers-re-election-bid",
-   "summary": "The Trump administration is expanding tariff exemptions to more Canadian products, a move that may help boost Republican US Senator Susan Collins’ re-election campaign in Maine. Collins announced in a statement on Friday that the exemptions would apply to certain paper, plastic, machinery and seaweed products, saying they would help the state’s rural and coa",
-   "published_at": "2026-10-23T20:04:15Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Macron condemns ‘racist terrorist attack’ after deadly shooting near Paris",
-   "url": "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris",
-   "summary": "A gunman firing from a car killed one person and wounded five – including a 12-year-old girl shot eight times – in the Paris suburbs on Friday, in what the French president called a “racist terrorist attack”. The man was “firing at random, wanting to cause a bloodbath” as he drove through the working-class town of Trappes southwest of Paris and neighbouring ",
-   "published_at": "2026-10-23T18:13:09Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Gunmen kill 7 at Jordan church, king vows retaliation",
-   "url": "https://www.scmp.com/news/world/middle-east/article/3371984/gunmen-kill-7-jordan-church-king-vows-retaliation",
-   "summary": "Gunmen killed at least seven people and wounded dozens at a church in southern Jordan on Friday, with the king vowing retaliation for the rare attack on Christians in the majority Sunni Muslim kingdom. Assailants stormed the compound of a Greek Orthodox church in the village of Hammoud in Karak governorate and opened fire, authorities said. The gunmen got ou",
-   "published_at": "2026-10-23T17:17:41Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Melania Trump brokers ceasefire in Russian-occupied Ukraine city, White House says",
-   "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371983/melania-trump-brokers-ceasefire-russian-occupied-ukraine-city-white-house-says",
-   "summary": "Ukraine’s top negotiator involved in a humanitarian mission led by US first lady Melania Trump has said that a local ceasefire with Russia will start on Tuesday – two days before the mission begins – and last several days. Ukrainian, Russian and US negotiators reached a deal on Friday to provide humanitarian aid in the Russian-occupied town of Oleshky, in th",
-   "published_at": "2026-10-23T16:26:41Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Rocket debris hitting US homeland is ‘embarrassing’ for China, says astronomer",
-   "url": "https://www.scmp.com/news/china/science/article/3371947/rocket-debris-hitting-us-homeland-embarrassing-china-says-astronomer",
-   "summary": "A scorched hunk of metal that turned up in a US farmer’s cornfield may have handed China an awkward moment and technically an “international incident”, according to a British astronomer who has tracked rocket launches for more than 30 years. The farmer found the bowl-shaped object, measuring about 3.35 metres (11 feet) across, while harvesting corn in west-c",
-   "published_at": "2026-10-23T15:00:07Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Meghan Markle ‘distressed’ as Philippines probes father over child sexual abuse images",
-   "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371976/meghan-markle-distressed-philippines-probes-father-over-child-sexual-abuse-images",
-   "summary": "Authorities in the Philippines are investigating Thomas Markle, father of Meghan, the ⁠wife of Britain’s Prince ⁠Harry, the Philippine justice undersecretary said ⁠on Friday, after allegations he possessed child sexual abuse images. “Our Anti-Trafficking and Anti-OSAEC (online sexual abuse and exploitation of children) task force in Cebu is currently investi",
-   "published_at": "2026-10-23T14:41:01Z",
-   "category_hint": "policy",
-   "score_hint": 46
+   "score_hint": 50
   },
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
-   "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
-   "summary": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
-   "published_at": "2026-10-24T04:01:09Z",
+   "title": "Israel Launches Crackdown in West Bank City After Deadly Attack",
+   "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+   "summary": "The military demolished buildings and erected roadblocks in Hebron, the biggest city in the territory, a day after Palestinian gunmen killed two soldiers.",
+   "published_at": "2026-10-24T11:54:15Z",
+   "category_hint": "military",
+   "score_hint": 62
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
+   "url": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
+   "summary": "The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze.",
+   "published_at": "2026-10-24T11:10:50Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1003,6 +1043,26 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
+   "title": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
+   "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+   "summary": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
+   "published_at": "2026-10-24T04:01:09Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
+   "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+   "summary": "The announcement followed more than a week of disruption to Starshield, the Pentagon-funded satellite network that Ukraine relies on to thwart Russian attacks.",
+   "published_at": "2026-10-24T13:12:35Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
    "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
    "url": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
    "summary": "Looters ravaged a storied commercial avenue in France’s second-largest city. Its merchants fear that more unrest could follow.",
@@ -1013,10 +1073,10 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "North Korea’s Kim Jong-un Arrives in China, South Korea Says",
+   "title": "Kim Jong-un Makes First Visit to China in Over a Year",
    "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
-   "summary": "Mr. Kim was said to have crossed the border via a newly opened bridge for his first visit to China in over a year, as the countries move to deepen ties.",
-   "published_at": "2026-10-24T09:01:12Z",
+   "summary": "The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties.",
+   "published_at": "2026-10-24T13:12:26Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1053,6 +1113,26 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
+   "title": "Why Are There Protests in France?",
+   "url": "https://www.nytimes.com/article/france-student-protests-why.html",
+   "summary": "The authorities deployed tens of thousands of security forces and banned demonstrations in some cities, hoping to avoid a repeat of the riots that shook the country a week ago.",
+   "published_at": "2026-10-24T11:08:49Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "How Defiant Youth Are Testing India’s Idea of Democracy",
+   "url": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
+   "summary": "Four takeaways from India’s protest movement, at a moment when democracies around the world are under pressure.",
+   "published_at": "2026-10-24T13:00:51Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
    "title": "The Bukeleization of Latin America Has Arrived",
    "url": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
    "summary": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.",
@@ -1063,60 +1143,10 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "How Defiant Youth Are Testing India’s Idea of Democracy",
-   "url": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
-   "summary": "Four takeaways from India’s protest movement, at a moment when democracies around the world are under pressure.",
-   "published_at": "2026-10-24T04:01:08Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-   "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-   "summary": "The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.",
-   "published_at": "2026-10-24T04:42:18Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "France Plans to Bolster Police Presence, Expecting New Protests",
-   "url": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
-   "summary": "Government officials are trying to avoid a repeat of last weekend’s unrest across the country, which injured police officers and damaged stores.",
-   "published_at": "2026-10-23T18:31:40Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
-   "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
-   "summary": "This year’s olive harvest in the Israeli-occupied West Bank is the most violent in years, as settlers have attacked farmers and besieged homes, drawing condemnation from U.S. officials and others.",
-   "published_at": "2026-10-23T16:47:14Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
-   "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
-   "summary": "Officials said the shooting, during a funeral at an Orthodox church in the southern province of Karak, was a terrorist act motivated by extremist ideology.",
-   "published_at": "2026-10-23T23:07:34Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "How a U.K. Official’s Wife Set Off a Debate Over Free Speech and Palestinians",
-   "url": "https://www.nytimes.com/2026/10/23/world/europe/uk-powell-sarah-helm-palestine.html",
-   "summary": "Sarah Helm, who is married to Britain’s national security adviser, posted of her support for the author Sally Rooney and a banned pro-Palestinian activist group. A furor ensued.",
-   "published_at": "2026-10-23T17:35:25Z",
+   "title": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future",
+   "url": "https://www.nytimes.com/2026/10/24/world/canada/alberta-referendum-separation-smith.html",
+   "summary": "Ahead of a vote on whether Albertans should remain part of Canada or cast a ballot to leave, the premier managed to alienate people on both sides. What now?",
+   "published_at": "2026-10-24T10:00:03Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1135,8 +1165,8 @@
    "source_name": "NYT World",
    "title": "Here’s the latest.",
    "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
-   "summary": "Abot",
-   "published_at": "2026-10-24T09:47:54Z",
+   "summary": "",
+   "published_at": "2026-10-24T12:25:26Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1183,6 +1213,26 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
+   "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
+   "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
+   "summary": "This year’s olive harvest in the Israeli-occupied West Bank is the most violent in years, as settlers have attacked farmers and besieged homes, drawing condemnation from U.S. officials and others.",
+   "published_at": "2026-10-23T16:47:14Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "How a U.K. Official’s Wife Set Off a Debate Over Free Speech and Palestinians",
+   "url": "https://www.nytimes.com/2026/10/23/world/europe/uk-powell-sarah-helm-palestine.html",
+   "summary": "Sarah Helm, who is married to Britain’s national security adviser, posted of her support for the author Sally Rooney and a banned pro-Palestinian activist group. A furor ensued.",
+   "published_at": "2026-10-23T17:35:25Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
    "title": "Finland’s Puppy Livestream Provides Comfort in Troubled Times",
    "url": "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html",
    "summary": "“Puppy Live,” a round-the-clock livestream of a litter, has become a national phenomenon. “Nothing bad happens in the puppy box,” one fan explained.",
@@ -1203,6 +1253,16 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
+   "title": "France Plans to Bolster Police Presence, Expecting New Protests",
+   "url": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
+   "summary": "Government officials are trying to avoid a repeat of last weekend’s unrest across the country, which injured police officers and damaged stores.",
+   "published_at": "2026-10-23T18:31:40Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
    "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
    "url": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
    "summary": "The shooter was arrested after firing from a car in several locations southwest of the capital. Antiterrorism prosecutors said they were exploring a racial or religious motive.",
@@ -1213,10 +1273,30 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
+   "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+   "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
+   "summary": "Officials said the shooting, during a funeral at an Orthodox church in the southern province of Karak, was a terrorist act motivated by extremist ideology.",
+   "published_at": "2026-10-23T23:07:34Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
    "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
    "url": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
    "summary": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis.",
    "published_at": "2026-10-23T21:29:29Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+   "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+   "summary": "The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.",
+   "published_at": "2026-10-24T04:42:18Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1313,16 +1393,6 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "Serbian Election Underscores the Region’s Long Political Limbo",
-   "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
-   "summary": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
-   "published_at": "2026-10-22T22:44:35Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
    "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
    "url": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
    "summary": "Smoke from the blazes, blamed on destructive agricultural practices, has sickened hundreds of thousands and blanketed neighboring countries.",
@@ -1343,19 +1413,9 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-   "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-   "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s . The seven-time world champion believes it is right that F1 is to hold a race there",
-   "published_at": "2026-10-22T21:53:28Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
    "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
    "url": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
-   "summary": "The 36-year-old died after two boys reportedly swept away by strong current near Bimini, police say A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling. The Royal Bahamas police force said it launched an investigation after the death of a 36-year-old woman on Tuesday. Continue r",
+   "summary": "Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling. The Royal Bahamas police force said it had launched an investigation after the death of a 36-year-old woman on ",
    "published_at": "2026-10-24T09:43:09Z",
    "category_hint": "policy",
    "score_hint": 46
@@ -1383,10 +1443,10 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Kim Jong-un crosses over newly opened bridge into China",
+   "title": "Kim Jong-un crosses newly opened bridge into China",
    "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
-   "summary": "Visit by train over New Yalu River Bridge marks North Korean leader’s first known trip abroad in more than a year Kim Jong-un has travelled to China over a newly opened bridge marking the North Korean leader’s first known trip abroad in more than a year, South Korean officials have said. A government source told the Yonhap news agency on Saturday that Kim ha",
-   "published_at": "2026-10-24T09:34:40Z",
+   "summary": "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Brid",
+   "published_at": "2026-10-24T13:34:56Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1473,10 +1533,20 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Hundreds of protests expected across France, with shops, businesses and tourist sites closed – Europe live",
+   "title": "Thousands march in Paris as protests take place across Europe – Europe live",
    "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-   "summary": "France will deploy 70,000 officers around the country. Protests are also expected in Italy, Spain, Austria, Portugal, Albania and Ireland The mood in Paris was heightened by fear and horror after what the government said was “racist, terrorist attack” in two towns west of the city on Friday. A 26-year-old, well-respected martial arts star from a club outside",
-   "published_at": "2026-10-24T09:29:53Z",
+   "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m here to support schoolchildren’s demands for better conditions. I’m so proud of them and we have to ",
+   "published_at": "2026-10-24T13:38:34Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
+   "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+   "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany German police have arrested a suspect after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi meeting place – known as the Eagle’s Nest – largely destroyed. About 200 firefighters were deployed on",
+   "published_at": "2026-10-24T10:04:04Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1503,22 +1573,42 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria",
-   "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
-   "summary": "About 200 firefighters deployed to tackle the blaze at former Nazi retreat in a remote part of southern Germany German police said Saturday they had detained a suspect after a fire at Adolf Hitler’s former mountain retreat, known as the Eagle’s Nest, in the state of Bavaria. About 200 firefighters were deployed to tackle the blaze at the Nazi dictator’s remo",
-   "published_at": "2026-10-24T06:21:44Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
    "title": "‘It’s part of our history’: can the menú del día survive Spain’s changing eating habits?",
    "url": "https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia",
    "summary": "Established under the Franco dictatorship, the lunchtime ritual is in decline but all is not lost A little before lunchtime each working day across Spain, evidence of one of the lingering, if less notorious, legacies of the Franco dictatorship is carefully traced in chalk, marker pen and printer ink. Beckoning to hungry workers from blackboards, whiteboards ",
    "published_at": "2026-10-24T06:00:26Z",
    "category_hint": "policy",
    "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+   "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+   "summary": "PM Benjamin Netanyahu vows ‘to destroy this place’ in retaliation for militant attack on army checkpoint Israeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in collective punishment for a militant attack on an army checkpoint outside the West Bank city, local Palestinian authorities said. The Hebron municipality estimated",
+   "published_at": "2026-10-24T13:17:13Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
+   "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+   "summary": "Leading restaurateur says Gulf countries actively help businesses set up, while east Asia has a better work ethic Some of London’s top restaurants are opening branches in Dubai because of a “tax tsunami” in the UK and better work ethic abroad, according to a leading restaurateur. James Robson, a co-owner of Fallow in St James’s Market, regarded as the capita",
+   "published_at": "2026-10-24T11:00:31Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Eight killed and 40 injured after gunmen open fire at church funeral in Jordan",
+   "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+   "summary": "Footage broadcast on state TV shows three attackers approaching Greek Orthodox church and firing shots Eight people have been killed after gunmen opened fire at a funeral at a church in Jordan in a rare attack ⁠on the country’s Christian minority. Authorities described the attack on Friday as a terrorist act by extremists. Continue reading...",
+   "published_at": "2026-10-24T10:23:13Z",
+   "category_hint": "military",
+   "score_hint": 58
   },
   {
    "source": "gh_guardian",
@@ -1533,16 +1623,6 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Seven killed and 40 injured after gunmen open fire at church funeral in Jordan",
-   "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-   "summary": "Footage broadcast on state television showed two gunmen who appear to be holding pistols approaching the church and firing shots Gunmen opened fire during a funeral at a church in Jordan on Friday, killing seven people and wounding 40 others, authorities said. The shooting took place at a Greek Orthodox church in Karak, about 180km (110 miles) south of the c",
-   "published_at": "2026-10-24T01:57:47Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
    "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
    "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
    "summary": "Benjamin Netanyahu and ministers promise demolitions and forced displacement after deadly gunfight Israel has launched a campaign of collective punishment against Palestinians in Hebron after gunmen killed two Israeli soldiers and injured three near a checkpoint outside the city. Benjamin Netanyahu announced a siege on Hebron and neighbouring Halhul and said",
@@ -1553,22 +1633,42 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-   "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-   "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets. Brent crude, the international benchmark for oil, rose by about 3.5% on Friday to pass $117 a barrel at one point – its h",
-   "published_at": "2026-10-23T16:48:28Z",
-   "category_hint": "military",
-   "score_hint": 64
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
    "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
    "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
    "summary": "Case filed in 2022 by patient unable to afford medicine leads to cap on drug prices for millions who face ruin if diagnosed The Indian government has moved to reduce the price of cancer drugs after a retired bank clerk took her case to the supreme court. From next month, 137 cancer drugs in India will be cheaper as the government tries to tackle the tragedy ",
    "published_at": "2026-10-23T07:00:03Z",
    "category_hint": "policy",
    "score_hint": 48
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Storm Boelo to bring 80mph gusts and heavy rain to parts of UK",
+   "url": "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
+   "summary": "Second named storm will hit northern parts of UK as thousands remain without power after Friday’s Storm Austen The UK is bracing for a second storm this weekend, as strong winds and heavy rain are expected to disrupt travel and cause further power cuts in the north. Storm Boelo, the second named storm of the season, is expected to bring heavy, frequent showe",
+   "published_at": "2026-10-24T13:28:07Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Met police confirm giving Duchess of Sussex letter about father’s alleged offending",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-",
+   "summary": "Scotland Yard says it shared information about Thomas Markle Sr allegations in 2019 but did not pass claims to other agencies The Metropolitan police have confirmed they gave a letter to the Duchess of Sussex in 2019 concerning “alleged offending” involving her father, after accusations arose on Friday about Thomas Markle Sr having child sexual abuse images.",
+   "published_at": "2026-10-24T12:52:48Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
+   "summary": "Lobby group’s figures, shared with John Healey, are misleading as they do not include major rival Paris, say campaigners A banking lobby group has been accused of cherrypicking data and trying to mislead the British government by claiming a tax rise for banks at next week’s budget would leave London less competitive than rival financial hubs. UK Finance, whi",
+   "published_at": "2026-10-24T11:00:31Z",
+   "category_hint": "policy",
+   "score_hint": 46
   },
   {
    "source": "gh_guardian",
@@ -1593,82 +1693,52 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "‘You need persistence’: the Norfolk couple who took on environmental regulators three times – and won",
-   "url": "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won",
-   "summary": "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk Broads Polluters and regulators who fail to stop pollution must quake in their boots when they receive a letter from the lawyers for Tim and Geli Harris. The couple, who farm 460 acres in the Norfolk Broads, have now scored a hat-trick of landmar",
-   "published_at": "2026-10-24T07:00:27Z",
+   "title": "Additional 178 cases of measles reported by US health authorities amid outbreak",
+   "url": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
+   "summary": "Centers for Disease Control and Prevention reported 4,588 cases across the country, more than double the tally in 2025 Federal health authorities reported an additional 178 cases of measles in the US this week, as the vaccine-preventable illness continues to sicken people across at least 43 outbreaks. The new data reported by the Centers for Disease Control ",
+   "published_at": "2026-10-24T12:00:33Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Epstein files take back seat in midterms but experts say issue has not gone away",
+   "url": "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms",
+   "summary": "Other voter concerns have prevailed but return of Congress likely to see renewed focus on late sex offender’s activities As US voters head to the polls for crucial and fraught midterm elections, some survivors’ advocates in the Jeffrey Epstein investigation have expressed concern that the scandal could recede into the background. Political experts believe, h",
+   "published_at": "2026-10-24T12:00:32Z",
    "category_hint": "policy",
    "score_hint": 46
   },
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "“Culture is stagnant, so politics is stuck” – playwright James Graham | Radical Thinking – podcast",
-   "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/24/culture-is-stagnant-so-politics-is-stuck-playwright-james-graham-radical-thinking-podcast",
-   "summary": "Are we doomscrolling our way into a democratic crisis? That’s what the playwright James Graham fears may be happening, as he suggests that our algorithms have led us into ‘a massive crisis of the new’ and are preventing us from imagining a different future Watch the full episode with James Graham here . INK will be released in UK cinemas on 8 January 2027 Ad",
-   "published_at": "2026-10-24T06:45:26Z",
+   "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
+   "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
+   "summary": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska A new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or other human foods typically used to help kill the trophy animals at close range. Opponents say the practice will cause be",
+   "published_at": "2026-10-24T11:00:32Z",
    "category_hint": "policy",
    "score_hint": 46
   },
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "More than third of post offices in TG Jones stores to shut by early 2027",
-   "url": "https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027",
-   "summary": "Closures within chain formerly under the WH Smith brand raise fears of high streets becoming ‘postal deserts’ Towns and even city centres face being left as “postal deserts” after it emerged that more than a third of post offices within the troubled TG Jones chain are closing. So far this year 36 branches within the high street chain formerly known as WH Smi",
-   "published_at": "2026-10-24T06:00:27Z",
+   "title": "Medical experts shocked by Tennessee team’s ‘malpractice’ in Christa Pike’s failed execution",
+   "url": "https://www.theguardian.com/us-news/2026/oct/24/christa-pike-execution-medical-experts",
+   "summary": "New details of IV team’s attempts to find a vein shared by Pike’s lawyer ‘shocked and disturbed’ practitioners Medical experts have expressed shock at the apparent incompetence shown by Tennessee’s execution team during the failed lethal injection of Christa Pike, the prisoner who survived a normally fatal dose of pentobarbital, which they say would be consi",
+   "published_at": "2026-10-24T11:00:30Z",
    "category_hint": "policy",
    "score_hint": 46
   },
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Democrat James Talarico targets Elon Musk at rally: ‘Texas is not for sale’",
-   "url": "https://www.theguardian.com/us-news/2026/oct/23/democrat-james-talarico-targets-elon-musk-at-rally-texas-is-not-for-sale",
-   "summary": "The Senate candidate denounced opponent Ken Paxton, calling out corruption allegations and support from Musk James Talarico, the Democratic candidate for the US Senate in Texas, has taken aim at Elon Musk, warning that the tech mogul is trying to buy political influence and declaring: “Texas is not for sale.” Talarico held a campaign rally on Friday at the U",
-   "published_at": "2026-10-24T02:52:47Z",
+   "title": "Verse from Qu’ran inspired US man to leap on runaway school bus and halt it",
+   "url": "https://www.theguardian.com/us-news/2026/oct/24/runaway-school-bus-quran-minnesota",
+   "summary": "Ebro Ahmed, who acted after driver’s medical emergency, said he hopes incident will show Eritreans ‘in a good way’ A man who hopped on to a school bus full of terrified children that was careering down a Minnesota street after its driver had a medical emergency and manually halted it says he was motivated to act by a Qu’ran verse about how saving one life is",
+   "published_at": "2026-10-24T10:00:31Z",
    "category_hint": "policy",
    "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – as it happened",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-   "summary": "This live blog is now closed. Sign up for the Breaking News US email With less than two weeks until the midterms, my colleague Jonathan Freedland and Guardian US columnist Moira Donegan are answering your questions in this week’s episode of Politics Weekly America. They break down the final stretch ahead of these hugely consequential elections, that will dec",
-   "published_at": "2026-10-24T02:01:54Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "California officials ordered by DoJ to set aside ‘likely’ noncitizen ballots",
-   "url": "https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump",
-   "summary": "Letters from federal prosecutors represent latest escalation as Trump continues to make claims of voter fraud Federal prosecutors sent letters to county registrars across California on Friday demanding that local officials set aside and verify ballots that the Department of Justice said may belong to noncitizens, according to the Los Angeles county registrar",
-   "published_at": "2026-10-24T02:00:13Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Pentagon designates China-backed campus cultural centers a threat to US national security",
-   "url": "https://www.theguardian.com/us-news/2026/oct/23/pentagon-china-hegseth",
-   "summary": "Defense secretary Pete Hegseth alleges Confucius Institutes operating in disguise on US university campuses The ⁠US defense department has designated Chinese-funded cultural centers on university campuses ⁠known as Confucius ⁠Institutes ​as a threat to US national security, defense secretary Pete ⁠Hegseth said on Friday. Washington has long accused Confucius",
-   "published_at": "2026-10-24T01:21:26Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’",
-   "url": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out",
-   "summary": "Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last week spoke for the first time about the incident, describing his experience and how he told a 911 operator: “I have to go in. People are going to die.” Kaylub Gi",
-   "published_at": "2026-10-23T23:10:42Z",
-   "category_hint": "military",
-   "score_hint": 58
   },
   {
    "source": "gh_nikkei",
@@ -2083,16 +2153,6 @@
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
-   "title": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky",
-   "url": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
-   "summary": "Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated",
-   "published_at": "2026-10-23T21:11:11Z",
-   "category_hint": "military",
-   "score_hint": 64
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
    "title": "France is looking ungovernable. And it’s going to get worse",
    "url": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
    "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
@@ -2123,6 +2183,46 @@
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
+   "title": "Ukraine military says Starlink service restrictions have been lifted",
+   "url": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+   "summary": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
+   "published_at": "2026-10-24T13:16:04Z",
+   "category_hint": "military",
+   "score_hint": 64
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky",
+   "url": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
+   "summary": "Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated",
+   "published_at": "2026-10-23T21:11:11Z",
+   "category_hint": "military",
+   "score_hint": 64
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "France deploys 70,000 officers to police latest protests",
+   "url": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+   "summary": "Government puts 20% more officers on the streets to boost security following last weekend’s riots",
+   "published_at": "2026-10-24T12:42:13Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "France avoids downgrade from Moody’s in boost for Macron’s government",
+   "url": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
+   "summary": "Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’",
+   "published_at": "2026-10-23T22:28:52Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
    "title": "Intelligence memo warns Iran plotting to kill Americans in Middle East",
    "url": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
    "summary": "Document says plans against US citizens have reached ‘advanced stages’ as tensions rise again in region",
@@ -2141,144 +2241,104 @@
    "score_hint": 70
   },
   {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Trump to cut Canadian tariffs after pressure from Republicans",
-   "url": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
-   "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
-   "published_at": "2026-10-23T22:29:30Z",
-   "category_hint": "economy",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Trump moves to block certification of Alaska Senate election if Republican loses",
-   "url": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1",
-   "summary": "Candidates’ similar names could ‘taint’ the result, argues US Justice Department",
-   "published_at": "2026-10-23T23:06:01Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "France avoids downgrade from Moody’s in boost for Macron’s government",
-   "url": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
-   "summary": "Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’",
-   "published_at": "2026-10-23T22:28:52Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "France prepares for more protests with big police deployment",
-   "url": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
-   "summary": "Government puts 20% more officers on the streets for Saturday to boost security following last weekend’s riots",
-   "published_at": "2026-10-24T09:21:27Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Story3 Capital Partners buys $2.25M in Rent the Runway shares",
-   "url": "https://www.investing.com/news/insider-trading-news/story3-capital-partners-buys-225m-in-rent-the-runway-shares-93CH-4970767",
+   "title": "Iran’s Pezeshkian blames US for interim deal failure, urges new try",
+   "url": "https://www.investing.com/news/commodities-news/irans-pezeshkian-blames-us-for-interim-deal-failure-urges-new-try-4970834",
    "summary": "",
-   "published_at": "2026-10-24T09:32:13Z",
+   "published_at": "2026-10-24T13:30:57Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Travelers evp & president sells $14.04M of company stock",
-   "url": "https://www.investing.com/news/insider-trading-news/travelers-evp--president-sells-1404m-of-company-stock-93CH-4970766",
+   "title": "AU Small Finance Bank Q2’FY27 slides: 53% profit surge, AI gains",
+   "url": "https://www.investing.com/news/company-news/au-small-finance-bank-q2fy27-slides-53-profit-surge-ai-gains-93CH-4970831",
    "summary": "",
-   "published_at": "2026-10-24T09:31:07Z",
+   "published_at": "2026-10-24T12:57:54Z",
+   "category_hint": "economy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races",
+   "url": "https://www.investing.com/news/economic-indicators/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races-4970790",
+   "summary": "",
+   "published_at": "2026-10-24T12:48:41Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Parabilis reports phase 1/2 data for desmoid tumor treatment",
+   "url": "https://www.investing.com/news/company-news/parabilis-reports-phase-12-data-for-desmoid-tumor-treatment-93CH-4970830",
+   "summary": "",
+   "published_at": "2026-10-24T12:48:38Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Travelers chairman and CEO Alan Schnitzer sells $35.3M in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/travelers-chairman-and-ceo-alan-schnitzer-sells-353m-in-shares-93CH-4970765",
+   "title": "Earnings call transcript: AU Small Finance Bank posts strong Q2 2026 profit growth",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-au-small-finance-bank-posts-strong-q2-2026-profit-growth-93CH-4970828",
    "summary": "",
-   "published_at": "2026-10-24T09:31:06Z",
+   "published_at": "2026-10-24T12:43:20Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "First Interstate BancSystem director Scott sells $184,500 in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/first-interstate-bancsystem-director-scott-sells-184500-in-shares-93CH-4970823",
+   "summary": "",
+   "published_at": "2026-10-24T12:15:56Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Ukraine says military Starlink service restored after 10-day disruption",
-   "url": "https://www.investing.com/news/economy-news/ukraine-says-military-starlink-service-restored-after-10day-disruption-4970760",
+   "title": "Could France’s debt crisis spread across Europe?",
+   "url": "https://www.investing.com/news/economy-news/could-frances-debt-crisis-spread-across-europe-4970815",
    "summary": "",
-   "published_at": "2026-10-24T09:24:43Z",
-   "category_hint": "military",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "France’s luxury stores board up windows ahead of fresh protests",
-   "url": "https://www.investing.com/news/stock-market-news/frances-luxury-stores-board-up-windows-ahead-of-fresh-protests-4970670",
-   "summary": "",
-   "published_at": "2026-10-24T09:24:17Z",
+   "published_at": "2026-10-24T12:11:43Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "CHS US Investments, a 10% owner, buys $1.6M in Rent the Runway (RENT)",
-   "url": "https://www.investing.com/news/insider-trading-news/chs-us-investments-a-10-owner-buys-16m-in-rent-the-runway-rent-93CH-4970755",
+   "title": "Kotak Q2 FY27 slides: profit jumps 26% as asset quality improves",
+   "url": "https://www.investing.com/news/company-news/kotak-q2-fy27-slides-profit-jumps-26-as-asset-quality-improves-93CH-4970820",
    "summary": "",
-   "published_at": "2026-10-24T09:16:06Z",
+   "published_at": "2026-10-24T12:06:28Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Nexus Capital Management, a Rent the Runway director, buys $2.25M in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/nexus-capital-management-a-rent-the-runway-director-buys-225m-in-stock-93CH-4970756",
+   "title": "Earnings call transcript: Kotak Mahindra Bank posts strong Q2 2026 profit growth",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kotak-mahindra-bank-posts-strong-q2-2026-profit-growth-93CH-4970814",
    "summary": "",
-   "published_at": "2026-10-24T09:16:06Z",
+   "published_at": "2026-10-24T11:53:11Z",
    "category_hint": "economy",
-   "score_hint": 44
+   "score_hint": 50
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Ibotta CEO Bryan Leach disposes of $2.47 million in Ibotta (IBTA) shares",
-   "url": "https://www.investing.com/news/insider-trading-news/ibotta-ceo-bryan-leach-disposes-of-247-million-in-ibotta-ibta-shares-93CH-4970747",
+   "title": "Netanyahu explores crypto to bypass potential sanctions",
+   "url": "https://www.investing.com/news/economy-news/netanyahu-explores-crypto-to-bypass-potential-sanctions-4970810",
    "summary": "",
-   "published_at": "2026-10-24T09:01:21Z",
+   "published_at": "2026-10-24T11:42:40Z",
    "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Ibotta chief people officer Marisa Daspit sells $37,376 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/ibotta-chief-people-officer-marisa-daspit-sells-37376-in-shares-93CH-4970740",
-   "summary": "",
-   "published_at": "2026-10-24T08:50:15Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "City Holding Co director Reyes buys $13,502 in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/city-holding-co-director-reyes-buys-13502-in-stock-93CH-4970739",
-   "summary": "",
-   "published_at": "2026-10-24T08:49:54Z",
-   "category_hint": "economy",
-   "score_hint": 44
+   "score_hint": 50
   },
   {
    "source": "gh_oilprice",
@@ -2433,6 +2493,16 @@
   {
    "source": "gh_coindesk",
    "source_name": "CoinDesk",
+   "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+   "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+   "summary": "Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East.",
+   "published_at": "2026-10-24T12:00:00Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
    "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
    "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
    "summary": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
@@ -2571,46 +2641,6 @@
    "score_hint": 50
   },
   {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-   "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
-   "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.",
-   "published_at": "2026-10-22T22:43:36Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_defenseone",
-   "source_name": "Defense One",
-   "title": "Are yearlong deployments the Navy’s new normal?",
-   "url": "https://www.defenseone.com/policy/2026/10/yearlong-deployments-navy-new-normal/416777/",
-   "summary": "That's what officials are telling sailors' families in Japan, where two destroyers are slated for 12- and 14-month cruises.",
-   "published_at": "2026-10-23T01:44:00Z",
-   "category_hint": "military",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_defenseone",
-   "source_name": "Defense One",
-   "title": "Defense Business Brief: A little bit of MOSA; Netherlands-U.S. industry days, and more",
-   "url": "https://www.defenseone.com/business/2026/10/defense-business-brief-little-bit-mosa-netherlands-us-industry-days-and-more/416776/",
-   "summary": "Military buyers want to move quickly, which can mean companies need to add new tech to vehicles after they re built. Now, Oshkosh Defense is building a dedicated center to test those modifications. We call it the Vehicle Integration Center. It allows us to prove out and test conformance in the real world. So that&#39;s work that we&#39;ll be doing in 27, Log",
-   "published_at": "2026-10-23T00:40:07Z",
-   "category_hint": "military",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_defenseone",
-   "source_name": "Defense One",
-   "title": "Qatar looks to bolster its military power with new hub, partnerships",
-   "url": "https://www.defenseone.com/policy/2026/10/qatar-looks-bolster-its-military-power-new-hub-partnerships/416775/",
-   "summary": "The Kingdom has spent decades cultivating its reputation as a place where enemies can sit down and talk. Apparently, even that requires an air-defense system.",
-   "published_at": "2026-10-23T00:30:31Z",
-   "category_hint": "military",
-   "score_hint": 64
-  },
-  {
    "source": "gh_twz",
    "source_name": "The War Zone",
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
@@ -2733,6 +2763,36 @@
   {
    "source": "gh_verge",
    "source_name": "The Verge",
+   "title": "Lee Chang Dong ponders the ethics of the camera",
+   "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+   "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor [&#8230;]",
+   "published_at": "2026-10-24T12:30:00Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Laika has spent 20 years building up to Wildwood",
+   "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+   "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his first stop-motion project: working [&#8230;]",
+   "published_at": "2026-10-24T12:00:00Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "It’s time to find a new browser",
+   "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+   "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis [&#8230;]",
+   "published_at": "2026-10-24T12:00:00Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
    "title": "Xbox’s first chief operating officer is out after just a few months",
    "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
    "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief [&#8230;]",
@@ -2801,34 +2861,24 @@
    "score_hint": 44
   },
   {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "The iPhone Duo should have been an iPad",
-   "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-   "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay [&#8230;]",
-   "published_at": "2026-10-23T17:00:18Z",
+   "source": "gh_stat",
+   "source_name": "STAT News",
+   "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
+   "url": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
+   "summary": "“The goal is not simply to diagnose MS faster. It is to get the diagnosis right,” writes Bruce Bebo.",
+   "published_at": "2026-10-24T11:00:00Z",
    "category_hint": "other",
-   "score_hint": 44
+   "score_hint": 46
   },
   {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-   "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [&#8230;]",
-   "published_at": "2026-10-23T16:52:55Z",
+   "source": "gh_stat",
+   "source_name": "STAT News",
+   "title": "Opinion: STAT readers on Elizabeth Holmes, cancer screening, and more",
+   "url": "https://www.statnews.com/2026/10/24/you-can-see-everything-stat-letters-to-editor/?utm_campaign=rss",
+   "summary": "“Even if Theranos had a functioning testing machine, the economic model on which is was based would result in failure,” writes a STAT reader.",
+   "published_at": "2026-10-24T11:00:00Z",
    "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "The first broken iPhone Duos are here",
-   "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-   "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange [&#8230;]",
-   "published_at": "2026-10-23T16:37:03Z",
-   "category_hint": "other",
-   "score_hint": 44
+   "score_hint": 48
   },
   {
    "source": "gh_stat",
@@ -3009,6 +3059,666 @@
    "published_at": "2026-10-23T08:30:00Z",
    "category_hint": "other",
    "score_hint": 46
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "France prepares for day of protest a week after nationwide riots",
+   "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
+   "published_at": "2026-10-24T09:34:32Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
+   "url": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
+   "summary": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
+   "published_at": "2026-10-24T08:28:24Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Chicago Bulls storm back from early deficit to beat Milwaukee Bucks in NBA",
+   "url": "https://www.aljazeera.com/sports/2026/10/24/chicago-bulls-storm-back-from-early-deficit-to-beat-milwaukee-bucks-in-nba?traffic_source=rss",
+   "summary": "Jayson Tatum puts up 36 as Boston Celtics send NY Knicks to second straight loss and Lakers surge past Clippers.",
+   "published_at": "2026-10-24T08:24:59Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Massive chemical plant fire triggers mass evacuations in Mexico",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-chemical-plant-fire-triggers-mass-evacuations-in-mexico?traffic_source=rss",
+   "summary": "An explosive fire erupted on Friday at a chemical plant in Leon, Mexico.",
+   "published_at": "2026-10-24T08:14:20Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Dan Sullivan vs Dan Sullivan: Why is Trump’s DOJ suing in Alaska?",
+   "url": "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska?traffic_source=rss",
+   "summary": "US government seeks to delay Alaska Senate result over concerns about two candidates with the same name.",
+   "published_at": "2026-10-24T08:11:17Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Aston Villa vs Manchester City LIVE: Premier League",
+   "url": "https://www.aljazeera.com/sports/liveblog/2026/10/24/aston-villa-vs-manchester-city-live-premier-league?traffic_source=rss",
+   "summary": "Follow updates with build-up and team news from our live text commentary stream as Erling Haaland headlines.",
+   "published_at": "2026-10-24T08:03:52Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Man arrested after fire breaks out at Hitler’s former Alpine retreat",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss",
+   "summary": "A man has been arrested after a fire broke out at Hitler’s former Alpine retreat, the Kehlsteinhaus, on Friday night.",
+   "published_at": "2026-10-24T07:31:42Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
+   "url": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
+   "summary": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
+   "published_at": "2026-10-24T07:09:55Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "North Korea’s Kim Jong Un visits China via newly opened bridge",
+   "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
+   "summary": "Kim arrived in the Chinese border city of Dandong using the New Yalu River Bridge, officially opened about a week ago.",
+   "published_at": "2026-10-24T07:07:20Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "COP17 puts Armenia’s environmental record in the spotlight",
+   "url": "https://www.aljazeera.com/opinions/2026/10/24/cop17-puts-armenias-environmental-record-in-the-spotlight?traffic_source=rss",
+   "summary": "As Yerevan hosts the global biodiversity summit, concerns over mining and environmental protection deserve scrutiny.",
+   "published_at": "2026-10-24T06:52:41Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Ronaldinho’s comeback with Ravenna at 46 set for next month at Forli",
+   "url": "https://www.aljazeera.com/sports/2026/10/24/ronaldinhos-comeback-with-ravenna-at-46-set-for-next-month-at-forli?traffic_source=rss",
+   "summary": "Ex-Barcelona forward to make November return, having last played for Brazilian club Fluminense in 2015.",
+   "published_at": "2026-10-24T06:51:26Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Keeping the world safe when no one is in charge",
+   "url": "https://www.aljazeera.com/opinions/2026/10/24/keeping-the-world-safe-when-no-one-is-in-charge?traffic_source=rss",
+   "summary": "As AI creates new threats and power becomes fragmented, international cooperation is more vital than ever.",
+   "published_at": "2026-10-24T06:45:18Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Lionel Messi receives top Spanish award in recognition of social work",
+   "url": "https://www.aljazeera.com/sports/2026/10/24/lionel-messi-receives-top-spanish-award-in-recognition-of-social-work?traffic_source=rss",
+   "summary": "Messi awarded the Princess of Asturias Award for his work for disadvantaged children&#039;s access to health and education.",
+   "published_at": "2026-10-24T06:44:29Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Has Vivek Ramaswamy’s attack ad against Amy Acton backfired?",
+   "url": "https://www.aljazeera.com/news/2026/10/24/has-vivek-ramaswamys-attack-ad-against-amy-acton-backfired?traffic_source=rss",
+   "summary": "Ramaswamy&#039;s ad featuring Acton&#039;s estranged mother draws Republican criticism as Ohio governor&#039;s race heats up.",
+   "published_at": "2026-10-24T06:21:11Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
+   "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
+   "summary": "As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.",
+   "published_at": "2026-10-24T05:29:07Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
+   "url": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
+   "summary": "Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.",
+   "published_at": "2026-10-24T05:20:35Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
+   "url": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
+   "summary": "Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.",
+   "published_at": "2026-10-24T05:04:32Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss",
+   "summary": "An oil spill off the UAE coast has prompted beach closures after a vessel reportedly hit a naval mine in early October.",
+   "published_at": "2026-10-24T04:48:40Z",
+   "category_hint": "economy",
+   "score_hint": 54
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
+   "summary": "Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.",
+   "published_at": "2026-10-24T03:51:58Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Marco Rubio urges Cubans to collaborate with CIA to topple gov’t",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss",
+   "summary": "Secretary of State Marco Rubio has urged Cubans to secretly work with the CIA to topple their government.",
+   "published_at": "2026-10-24T03:50:32Z",
+   "category_hint": "economy",
+   "score_hint": 54
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Hong Kong must revive growth and drive reforms with government’s ‘visible hand’",
+   "url": "https://www.scmp.com/news/hong-kong/politics/article/3372011/hong-kong-must-revive-growth-and-drive-reforms-governments-visible-hand",
+   "summary": "Hong Kong authorities should act as a “visible hand” to break down barriers erected by vested interests and revive growth momentum through reform under its maiden five-year plan, a former Beijing official overseeing the city’s affairs has said. Deng Zhonghua, former deputy director of the State Council’s Hong Kong and Macau Affairs Office, also said on Satur",
+   "published_at": "2026-10-24T07:04:50Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Why raising Asia’s fertility rate starts with giving people time to date",
+   "url": "https://www.scmp.com/opinion/asia-opinion/article/3371633/asias-baby-starved-governments-want-people-date-who-has-time",
+   "summary": "In late September, Singapore’s Reddit community erupted over the government’s new dating platform, FirstDate. Curious to get an insider’s perspective, I visited the site, connected to my Singpass account and watched as my name, age and marital status auto-populated the fields on the page. I entered my Gmail address and hit submit. The email field turned red:",
+   "published_at": "2026-10-23T21:30:07Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Kenya reports second Ebola death, a close relative of first patient",
+   "url": "https://www.scmp.com/news/world/africa/article/3371988/kenya-reports-second-ebola-death-close-relative-first-patient",
+   "summary": "Kenya’s health ministry announced the country’s second Ebola death on Friday, saying a 65-year-old woman who was a close relative of the first patient died after developing symptoms while in quarantine. The woman began showing symptoms 10 days ago and began receiving supportive care at an infectious disease unit in the capital, Nairobi. The ministry said med",
+   "published_at": "2026-10-23T21:19:15Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Zelensky hopes Beijing can use ‘influence’ over Moscow to help stop Ukraine war",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war",
+   "summary": "Ukrainian President Volodymyr Zelensky said on Friday that Beijing has “influence” over Moscow it should use to stop the war in Ukraine, and that a proposed summit meeting of the US, Chinese and Russian leaders must not lead to the division of his war-torn country. Speaking virtually at an event hosted by Washington-based Hudson Institute think tank, Zelensk",
+   "published_at": "2026-10-23T20:51:17Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Trump to cut some Canada tariffs to help Maine lawmaker’s re-election bid",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3371986/trump-lowers-some-canada-tariffs-help-maine-lawmakers-re-election-bid",
+   "summary": "The Trump administration is expanding tariff exemptions to more Canadian products, a move that may help boost Republican US Senator Susan Collins’ re-election campaign in Maine. Collins announced in a statement on Friday that the exemptions would apply to certain paper, plastic, machinery and seaweed products, saying they would help the state’s rural and coa",
+   "published_at": "2026-10-23T20:04:15Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Macron condemns ‘racist terrorist attack’ after deadly shooting near Paris",
+   "url": "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris",
+   "summary": "A gunman firing from a car killed one person and wounded five – including a 12-year-old girl shot eight times – in the Paris suburbs on Friday, in what the French president called a “racist terrorist attack”. The man was “firing at random, wanting to cause a bloodbath” as he drove through the working-class town of Trappes southwest of Paris and neighbouring ",
+   "published_at": "2026-10-23T18:13:09Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Gunmen kill 7 at Jordan church, king vows retaliation",
+   "url": "https://www.scmp.com/news/world/middle-east/article/3371984/gunmen-kill-7-jordan-church-king-vows-retaliation",
+   "summary": "Gunmen killed at least seven people and wounded dozens at a church in southern Jordan on Friday, with the king vowing retaliation for the rare attack on Christians in the majority Sunni Muslim kingdom. Assailants stormed the compound of a Greek Orthodox church in the village of Hammoud in Karak governorate and opened fire, authorities said. The gunmen got ou",
+   "published_at": "2026-10-23T17:17:41Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Melania Trump brokers ceasefire in Russian-occupied Ukraine city, White House says",
+   "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371983/melania-trump-brokers-ceasefire-russian-occupied-ukraine-city-white-house-says",
+   "summary": "Ukraine’s top negotiator involved in a humanitarian mission led by US first lady Melania Trump has said that a local ceasefire with Russia will start on Tuesday – two days before the mission begins – and last several days. Ukrainian, Russian and US negotiators reached a deal on Friday to provide humanitarian aid in the Russian-occupied town of Oleshky, in th",
+   "published_at": "2026-10-23T16:26:41Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Rocket debris hitting US homeland is ‘embarrassing’ for China, says astronomer",
+   "url": "https://www.scmp.com/news/china/science/article/3371947/rocket-debris-hitting-us-homeland-embarrassing-china-says-astronomer",
+   "summary": "A scorched hunk of metal that turned up in a US farmer’s cornfield may have handed China an awkward moment and technically an “international incident”, according to a British astronomer who has tracked rocket launches for more than 30 years. The farmer found the bowl-shaped object, measuring about 3.35 metres (11 feet) across, while harvesting corn in west-c",
+   "published_at": "2026-10-23T15:00:07Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Meghan Markle ‘distressed’ as Philippines probes father over child sexual abuse images",
+   "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371976/meghan-markle-distressed-philippines-probes-father-over-child-sexual-abuse-images",
+   "summary": "Authorities in the Philippines are investigating Thomas Markle, father of Meghan, the ⁠wife of Britain’s Prince ⁠Harry, the Philippine justice undersecretary said ⁠on Friday, after allegations he possessed child sexual abuse images. “Our Anti-Trafficking and Anti-OSAEC (online sexual abuse and exploitation of children) task force in Cebu is currently investi",
+   "published_at": "2026-10-23T14:41:01Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "North Korea’s Kim Jong-un Arrives in China, South Korea Says",
+   "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
+   "summary": "Mr. Kim was said to have crossed the border via a newly opened bridge for his first visit to China in over a year, as the countries move to deepen ties.",
+   "published_at": "2026-10-24T09:01:12Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Serbian Election Underscores the Region’s Long Political Limbo",
+   "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
+   "summary": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
+   "published_at": "2026-10-22T22:44:35Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+   "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+   "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s . The seven-time world champion believes it is right that F1 is to hold a race there",
+   "published_at": "2026-10-22T21:53:28Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Kim Jong-un crosses over newly opened bridge into China",
+   "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+   "summary": "Visit by train over New Yalu River Bridge marks North Korean leader’s first known trip abroad in more than a year Kim Jong-un has travelled to China over a newly opened bridge marking the North Korean leader’s first known trip abroad in more than a year, South Korean officials have said. A government source told the Yonhap news agency on Saturday that Kim ha",
+   "published_at": "2026-10-24T09:34:40Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Hundreds of protests expected across France, with shops, businesses and tourist sites closed – Europe live",
+   "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+   "summary": "France will deploy 70,000 officers around the country. Protests are also expected in Italy, Spain, Austria, Portugal, Albania and Ireland The mood in Paris was heightened by fear and horror after what the government said was “racist, terrorist attack” in two towns west of the city on Friday. A 26-year-old, well-respected martial arts star from a club outside",
+   "published_at": "2026-10-24T09:29:53Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria",
+   "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+   "summary": "About 200 firefighters deployed to tackle the blaze at former Nazi retreat in a remote part of southern Germany German police said Saturday they had detained a suspect after a fire at Adolf Hitler’s former mountain retreat, known as the Eagle’s Nest, in the state of Bavaria. About 200 firefighters were deployed to tackle the blaze at the Nazi dictator’s remo",
+   "published_at": "2026-10-24T06:21:44Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Seven killed and 40 injured after gunmen open fire at church funeral in Jordan",
+   "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+   "summary": "Footage broadcast on state television showed two gunmen who appear to be holding pistols approaching the church and firing shots Gunmen opened fire during a funeral at a church in Jordan on Friday, killing seven people and wounding 40 others, authorities said. The shooting took place at a Greek Orthodox church in Karak, about 180km (110 miles) south of the c",
+   "published_at": "2026-10-24T01:57:47Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+   "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+   "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets. Brent crude, the international benchmark for oil, rose by about 3.5% on Friday to pass $117 a barrel at one point – its h",
+   "published_at": "2026-10-23T16:48:28Z",
+   "category_hint": "military",
+   "score_hint": 64
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "‘You need persistence’: the Norfolk couple who took on environmental regulators three times – and won",
+   "url": "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won",
+   "summary": "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk Broads Polluters and regulators who fail to stop pollution must quake in their boots when they receive a letter from the lawyers for Tim and Geli Harris. The couple, who farm 460 acres in the Norfolk Broads, have now scored a hat-trick of landmar",
+   "published_at": "2026-10-24T07:00:27Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "“Culture is stagnant, so politics is stuck” – playwright James Graham | Radical Thinking – podcast",
+   "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/24/culture-is-stagnant-so-politics-is-stuck-playwright-james-graham-radical-thinking-podcast",
+   "summary": "Are we doomscrolling our way into a democratic crisis? That’s what the playwright James Graham fears may be happening, as he suggests that our algorithms have led us into ‘a massive crisis of the new’ and are preventing us from imagining a different future Watch the full episode with James Graham here . INK will be released in UK cinemas on 8 January 2027 Ad",
+   "published_at": "2026-10-24T06:45:26Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "More than third of post offices in TG Jones stores to shut by early 2027",
+   "url": "https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027",
+   "summary": "Closures within chain formerly under the WH Smith brand raise fears of high streets becoming ‘postal deserts’ Towns and even city centres face being left as “postal deserts” after it emerged that more than a third of post offices within the troubled TG Jones chain are closing. So far this year 36 branches within the high street chain formerly known as WH Smi",
+   "published_at": "2026-10-24T06:00:27Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Democrat James Talarico targets Elon Musk at rally: ‘Texas is not for sale’",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/democrat-james-talarico-targets-elon-musk-at-rally-texas-is-not-for-sale",
+   "summary": "The Senate candidate denounced opponent Ken Paxton, calling out corruption allegations and support from Musk James Talarico, the Democratic candidate for the US Senate in Texas, has taken aim at Elon Musk, warning that the tech mogul is trying to buy political influence and declaring: “Texas is not for sale.” Talarico held a campaign rally on Friday at the U",
+   "published_at": "2026-10-24T02:52:47Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – as it happened",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+   "summary": "This live blog is now closed. Sign up for the Breaking News US email With less than two weeks until the midterms, my colleague Jonathan Freedland and Guardian US columnist Moira Donegan are answering your questions in this week’s episode of Politics Weekly America. They break down the final stretch ahead of these hugely consequential elections, that will dec",
+   "published_at": "2026-10-24T02:01:54Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "California officials ordered by DoJ to set aside ‘likely’ noncitizen ballots",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump",
+   "summary": "Letters from federal prosecutors represent latest escalation as Trump continues to make claims of voter fraud Federal prosecutors sent letters to county registrars across California on Friday demanding that local officials set aside and verify ballots that the Department of Justice said may belong to noncitizens, according to the Los Angeles county registrar",
+   "published_at": "2026-10-24T02:00:13Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Pentagon designates China-backed campus cultural centers a threat to US national security",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/pentagon-china-hegseth",
+   "summary": "Defense secretary Pete Hegseth alleges Confucius Institutes operating in disguise on US university campuses The ⁠US defense department has designated Chinese-funded cultural centers on university campuses ⁠known as Confucius ⁠Institutes ​as a threat to US national security, defense secretary Pete ⁠Hegseth said on Friday. Washington has long accused Confucius",
+   "published_at": "2026-10-24T01:21:26Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out",
+   "summary": "Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last week spoke for the first time about the incident, describing his experience and how he told a 911 operator: “I have to go in. People are going to die.” Kaylub Gi",
+   "published_at": "2026-10-23T23:10:42Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Trump to cut Canadian tariffs after pressure from Republicans",
+   "url": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
+   "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
+   "published_at": "2026-10-23T22:29:30Z",
+   "category_hint": "economy",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Trump moves to block certification of Alaska Senate election if Republican loses",
+   "url": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1",
+   "summary": "Candidates’ similar names could ‘taint’ the result, argues US Justice Department",
+   "published_at": "2026-10-23T23:06:01Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "France prepares for more protests with big police deployment",
+   "url": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+   "summary": "Government puts 20% more officers on the streets for Saturday to boost security following last weekend’s riots",
+   "published_at": "2026-10-24T09:21:27Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Story3 Capital Partners buys $2.25M in Rent the Runway shares",
+   "url": "https://www.investing.com/news/insider-trading-news/story3-capital-partners-buys-225m-in-rent-the-runway-shares-93CH-4970767",
+   "summary": "",
+   "published_at": "2026-10-24T09:32:13Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Travelers evp & president sells $14.04M of company stock",
+   "url": "https://www.investing.com/news/insider-trading-news/travelers-evp--president-sells-1404m-of-company-stock-93CH-4970766",
+   "summary": "",
+   "published_at": "2026-10-24T09:31:07Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Travelers chairman and CEO Alan Schnitzer sells $35.3M in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/travelers-chairman-and-ceo-alan-schnitzer-sells-353m-in-shares-93CH-4970765",
+   "summary": "",
+   "published_at": "2026-10-24T09:31:06Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Ukraine says military Starlink service restored after 10-day disruption",
+   "url": "https://www.investing.com/news/economy-news/ukraine-says-military-starlink-service-restored-after-10day-disruption-4970760",
+   "summary": "",
+   "published_at": "2026-10-24T09:24:43Z",
+   "category_hint": "military",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "France’s luxury stores board up windows ahead of fresh protests",
+   "url": "https://www.investing.com/news/stock-market-news/frances-luxury-stores-board-up-windows-ahead-of-fresh-protests-4970670",
+   "summary": "",
+   "published_at": "2026-10-24T09:24:17Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "CHS US Investments, a 10% owner, buys $1.6M in Rent the Runway (RENT)",
+   "url": "https://www.investing.com/news/insider-trading-news/chs-us-investments-a-10-owner-buys-16m-in-rent-the-runway-rent-93CH-4970755",
+   "summary": "",
+   "published_at": "2026-10-24T09:16:06Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Nexus Capital Management, a Rent the Runway director, buys $2.25M in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/nexus-capital-management-a-rent-the-runway-director-buys-225m-in-stock-93CH-4970756",
+   "summary": "",
+   "published_at": "2026-10-24T09:16:06Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Ibotta CEO Bryan Leach disposes of $2.47 million in Ibotta (IBTA) shares",
+   "url": "https://www.investing.com/news/insider-trading-news/ibotta-ceo-bryan-leach-disposes-of-247-million-in-ibotta-ibta-shares-93CH-4970747",
+   "summary": "",
+   "published_at": "2026-10-24T09:01:21Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Ibotta chief people officer Marisa Daspit sells $37,376 in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/ibotta-chief-people-officer-marisa-daspit-sells-37376-in-shares-93CH-4970740",
+   "summary": "",
+   "published_at": "2026-10-24T08:50:15Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "City Holding Co director Reyes buys $13,502 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/city-holding-co-director-reyes-buys-13502-in-stock-93CH-4970739",
+   "summary": "",
+   "published_at": "2026-10-24T08:49:54Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+   "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+   "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.",
+   "published_at": "2026-10-22T22:43:36Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_defenseone",
+   "source_name": "Defense One",
+   "title": "Are yearlong deployments the Navy’s new normal?",
+   "url": "https://www.defenseone.com/policy/2026/10/yearlong-deployments-navy-new-normal/416777/",
+   "summary": "That's what officials are telling sailors' families in Japan, where two destroyers are slated for 12- and 14-month cruises.",
+   "published_at": "2026-10-23T01:44:00Z",
+   "category_hint": "military",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_defenseone",
+   "source_name": "Defense One",
+   "title": "Defense Business Brief: A little bit of MOSA; Netherlands-U.S. industry days, and more",
+   "url": "https://www.defenseone.com/business/2026/10/defense-business-brief-little-bit-mosa-netherlands-us-industry-days-and-more/416776/",
+   "summary": "Military buyers want to move quickly, which can mean companies need to add new tech to vehicles after they re built. Now, Oshkosh Defense is building a dedicated center to test those modifications. We call it the Vehicle Integration Center. It allows us to prove out and test conformance in the real world. So that&#39;s work that we&#39;ll be doing in 27, Log",
+   "published_at": "2026-10-23T00:40:07Z",
+   "category_hint": "military",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_defenseone",
+   "source_name": "Defense One",
+   "title": "Qatar looks to bolster its military power with new hub, partnerships",
+   "url": "https://www.defenseone.com/policy/2026/10/qatar-looks-bolster-its-military-power-new-hub-partnerships/416775/",
+   "summary": "The Kingdom has spent decades cultivating its reputation as a place where enemies can sit down and talk. Apparently, even that requires an air-defense system.",
+   "published_at": "2026-10-23T00:30:31Z",
+   "category_hint": "military",
+   "score_hint": 64
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "The iPhone Duo should have been an iPad",
+   "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+   "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay [&#8230;]",
+   "published_at": "2026-10-23T17:00:18Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [&#8230;]",
+   "published_at": "2026-10-23T16:52:55Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "The first broken iPhone Duos are here",
+   "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+   "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange [&#8230;]",
+   "published_at": "2026-10-23T16:37:03Z",
+   "category_hint": "other",
+   "score_hint": 44
   },
   {
    "source": "gh_stat",
@@ -11299,716 +12009,6 @@
    "published_at": "2026-10-21T09:00:00Z",
    "category_hint": "other",
    "score_hint": 46
-  },
-  {
-   "source": "gh_techreview",
-   "source_name": "MIT Tech Review",
-   "title": "Interspecies communication",
-   "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-   "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creatures who think,&#8230;",
-   "published_at": "2026-10-21T09:00:00Z",
-   "category_hint": "other",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Delta can turn the iPhone Duo into your favorite folding handheld",
-   "url": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
-   "summary": "The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins, custom Pok&#233;mon DLC experiences, and a new UI that was built around supporting Liquid Glass. Adding support for the iPhone Duo [&#8230",
-   "published_at": "2026-10-22T18:30:00Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-   "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-   "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? [&#8230;]",
-   "published_at": "2026-10-22T18:15:00Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Mass Effect 5 trailer leaks following BioWare shutdown",
-   "url": "https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea",
-   "summary": "Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today. The trailer features \"in-engine footage\" and uses \"pre-production assets,\" according to a message at the beginning of the video. The video focuses on an ex-soldier in a conversation [&#82",
-   "published_at": "2026-10-22T18:14:24Z",
-   "category_hint": "military",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80",
-   "url": "https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california",
-   "summary": "A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the San Francisco Chronicle. The California Highway Patrol's statement to media outlets says it reviewed video of the accident from the Tesla's dashcam, which \"showed the Tesla's brakes [&#8230;]",
-   "published_at": "2026-10-22T18:07:02Z",
-   "category_hint": "military",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-   "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human [&#8230;]",
-   "published_at": "2026-10-22T18:00:00Z",
-   "category_hint": "other",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
-   "url": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
-   "summary": "The plus-ification of subscription services continues unabated with Amazon becoming the latest company to follow suit with a Kindle Unlimited rebrand. The subscription service is now known as Kindle Plus but will continue to offer unlimited access to a select collection of ebooks, comics, and magazines from the Kindle catalog for $11.99 per month. Thousands ",
-   "published_at": "2026-10-22T17:46:40Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise",
-   "url": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-   "summary": "On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliveries by 2030. \"We were aiming for 5 million vehicles a year by approximately 2030,\" he said. \"And I think we've got a good shot of achieving that goal.\" [&#8230;]",
-   "published_at": "2026-10-22T17:42:52Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_stat",
-   "source_name": "STAT News",
-   "title": "Nigeria identifies travel-related Ebola case",
-   "url": "https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/?utm_campaign=rss",
-   "summary": "Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health&#8230;",
-   "published_at": "2026-10-21T11:54:47Z",
-   "category_hint": "other",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "French weekend protests to be limited to union demos only, says Macron",
-   "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-   "summary": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed.",
-   "published_at": "2026-10-22T15:22:48Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Two European women held captive for more than a year in Niger freed in Libya",
-   "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
-   "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
-   "published_at": "2026-10-22T13:22:39Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Grandparent hugging consent ad pulled after criticism",
-   "url": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\".",
-   "published_at": "2026-10-22T11:58:34Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
-   "url": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
-   "summary": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
-   "published_at": "2026-10-21T22:20:22Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Pope does not need further treatment after lung cancer surgery",
-   "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
-   "published_at": "2026-10-21T20:09:10Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-   "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
-   "published_at": "2026-10-21T18:10:42Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-   "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
-   "summary": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
-   "published_at": "2026-10-21T20:19:51Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Family of prison officer killed by IRA receives state apology",
-   "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-   "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
-   "published_at": "2026-10-21T16:58:16Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
-   "url": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
-   "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
-   "published_at": "2026-10-21T22:59:18Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Yemenis face severe shortages in Taiz amid Houthi blockade",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
-   "summary": "Residents in Yemen’s Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route.",
-   "published_at": "2026-10-22T13:42:26Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "How Sudan’s shift to drone warfare is fuelling a civilian crisis",
-   "url": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss",
-   "summary": "Drone attacks on supply lines and safe cities are taking a devastating toll on civilians.",
-   "published_at": "2026-10-22T13:35:31Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
-   "url": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs?traffic_source=rss",
-   "summary": "With government backing and little accountability, an ominous pattern casts a shadow over the Palestinian olive harvest.",
-   "published_at": "2026-10-22T13:33:27Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Macron blames ‘seditious’ far left for unrest as France bans some protests",
-   "url": "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests?traffic_source=rss",
-   "summary": "Thursday&#039;s planned demonstrations are outlawed in parts of Paris, Lyon, Lille and Grenoble.",
-   "published_at": "2026-10-22T13:12:22Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Maradona doctor was made ‘scapegoat’ for his death, Argentinian court told",
-   "url": "https://www.aljazeera.com/sports/2026/10/22/maradona-doctor-was-made-scapegoat-for-his-death-argentinian-court-told?traffic_source=rss",
-   "summary": "Prosecutors have requested a 12-year prison sentence for Leopoldo Luque, one of seven healthcare professionals on trial.",
-   "published_at": "2026-10-22T13:10:22Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Shark returns to South Korea canal after failed rescue attempt",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/shark-returns-to-south-korea-canal-after-failed-rescue-attempt?traffic_source=rss",
-   "summary": "An endangered shark swam back into a canal in South Korea after rescuers had led it back out to sea.",
-   "published_at": "2026-10-22T13:05:42Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "What’s the PHP coding flaw that could pull down 70 percent of the internet?",
-   "url": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss",
-   "summary": "The vulnerability allows a hacker to change a website or extract data, including personal information.",
-   "published_at": "2026-10-22T12:37:34Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
-   "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
-   "summary": "US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran.",
-   "published_at": "2026-10-22T12:12:32Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
-   "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
-   "summary": "Eastern Libya’s parliament backs a sea border pact with Ankara, a shift that analysts say redraws Libya’s alliances.",
-   "published_at": "2026-10-22T11:36:02Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "France reports first human Shamonda virus case, says no health risk",
-   "url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss",
-   "summary": "Until now, the virus was considered non-transferable to humans, making the patient the first documented human case.",
-   "published_at": "2026-10-22T11:28:05Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
-   "url": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss",
-   "summary": "ASEAN&#039;s consensus-driven approach and a lack of enforcement mechanisms make legal action difficult, experts say.",
-   "published_at": "2026-10-22T11:19:38Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Trump praises man who punched protester at rally in South Carolina",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/trump-praises-man-who-punched-protester-at-rally-in-south-carolina?traffic_source=rss",
-   "summary": "US President Donald Trump praised a man who punched a protester at a midterm election rally held in South Carolina.",
-   "published_at": "2026-10-22T10:58:20Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "US ambassador to Turkiye: Rethinking US role in the Middle East",
-   "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
-   "summary": "Tom Barrack says Washington&#039;s relationship with the Middle East needs to change from one of control to one of support.",
-   "published_at": "2026-10-22T10:51:11Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Neha Bora can outwit the police. Can Indian youth leader outfox Modi?",
-   "url": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
-   "summary": "Firebrand student leader has become face of the youth protest movement taking on Modi&#039;s Hindu majoritarian government.",
-   "published_at": "2026-10-22T10:45:01Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash",
-   "url": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss",
-   "summary": "El-Sayed and Rogers also tackle immigration in Michigan while Kansas candidates spar over Ukraine.",
-   "published_at": "2026-10-22T10:06:58Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Malaysia’s TuJu app struggles after Anwar suggests switching from Waze",
-   "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371744/malaysias-tuju-app-struggles-after-anwar-suggests-switching-waze",
-   "summary": "Malaysia’s highway authority is working to resolve technical disruptions affecting its TuJu navigation application following a sharp increase in users. In a statement on Thursday, the Lembaga Lebuhraya Malaysia (LLM) said the matter was being resolved together with the application provider Prosignal Consortium. LLM said the surge in users came after Prime Mi",
-   "published_at": "2026-10-22T05:15:12Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Russia and Ukraine trade major attacks as Trump touts progress",
-   "url": "https://www.scmp.com/news/world/europe/article/3371739/russia-and-ukraine-trade-major-attacks-trump-touts-progress",
-   "summary": "Moscow firing ballistic missiles at Ukraine shortly after talks between US envoy Steve Witkoff and Russia’s Vladimir Putin showed the Kremlin’s position on the war had not changed, President Volodymyr Zelensky said on Thursday. The Kremlin had said it was willing to restart trilateral talks with Kyiv and Washington next month, though dismissed new ideas brou",
-   "published_at": "2026-10-22T05:04:43Z",
-   "category_hint": "military",
-   "score_hint": 64
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "What border warnings by Kim Jong-un’s sister reveal about inter-Korean tensions",
-   "url": "https://www.scmp.com/week-asia/politics/article/3371730/what-kim-yo-jongs-border-warnings-reveal-about-inter-korean-escalation-risk",
-   "summary": "The two Koreas appear to be coming closer to an armed clash along their poorly marked military dividing line after a series of increasingly hostile warnings from the North, observers say. Back-to-back statements on Wednesday and Thursday by Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, appear aimed at building a case for blaming Seoul ",
-   "published_at": "2026-10-22T04:35:54Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "In Wake of Riots, French Authorities Ban Some Protests",
-   "url": "https://www.nytimes.com/2026/10/22/france-protests-macron.html",
-   "summary": "President Emmanuel Macron said the move was necessary “so that calm prevails.”",
-   "published_at": "2026-10-22T12:54:19Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Is Putin’s Waiting Game Working?",
-   "url": "https://www.nytimes.com/2026/10/20/world/putin-trump-ukraine-war.html",
-   "summary": "Trump’s push for deals and Europe’s political fractures seem to be giving the Russian president the opening he’s been waiting for.",
-   "published_at": "2026-10-21T04:48:02Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
-   "url": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
-   "summary": "The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.",
-   "published_at": "2026-10-21T08:19:20Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Macron bans ‘illegitimate‘ protests in France as he tries to get a grip on unrest",
-   "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
-   "summary": "French president will decide on concrete ‘next steps’ regarding demonstrations on Friday as part of tough security response to recent rioting Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases Emmanuel Macron has said “illegitimate” demonstrations would be banned over the coming days as France seeks to get a grip on ",
-   "published_at": "2026-10-22T15:54:13Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases",
-   "url": "https://www.theguardian.com/world/2026/oct/22/fallout-fast-tracking-french-rioting-cases",
-   "summary": "Politicians have called for ruthless sentencing, but lawyers blame the politicians for the poverty, and anger, behind their clients’ looting Europe live – latest updates Awa, 18, stood in the dock in the tribunal de Paris , a small, mute and bewildered figure seeming unable to understand, let alone answer, the simplest of questions. The court was told she ha",
-   "published_at": "2026-10-22T11:08:40Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
-   "url": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
-   "summary": "About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to police station The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic congressional nominee Brad Lander, several rabbis and Israel’s former deputy attorney general",
-   "published_at": "2026-10-21T14:08:28Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-   "summary": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said Tell us: have you been affected by the PHP code flaw? The Office for National Statistics has also published a report on the gender pay gap . It says: The gender pay gap for full-time employees has continued to decline in the UK. It",
-   "published_at": "2026-10-22T15:49:29Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "One in 10 adults in England and Wales experienced domestic abuse in last year, ONS finds",
-   "url": "https://www.theguardian.com/society/2026/oct/22/domestic-abuse-england-wales",
-   "summary": "Charities say ‘tip of iceberg’ figures show government is not fulfilling pledge to halve violence against women and girls Almost one in 10 adults in England and Wales have experienced domestic abuse in the last year, a survey from the Office for National Statistics (ONS) has found. The Crime Survey for England and Wales (CSEW) found that 9.6% of people aged ",
-   "published_at": "2026-10-22T15:32:01Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Burnham to become first PM to appear on Gogglebox in episode filmed at No 10",
-   "url": "https://www.theguardian.com/politics/2026/oct/22/andy-burnham-gogglebox-charity-episode",
-   "summary": "The PM is heard having a long discussion about crisps in the trailer to the show, which is in aid of Stand Up To Cancer From ranking his favourite crisps in the pub to complaining about people watching TikToks out loud on the train, Andy Burnham has made efforts to show he has the common touch. Now he will become the first prime minister to appear on the pop",
-   "published_at": "2026-10-22T15:18:57Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Zadie Smith among authors letting public bid to name new characters for charity auction",
-   "url": "https://www.theguardian.com/law/2026/oct/22/zadie-smith-margaret-atwood-ian-mcewan-public-bid-name-new-characters-charity-auction",
-   "summary": "Other prizes at Freedom from Torture event include rare Mary Wollstonecraft book illustrated by William Blake Margaret Atwood, Zadie Smith and Ian McEwan are among a number of literary stars auctioning off the chance for readers to name characters in their next novels to raise money for survivors of torture. The auction is part of Freedom from Torture’s 10th",
-   "published_at": "2026-10-22T15:13:50Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Criminals who refuse to attend sentencing face losing prison privileges under new rules",
-   "url": "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules",
-   "summary": "England and Wales judges to be able to keep inmates in cells for longer or stop visits if they refuse to face victims’ families in court Offenders who refuse to face their victims’ families in court for sentencing could be stripped of privileges or kept in cells for weeks under government changes granting wider powers to judges in England and Wales. The impo",
-   "published_at": "2026-10-22T15:07:33Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Republican governor of Ohio calls on Vivek Ramaswamy to take down ‘deeply troubling’ campaign ad – US politics live",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-   "summary": "Mike DeWine, outgoing governor, says it was ‘wrong’ for campaign to have run ad featuring estranged mother of Ramaswamy’s Democratic opponent Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions Reporting from Anchorage, Alaska Mary Peltola’s campaign to represent ",
-   "published_at": "2026-10-22T15:47:04Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
-   "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
-   "summary": "Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires. The social media company behind Facebook, Instagram and WhatsApp revealed on Wednesday night that the arrangement would keep its chie",
-   "published_at": "2026-10-22T15:40:03Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "‘Looksmaxxing’ influencer Clavicular pleads not guilty to raping teen",
-   "url": "https://www.theguardian.com/us-news/2026/oct/22/clavicular-pleads-not-guilty-rape",
-   "summary": "The social media personality denies allegations he gave a girl alcohol until she was drunk and sexually assaulted her The “looksmaxxing” livestreamer Braden Peters, better known by his stage name Clavicular , pleaded not guilty Thursday to charges that he raped a 17-year-old girl at his family’s Massachusetts home. A social media personality known for promot",
-   "published_at": "2026-10-22T15:17:49Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Virginia Democrat indicted on federal drug and money laundering charges",
-   "url": "https://www.theguardian.com/us-news/2026/oct/22/l-louise-lucas-virginia-indicted-money-laundering",
-   "summary": "Federal authorities allege state senator L Louise Lucas, a vocal Trump critic, led a ‘criminal marijuana enterprise’ Virginia state senator L Louise Lucas, one of the state’s most powerful Democrats, was charged on Thursday in connection with what federal authorities alleged was a role leading a criminal enterprise that acquired and distributed large quantit",
-   "published_at": "2026-10-22T15:15:58Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Republican leader embarrassed by Ali G film says he plans to sue Sacha Baron Cohen: ‘A liar and a pervert’",
-   "url": "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-a-liar-and-a-pervert",
-   "summary": "Exclusive: Michael Aboud, whose actions in what he believed to be a documentary are likely to come under considerable scrutiny, has expressed anger at the film-maker • This article contains spoilers for Ali G: Who Iz I? The chair of the El Paso County Republican Party has said he intends to sue Sacha Baron Cohen over footage of the local politician used in n",
-   "published_at": "2026-10-22T15:10:18Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japan's ruling LDP considers curbs on speculative condo trading",
-   "url": "https://asia.nikkei.com/business/markets/property/japan-s-ruling-ldp-considers-curbs-on-speculative-condo-trading",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Ambani's tech shift in focus as investors pile into Jio's record IPO",
-   "url": "https://asia.nikkei.com/business/markets/ipo/ambani-s-tech-shift-in-focus-as-investors-pile-into-jio-s-record-ipo",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Cybersecurity companies urge Indonesia to boost AI talent",
-   "url": "https://asia.nikkei.com/spotlight/cybersecurity/cybersecurity-companies-urge-indonesia-to-boost-ai-talent",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
-   "url": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
-   "summary": "Treasury secretary spoke to financiers at charity event where tickets cost $7,500",
-   "published_at": "2026-10-21T18:46:59Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Blackstone cuts property valuations as higher rates hit returns",
-   "url": "https://www.ft.com/content/df7c95d7-72d1-4cec-87f6-9f7968ac3e5e?syn-25a6b1a6=1",
-   "summary": "Group’s president Jonathan Gray says rising market volatility stalled a quick return of cash to investors through IPOs",
-   "published_at": "2026-10-22T11:03:21Z",
-   "category_hint": "economy",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Macron warns some protests will be banned",
-   "url": "https://www.ft.com/content/43f3144f-7aa8-4821-b5c6-0da470b9af34?syn-25a6b1a6=1",
-   "summary": "French president says labour unions can hold marches on Saturday but not other activists, in an effort to prevent more looting and rioting",
-   "published_at": "2026-10-22T15:34:56Z",
-   "category_hint": "military",
-   "score_hint": 64
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Graco Q3 2026 slides: record revenue overshadowed by margin pressure",
-   "url": "https://www.investing.com/news/company-news/graco-q3-2026-slides-record-revenue-overshadowed-by-margin-pressure-93CH-4966951",
-   "summary": "",
-   "published_at": "2026-10-22T15:56:33Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "US weekly jobless claims near 57-year lows, underscore labor market stability",
-   "url": "https://www.investing.com/news/economy-news/us-weekly-jobless-claims-near-57year-lows-4966076",
-   "summary": "",
-   "published_at": "2026-10-22T15:55:30Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Gucci’s sales drop 5% in third quarter as weak Chinese demand dampens turnaround hopes",
-   "url": "https://www.investing.com/news/stock-market-news/guccis-sales-drop-5-in-third-quarter-as-weak-chinese-demand-dampens-turnaround-hopes-4966939",
-   "summary": "",
-   "published_at": "2026-10-22T15:55:15Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "French debt risk premium reaches euro zone sovereign crisis levels",
-   "url": "https://www.investing.com/news/economy-news/french-debt-risk-premium-reaches-euro-zone-sovereign-crisis-levels-4965495",
-   "summary": "",
-   "published_at": "2026-10-22T15:54:48Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Earnings call transcript: First American Financial Q3 2026 misses estimates",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-first-american-financial-q3-2026-misses-estimates-93CH-4966949",
-   "summary": "",
-   "published_at": "2026-10-22T15:54:47Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Earnings call transcript: Banner misses Q3 2026 estimates but sees margin lift",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-banner-misses-q3-2026-estimates-but-sees-margin-lift-93CH-4966948",
-   "summary": "",
-   "published_at": "2026-10-22T15:53:42Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Earnings call transcript: Lindsay tops Q4 estimates, but outlook stays cautious",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-lindsay-tops-q4-estimates-but-outlook-stays-cautious-93CH-4966947",
-   "summary": "",
-   "published_at": "2026-10-22T15:52:50Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Paylocity stock hits 52-week high at 177.35 USD",
-   "url": "https://www.investing.com/news/company-news/paylocity-stock-hits-52week-high-at-17735-usd-93CH-4966946",
-   "summary": "",
-   "published_at": "2026-10-22T15:52:25Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Earnings call transcript: NETSTREIT tops revenue in Q3 2026, shares edge up",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-netstreit-tops-revenue-in-q3-2026-shares-edge-up-93CH-4966945",
-   "summary": "",
-   "published_at": "2026-10-22T15:51:48Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Mizuho raises Meta stock price target to $950 on revenue outlook",
-   "url": "https://www.investing.com/news/analyst-ratings/mizuho-raises-meta-stock-price-target-to-950-on-revenue-outlook-93CH-4966944",
-   "summary": "",
-   "published_at": "2026-10-22T15:50:44Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Iran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Irans-Oil-Reserves-Run-Dry-as-US-Naval-Blockade-Tightens.html",
-   "summary": "Iranian oil in floating storage has been drained amid the U.S. Navy blockade, the Wall Street Journal has reported, citing Kpler data that suggests further tightening in global oil supply. “There’s no more oil to discharge to China anymore,” Kpler’s head of crude oil analysis, Homayoun Falakshahi, said, as quoted by the WSJ. Before the United States imposed ",
-   "published_at": "2026-10-22T07:00:00Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-Above-111-as-Houthis-Strike-Saudi-Targets.html",
-   "summary": "Crude oil prices extended their earlier gains today, with Brent crude keeping above $111 per barrel after the latest reports from the Middle East, featuring more Houthi attacks on Saudi targets. An order by the U.S. federal government for non-emergency personnel in the kingdom to leave contributed to the perception of an unstable security situation in a key ",
-   "published_at": "2026-10-22T05:30:00Z",
-   "category_hint": "military",
-   "score_hint": 68
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
-   "url": "https://oilprice.com/Metals/Commodities/Aluminium-Gives-Up-Its-War-Premium-Copper-Stays-Elevated.html",
-   "summary": "LME Week 2026 kicked off in London on Monday, with industry leaders focused on the macroeconomic outlook for base metals, AI and energy transition demand, as well as critical mineral supply chain resilience. This year's discussions have come at a time when the London Metal Exchange is robustly healthy, recording a 16% year-on-year increase in average daily t",
-   "published_at": "2026-10-22T00:00:00Z",
-   "category_hint": "military",
-   "score_hint": 62
   }
  ]
 }

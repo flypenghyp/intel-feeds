@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-25T00:00:40Z",
+ "generated_at": "2026-10-25T04:33:07Z",
  "count": 1200,
- "fresh": 290,
+ "fresh": 267,
  "ok_sources": 18,
  "errors": [
   "Politico: HTTP Error 403: Forbidden",
@@ -15,8 +15,8 @@
    "source_name": "BBC World",
    "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
    "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-   "published_at": "2026-10-24T21:09:27Z",
+   "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+   "published_at": "2026-10-25T04:16:52Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -213,19 +213,9 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "Oil spill washes up on UAE beaches after tanker strike",
-   "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
-   "published_at": "2026-10-23T15:30:47Z",
-   "category_hint": "military",
-   "score_hint": 66
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
    "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
    "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-   "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+   "summary": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
    "published_at": "2026-10-24T19:37:35Z",
    "category_hint": "economy",
    "score_hint": 54
@@ -299,6 +289,96 @@
    "published_at": "2026-10-23T23:11:31Z",
    "category_hint": "policy",
    "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Obama joins El-Sayed in Michigan rally cry before key midterms",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss",
+   "summary": "Former US President Barack Obama joined Michigan Senate candidate Abdul El-Sayed at a Detroit rally ahead of midterms.",
+   "published_at": "2026-10-25T04:06:28Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors",
+   "url": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss",
+   "summary": "The settlement is the second-largest after an $880m ​deal reached by the Archdiocese of Los ​Angeles in 2024.",
+   "published_at": "2026-10-25T03:57:13Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
+   "summary": "Thousands have protested across Turkiye against the arrests of journalists and restrictions on independent media.",
+   "published_at": "2026-10-25T03:47:56Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+   "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss",
+   "summary": "Barcelona vs Real Madrid will mark the return of Spanish football&#039;s fiercest rivalry between two star-studded teams.",
+   "published_at": "2026-10-25T03:40:52Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+   "summary": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
+   "published_at": "2026-10-25T02:45:43Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+   "summary": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.",
+   "published_at": "2026-10-25T02:07:29Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
+   "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+   "summary": "Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.",
+   "published_at": "2026-10-25T00:34:43Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Violence breaks out across Europe after another day of protests",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
+   "summary": "Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.",
+   "published_at": "2026-10-25T00:23:48Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+   "summary": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+   "published_at": "2026-10-25T00:00:00Z",
+   "category_hint": "military",
+   "score_hint": 60
   },
   {
    "source": "gh_aljazeera",
@@ -461,96 +541,6 @@
    "score_hint": 48
   },
   {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Trump says he may move White House press corps to new location",
-   "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
-   "summary": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
-   "published_at": "2026-10-24T17:01:34Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
-   "url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
-   "summary": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
-   "published_at": "2026-10-24T16:48:36Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Serbian elections: A country where students may actually take power",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
-   "summary": "Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.",
-   "published_at": "2026-10-24T16:36:44Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
-   "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss",
-   "summary": "Bragging rights are up for grabs in Sunday&#039;s El Clasico between La Liga leaders Barcelona and third-placed Real Madrid.",
-   "published_at": "2026-10-24T16:18:17Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
-   "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
-   "summary": "Palestinians in Hebron are &#039;living in fear&#039; with the city closed, while Israeli forces arrest dozens across West Bank.",
-   "published_at": "2026-10-24T15:50:49Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
-   "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
-   "summary": "The race between Brazil&#039;s president and the right-wing senator has tightened in recent days.",
-   "published_at": "2026-10-24T15:36:38Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Hundreds of Italian soldiers deployed as thousands protest in Milan",
-   "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
-   "summary": "The Italian government sent hundreds of soldiers to the country&#039;s fashion and financial hub ahead of anticipated unrest.",
-   "published_at": "2026-10-24T15:05:58Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Why Israeli tourists and investors are unsettling Cypriots",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
-   "summary": "Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods.",
-   "published_at": "2026-10-24T14:56:47Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Full lockdown of occupied West Bank begins",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
-   "summary": "The Israeli army begins its lockdown and military operations across the West Bank.",
-   "published_at": "2026-10-24T14:24:19Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
    "source": "gh_dw",
    "source_name": "DW World",
    "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
@@ -581,34 +571,104 @@
    "score_hint": 58
   },
   {
-   "source": "gh_dw",
-   "source_name": "DW World",
-   "title": "Afghan women could lose one of their last paths to a higher education",
-   "url": "https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-world-4025-rdf",
-   "summary": "The US has defunded one of the last universities giving Afghan women the chance to receive an education after the Taliban takeover in 2021. DW spoke with a student who says she's lost hope of ever earning a degree.",
-   "published_at": "2026-10-23T14:54:00Z",
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Will China’s 4 peace principles for tackling African conflicts work?",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3372047/will-chinas-4-peace-principles-tackling-african-conflicts-work",
+   "summary": "Beijing has a formula for tackling African conflicts and hot-button issues, and during a meeting this month with Togolese leader Faure Gnassingbe, Chinese President Xi Jinping outlined it in four principles linking peace to development. The principles entail focusing on African-led security free from outside intervention; upholding sovereignty and UN Charter",
+   "published_at": "2026-10-25T04:00:22Z",
    "category_hint": "policy",
    "score_hint": 46
   },
   {
-   "source": "gh_dw",
-   "source_name": "DW World",
-   "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
-   "url": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf",
-   "summary": "Repeated Ukrainian drone attacks are increasingly disrupting operations at Moscow's airports. The pounding is part of Ukraine's plan to shut down Russia's airpace.",
-   "published_at": "2026-10-23T14:23:00Z",
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Will AI-powered open-door vending machines reshape Hong Kong’s retail landscape?",
+   "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372024/will-ai-powered-open-door-vending-machines-reshape-hong-kongs-retail-landscape",
+   "summary": "Sherry Shum has embraced a new shopping routine after finding a smart vending machine near her home in Chai Wan. The 37-year-old retail worker uses her phone to scan a QR code, opens the smart machine’s door, picks up a bottle of Coca-Cola, an oolong tea and a pack of potato chips, closes it and walks away with HK$60 (US$7.70) worth of goods. The whole proce",
+   "published_at": "2026-10-25T04:00:15Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Gulf economies accelerate diversification as recession looms over Iran war",
+   "url": "https://www.scmp.com/week-asia/economics/article/3371922/gulf-economies-accelerate-diversification-recession-looms-over-iran-war",
+   "summary": "Before the outbreak of the war triggered by the US-Israeli attack on Iran in February, the Gulf monarchies were living the prosperity dream that was the envy of the world. Their hydrocarbon-fuelled economies were glitzy oases of growth, inoculated from the conflict in Gaza that had rocked other parts of the Middle East for several years. Underpinned by decad",
+   "published_at": "2026-10-25T04:00:10Z",
+   "category_hint": "military",
+   "score_hint": 64
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Singapore tells suppliers to ‘honour commitments’ amid Indonesia’s gas cut",
+   "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372048/singapore-tells-suppliers-honour-commitments-amid-indonesias-gas-cut",
+   "summary": "Singapore expects all parties who have signed commercial contracts for gas supplies to “honour their commitments”, said Prime Minister Lawrence Wong on Sunday after Indonesia cut its exports. Speaking at the People’s Action Party (PAP) convention, Wong added that Singapore’s gas importer will take the necessary steps to protect its rights and interests. Indo",
+   "published_at": "2026-10-25T03:38:07Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "‘Mum, good’: Chinese woman wakes vegetative daughter-in-law after 17 years of care",
+   "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372043/mum-good-chinese-woman-wakes-vegetative-daughter-law-after-17-years-care",
+   "summary": "A woman in eastern China has been devotedly caring for her daughter-in-law for 17 years, ever since she fell into a vegetative state, moving social media users. The younger woman, surnamed Xu, fell into a vegetative state in 2009 after being struck by a truck in her village in Qingyun county, Shandong province. The accident happened just one month after she ",
+   "published_at": "2026-10-25T02:15:07Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Fandom vs flag: why young Chinese embrace Japanese pop culture but reject war-era symbols",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3372036/fandom-vs-flag-why-young-chinese-embrace-japanese-pop-culture-reject-war-era-symbols",
+   "summary": "Young Chinese people enjoy Japanese pop culture such as anime and music, but many draw a firm line at symbols of Japanese militarism. That line was tested recently at Moscow State University, where Chinese students confronted a classmate wearing Japan’s rising sun flag in class and called for his repatriation, state-run newspaper Global Times reported on Sun",
+   "published_at": "2026-10-25T02:00:16Z",
    "category_hint": "military",
    "score_hint": 58
   },
   {
-   "source": "gh_dw",
-   "source_name": "DW World",
-   "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
-   "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf",
-   "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection.",
-   "published_at": "2026-10-23T12:11:00Z",
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Why more Japanese women are choosing ‘silver divorce’ after decades of marriage",
+   "url": "https://www.scmp.com/week-asia/people/article/3371898/why-more-japanese-women-are-choosing-silver-divorce-after-decades-marriage",
+   "summary": "Ayumi lives alone in a spacious suburban house originally bought to raise a family, her two cats now her only full-time companions. Her two daughters have grown up and left home, and her husband of more than two decades moved out nearly a year ago as they finalise a divorce. For the 62-year-old Kawasaki resident, who spoke on condition that her surname be wi",
+   "published_at": "2026-10-25T02:00:13Z",
    "category_hint": "policy",
    "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Hong Kong needs a civil service fit for a changed world",
+   "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371777/hong-kong-needs-civil-service-fit-changed-world",
+   "summary": "Hong Kong’s civil service has long enjoyed a reputation for efficiency, professionalism and probity. It has also been a pillar of stability, particularly during the transition from British to Chinese rule. Outside the general and administrative grades, many civil servants spend much of their careers in relatively specialised areas of responsibility. This all",
+   "published_at": "2026-10-25T01:30:09Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "School bullying cases in Hong Kong rise 32% to nearly 500 a year",
+   "url": "https://www.scmp.com/news/hong-kong/education/article/3372020/school-bullying-cases-hong-kong-rise-32-nearly-500-year",
+   "summary": "Hong Kong schools handled an average of 496 bullying cases each academic year from 2022 to 2025 – a 32 per cent jump compared with the previous three years, according to the Education Bureau. A youth group attributed the increase to greater reporting driven by heightened mental health awareness, but also students struggling to distinguish playful jokes from ",
+   "published_at": "2026-10-25T01:00:17Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
+   "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
+   "summary": "Singapore is turning to major technology firms to strengthen its cyber defences, even as it presses them for greater transparency over security breaches – a balancing act facing regional governments as they seek to harness artificial intelligence while guarding against the risks it introduces. Those risks were highlighted by an AI agent linked to OpenAI that",
+   "published_at": "2026-10-25T00:00:14Z",
+   "category_hint": "policy",
+   "score_hint": 50
   },
   {
    "source": "gh_scmp",
@@ -911,112 +971,32 @@
    "score_hint": 48
   },
   {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "How competition between Chinese and Indian firms could reshape African drug markets",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
-   "summary": "China is challenging India’s long-held dominance of the African market for antimalarial drugs in 12 of the continent’s hardest-hit countries, according to a new study. Last year, Chinese exports of antimalarial drugs reached US$89.3 million, nearly matching India’s US$89.6 million, according to Indian market research company Sol Gravitas. The gap has closed ",
-   "published_at": "2026-10-24T07:00:10Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "16,000 sign up for exam to drive taxis or ride-hailing cars in Hong Kong",
-   "url": "https://www.scmp.com/news/hong-kong/transport/article/3372008/16000-sign-exam-drive-taxis-or-ride-hailing-cars-hong-kong",
-   "summary": "About 16,000 Hong Kong residents have signed up for a joint exam to drive taxis or ride-hailing cars, the transport chief has said. Speaking on a radio programme on Saturday, Secretary for Transport and Logistics Mable Chan said the allocation arrangement for the 10,000 ride-hailing vehicle permits would be announced in November, with the government consider",
-   "published_at": "2026-10-24T06:36:54Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "In besieged Yemeni city, drinking water supplies hit crisis levels",
-   "url": "https://www.scmp.com/news/world/middle-east/article/3372006/besieged-yemeni-city-drinking-water-supplies-hit-crisis-levels",
-   "summary": "Drinking water has been scarce for over a decade in Taiz, but the problem has reached crisis levels in recent weeks as Iran-backed Houthi rebels besiege Yemen’s third-largest city in their escalating conflict with government forces. The needs of Taiz’s more than 1 million residents are now barely being met, humanitarian groups say, as access to wells is limi",
-   "published_at": "2026-10-24T06:05:46Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Hong Kong customs seizes 600 million illicit cigarettes in first 9 months of 2026",
-   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372004/hong-kong-customs-seizes-600-million-illicit-cigarettes-first-9-months-2026",
-   "summary": "Hong Kong customs officers seized 600 million illicit cigarette sticks in the first three quarters of this year, the department chief has said, as he revealed plans to roll out more advanced contraband detection equipment. Commissioner of Customs and Excise Chan Tsz-tat told a radio programme on Saturday that the seizures in the first nine months this year n",
-   "published_at": "2026-10-24T05:48:57Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Kim Jong-un urges North Korean military to become ‘strongest armed forces in the world’",
-   "url": "https://www.scmp.com/news/asia/east-asia/article/3372003/kim-jong-un-urges-north-korean-military-become-strongest-armed-forces-world",
-   "summary": "North Korean leader Kim Jong-un urged his military to train to become the strongest in the world at a two-day meeting of company commanders in Pyongyang, state media said on Saturday. Kim’s call for what he dubbed a “Korean-style military revolution” came the same week Seoul’s military proposed talks to clarify the border after an explosion inside the heavil",
-   "published_at": "2026-10-24T05:45:05Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Israeli election campaign turns ugly with jibes, attacks against candidates",
-   "url": "https://www.scmp.com/news/world/middle-east/article/3371998/israeli-election-campaign-turns-ugly-jibes-attacks-against-candidates",
-   "summary": "Days ahead of close-fought Israeli elections, campaigns have gone into overdrive with poor-taste jibes and inflammatory attacks against candidates, sometimes crossing red lines. Fuelled in part by a boom in AI-generated images flooding social media, candidates and activists are seeking to portray their opponents as weak, untrustworthy or damaging for the cou",
-   "published_at": "2026-10-24T04:30:10Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Overseas Filipinos feel heartache over missing parcels for loved ones, demand answers",
-   "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371982/overseas-filipinos-feel-heartache-over-missing-parcels-loved-ones-demand-answers",
-   "summary": "At this time of year, Fatima Ramos would normally be preparing her balikbayan boxes. Overseas Filipinos typically fill these boxes with gifts, clothes, food and household items to send to their loved ones back home in the Philippines for Christmas. Ramos has previously sent the tax-exempt parcels to her family and Philippine charity organisations from Abu Dh",
-   "published_at": "2026-10-24T04:00:20Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Crypto platform on alert lists opens Hong Kong office, prompting calls for scrutiny",
-   "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371978/crypto-platform-alert-lists-opens-hong-kong-office-prompting-calls-scrutiny",
-   "summary": "A cryptocurrency trading platform on Hong Kong and Canadian regulators’ alert lists has opened an office in the city, prompting experts to urge closer scrutiny of how such firms promote themselves without undermining an open business environment. Experts told the South China Morning Post that inclusion on a regulator’s alert list did not necessarily mean a c",
-   "published_at": "2026-10-24T04:00:16Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "China carries out in-depth investigation of Turkey’s largest rare earth deposit",
-   "url": "https://www.scmp.com/news/china/science/article/3371800/china-carries-out-depth-investigation-turkeys-largest-rare-earth-deposit",
-   "summary": "Chinese researchers have mapped the complex geological evolution of Turkey’s Kizilcaoren deposit, offering fresh insights into the country’s most significant known rare earth reserve while dampening expectations over its commercial potential. Although the findings shed light on how rare earth elements accumulate in carbonatite-related formations, the researc",
-   "published_at": "2026-10-24T04:00:11Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Some Parisians buy pepper spray, tear gas for self-defence during protests",
-   "url": "https://www.scmp.com/news/world/europe/article/3371994/some-parisians-buy-pepper-spray-tear-gas-self-defence-during-protests",
-   "summary": "Parisians are buying tear-gas canisters and pepper sprays to defend themselves and their property during protests, which are expected to continue over the weekend, the owner of a weapons shop in the French capital has said. France was hit by its worst social unrest in years last weekend as nationwide protests over high prices and declining public services er",
-   "published_at": "2026-10-24T03:30:17Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
    "source": "gh_nyt",
    "source_name": "NYT World",
    "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
    "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
    "summary": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-   "published_at": "2026-10-24T22:37:56Z",
+   "published_at": "2026-10-25T00:10:07Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
+   "url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+   "summary": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
+   "published_at": "2026-10-25T00:51:45Z",
+   "category_hint": "military",
+   "score_hint": 62
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Italy’s Young Protesters Return to the Streets",
+   "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
+   "summary": "Fed up with the political establishment and rising cost of living, demonstrators hoped to make their message heard after violence overshadowed protests last weekend.",
+   "published_at": "2026-10-25T01:26:08Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1046,17 +1026,17 @@
    "title": "Israel Cracks Down in West Bank City After Deadly Attack",
    "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
    "summary": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.",
-   "published_at": "2026-10-24T14:52:05Z",
+   "published_at": "2026-10-24T14:52:06Z",
    "category_hint": "military",
    "score_hint": 62
   },
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "Remains Found in Haiti Could Be Those of Missing Salvadoran Soldiers",
+   "title": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
    "url": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
-   "summary": "El Salvador had sent hundreds of troops to find the men, who were ambushed six days ago while working as part of a U.N.-backed anti-gang task force.",
-   "published_at": "2026-10-24T23:38:34Z",
+   "summary": "El Salvador had sent hundreds of troops to find the four men, who disappeared six days ago. The president of El Salvador denied the bodies were those of his soldiers.",
+   "published_at": "2026-10-25T02:01:15Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1066,7 +1046,7 @@
    "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
    "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
    "summary": "The United States once declared that Ukraine’s fight was the front line in a global battle for freedom. Now the Trump administration is sending money to Moscow.",
-   "published_at": "2026-10-24T09:03:20Z",
+   "published_at": "2026-10-24T09:03:21Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1096,7 +1076,7 @@
    "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
    "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
    "summary": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
-   "published_at": "2026-10-24T17:45:16Z",
+   "published_at": "2026-10-24T17:45:17Z",
    "category_hint": "military",
    "score_hint": 62
   },
@@ -1106,7 +1086,7 @@
    "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
    "url": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
    "summary": "Looters ravaged a storied commercial avenue in France’s second-largest city. Its merchants fear that more unrest could follow.",
-   "published_at": "2026-10-24T09:04:28Z",
+   "published_at": "2026-10-25T02:49:00Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1116,7 +1096,7 @@
    "title": "Kim Jong-un Makes First Visit to China in Over a Year",
    "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
    "summary": "The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties.",
-   "published_at": "2026-10-24T13:12:26Z",
+   "published_at": "2026-10-25T01:14:39Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1133,20 +1113,20 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
-   "url": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
-   "summary": "Brazil’s President Luiz Inácio Lula da Silva faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.",
-   "published_at": "2026-10-24T09:02:26Z",
+   "title": "Far, Far Away",
+   "url": "https://www.nytimes.com/2026/10/25/world/africa/tristan-da-cunha-island.html",
+   "summary": "Making a home on the world’s most remote inhabited island.",
+   "published_at": "2026-10-25T04:01:26Z",
    "category_hint": "policy",
    "score_hint": 50
   },
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "The Other Bolsonaro Who Could Become Brazil’s Next President",
-   "url": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html",
-   "summary": "Flávio Bolsonaro, the son of the former president who was jailed over a coup plot, could be on the cusp of winning Brazil’s presidency.",
-   "published_at": "2026-10-24T09:03:13Z",
+   "title": "What to Know as Serbia Votes for a New Parliament",
+   "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
+   "summary": "A student-led movement is challenging the governing party of Aleksandar Vucic, who has dominated Serbian politics for over a decade.",
+   "published_at": "2026-10-25T04:01:22Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1187,6 +1167,26 @@
    "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
    "summary": "",
    "published_at": "2026-10-24T18:35:47Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "The Other Bolsonaro Who Could Become Brazil’s Next President",
+   "url": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html",
+   "summary": "Flávio Bolsonaro, the son of the former president who was jailed over a coup plot, could be on the cusp of winning Brazil’s presidency.",
+   "published_at": "2026-10-24T09:03:13Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
+   "url": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
+   "summary": "Brazil’s President Luiz Inácio Lula da Silva faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.",
+   "published_at": "2026-10-24T09:02:26Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1343,22 +1343,12 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "The Bukeleization of Latin America Has Arrived",
-   "url": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
-   "summary": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.",
-   "published_at": "2026-10-23T13:05:25Z",
+   "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
+   "url": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
+   "summary": "Deep in cattle country, voter sentiments in an evangelical stronghold help explain why the country’s leftist president is the underdog in Sunday’s election.",
+   "published_at": "2026-10-25T02:46:38Z",
    "category_hint": "policy",
    "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
-   "url": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
-   "summary": "The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia.",
-   "published_at": "2026-10-23T12:18:37Z",
-   "category_hint": "military",
-   "score_hint": 62
   },
   {
    "source": "gh_nyt",
@@ -1369,16 +1359,6 @@
    "published_at": "2026-10-24T06:47:09Z",
    "category_hint": "policy",
    "score_hint": 50
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-   "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
-   "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry ",
-   "published_at": "2026-10-23T13:57:11Z",
-   "category_hint": "policy",
-   "score_hint": 48
   },
   {
    "source": "gh_guardian",
@@ -1443,10 +1423,20 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
+   "title": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
+   "summary": "Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence Get our breaking news email , free app or daily news podcast Australia’s top federal law enforcement official has drawn a direct link between politicians’ rhetoric and threats and abuse being directed at leaders. The safety of elected representatives at a",
+   "published_at": "2026-10-25T03:54:43Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "‘Horrific’: woman, 19, shot in head in drive-by shooting outside boxing event near Brisbane",
    "url": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
-   "summary": "Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme Get our breaking news email , free app or daily news podcast Four people have been injured after a drive-by shooting outside a venue hosting a boxing event. Police said they responded to reports of shots being fired from a vehicle outside a licensed premises in Lo",
-   "published_at": "2026-10-24T23:13:32Z",
+   "summary": "Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme Get our breaking news email , free app or daily news podcast Four people have been injured after a drive-by shooting outside a venue hosting a boxing event, including a 19-year-old woman who was shot in the head. Queensland police Detective Inspector Ian Galpin sa",
+   "published_at": "2026-10-25T01:41:37Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1477,16 +1467,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
    "summary": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email , free app or daily news podcast Severe thunderstorms and heavy rain will sweep across most Australian states this weekend, adding to the deluge in an already drenched Queensland. Flash flooding in south-e",
    "published_at": "2026-10-23T23:26:05Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
-   "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email , free app or daily news podcast More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position in the party remains in limbo ",
-   "published_at": "2026-10-23T22:41:46Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1593,6 +1573,16 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
+   "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
+   "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
+   "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has said after the first call with his 81-year-old mother in more than five years. “Sh",
+   "published_at": "2026-10-25T02:00:49Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
    "title": "Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain",
    "url": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
    "summary": "Fresh deluge of wet weather comes after Storm Austen brought strong winds to many regions on Friday Amber weather warnings have come into force as the worst of Storm Boelo could be set to hit parts of the UK. Storm Boelo’s winds will peak from Saturday evening, leaving areas in the warning zone, including Scotland, parts of Northern Ireland and the far north",
@@ -1643,6 +1633,26 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
+   "title": "California leader calls attack on alleged noncitizen voting ‘weaponizing the law’",
+   "url": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
+   "summary": "State attorney general said Trump’s justice department’s directive to verify 20,000 ballots is completely improper California’s attorney general on Saturday rebuked the Trump administration’s efforts to quash alleged noncitizen voting, calling it “politicizing and weaponizing the law”. Rob Bonta, the state’s attorney general, said the justice department acte",
+   "published_at": "2026-10-25T00:16:17Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
+   "url": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+   "summary": "Former president speaks to crowd of thousands in support of Abdul El-Sayed for US Senate and Democratic ticket Barack Obama told a Detroit crowd on Saturday that Abdul El-Sayed was “fighting for change, real change, that will get money out of politics and put money in your pocket”, as he threw his weight behind the Democratic Senate candidate and the rest of",
+   "published_at": "2026-10-25T00:14:30Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
    "title": "Six Flags to reopen Goliath rollercoaster – but now with seatbelts after recent rider death",
    "url": "https://www.theguardian.com/us-news/2026/oct/24/six-flags-goliath-rollercoaster-seatbelts",
    "summary": "Hassan Jihad Ibn Kariem fell from ride earlier this month, spurring amusement park to temporarily shut it down Six Flags will install seatbelts on its Goliath rollercoaster in Georgia , after a rider plummeted to his death earlier this month. Hassan Jihad Ibn Kariem, a 42-year-old father and educator, was thrown from his seat on the Goliath, a coaster that p",
@@ -1671,24 +1681,44 @@
    "score_hint": 46
   },
   {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions",
-   "url": "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions",
-   "summary": "Nazhat Shameem Khan claims some staff are facing ‘banking difficulties’ but their work is unaffected The deputy prosecutor of the international criminal court has said new US sanctions are beginning to take effect on its staff but insisted they have not hindered the court’s work. The US secretary of state, Marco Rubio, announced the sanctions this month , ac",
-   "published_at": "2026-10-24T11:35:22Z",
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Pressed by Chinese EVs in Southeast Asia, Mitsubishi Motors makes risky pivot",
+   "url": "https://asia.nikkei.com/business/automobiles/pressed-by-chinese-evs-in-southeast-asia-mitsubishi-motors-makes-risky-pivot",
+   "summary": "",
+   "published_at": "",
    "category_hint": "economy",
-   "score_hint": 52
+   "score_hint": 50
   },
   {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
-   "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
-   "summary": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska A new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or other human foods typically used to help kill the trophy animals at close range. Opponents say the practice will cause be",
-   "published_at": "2026-10-24T11:00:32Z",
-   "category_hint": "policy",
-   "score_hint": 46
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "South Korean golfers flock to small Japanese town for deals at resort",
+   "url": "https://asia.nikkei.com/business/travel-leisure/south-korean-golfers-flock-to-small-japanese-town-for-deals-at-resort",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Australia's red-tipped bananas are its first 'ecoganic' export",
+   "url": "https://asia.nikkei.com/business/agriculture/australia-s-red-tipped-bananas-are-its-first-ecoganic-export",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Sydney's new international airport opens to passengers",
+   "url": "https://asia.nikkei.com/business/transportation/sydney-s-new-international-airport-opens-to-passengers",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
   },
   {
    "source": "gh_nikkei",
@@ -2051,84 +2081,14 @@
    "score_hint": 50
   },
   {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "The Global Financial Crisis, Part 2: Stephen Schwarzman (22)",
-   "url": "https://asia.nikkei.com/spotlight/my-personal-history/the-global-financial-crisis-part-2-stephen-schwarzman-22",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "military",
-   "score_hint": 62
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Yen on track to gain from US midterm elections and France unrest",
-   "url": "https://asia.nikkei.com/business/markets/currencies/yen-on-track-to-gain-from-us-midterm-elections-and-france-unrest",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japan to promote anime, games overseas through centralized support",
-   "url": "https://asia.nikkei.com/business/media-entertainment/japan-to-promote-anime-games-overseas-through-centralized-support",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "South Korea's Lee bets $1tn on Gwangju as future tech hub",
-   "url": "https://asia.nikkei.com/spotlight/policy-asia/south-korea-s-lee-bets-1tn-on-gwangju-as-future-tech-hub",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
    "source": "gh_ft",
    "source_name": "Financial Times",
-   "title": "US executives quit $25bn gas venture over claims of secret Russian control",
-   "url": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
-   "summary": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval",
-   "published_at": "2026-10-24T00:22:20Z",
+   "title": "Why 17 is not the magic number in industrial policy",
+   "url": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1",
+   "summary": "A lack of focus threatens to hobble Japanese premier Sanae Takaichi’s growth strategy",
+   "published_at": "2026-10-25T01:00:09Z",
    "category_hint": "economy",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "France is looking ungovernable. And it’s going to get worse",
-   "url": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
-   "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
-   "published_at": "2026-10-24T04:00:23Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Tucker Carlson: ‘I so overstated my power it was embarrassing’",
-   "url": "https://www.ft.com/content/98417e57-fe7e-4309-8f56-6e844c55c6e1?syn-25a6b1a6=1",
-   "summary": "Does Trump’s loudest critic still have his finger on America’s pulse?",
-   "published_at": "2026-10-24T04:00:13Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "The young are conformists in denial",
-   "url": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1",
-   "summary": "The reassuringly bourgeois values behind a rebellious generation",
-   "published_at": "2026-10-24T04:00:23Z",
-   "category_hint": "economy",
-   "score_hint": 52
+   "score_hint": 54
   },
   {
    "source": "gh_ft",
@@ -2143,140 +2103,120 @@
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
-   "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
-   "url": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
-   "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
-   "published_at": "2026-10-24T23:23:01Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
-   "url": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
-   "summary": "Plans against US citizens have reached ‘advanced stages’ as tensions rise in region, according to document",
-   "published_at": "2026-10-24T15:09:52Z",
+   "title": "SoftBank-backed drone maker wants every farmer to ‘have their own robot’",
+   "url": "https://www.ft.com/content/9fe60016-1520-4bfd-bcfc-f30caa0b1600?syn-25a6b1a6=1",
+   "summary": "Chinese start-up XAG believes pilotless crop sprayers are the answer to a dwindling workforce and rising temperatures",
+   "published_at": "2026-10-25T01:00:09Z",
    "category_hint": "military",
-   "score_hint": 64
+   "score_hint": 68
   },
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
-   "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
-   "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
-   "summary": "Critics say prime minister’s proposal would turn country into an economic pariah",
-   "published_at": "2026-10-24T19:19:48Z",
+   "title": "Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’",
+   "url": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1",
+   "summary": "Jim Chalmers argues economic security and bolstering supply chains would benefit consumers",
+   "published_at": "2026-10-25T01:00:09Z",
    "category_hint": "economy",
    "score_hint": 58
   },
   {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu",
-   "url": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1",
-   "summary": "The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier",
-   "published_at": "2026-10-24T04:00:33Z",
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Obama attacks Trump over inflation as Democrats fight for Michigan Senate seat",
+   "url": "https://www.investing.com/news/economy-news/obama-attacks-trump-over-inflation-as-democrats-fight-for-michigan-senate-seat-4971031",
+   "summary": "",
+   "published_at": "2026-10-25T04:07:10Z",
    "category_hint": "military",
-   "score_hint": 64
+   "score_hint": 62
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Abuse survivors approve $800 million settlement with Archdiocese of New York",
-   "url": "https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001",
+   "title": "Portuguese police clear Lisbon housing protest camp, make arrests",
+   "url": "https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028",
    "summary": "",
-   "published_at": "2026-10-24T23:42:03Z",
+   "published_at": "2026-10-25T03:36:21Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Climb Bio reports early data on budoprutug for kidney diseases",
-   "url": "https://www.investing.com/news/company-news/climb-bio-reports-early-data-on-budoprutug-for-kidney-diseases-93CH-4971000",
+   "title": "Trump touts $4 billion Audi plant in Georgia as he defends tariffs",
+   "url": "https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027",
    "summary": "",
-   "published_at": "2026-10-24T23:36:47Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Trade Desk CEO overrides investor opposition to option repricing - WSJ",
-   "url": "https://www.investing.com/news/company-news/trade-desk-ceo-overrides-investor-opposition-to-option-repricing--wsj-4970999",
-   "summary": "",
-   "published_at": "2026-10-24T23:34:20Z",
+   "published_at": "2026-10-25T03:29:51Z",
    "category_hint": "economy",
    "score_hint": 50
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports",
-   "url": "https://www.investing.com/news/commodities-news/bodies-of-ambushed-salvadoran-soldiers-found-in-haiti-new-york-timesreports-4970997",
-   "summary": "",
-   "published_at": "2026-10-24T23:24:24Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Why South Korea’s stock market represents the purest AI trade",
-   "url": "https://www.investing.com/news/stock-market-news/why-south-koreas-stock-market-represents-the-purest-ai-trade-4970991",
-   "summary": "",
-   "published_at": "2026-10-24T22:55:32Z",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Trump set to announce Audi plan to build US factory in Georgia, source says",
+   "title": "Trump announces Audi will build $4 billion US factory in Georgia",
    "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
    "summary": "",
-   "published_at": "2026-10-24T22:54:25Z",
+   "published_at": "2026-10-25T02:48:34Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power",
-   "url": "https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
+   "title": "HSBC sees cautious optimism in VC and PE activity",
+   "url": "https://www.investing.com/news/stock-market-news/hsbc-sees-cautious-optimism-in-vc-and-pe-activity-4971023",
    "summary": "",
-   "published_at": "2026-10-24T21:48:24Z",
+   "published_at": "2026-10-25T02:48:10Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Policy choices will matter crucially amid growing socioeconomic challenges",
-   "url": "https://www.investing.com/news/economy-news/policy-choices-will-matter-crucially-amid-growing-socioeconomic-challenges-4970967",
+   "title": "Chemed president and CEO Kevin McNamara sells $1.03M in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/chemed-president-and-ceo-kevin-mcnamara-sells-103m-in-stock-93CH-4971022",
    "summary": "",
-   "published_at": "2026-10-24T21:26:43Z",
+   "published_at": "2026-10-25T02:45:59Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Volkswagen to build Georgia Audi plant, expand in SC - Bloomberg",
-   "url": "https://www.investing.com/news/company-news/volkswagen-to-build-georgia-audi-plant-expand-in-sc--bloomberg-4970968",
+   "title": "Verizon evp and group ceo Kyle Malady sells $51,040 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/verizon-evp-and-group-ceo-kyle-malady-sells-51040-in-stock-93CH-4971021",
    "summary": "",
-   "published_at": "2026-10-24T21:26:33Z",
+   "published_at": "2026-10-25T02:45:58Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Adlai Nortye director Ji Ping sells $163,274 in ANL stock",
-   "url": "https://www.investing.com/news/insider-trading-news/adlai-nortye-director-ji-ping-sells-163274-in-anl-stock-93CH-4970965",
+   "title": "Chinese equities face prolonged downturn as earnings forecasts tumble",
+   "url": "https://www.investing.com/news/stock-market-news/chinese-equities-face-prolonged-downturn-as-earnings-forecasts-tumble-4971016",
    "summary": "",
-   "published_at": "2026-10-24T21:16:28Z",
+   "published_at": "2026-10-25T01:37:10Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Yemen’s Houthis renew threat against Riyadh airport as flights set to resume",
+   "url": "https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006",
+   "summary": "",
+   "published_at": "2026-10-25T00:42:32Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "El Salvador president says bodies found in Haiti do not belong to ambushed soldiers",
+   "url": "https://www.investing.com/news/commodities-news/bodies-of-ambushed-salvadoran-soldiers-found-in-haiti-new-york-timesreports-4970997",
+   "summary": "",
+   "published_at": "2026-10-25T00:42:22Z",
    "category_hint": "economy",
    "score_hint": 44
   },
@@ -2391,46 +2331,6 @@
    "score_hint": 56
   },
   {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "$120 Oil Is Almost Here, and Trump Has Few Good Options",
-   "url": "https://oilprice.com/Energy/Energy-General/120-Oil-Is-Almost-Here-and-Trump-Has-Few-Good-Options.html",
-   "summary": "Brent crude nears $120 as escalating Saudi-Houthi tensions fuel another weekly oil price rally, putting fresh pressure on Trump. Friday, October 23, 2026 The slow creep of oil prices towards the $120 per barrel mark is a nightmarish scenario for US President Trump, even though there has been little fundamental change in the crude oil markets. A slight drop i",
-   "published_at": "2026-10-23T16:30:00Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
-   "url": "https://oilprice.com/Energy/Energy-General/Space-War-Fears-Rise-as-Russian-Satellite-Makes-Dangerous-Maneuver.html",
-   "summary": "US officials publicly accused Russia of threatening a Finnish-operated commercial satellite that provides imagery and intelligence to Ukraine and other nations, calling the move \"deliberately reckless.\" In response to the accusations, made during a United Nations debate on October 21, Russia broadly described US claims as \"absurd\" and accused Washington of i",
-   "published_at": "2026-10-23T16:00:00Z",
-   "category_hint": "military",
-   "score_hint": 62
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Middle East Physical Crude Slides While Brent Hits Five-Month High",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Physical-Crude-Slides-While-Brent-Hits-Five-Month-High.html",
-   "summary": "In contrast with the international benchmark futures prices, the prices of physical crudes from the Middle East have softened this week, as oil continues to flow out of the Persian Gulf in ship-to-ship transfers offshore Oman and producers offer competitive prices to Asian buyers. Some crude grades from Iraq and Oman have sunk into deep discounts to the phys",
-   "published_at": "2026-10-23T15:30:00Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-India-Strikes-Natural-Gas-in-Shallow-Offshore-Basin.html",
-   "summary": "State explorer Oil India Limited (OIL) has found natural gas in a previously unexplored formation in the shallow Krishna-Godavari Basin, the Indian company said on Friday. OIL has made the discovery at the Godavari-1 appraisal well in the Matsyapuri formation in the Krishna-Godavari Basin off India’s east coast, recording a peak test flow of 200,000 standard",
-   "published_at": "2026-10-23T14:30:00Z",
-   "category_hint": "military",
-   "score_hint": 68
-  },
-  {
    "source": "gh_coindesk",
    "source_name": "CoinDesk",
    "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
@@ -2521,26 +2421,6 @@
    "score_hint": 44
   },
   {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-   "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
-   "summary": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.",
-   "published_at": "2026-10-23T13:58:56Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-   "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
-   "summary": "Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did.",
-   "published_at": "2026-10-23T12:03:53Z",
-   "category_hint": "economy",
-   "score_hint": 48
-  },
-  {
    "source": "gh_twz",
    "source_name": "The War Zone",
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
@@ -2609,46 +2489,6 @@
    "published_at": "2026-10-23T19:07:34Z",
    "category_hint": "military",
    "score_hint": 50
-  },
-  {
-   "source": "gh_breakingdef",
-   "source_name": "Breaking Defense",
-   "title": "Qatari Barzan unveils aerial drones, unmanned surface vessels at Milipol 2026",
-   "url": "https://breakingdefense.com/2026/10/qatari-barzan-unveils-aerial-drones-unmanned-surface-vessels-at-milipol-2026/",
-   "summary": "“This is a significant achievement, particularly as we continue to expand Qatar’s domestic defence and security capabilities in a year where we have had to rise to a number of regional challenges,” the company said in a statement.",
-   "published_at": "2026-10-23T15:10:00Z",
-   "category_hint": "military",
-   "score_hint": 62
-  },
-  {
-   "source": "gh_breakingdef",
-   "source_name": "Breaking Defense",
-   "title": "HD Hyundai, Kiewit unveil plans for new US shipyard",
-   "url": "https://breakingdefense.com/2026/10/hd-hyundai-kiewit-unveil-plans-for-new-us-shipyard/",
-   "summary": "The companies said they aim to build both US auxiliary and commercial vessels at the shipyard.",
-   "published_at": "2026-10-23T14:43:33Z",
-   "category_hint": "military",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_breakingdef",
-   "source_name": "Breaking Defense",
-   "title": "Natilus secures Air Force contract to develop blended wing body aircraft",
-   "url": "https://breakingdefense.com/2026/10/natilus-secures-air-force-contract-to-develop-blended-wing-body-aircraft/",
-   "summary": "“We think now&#8217;s the right time” for a blended wing body design to make its debut, Natilus Chief Operating Officer Nolan Giblin told Breaking Defense.",
-   "published_at": "2026-10-23T12:03:00Z",
-   "category_hint": "military",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_techreview",
-   "source_name": "MIT Tech Review",
-   "title": "The Download: testing six tech promises and biotech’s blind spots",
-   "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;",
-   "published_at": "2026-10-23T12:10:00Z",
-   "category_hint": "other",
-   "score_hint": 46
   },
   {
    "source": "gh_verge",
@@ -2841,6 +2681,636 @@
    "score_hint": 46
   },
   {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Oil spill washes up on UAE beaches after tanker strike",
+   "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+   "published_at": "2026-10-23T15:30:47Z",
+   "category_hint": "military",
+   "score_hint": 66
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Trump says he may move White House press corps to new location",
+   "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
+   "summary": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
+   "published_at": "2026-10-24T17:01:34Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+   "url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
+   "summary": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
+   "published_at": "2026-10-24T16:48:36Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Serbian elections: A country where students may actually take power",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
+   "summary": "Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.",
+   "published_at": "2026-10-24T16:36:44Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+   "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss",
+   "summary": "Bragging rights are up for grabs in Sunday&#039;s El Clasico between La Liga leaders Barcelona and third-placed Real Madrid.",
+   "published_at": "2026-10-24T16:18:17Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
+   "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
+   "summary": "Palestinians in Hebron are &#039;living in fear&#039; with the city closed, while Israeli forces arrest dozens across West Bank.",
+   "published_at": "2026-10-24T15:50:49Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
+   "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+   "summary": "The race between Brazil&#039;s president and the right-wing senator has tightened in recent days.",
+   "published_at": "2026-10-24T15:36:38Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Hundreds of Italian soldiers deployed as thousands protest in Milan",
+   "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+   "summary": "The Italian government sent hundreds of soldiers to the country&#039;s fashion and financial hub ahead of anticipated unrest.",
+   "published_at": "2026-10-24T15:05:58Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Why Israeli tourists and investors are unsettling Cypriots",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
+   "summary": "Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods.",
+   "published_at": "2026-10-24T14:56:47Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Full lockdown of occupied West Bank begins",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
+   "summary": "The Israeli army begins its lockdown and military operations across the West Bank.",
+   "published_at": "2026-10-24T14:24:19Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_dw",
+   "source_name": "DW World",
+   "title": "Afghan women could lose one of their last paths to a higher education",
+   "url": "https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-world-4025-rdf",
+   "summary": "The US has defunded one of the last universities giving Afghan women the chance to receive an education after the Taliban takeover in 2021. DW spoke with a student who says she's lost hope of ever earning a degree.",
+   "published_at": "2026-10-23T14:54:00Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_dw",
+   "source_name": "DW World",
+   "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
+   "url": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf",
+   "summary": "Repeated Ukrainian drone attacks are increasingly disrupting operations at Moscow's airports. The pounding is part of Ukraine's plan to shut down Russia's airpace.",
+   "published_at": "2026-10-23T14:23:00Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_dw",
+   "source_name": "DW World",
+   "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+   "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf",
+   "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection.",
+   "published_at": "2026-10-23T12:11:00Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "How competition between Chinese and Indian firms could reshape African drug markets",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
+   "summary": "China is challenging India’s long-held dominance of the African market for antimalarial drugs in 12 of the continent’s hardest-hit countries, according to a new study. Last year, Chinese exports of antimalarial drugs reached US$89.3 million, nearly matching India’s US$89.6 million, according to Indian market research company Sol Gravitas. The gap has closed ",
+   "published_at": "2026-10-24T07:00:10Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "16,000 sign up for exam to drive taxis or ride-hailing cars in Hong Kong",
+   "url": "https://www.scmp.com/news/hong-kong/transport/article/3372008/16000-sign-exam-drive-taxis-or-ride-hailing-cars-hong-kong",
+   "summary": "About 16,000 Hong Kong residents have signed up for a joint exam to drive taxis or ride-hailing cars, the transport chief has said. Speaking on a radio programme on Saturday, Secretary for Transport and Logistics Mable Chan said the allocation arrangement for the 10,000 ride-hailing vehicle permits would be announced in November, with the government consider",
+   "published_at": "2026-10-24T06:36:54Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "In besieged Yemeni city, drinking water supplies hit crisis levels",
+   "url": "https://www.scmp.com/news/world/middle-east/article/3372006/besieged-yemeni-city-drinking-water-supplies-hit-crisis-levels",
+   "summary": "Drinking water has been scarce for over a decade in Taiz, but the problem has reached crisis levels in recent weeks as Iran-backed Houthi rebels besiege Yemen’s third-largest city in their escalating conflict with government forces. The needs of Taiz’s more than 1 million residents are now barely being met, humanitarian groups say, as access to wells is limi",
+   "published_at": "2026-10-24T06:05:46Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Hong Kong customs seizes 600 million illicit cigarettes in first 9 months of 2026",
+   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372004/hong-kong-customs-seizes-600-million-illicit-cigarettes-first-9-months-2026",
+   "summary": "Hong Kong customs officers seized 600 million illicit cigarette sticks in the first three quarters of this year, the department chief has said, as he revealed plans to roll out more advanced contraband detection equipment. Commissioner of Customs and Excise Chan Tsz-tat told a radio programme on Saturday that the seizures in the first nine months this year n",
+   "published_at": "2026-10-24T05:48:57Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Kim Jong-un urges North Korean military to become ‘strongest armed forces in the world’",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3372003/kim-jong-un-urges-north-korean-military-become-strongest-armed-forces-world",
+   "summary": "North Korean leader Kim Jong-un urged his military to train to become the strongest in the world at a two-day meeting of company commanders in Pyongyang, state media said on Saturday. Kim’s call for what he dubbed a “Korean-style military revolution” came the same week Seoul’s military proposed talks to clarify the border after an explosion inside the heavil",
+   "published_at": "2026-10-24T05:45:05Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Israeli election campaign turns ugly with jibes, attacks against candidates",
+   "url": "https://www.scmp.com/news/world/middle-east/article/3371998/israeli-election-campaign-turns-ugly-jibes-attacks-against-candidates",
+   "summary": "Days ahead of close-fought Israeli elections, campaigns have gone into overdrive with poor-taste jibes and inflammatory attacks against candidates, sometimes crossing red lines. Fuelled in part by a boom in AI-generated images flooding social media, candidates and activists are seeking to portray their opponents as weak, untrustworthy or damaging for the cou",
+   "published_at": "2026-10-24T04:30:10Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Overseas Filipinos feel heartache over missing parcels for loved ones, demand answers",
+   "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371982/overseas-filipinos-feel-heartache-over-missing-parcels-loved-ones-demand-answers",
+   "summary": "At this time of year, Fatima Ramos would normally be preparing her balikbayan boxes. Overseas Filipinos typically fill these boxes with gifts, clothes, food and household items to send to their loved ones back home in the Philippines for Christmas. Ramos has previously sent the tax-exempt parcels to her family and Philippine charity organisations from Abu Dh",
+   "published_at": "2026-10-24T04:00:20Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Crypto platform on alert lists opens Hong Kong office, prompting calls for scrutiny",
+   "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371978/crypto-platform-alert-lists-opens-hong-kong-office-prompting-calls-scrutiny",
+   "summary": "A cryptocurrency trading platform on Hong Kong and Canadian regulators’ alert lists has opened an office in the city, prompting experts to urge closer scrutiny of how such firms promote themselves without undermining an open business environment. Experts told the South China Morning Post that inclusion on a regulator’s alert list did not necessarily mean a c",
+   "published_at": "2026-10-24T04:00:16Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "China carries out in-depth investigation of Turkey’s largest rare earth deposit",
+   "url": "https://www.scmp.com/news/china/science/article/3371800/china-carries-out-depth-investigation-turkeys-largest-rare-earth-deposit",
+   "summary": "Chinese researchers have mapped the complex geological evolution of Turkey’s Kizilcaoren deposit, offering fresh insights into the country’s most significant known rare earth reserve while dampening expectations over its commercial potential. Although the findings shed light on how rare earth elements accumulate in carbonatite-related formations, the researc",
+   "published_at": "2026-10-24T04:00:11Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Some Parisians buy pepper spray, tear gas for self-defence during protests",
+   "url": "https://www.scmp.com/news/world/europe/article/3371994/some-parisians-buy-pepper-spray-tear-gas-self-defence-during-protests",
+   "summary": "Parisians are buying tear-gas canisters and pepper sprays to defend themselves and their property during protests, which are expected to continue over the weekend, the owner of a weapons shop in the French capital has said. France was hit by its worst social unrest in years last weekend as nationwide protests over high prices and declining public services er",
+   "published_at": "2026-10-24T03:30:17Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Remains Found in Haiti Could Be Those of Missing Salvadoran Soldiers",
+   "url": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
+   "summary": "El Salvador had sent hundreds of troops to find the men, who were ambushed six days ago while working as part of a U.N.-backed anti-gang task force.",
+   "published_at": "2026-10-24T23:38:34Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "The Bukeleization of Latin America Has Arrived",
+   "url": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
+   "summary": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.",
+   "published_at": "2026-10-23T13:05:25Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+   "url": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+   "summary": "The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia.",
+   "published_at": "2026-10-23T12:18:37Z",
+   "category_hint": "military",
+   "score_hint": 62
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+   "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+   "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry ",
+   "published_at": "2026-10-23T13:57:11Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
+   "summary": "Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme Get our breaking news email , free app or daily news podcast Four people have been injured after a drive-by shooting outside a venue hosting a boxing event. Police said they responded to reports of shots being fired from a vehicle outside a licensed premises in Lo",
+   "published_at": "2026-10-24T23:13:32Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
+   "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email , free app or daily news podcast More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position in the party remains in limbo ",
+   "published_at": "2026-10-23T22:41:46Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions",
+   "url": "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions",
+   "summary": "Nazhat Shameem Khan claims some staff are facing ‘banking difficulties’ but their work is unaffected The deputy prosecutor of the international criminal court has said new US sanctions are beginning to take effect on its staff but insisted they have not hindered the court’s work. The US secretary of state, Marco Rubio, announced the sanctions this month , ac",
+   "published_at": "2026-10-24T11:35:22Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
+   "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
+   "summary": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska A new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or other human foods typically used to help kill the trophy animals at close range. Opponents say the practice will cause be",
+   "published_at": "2026-10-24T11:00:32Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "The Global Financial Crisis, Part 2: Stephen Schwarzman (22)",
+   "url": "https://asia.nikkei.com/spotlight/my-personal-history/the-global-financial-crisis-part-2-stephen-schwarzman-22",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "military",
+   "score_hint": 62
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Yen on track to gain from US midterm elections and France unrest",
+   "url": "https://asia.nikkei.com/business/markets/currencies/yen-on-track-to-gain-from-us-midterm-elections-and-france-unrest",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Japan to promote anime, games overseas through centralized support",
+   "url": "https://asia.nikkei.com/business/media-entertainment/japan-to-promote-anime-games-overseas-through-centralized-support",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "South Korea's Lee bets $1tn on Gwangju as future tech hub",
+   "url": "https://asia.nikkei.com/spotlight/policy-asia/south-korea-s-lee-bets-1tn-on-gwangju-as-future-tech-hub",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "US executives quit $25bn gas venture over claims of secret Russian control",
+   "url": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
+   "summary": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval",
+   "published_at": "2026-10-24T00:22:20Z",
+   "category_hint": "economy",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "France is looking ungovernable. And it’s going to get worse",
+   "url": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
+   "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
+   "published_at": "2026-10-24T04:00:23Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Tucker Carlson: ‘I so overstated my power it was embarrassing’",
+   "url": "https://www.ft.com/content/98417e57-fe7e-4309-8f56-6e844c55c6e1?syn-25a6b1a6=1",
+   "summary": "Does Trump’s loudest critic still have his finger on America’s pulse?",
+   "published_at": "2026-10-24T04:00:13Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "The young are conformists in denial",
+   "url": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1",
+   "summary": "The reassuringly bourgeois values behind a rebellious generation",
+   "published_at": "2026-10-24T04:00:23Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
+   "url": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+   "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
+   "published_at": "2026-10-24T23:23:01Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
+   "url": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
+   "summary": "Plans against US citizens have reached ‘advanced stages’ as tensions rise in region, according to document",
+   "published_at": "2026-10-24T15:09:52Z",
+   "category_hint": "military",
+   "score_hint": 64
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
+   "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
+   "summary": "Critics say prime minister’s proposal would turn country into an economic pariah",
+   "published_at": "2026-10-24T19:19:48Z",
+   "category_hint": "economy",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu",
+   "url": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1",
+   "summary": "The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier",
+   "published_at": "2026-10-24T04:00:33Z",
+   "category_hint": "military",
+   "score_hint": 64
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Abuse survivors approve $800 million settlement with Archdiocese of New York",
+   "url": "https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001",
+   "summary": "",
+   "published_at": "2026-10-24T23:42:03Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Climb Bio reports early data on budoprutug for kidney diseases",
+   "url": "https://www.investing.com/news/company-news/climb-bio-reports-early-data-on-budoprutug-for-kidney-diseases-93CH-4971000",
+   "summary": "",
+   "published_at": "2026-10-24T23:36:47Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Trade Desk CEO overrides investor opposition to option repricing - WSJ",
+   "url": "https://www.investing.com/news/company-news/trade-desk-ceo-overrides-investor-opposition-to-option-repricing--wsj-4970999",
+   "summary": "",
+   "published_at": "2026-10-24T23:34:20Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports",
+   "url": "https://www.investing.com/news/commodities-news/bodies-of-ambushed-salvadoran-soldiers-found-in-haiti-new-york-timesreports-4970997",
+   "summary": "",
+   "published_at": "2026-10-24T23:24:24Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Why South Korea’s stock market represents the purest AI trade",
+   "url": "https://www.investing.com/news/stock-market-news/why-south-koreas-stock-market-represents-the-purest-ai-trade-4970991",
+   "summary": "",
+   "published_at": "2026-10-24T22:55:32Z",
+   "category_hint": "economy",
+   "score_hint": 54
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Trump set to announce Audi plan to build US factory in Georgia, source says",
+   "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
+   "summary": "",
+   "published_at": "2026-10-24T22:54:25Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power",
+   "url": "https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
+   "summary": "",
+   "published_at": "2026-10-24T21:48:24Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Policy choices will matter crucially amid growing socioeconomic challenges",
+   "url": "https://www.investing.com/news/economy-news/policy-choices-will-matter-crucially-amid-growing-socioeconomic-challenges-4970967",
+   "summary": "",
+   "published_at": "2026-10-24T21:26:43Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Volkswagen to build Georgia Audi plant, expand in SC - Bloomberg",
+   "url": "https://www.investing.com/news/company-news/volkswagen-to-build-georgia-audi-plant-expand-in-sc--bloomberg-4970968",
+   "summary": "",
+   "published_at": "2026-10-24T21:26:33Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Adlai Nortye director Ji Ping sells $163,274 in ANL stock",
+   "url": "https://www.investing.com/news/insider-trading-news/adlai-nortye-director-ji-ping-sells-163274-in-anl-stock-93CH-4970965",
+   "summary": "",
+   "published_at": "2026-10-24T21:16:28Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "$120 Oil Is Almost Here, and Trump Has Few Good Options",
+   "url": "https://oilprice.com/Energy/Energy-General/120-Oil-Is-Almost-Here-and-Trump-Has-Few-Good-Options.html",
+   "summary": "Brent crude nears $120 as escalating Saudi-Houthi tensions fuel another weekly oil price rally, putting fresh pressure on Trump. Friday, October 23, 2026 The slow creep of oil prices towards the $120 per barrel mark is a nightmarish scenario for US President Trump, even though there has been little fundamental change in the crude oil markets. A slight drop i",
+   "published_at": "2026-10-23T16:30:00Z",
+   "category_hint": "economy",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
+   "url": "https://oilprice.com/Energy/Energy-General/Space-War-Fears-Rise-as-Russian-Satellite-Makes-Dangerous-Maneuver.html",
+   "summary": "US officials publicly accused Russia of threatening a Finnish-operated commercial satellite that provides imagery and intelligence to Ukraine and other nations, calling the move \"deliberately reckless.\" In response to the accusations, made during a United Nations debate on October 21, Russia broadly described US claims as \"absurd\" and accused Washington of i",
+   "published_at": "2026-10-23T16:00:00Z",
+   "category_hint": "military",
+   "score_hint": 62
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Middle East Physical Crude Slides While Brent Hits Five-Month High",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Physical-Crude-Slides-While-Brent-Hits-Five-Month-High.html",
+   "summary": "In contrast with the international benchmark futures prices, the prices of physical crudes from the Middle East have softened this week, as oil continues to flow out of the Persian Gulf in ship-to-ship transfers offshore Oman and producers offer competitive prices to Asian buyers. Some crude grades from Iraq and Oman have sunk into deep discounts to the phys",
+   "published_at": "2026-10-23T15:30:00Z",
+   "category_hint": "economy",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-India-Strikes-Natural-Gas-in-Shallow-Offshore-Basin.html",
+   "summary": "State explorer Oil India Limited (OIL) has found natural gas in a previously unexplored formation in the shallow Krishna-Godavari Basin, the Indian company said on Friday. OIL has made the discovery at the Godavari-1 appraisal well in the Matsyapuri formation in the Krishna-Godavari Basin off India’s east coast, recording a peak test flow of 200,000 standard",
+   "published_at": "2026-10-23T14:30:00Z",
+   "category_hint": "military",
+   "score_hint": 68
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+   "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+   "summary": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.",
+   "published_at": "2026-10-23T13:58:56Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+   "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+   "summary": "Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did.",
+   "published_at": "2026-10-23T12:03:53Z",
+   "category_hint": "economy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_breakingdef",
+   "source_name": "Breaking Defense",
+   "title": "Qatari Barzan unveils aerial drones, unmanned surface vessels at Milipol 2026",
+   "url": "https://breakingdefense.com/2026/10/qatari-barzan-unveils-aerial-drones-unmanned-surface-vessels-at-milipol-2026/",
+   "summary": "“This is a significant achievement, particularly as we continue to expand Qatar’s domestic defence and security capabilities in a year where we have had to rise to a number of regional challenges,” the company said in a statement.",
+   "published_at": "2026-10-23T15:10:00Z",
+   "category_hint": "military",
+   "score_hint": 62
+  },
+  {
+   "source": "gh_breakingdef",
+   "source_name": "Breaking Defense",
+   "title": "HD Hyundai, Kiewit unveil plans for new US shipyard",
+   "url": "https://breakingdefense.com/2026/10/hd-hyundai-kiewit-unveil-plans-for-new-us-shipyard/",
+   "summary": "The companies said they aim to build both US auxiliary and commercial vessels at the shipyard.",
+   "published_at": "2026-10-23T14:43:33Z",
+   "category_hint": "military",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_breakingdef",
+   "source_name": "Breaking Defense",
+   "title": "Natilus secures Air Force contract to develop blended wing body aircraft",
+   "url": "https://breakingdefense.com/2026/10/natilus-secures-air-force-contract-to-develop-blended-wing-body-aircraft/",
+   "summary": "“We think now&#8217;s the right time” for a blended wing body design to make its debut, Natilus Chief Operating Officer Nolan Giblin told Breaking Defense.",
+   "published_at": "2026-10-23T12:03:00Z",
+   "category_hint": "military",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_techreview",
+   "source_name": "MIT Tech Review",
+   "title": "The Download: testing six tech promises and biotech’s blind spots",
+   "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;",
+   "published_at": "2026-10-23T12:10:00Z",
+   "category_hint": "other",
+   "score_hint": 46
+  },
+  {
    "source": "gh_stat",
    "source_name": "STAT News",
    "title": "STAT+: Up and down the ladder: The latest comings and goings",
@@ -3017,16 +3487,6 @@
    "url": "https://www.nytimes.com/article/france-student-protests-why.html",
    "summary": "The authorities deployed tens of thousands of security forces and banned demonstrations in some cities, hoping to avoid a repeat of the riots that shook the country a week ago.",
    "published_at": "2026-10-24T11:08:50Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
-   "url": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
-   "summary": "Deep in cattle country, voter sentiments in an evangelical stronghold help explain why the country’s leftist president is the underdog in Sunday’s election.",
-   "published_at": "2026-10-23T11:38:12Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -11549,466 +12009,6 @@
    "published_at": "2026-10-22T09:00:12Z",
    "category_hint": "military",
    "score_hint": 58
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "What We Saw at Fast-Track Trials of Riot Suspects in France",
-   "url": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
-   "summary": "At the Tribunal de Paris, judges have supervised a carousel of expedited and often chaotic hearings for those detained during recent unrest.",
-   "published_at": "2026-10-21T16:47:26Z",
-   "category_hint": "policy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
-   "url": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
-   "summary": "Ukraine says it still doesn’t know why the military satellite internet service, a sister to Starlink, was abruptly throttled, leaving troops vulnerable to Russian attacks.",
-   "published_at": "2026-10-21T17:11:32Z",
-   "category_hint": "military",
-   "score_hint": 62
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
-   "url": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html",
-   "summary": "Mr. Hubbard, a 74-year-old teacher, was held for more than four years on what the State Department called fabricated charges.",
-   "published_at": "2026-10-21T13:10:45Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "China’s Free A.I. Models Are Thrown Into Uncertainty",
-   "url": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
-   "summary": "Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.",
-   "published_at": "2026-10-21T14:43:43Z",
-   "category_hint": "policy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
-   "url": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
-   "summary": "Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.",
-   "published_at": "2026-10-21T17:06:01Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Controversial US-backed vaccine trial in African newborns halted",
-   "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-   "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, ",
-   "published_at": "2026-10-21T17:18:56Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-   "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-   "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions",
-   "published_at": "2026-10-21T13:40:08Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes",
-   "url": "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes",
-   "summary": "Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors say Taiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational repression to silence critics on the self-governed island, whi",
-   "published_at": "2026-10-21T16:13:53Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Australia offers astronaut Katherine Bennell-Pegg for space mission to International Space Station",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
-   "summary": "Australian of the Year would become the first astronaut in space to qualify under the Australian flag if she embarks on the 2028 mission Get our breaking news email , free app or daily news podcast The federal government has sent an offer to the European Space Agency (ESA) to send the Australian of the Year, astronaut Katherine Bennell-Pegg, to the Internati",
-   "published_at": "2026-10-22T23:51:24Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
-   "url": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
-   "summary": "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued Australian A-lister Rebel Wilson has secured a major court victory after co-producers of her debut film accused her of sabotage, lying and breaching contracts. The Pitch Perfect star directed, co-produced and starred in The",
-   "published_at": "2026-10-22T23:31:22Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "The great moth revival: how bogongs have bounced back",
-   "url": "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back",
-   "summary": "This animated map shows the insect’s population exploding in Australia’s eastern states, with the endangered species coming back from the brink If you live anywhere on the eastern side of Australia, you’ve probably noticed that bogong moths are back in a big way . While we don’t yet have figures from ecologist-led surveys to compare with previous years, ther",
-   "published_at": "2026-10-22T14:00:36Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Sexualised, violent threats: female Victorian MPs fear for their safety as they fight more than just next month’s election",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/23/victorian-mps-women-high-alert-safety-state-election-helen-haines-ntwnfb",
-   "summary": "Hostility from constituents is not new for the state’s politicians, including its premiers. But the alleged attack on Helen Haines has sent a chill down the collective spine Get our new political email , free app or daily news podcast On Monday night, Georgie Purcell shared a statement on social media in support of Helen Haines, who earlier that day had been",
-   "published_at": "2026-10-22T14:00:35Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "‘Nunchucks’ wielded by agitated man in Hannah Beazley’s office may have been drumsticks, court told",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/22/hannah-beazley-wa-office-nunchucks-drumsticks-wielded-man-court-hearing-ntwnfb",
-   "summary": "John Lawrence Smart charged with being armed in a way that may cause fear but Perth lawyer expresses concern for mental health Get our breaking news email , free app or daily news podcast A man accused of making threats while armed with “improvised nunchucks” at a Western Australian MP’s electorate office could have been holding a musical instrument, not a w",
-   "published_at": "2026-10-22T12:08:11Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Massive student-led rally marches in Belgrade ahead of Serbian election",
-   "url": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
-   "summary": "Student List movement hopes to oust the party of veteran leader Aleksandar Vucic in a pivotal vote on Sunday Explained: what’s at stake in Serbia’s election? The key players, main issues and potential fallout About 150,000 supporters of Serbia’s opposition student movement rallied in central Belgrade on Thursday, seeking to oust the party of veteran leader A",
-   "published_at": "2026-10-23T00:22:56Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
-   "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-   "summary": "At 3pm BST / 4pm CEST Friday 23 Oct , Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com , or join the discussion on Friday After weeks of protests and a weekend of riots in which a town hall was ",
-   "published_at": "2026-10-22T16:54:48Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Macron bans ‘illegitimate’ protests in France as he tries to get a grip on unrest",
-   "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
-   "summary": "French president also says he will decide on concrete ‘next steps’ for the next nationwide demonstrations Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases Emmanuel Macron has said “illegitimate” demonstrations will be banned over the coming days as France seeks to get a grip on civil unrest after some of its worst ",
-   "published_at": "2026-10-22T15:54:13Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-   "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
-   "summary": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic missiles just hours after Vladimir Putin said he had agreed to resume trilateral negotiations after talks with the US envoy Stev",
-   "published_at": "2026-10-22T15:46:56Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Shamonda virus detected in human for first time in France",
-   "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
-   "summary": "Investigations under way to determine whether virus normally found in livestock contributed to man’s death A man in France has become the first human known to have contracted Shamonda virus, with investigations under way to explore whether it contributed to his death. Shamonda virus is a type of bunyavirus and is spread by bites from infected midges. Accordi",
-   "published_at": "2026-10-22T15:07:01Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
-   "url": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
-   "summary": "Water and fresh food running out in Taiz as fighting intensifies and Houthi advance cuts off most supply routes The humanitarian crisis in the besieged Yemeni city of Taiz is becoming unmanageable as the city runs out of water, fuel and fresh food, Oxfam aid workers in the country have warned. Iran-allied Houthi forces have largely encircled the city of more",
-   "published_at": "2026-10-21T14:24:02Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Indian court orders release of two leaders of Cockroach movement",
-   "url": "https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown",
-   "summary": "Saurav Das and Ashutosh Ranka spent a week in jail after defying restrictions on protests in Delhi amid government crackdown An Indian court has ordered the release of two leaders of India’s Cockroach movement who were jailed last week amid a mounting state crackdown on youth-led protests. The two leaders of the Cockroach Janta party (CJP) movement, Saurav D",
-   "published_at": "2026-10-21T15:26:25Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Woman charged over shooting of police officer in Nottingham",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/22/woman-arrested-over-shooting-of-police-officer-in-nottingham",
-   "summary": "Aisha Zaman, 27, charged with two firearms offences after incident in city centre on Sunday A 27-year-old woman has been charged after a police officer was shot while attending an incident in Nottingham. Aisha Zaman, from the Hyson Green area of the city, has been charged with possession of a prohibited firearm and possession of that firearm with intent to c",
-   "published_at": "2026-10-22T21:31:31Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
-   "url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
-   "summary": "PM will also announce funding for specialised protective gear and the deployment of military aircraft The UK government is to create an AI Cobra unit to spot wildfires after this year’s record-breaking summer saw devastating blazes across the country. The country experienced its hottest-ever summer this year, with prolonged dry periods and extreme heat fuell",
-   "published_at": "2026-10-22T21:30:50Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Trump defends Ohio Democrat’s estranged mother after Ramaswamy’s widely criticized campaign ad – live",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-   "summary": "Trump defends Amy Acton’s estranged mother, who stayed with her husband charged with raping her daughter, and touts Vivek Ramaswamy’s ‘well coordinated’ attack ad Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad Reporting from Anchorage, Alaska Mary Peltola’s campaign to represent Alaska",
-   "published_at": "2026-10-23T00:24:52Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-   "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
-   "summary": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing The latest shudder for stocks in the AI industry pulled markets lower worldwide on Thursday, while oil prices hit their highest levels since May on worries about the war with Iran . The S P 500 fell 1.2% for its worst day since July, while the Nasda",
-   "published_at": "2026-10-22T21:50:13Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "James Bond finalists to screen-test for role this week – reports",
-   "url": "https://www.theguardian.com/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-lowden",
-   "summary": "Actors in the mix to play 007 in Denis Villeneuve’s installment include Callum Turner and Jack Lowden The search for the next James Bond may finally be nearing its end: according to reports, a very select group of actors will screen-test to become the next British agent 007 this weekend. According to the Hollywood Reporter and Variety , citing several source",
-   "published_at": "2026-10-22T21:16:02Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Tom Skerritt, Alien and Top Gun actor, dies aged 93",
-   "url": "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
-   "summary": "Actor also had roles in M*A*S*H, A River Runs Through It and Picket Fences in career spanning 60 years Tom Skerritt, the actor known for roles in Alien and Top Gun, has died at the age of 93. His publicist confirmed to Variety that he died from natural causes. Continue reading...",
-   "published_at": "2026-10-22T20:19:49Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japan's retailers brace for revamp of tax-free tourist shopping",
-   "url": "https://asia.nikkei.com/business/travel-leisure/japan-s-retailers-brace-for-revamp-of-tax-free-tourist-shopping",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Could Taipei elect its first DPP mayor in more than 30 years?",
-   "url": "https://asia.nikkei.com/opinion/could-taipei-elect-its-first-dpp-mayor-in-more-than-30-years",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "South Korea, US spar over transfer of wartime command",
-   "url": "https://asia.nikkei.com/politics/defense/south-korea-us-spar-over-transfer-of-wartime-command",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "military",
-   "score_hint": 62
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japan's JR East steps up rail-linked retail push in Singapore, Philippines",
-   "url": "https://asia.nikkei.com/business/retail/japan-s-jr-east-steps-up-rail-linked-retail-push-in-singapore-philippines",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Analysis: China defies Mao's support for Japan in Russia islands row",
-   "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-china-defies-mao-s-support-for-japan-in-russia-islands-row",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Micron won't pursue 4F-squared memory chips despite CXMT's advance: CTO",
-   "url": "https://asia.nikkei.com/business/tech/semiconductors/micron-won-t-pursue-4f-squared-memory-chips-despite-cxmt-s-advance-cto",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "GM joins hybrid race late as Toyota gains ground in US",
-   "url": "https://asia.nikkei.com/business/automobiles/gm-joins-hybrid-race-late-as-toyota-gains-ground-in-us",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Europe’s bracing reality on US bond yields",
-   "url": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
-   "summary": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
-   "published_at": "2026-10-22T10:07:31Z",
-   "category_hint": "economy",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
-   "url": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
-   "summary": "Social media group’s market value sinks by $124bn after it says it will raise ‘hundreds of billions of dollars’ in coming years",
-   "published_at": "2026-10-22T20:05:42Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "‘Know Your Agent’ will be the new rule of the AI age",
-   "url": "https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1",
-   "summary": "As autonomous software does more, we need to focus on how to control its behaviour and establish accountability",
-   "published_at": "2026-10-22T14:38:28Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Europe’s moderates must stop treating politics as a spectator sport",
-   "url": "https://www.ft.com/content/b97d2ce4-43b0-4551-8ad8-059abb9d3f3e",
-   "summary": "While centrists have retreated to myriad bubbles, extremists turn up, join up and organise",
-   "published_at": "2026-10-22T12:22:36Z",
-   "category_hint": "economy",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
-   "url": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1",
-   "summary": "Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech",
-   "published_at": "2026-10-22T23:13:15Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Moderna shares sink after leaked cancer data missed expectations",
-   "url": "https://www.ft.com/content/9e59746f-9b63-4adb-b868-14088d638b8a?syn-25a6b1a6=1",
-   "summary": "Melanoma vaccine treatment cut risk of recurrence or death by 58% but failed to exceed Wall Street’s lofty expectations",
-   "published_at": "2026-10-22T21:37:25Z",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Trump ordered to face BBC questioning in $10bn defamation lawsuit",
-   "url": "https://www.ft.com/content/8ada683f-9534-461d-9a3a-fc541550df16?syn-25a6b1a6=1",
-   "summary": "President must appear by December 11 after attending campaign rally on date previously set for his deposition",
-   "published_at": "2026-10-22T18:36:29Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Airfares will not return to pre-Iran war levels, American Airlines warns",
-   "url": "https://www.ft.com/content/d114ce00-f30d-41c6-ac03-71209aa62ee2?syn-25a6b1a6=1",
-   "summary": "Some industry chiefs say travellers should expect a further rise in ticket prices next year",
-   "published_at": "2026-10-22T20:08:50Z",
-   "category_hint": "military",
-   "score_hint": 64
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military",
-   "url": "https://www.ft.com/content/8a558139-2318-4509-8acd-199d5f888b9e?syn-25a6b1a6=1",
-   "summary": "Anduril’s co-founder and entrepreneur Ben Lamm conceived of company to clone and genetically edit working canines",
-   "published_at": "2026-10-22T23:29:39Z",
-   "category_hint": "military",
-   "score_hint": 66
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "U.S. stock futures steady after Nasdaq posts worst day since June",
-   "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
-   "summary": "",
-   "published_at": "2026-10-23T00:23:50Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "1st Source earnings beat by $0.20, revenue topped estimates",
-   "url": "https://www.investing.com/news/earnings/1st-source-earnings-beat-by-020-revenue-topped-estimates-4967862",
-   "summary": "",
-   "published_at": "2026-10-23T00:19:06Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Xai floating rate VP John Spence buys $34,140 in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/xai-floating-rate-vp-john-spence-buys-34140-in-stock-93CH-4967861",
-   "summary": "",
-   "published_at": "2026-10-23T00:16:09Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "SoFi EVP Kelli Keough sells $150,214 of SoFi shares",
-   "url": "https://www.investing.com/news/insider-trading-news/sofi-evp-kelli-keough-sells-150214-of-sofi-shares-93CH-4967860",
-   "summary": "",
-   "published_at": "2026-10-23T00:15:53Z",
-   "category_hint": "economy",
-   "score_hint": 44
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T21:55:04Z",
+ "generated_at": "2026-10-28T00:59:33Z",
  "count": 1200,
- "fresh": 337,
+ "fresh": 333,
  "ok_sources": 18,
  "errors": [
   "Politico: HTTP Error 403: Forbidden",
@@ -26,7 +26,7 @@
    "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
    "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
    "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-   "published_at": "2026-10-27T20:19:53Z",
+   "published_at": "2026-10-27T22:11:08Z",
    "category_hint": "military",
    "score_hint": 60
   },
@@ -53,7 +53,7 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+   "title": "Dutch zookeeper dies after being mauled by leopard",
    "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
    "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
    "published_at": "2026-10-27T19:30:37Z",
@@ -73,10 +73,10 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+   "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
    "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-   "summary": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
-   "published_at": "2026-10-27T21:12:39Z",
+   "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+   "published_at": "2026-10-27T23:41:23Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -193,6 +193,26 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
+   "title": "Watch: What happens now after close vote in Israeli election?",
+   "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+   "published_at": "2026-10-28T00:04:29Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+   "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+   "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+   "published_at": "2026-10-27T20:42:38Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
    "title": "Watch: The Mbappé-Chairman Mao controversy explained",
    "url": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
    "summary": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
@@ -213,30 +233,10 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "Why it could take time for a new Israeli government to form",
-   "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-   "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
-   "published_at": "2026-10-27T08:37:30Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
-   "url": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss",
-   "summary": "It's the first time an English player has lifted the trophy since Michael Owen in 2001.",
-   "published_at": "2026-10-27T07:22:41Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
-   "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
-   "summary": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
-   "published_at": "2026-10-26T18:00:10Z",
+   "title": "Trump v Obama - which president has the star power to get out the vote?",
+   "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
+   "summary": "The BBC's Sarah Smith followed the current and former presidents as both parties hope their biggest names can drive midterm turnout.",
+   "published_at": "2026-10-27T13:59:22Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -281,22 +281,102 @@
    "score_hint": 54
   },
   {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Israel and the US are both going to the polls - the consequences will be global",
-   "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-   "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-   "published_at": "2026-10-26T16:30:34Z",
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
+   "summary": "US envoy Mike Waltz repeatedly told Cuba’s UN team, ‘This is America’, during a heated clash at UN headquarters",
+   "published_at": "2026-10-28T00:25:08Z",
    "category_hint": "policy",
    "score_hint": 48
   },
   {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-   "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
-   "published_at": "2026-10-26T15:37:33Z",
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
+   "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+   "summary": "Gaza film festival highlights women&#039;s resilience through stories of war, loss and survival.",
+   "published_at": "2026-10-27T23:35:51Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "President Lula calls Bolsonaro’s Brazil exit ‘shameful’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
+   "summary": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.",
+   "published_at": "2026-10-27T23:23:42Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "A bad day for Ben-Gvir as he addresses his supporters",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
+   "summary": "Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.",
+   "published_at": "2026-10-27T23:16:38Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "No clear mandate projected in Israel election: What’s next?",
+   "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+   "summary": "President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.",
+   "published_at": "2026-10-27T23:06:47Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Smotrich dances in Israel despite far-right decline",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
+   "summary": "Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined.",
+   "published_at": "2026-10-27T23:03:44Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
+   "summary": "Celebrations erupted in Lod, Kafr Manda and Tayibe after Israeli media exit polls projected a combined 18 Knesset seats",
+   "published_at": "2026-10-27T22:56:32Z",
+   "category_hint": "economy",
+   "score_hint": 54
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
+   "summary": "Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.",
+   "published_at": "2026-10-27T22:31:31Z",
+   "category_hint": "economy",
+   "score_hint": 54
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+   "summary": "Iranian president&#039;s words came at summit for gas exporting countries in Russia.",
+   "published_at": "2026-10-27T22:29:31Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
+   "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
+   "summary": "News comes one day after Brazil&#039;s Supreme Court ordered Bolsonaro to hand over his passports in money-laundering probe.",
+   "published_at": "2026-10-27T21:47:34Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -383,9 +463,9 @@
   {
    "source": "gh_aljazeera",
    "source_name": "Al Jazeera",
-   "title": "Exit polls following Israeli elections indicate no clear winner",
+   "title": "Exit polls signal blow for Netanyahu but no clear winner in Israel election",
    "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
-   "summary": "The official results are due to be published on November 4, more than a week after the vote.",
+   "summary": "Israel&#039;s first election since October 7 appears deadlocked, with neither Netanyahu nor Eisenkot on track for a majority.",
    "published_at": "2026-10-27T20:18:18Z",
    "category_hint": "policy",
    "score_hint": 48
@@ -413,7 +493,7 @@
   {
    "source": "gh_aljazeera",
    "source_name": "Al Jazeera",
-   "title": "Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp",
+   "title": "Israel election results live: Netanyahu, Eisenkot blocs tied in exit polls",
    "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
    "summary": "High turnout in vote widely described as the most consequential in Israel&#039;s history.",
    "published_at": "2026-10-27T19:28:12Z",
@@ -449,106 +529,6 @@
    "published_at": "2026-10-27T18:52:07Z",
    "category_hint": "military",
    "score_hint": 60
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Russia jails IT worker for 13 years for donating money to Ukraine",
-   "url": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss",
-   "summary": "Cryptocurrency exchange Binance shared Ukraine donation data with Russian authorities resulting in his conviction.",
-   "published_at": "2026-10-27T18:42:48Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Rain brings temporary relief as Southeast Asia battles fires and toxic haze",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss",
-   "summary": "Rain has offered brief relief from wildfires in Indonesia, but underground peat fires continue to burn",
-   "published_at": "2026-10-27T18:41:28Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Harry Kane: How the ‘runt of the litter’ conquered a historic Ballon d’Or",
-   "url": "https://www.aljazeera.com/sports/2026/10/27/ballon-dor-harry-kane-england-bayern-munich?traffic_source=rss",
-   "summary": "Once mocked for being the most famous player never to win a trophy, Kane now has the most prestigious individual honour.",
-   "published_at": "2026-10-27T18:38:13Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
-   "url": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss",
-   "summary": "Andre Janones built a WhatsApp army of nearly 11 million subscribers. Did it help Lula win?",
-   "published_at": "2026-10-27T18:35:05Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "‘If they’re honest’: Trump casts latest suspicion on US midterm elections",
-   "url": "https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss",
-   "summary": "Trump&#039;s comments come as his administration files legal challenges to Democrat-led US states over election integrity.",
-   "published_at": "2026-10-27T18:24:13Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Jerusalem Daily: Israeli elections underway",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
-   "summary": "Voting has begun in Israel, with over seven million eligible voters expected at the polls.",
-   "published_at": "2026-10-27T18:12:17Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
-   "url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
-   "summary": "In one social media post, PM Netanyahu accused Arab voters of &#039;raiding the polling stations and stealing the elections&#039;.",
-   "published_at": "2026-10-27T18:11:57Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Protesters storm Serbian pro-Vucic TV station after his loss at polls",
-   "url": "https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss",
-   "summary": "President Vucic called the incident an attack on free speech and the freedom of journalism.",
-   "published_at": "2026-10-27T17:37:51Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Spain deports migrants from Ceuta in move criticised by rights group",
-   "url": "https://www.aljazeera.com/news/2026/10/27/spain-deports-migrants-from-ceuta-in-move-criticised-by-rights-group?traffic_source=rss",
-   "summary": "The deportation was the first of its kind since a mass border crossing into the territory from Morocco in July.",
-   "published_at": "2026-10-27T17:10:58Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Fire engulfs Seoul’s last shanty-town, forcing hundreds to evacuate",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/fire-engulfs-seouls-last-shanty-town-forcing-hundreds-to-evacuate?traffic_source=rss",
-   "summary": "A fire has torn through Guryong Village, Seoul’s last shanty-town, forcing more than 100 people to evacuate.",
-   "published_at": "2026-10-27T17:10:03Z",
-   "category_hint": "policy",
-   "score_hint": 48
   },
   {
    "source": "gh_dw",
@@ -603,6 +583,96 @@
   {
    "source": "gh_scmp",
    "source_name": "SCMP",
+   "title": "Over 1,000 still in Japan shelters 3 months after Kumamoto quake: ‘exhausted all the time’",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3372363/over-1000-still-japan-shelters-3-months-after-kumamoto-quake-exhausted-all-time",
+   "summary": "More than 1,000 people are still taking shelter in evacuation centres, awaiting temporary housing three months after a magnitude 7.1 earthquake struck Japan’s Kumamoto prefecture, damaging their homes. The quake occurred at 4.27pm on July 28. As of Monday, the death toll stood at 38 – 36 from confirmed disaster-related causes and two suspected to be disaster",
+   "published_at": "2026-10-28T00:56:31Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Will China travel hurt American students’ careers? FBI battles fears as talent pipeline stalls",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3372362/will-china-travel-hurt-american-students-careers-fbi-battles-fears-talent-pipeline-stalls",
+   "summary": "An American student considering studying in China attended a briefing with a senior FBI official at a Washington think tank last month to address her concerns about whether such an experience could jeopardise her prospects for a career in the federal government. The official’s message: travelling to China would not automatically disqualify her. She welcomed ",
+   "published_at": "2026-10-28T00:56:18Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "‘Don’t have the illusion’: graduate job ads down 22% as AI rewrites the rules",
+   "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372346/dont-have-illusion-graduate-job-ads-down-22-ai-rewrites-rules",
+   "summary": "Fresh-graduate job postings in Hong Kong fell 22 per cent in the first nine months of this year from the same period in 2025, according to data from one of the city’s biggest job-search platforms, with an industry leader warning that advances in technology will deepen the decline. Its data also showed more graduates chasing fewer jobs: a typical listing for ",
+   "published_at": "2026-10-28T00:30:11Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "China’s battery factories could be sitting right on top of vast lithium deposits",
+   "url": "https://www.scmp.com/news/china/science/article/3372325/chinas-battery-factories-could-be-sitting-right-top-vast-lithium-deposits",
+   "summary": "Lithium deposits formed by ancient volcanic activity may lie beneath parts of China’s battery manufacturing heartland, particularly along the southeastern coast, according to a new study. In an interview with the South China Morning Post, geologist Duan Zheng said that “potential targets for clay-type lithium deposits in southeastern China overlap with lithi",
+   "published_at": "2026-10-28T00:00:26Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Why is the US reluctant to give South Korea wartime control of its troops?",
+   "url": "https://www.scmp.com/week-asia/politics/article/3372297/why-us-reluctant-give-south-korea-wartime-control-its-troops",
+   "summary": "South Korea wants to take back wartime command of its troops from the United States within the next two years, but analysts say Washington is refusing to commit to a date to keep a hold on a military it sees as vital to countering China. The dispute is over wartime operational control, known as OPCON, which the US has held since shortly after the outbreak of",
+   "published_at": "2026-10-28T00:00:21Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Global carmakers search for new China strategy as market share slips below 30%",
+   "url": "https://www.scmp.com/business/china-business/article/3372359/global-carmakers-search-new-china-strategy-market-share-slips-below-30",
+   "summary": "Global carmakers are searching for a way to survive in China’s cutthroat market, as they continue to lose ground to domestic competitors in a landscape that is increasingly tilting towards electric vehicles. International auto brands from Volkswagen to Toyota saw their market share in the Chinese mainland slide once again in the third quarter of the year, as",
+   "published_at": "2026-10-27T23:59:35Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "King Charles arrives in Bahamas, faces demands for reparations: ‘pay us what you owe us’",
+   "url": "https://www.scmp.com/news/world/americas/article/3372358/king-charles-arrives-bahamas-faces-demands-reparations-pay-us-what-you-owe-us",
+   "summary": "Britain’s King Charles arrived in the Bahamas on Tuesday as part of a nine-day trip to the Caribbean, where he faces calls for an apology and slavery reparations. It is his first official visit to the Bahamas as king, with the archipelago’s government closing all public schools on the island of New Providence to welcome him. The Bahamian police and armed for",
+   "published_at": "2026-10-27T23:36:51Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Alexander brothers each get 30 years in prison for drugging, raping women",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3372357/alexander-brothers-each-get-30-years-prison-drugging-raping-women",
+   "summary": "Three once high-flying brothers convicted of exploiting their wealth and access to luxury real estate to drug and rape dozens of women were sentenced on Tuesday to 30 years in prison. US District Judge Valerie E. Caproni announced the punishment for Tal, Oren and Alon Alexander – known collectively as the Alexander Brothers – after 11 accusers spoke in court",
+   "published_at": "2026-10-27T22:26:07Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "How Hong Kong went from a yuan gateway to a complete currency ecosystem",
+   "url": "https://www.scmp.com/business/banking-finance/article/3372292/how-hong-kong-went-yuan-gateway-complete-currency-ecosystem",
+   "summary": "In September, Chief Executive John Lee Ka-chiu unveiled the city’s first five-year plan along with his policy address, highlighting Hong Kong’s strategic role in promoting the greater use of the yuan outside mainland China as a key priority. In the second part of a four-part series on the globalisation of the yuan, Daisy Wu examines Hong Kong’s evolution fro",
+   "published_at": "2026-10-27T22:00:15Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
    "title": "For its autocratic African ally, Taiwan bites its tongue and opens its wallet",
    "url": "https://www.scmp.com/opinion/world-opinion/article/3372115/its-autocratic-african-ally-taiwan-bites-its-tongue-and-opens-its-wallet",
    "summary": "Eswatini probably does not register on most people’s mental maps. Its relatively recent name might sound unfamiliar as many people still know it as Swaziland. That it demands attention from pundits like yours truly has much to do with it being the only African country that still formally recognises Taiwan. It is also the continent’s only absolute monarchy. T",
@@ -633,12 +703,12 @@
   {
    "source": "gh_scmp",
    "source_name": "SCMP",
-   "title": "Israel opposition holds narrow edge over Netanyahu in first election projections",
+   "title": "Israel’s opposition vows to replace Netanyahu, but election yields no clear winner",
    "url": "https://www.scmp.com/news/world/middle-east/article/3372354/israel-exit-polls-show-election-deadlock-netanyahus-fate-balance",
-   "summary": "Israeli voters on Tuesday gave a narrow edge to opposition parties over Prime Minister Benjamin Netanyahu, initial projections showed, after decades-high turnout in the country’s first election since the trauma of the October 7, 2023 attacks. Netanyahu, Israel’s longest-serving prime minister, had run on promises to fight enemies from Hamas to Iran and had s",
+   "summary": "Israel’s opposition candidate Gadi Eisenkot vowed Wednesday to work quickly to form a government, saying voters had rejected Prime Minister Benjamin Netanyahu’s divisive rule, but neither bloc secured a majority in the first election since the October 7 attack. Exit polls showed Eisenkot, a former military chief and political novice, and his opposition bloc ",
    "published_at": "2026-10-27T20:26:06Z",
-   "category_hint": "policy",
-   "score_hint": 46
+   "category_hint": "economy",
+   "score_hint": 52
   },
   {
    "source": "gh_scmp",
@@ -673,9 +743,9 @@
   {
    "source": "gh_scmp",
    "source_name": "SCMP",
-   "title": "Flavio Bolsonaro flees Brazil for US after shock loss to Lula",
+   "title": "Flavio Bolsonaro flees Brazil, will get US visas after shock loss to Lula",
    "url": "https://www.scmp.com/news/world/americas/article/3372350/brazil-wonders-where-earth-flavio-bolsonaro",
-   "summary": "Brazilian Senator Flavio Bolsonaro has ⁠left the country for the ⁠US after losing Sunday’s presidential election and ⁠refusing to comply with a Supreme Court order to hand over his passports, two sources said. The US embassy in Brazil did not immediately respond to a request for comment. Bolsonaro’s lawyer also did not respond. It was not immediately clear w",
+   "summary": "Brazilian Senator Flavio Bolsonaro has left the country ⁠for the US after losing Sunday’s ⁠presidential election, three sources said on Tuesday afternoon, with the ⁠US State Department due to grant him and his family entry visas. Bolsonaro, who has yet to concede to leftist incumbent Luiz Inacio Lula da Silva, left Brazil after refusing to comply with a Supr",
    "published_at": "2026-10-27T17:41:44Z",
    "category_hint": "policy",
    "score_hint": 46
@@ -911,96 +981,6 @@
    "score_hint": 46
   },
   {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Indonesia’s 4-nation defence pact: strategic coup or paper tiger?",
-   "url": "https://www.scmp.com/week-asia/politics/article/3372306/indonesias-4-nation-defence-pact-strategic-coup-or-paper-tiger",
-   "summary": "Indonesia could gain critical defence technology, investment and export opportunities through a new multi-nation defence pact with Turkey, Qatar and Pakistan, but analysts warn its success hinges on turning high-level ambition into concrete projects. The four Muslim-majority nations signed the Badr Memorandum of Understanding in Doha on Wednesday. The agreem",
-   "published_at": "2026-10-27T10:30:06Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "US ends visa waiver for Chinese over birth tourism, people smuggling allegations",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3372309/us-ends-pacific-visa-waiver-over-birth-tourism-people-smuggling-allegations",
-   "summary": "Washington has suspended visa-free entry for Chinese visitors to the Northern Mariana Islands amid allegations of birth tourism and people smuggling in the US territory. The Department of Homeland Security (DHS) announced on Monday the suspension of the Commonwealth of the Northern Mariana Islands (CNMI) Economic Vitality and Security Travel Authorisation Pr",
-   "published_at": "2026-10-27T10:25:59Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Injured Hong Kong delivery rider seeks full trial on employment status question",
-   "url": "https://www.scmp.com/news/hong-kong/society/article/3372308/injured-hong-kong-delivery-rider-seeks-full-trial-employment-status-question",
-   "summary": "A former Deliveroo rider who suffered severe brain injuries in a traffic accident has taken the platform to a Hong Kong court to seek compensation, arguing that resolving the legal question of his employment status at the time of the accident warrants a full trial. In the District Court on Tuesday, Deliveroo’s Hong Kong liquidator applied to strike out the l",
-   "published_at": "2026-10-27T10:20:46Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Fire at Hong Kong’s first incinerator prompts calls to rethink waste strategy",
-   "url": "https://www.scmp.com/news/hong-kong/society/article/3372305/fire-hong-kongs-first-incinerator-prompts-calls-rethink-waste-strategy",
-   "summary": "The abrupt suspension of Hong Kong’s first waste-to-energy incinerator after a fire is a stark warning against relying too heavily on the HK$31.3 billion (US$4 billion) plant, environmentalists have said, while a former lawmaker has urged the government to keep its landfill-free timetable on track. Monday’s blaze broke out on the roof of the third incinerati",
-   "published_at": "2026-10-27T10:11:35Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Greenhouse gas levels hit record highs, climate impact to last centuries: UN",
-   "url": "https://www.scmp.com/news/world/article/3372304/greenhouse-gas-levels-hit-record-highs-climate-impact-will-last-centuries-un",
-   "summary": "Greenhouse gas concentrations in the atmosphere rose to record highs in 2025, locking in climate impact that will persist for centuries to come, the United Nations said on Tuesday. Levels of the three main greenhouse gases – the climate-warming carbon dioxide, methane and nitrous oxide – all rose to unprecedented figures in 2025, the UN’s weather and climate",
-   "published_at": "2026-10-27T10:08:33Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Football star Kylian Mbappe faces huge China backlash over ‘unacceptable’ remark",
-   "url": "https://www.scmp.com/economy/china-economy/article/3372298/football-star-kylian-mbappe-faces-huge-china-backlash-over-unacceptable-remark",
-   "summary": "French football superstar Kylian Mbappe has issued an apology after an “ill-judged” comment about China sparked intense backlash on social media and led a string of major Chinese brands to cut ties with him. After a video began circulating widely online that appeared to show the France and Real Madrid striker making a controversial remark about former Chines",
-   "published_at": "2026-10-27T10:00:17Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "China eatery creates egg tarts topped with ‘giant cockroaches’, drawing widespread curiosity",
-   "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372291/china-eatery-creates-egg-tarts-topped-giant-cockroaches-drawing-widespread-curiosity",
-   "summary": "A restaurant in Shunde, Guangdong, is turning heads online with a bizarre new dessert: egg tarts topped with crispy water beetles that look exactly like gigantic cockroaches. Shunde is a city known for its Cantonese cuisine and recognised as a Unesco Creative City of Gastronomy. In early October, it introduced a new “water roach egg tart”, priced at 28 yuan ",
-   "published_at": "2026-10-27T10:00:14Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Air Force crash revives debate on Philippine military’s modernisation limits",
-   "url": "https://www.scmp.com/week-asia/politics/article/3372299/air-force-crash-revives-debate-philippine-militarys-modernisation-limits",
-   "summary": "The collision of two Philippine Air Force training aircraft that killed four pilots has raised questions about whether the service’s training, maintenance and safety systems can keep pace with Manila’s ambitions to acquire more advanced combat aircraft. The crash, which occurred during a fly-by rehearsal at Fernando Air Base in Lipa City, Batangas province, ",
-   "published_at": "2026-10-27T09:45:50Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Fragile India-China thaw tested by reported fresh Himalayan border face-offs",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3372296/fragile-india-china-thaw-tested-reported-fresh-himalayan-border-face-offs",
-   "summary": "A fragile rapprochement between China and India is facing a renewed test following reports of military face-offs along their hotly contested border. Shatrujeet Kapur, director general of the Indo-Tibetan Border Police (ITBP), said last week that confrontations with Chinese troops were “continuing at multiple locations along the Arunachal Pradesh border”. “In",
-   "published_at": "2026-10-27T09:25:48Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
    "source": "gh_nyt",
    "source_name": "NYT World",
    "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
@@ -1013,10 +993,10 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "Live Updates: Opposition Parties Ahead of Netanyahu’s Coalition in Israeli Exit Polls",
+   "title": "Live Updates: Exit Polls Suggest No Clear Winner in Pivotal Israeli Election",
    "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-   "summary": "No clear winner emerged in pivotal parliamentary elections. A bloc of parties led by a former Army chief of staff is trying to unseat Prime Minister Benjamin Netanyahu’s Likud party and his allies.",
-   "published_at": "2026-10-27T21:48:33Z",
+   "summary": "A bloc of parties led by the former military chief Gadi Eisenkot is trying to unseat Prime Minister Benjamin Netanyahu and his right-wing allies. Vote counting continues after a day of strong voter turnout.",
+   "published_at": "2026-10-28T00:56:56Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1086,7 +1066,7 @@
    "title": "King Charles Faces High Stakes Test With Caribbean Tour",
    "url": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
    "summary": "The king will confront calls for reparations and apologies for his country’s colonial past as he attends the Commonwealth heads of government meeting.",
-   "published_at": "2026-10-27T12:02:49Z",
+   "published_at": "2026-10-27T23:39:58Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1143,6 +1123,16 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
+   "title": "Arab Parties’ Strong Showing May Bring Role in Formation of Israel’s Next Government",
+   "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
+   "summary": "Voters supporting two leading Arab parties turned out in record numbers to voice their opposition to the Netanyahu government.",
+   "published_at": "2026-10-28T00:56:54Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
    "title": "Tensions Between North and South Korea Stem From Decade-Old Border Dispute",
    "url": "https://www.nytimes.com/2026/10/27/world/asia/korea-tensions-border-dmz-mdl.html",
    "summary": "A heated disagreement over recent land mine explosions is part of the legacy of the truce that halted the Korean War 73 years ago.",
@@ -1166,7 +1156,7 @@
    "title": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
    "url": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
    "summary": "The U.S. plans to issue a visa to Mr. Bolsonaro, a U.S. official said. Brazilian police had asked him to hand over his passports because of his links to an investigation.",
-   "published_at": "2026-10-27T21:41:43Z",
+   "published_at": "2026-10-28T00:26:51Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1193,10 +1183,10 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "Israelis Surge to Polls With Nation’s Future on the Ballot",
+   "title": "Israeli Voting Ends After Strong Turnout With No Clear Winner",
    "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israeli-election-turnout.html",
-   "summary": "As Prime Minister Benjamin Netanyahu and his right-wing allies fought to remain in power, voter turnout, especially among Israeli Arabs, hit a new high.",
-   "published_at": "2026-10-27T19:42:33Z",
+   "summary": "A bloc of opposition parties held a lead over Prime Minister Benjamin Netanyahu’s coalition, according to exit polls. But it could take weeks or even months to form a new government.",
+   "published_at": "2026-10-27T23:03:21Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1276,7 +1266,7 @@
    "title": "Israeli Election Authorities and Volunteers Seek to Counter Threats to Voting",
    "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israeli-election-authorities-and-volunteers-seek-to-counter-threats-to-voting.html",
    "summary": "Election observers point to risks including the growing sophistication and prevalence of A.I.-generated content and senior government officials who have repeatedly suggested the results could be rigged.",
-   "published_at": "2026-10-27T15:50:05Z",
+   "published_at": "2026-10-27T22:41:26Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1356,7 +1346,7 @@
    "title": "Here’s the latest.",
    "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
    "summary": "",
-   "published_at": "2026-10-27T21:44:58Z",
+   "published_at": "2026-10-28T00:34:33Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1391,16 +1381,6 @@
    "score_hint": 50
   },
   {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "France Makes Concessions to Students, but Not Enough to Halt Protests",
-   "url": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
-   "summary": "The government promised to phase out an unpopular university admissions system by 2028. Student groups are pushing for more.",
-   "published_at": "2026-10-27T01:59:55Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
    "source": "gh_guardian",
    "source_name": "Guardian World",
    "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
@@ -1413,22 +1393,32 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-   "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-   "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy? The water was rising rapidly. It had already reached Cayni Ali’s waist. Her home, five metres from the flooded River Juba in southern Som",
-   "published_at": "2026-10-26T11:00:40Z",
+   "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+   "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+   "summary": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour. The king arrived in the Bahamas to a ceremonial welcome and attended a youth rally at Clifford Park, the site where ",
+   "published_at": "2026-10-28T00:07:22Z",
    "category_hint": "policy",
    "score_hint": 46
   },
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-   "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-   "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese army Sudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across the country’s east, a government official said. The drones hit two power stations each in the states of Al-Jazira and Geda",
-   "published_at": "2026-10-26T09:59:27Z",
-   "category_hint": "military",
-   "score_hint": 58
+   "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+   "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+   "summary": "President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’ Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed had “one million barrels of oil on it” from the country, nine months after deposing its president. At ",
+   "published_at": "2026-10-27T23:07:06Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+   "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+   "summary": "Far-right senator en route to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”. A report by the news webs",
+   "published_at": "2026-10-27T22:03:00Z",
+   "category_hint": "policy",
+   "score_hint": 46
   },
   {
    "source": "gh_guardian",
@@ -1443,42 +1433,12 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
-   "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-   "summary": "Far-right senator on plane to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva. A report by the news website Metrópoles , citing people ",
-   "published_at": "2026-10-27T18:27:32Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
    "title": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
    "url": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
    "summary": "US military says it carried out an airstrike on an alleged drug-trafficking boat in latest attack in region The US ⁠military ⁠ said on ​Tuesday ⁠it killed ⁠five ​people ‌after ‌an airstrike on a ‌suspected drug-trafficking vessel in ​the ⁠eastern Pacific. Tuesday’s strike was among more than 70 such attacks since the beginning of Donald Trump’s second presid",
    "published_at": "2026-10-27T17:35:50Z",
    "category_hint": "military",
    "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your questions",
-   "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-   "summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. The Guardian’s Latin America corrrespondent Tom Phillips answered your questions on what’s next for Brazil. Jeremy Hurley asks: Why did the Brazil stock market tank after the election re",
-   "published_at": "2026-10-27T16:46:23Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
-   "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
-   "summary": "Far-right senator banned from leaving country as supreme court judge’s ruling cites money-laundering case The far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his dramatic loss in the presidential election to the leftist president Luiz Inácio Lula da Silva. The ruling was issued by Alex",
-   "published_at": "2026-10-26T23:02:17Z",
-   "category_hint": "policy",
-   "score_hint": 46
   },
   {
    "source": "gh_guardian",
@@ -1513,12 +1473,32 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; Labor says One Nation should justify Bluey ‘satire’",
+   "title": "Politics live: Inflation rises to 4.3%, increasing rate hike fears; Hanson calls Chalmers and staff ‘hypocrites’",
    "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
    "summary": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a conv",
-   "published_at": "2026-10-27T21:47:41Z",
+   "published_at": "2026-10-28T00:49:45Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "‘I use disposable cups’: Chris Minns backflips on takeaway coffee cups after media and business backlash",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/28/chris-minns-backflips-disposable-coffee-cups-nsw-politics",
+   "summary": "Legislation requiring mugs to be offered when people drink at cafes, to be scrapped with environment minister stating ‘we need to clear this up’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast The New South Wales government has backflipped on its plan to force cafes to offer customers",
+   "published_at": "2026-10-28T00:38:27Z",
    "category_hint": "policy",
    "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+   "summary": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost of living crisis Australia’s headline inflation rate has accelerated to 4.3%, with a key gauge that strips out volatile prices also elevated, sharpening expectations of another interest rate rise next week. The Reserve Bank of Australia’s preferred mea",
+   "published_at": "2026-10-28T00:36:39Z",
+   "category_hint": "economy",
+   "score_hint": 52
   },
   {
    "source": "gh_guardian",
@@ -1539,26 +1519,6 @@
    "published_at": "2026-10-27T14:00:36Z",
    "category_hint": "policy",
    "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Guardian Essential poll: One Nation and Labor’s primary vote on par as discontent with Albanese rises",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/28/guardian-essential-poll-labor-albanese-one-nation-hanson-coalition-ntwnfb",
-   "summary": "Prime minister’s disapproval rating increases to 56%, the equal highest in Essential polls since he took the job in 2022 Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast One Nation’s primary vote is back on par with Labor in the latest Guardian Essential poll, with Anthony Albanese’s p",
-   "published_at": "2026-10-27T14:00:32Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "‘Are you waiting for me to be attacked?’ Fatima Payman slams PM over staffing",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb",
-   "summary": "Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Anthony Albanese has promised a “swift government response” to safety threats to MPs and floated the provision of duress alarms for electorate offi",
-   "published_at": "2026-10-27T12:18:15Z",
-   "category_hint": "military",
-   "score_hint": 58
   },
   {
    "source": "gh_guardian",
@@ -1595,7 +1555,7 @@
    "source_name": "Guardian World",
    "title": "UK officials discussing options including free movement with EU ahead of summit",
    "url": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
-   "summary": "Business secretary says focus for November summit will be trade and youth mobility, but talks will also include ‘future options for relationship’ UK politics live – latest updates British officials have begun discussions with the EU about a long-term relationship that could include a return to free movement, the business secretary has said while promising th",
+   "summary": "Business secretary says focus for November summit will be trade and youth mobility, but talks will also include ‘future options for relationship’ British officials have begun discussions with the EU about a long-term relationship that could include a return to free movement, the business secretary has said while promising the British people “are the boss” wh",
    "published_at": "2026-10-27T09:41:15Z",
    "category_hint": "policy",
    "score_hint": 46
@@ -1613,10 +1573,20 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Israel election live: exit polls project no clear winner, as anti-Netanyahu bloc leads but Likud remains biggest party",
+   "title": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls",
    "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-   "summary": "Israel’s major TV stations project majority of Israelis have voted against Netanyahu’s coalition, but his Likud party has emerged as largest party Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of tho",
-   "published_at": "2026-10-27T21:48:21Z",
+   "summary": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposition grouping, with both on 51 seats, as Palestinian parties surge Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Across Israel , votin",
+   "published_at": "2026-10-28T00:29:26Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
+   "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+   "summary": "Exit polls indicate opposition leader Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing Israeli elections: live updates The big gains made by Palestinian parties in Israel’s general election pose an urgent and fundamental challenge to the country’s mainstream opposition: either cooperate with Arab Israelis or hand Benjamin",
+   "published_at": "2026-10-27T23:57:50Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1625,7 +1595,7 @@
    "source_name": "Guardian World",
    "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
    "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
-   "summary": "Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Israel’s election was too close to call on Tuesday night after a historic turnout by voters for an election described by some as the most consequential in the country’s history, and marked by a record participation by",
+   "summary": "Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Israel’s election appeared to have delivered no clear winner on Tuesday night after a historic turnout by voters for an election describe",
    "published_at": "2026-10-27T20:56:23Z",
    "category_hint": "policy",
    "score_hint": 46
@@ -1653,20 +1623,30 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Jordan attacks militants in Syria in retaliation for church attack",
-   "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-   "summary": "Jordanian air force says it carried out strikes against ‘terrorist groups’ tied to killing of nine during funeral Jordan has carried out airstrikes against armed groups in Syria in retaliation for Friday’s attack on a Greek Orthodox church in the southern Jordanian governorate of Karak that killed nine people, the Jordanian air force has said in a statement.",
-   "published_at": "2026-10-26T22:08:38Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
    "title": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
    "url": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
    "summary": "Rubio’s decision not to meet Narendra Modi last week was seen by some as a snub – but by focusing on business leaders and oil, the secretary of state made American priorities clear. Plus: the artist bringing a female perspective to men’s clothing • Don’t get This is India delivered to your inbox? Sign up here When the US secretary of state, Marco Rubio, visi",
    "published_at": "2026-10-27T09:21:33Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Chancellor targets cost of living crisis in budget for a ‘difficult moment’",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending",
+   "summary": "Healey hopes to give ‘hope for the future’ but only modest policies are expected with important decisions deferred John Healey has acknowledged the UK faces a “difficult moment” but insisted he would put the country on a better path as he delivers his first budget on Wednesday against a turbulent global economic backdrop. But despite the international uncert",
+   "published_at": "2026-10-27T22:34:33Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+   "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+   "summary": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds AI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposable vapes. Three-quarters of all the responses to the 2023 consultation on the tobacco and vapes bill ",
+   "published_at": "2026-10-27T22:30:45Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1683,7 +1663,7 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Unpaid carers say chancellor’s plan to scrap allowance cliff edge falls short",
+   "title": "Change to carer’s allowance cliff-edge rule is not enough, victims say",
    "url": "https://www.theguardian.com/society/2026/oct/27/unpaid-carers-chancellor-plan-scrap-allowance-cliff-edge-falls-short-budget",
    "summary": "Digital taper system for benefit expected in budget, but those already hit with overpayments will still have to pay “On the surface it sounds really positive – and I really hope that it is,” says unpaid carer Guy Shahar of the government’s decision to abolish the notorious carer’s allowance cliff edge . But Shahar is angry that most carers hit with unjust ov",
    "published_at": "2026-10-27T19:48:53Z",
@@ -1703,72 +1683,82 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Rosebank oilfield would not breach UK emission targets, say government insiders",
-   "url": "https://www.theguardian.com/environment/2026/oct/27/rosebank-oilfield-north-sea-uk-emissions-targets-insiders",
-   "summary": "Emissions from exported oil would not count against carbon budget, insiders say – reasoning likely to draw dismay from climate campaigners The giant Rosebank oilfield can be approved without breaching the UK’s emission targets, according to government insiders, in a boost to those in the cabinet who are pushing for it to be given the go-ahead. The Guardian r",
-   "published_at": "2026-10-27T19:17:55Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Parents inflicted fatal physical and sexual abuse on their baby, Warwick court hears",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/27/parents-inflicted-fatal-physical-and-sexual-abuse-their-baby-warwick-court-hears",
-   "summary": "Michal Stasiak and Kinga Wydrzynska pleaded not guilty to 11 counts relating to death of 13-month-old Isabella Stasiak A 13-month-old girl was subjected to physical and sexual abuse at the hands of her parents before she was fatally injured by her mother, a court has heard. Michal Stasiak, 28, and Kinga Wydrzynska, 26, appeared at Warwick crown court on Tues",
-   "published_at": "2026-10-27T19:05:57Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
    "title": "Trump, campaigning in Texas for Republicans, touts Iran war and ‘51st state’ Venezuela: ‘I knew that oil would go up’ – live",
    "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
    "summary": "Trump says ‘I actually thought [oil] would go up two or three time higher, and I was still willing to [go to war with Iran]’ Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speaking to reporters on the tarmac before departing for a campaign event in Michigan, JD Vance responded to a question about President Trump’",
-   "published_at": "2026-10-27T21:42:46Z",
+   "published_at": "2026-10-28T00:22:40Z",
    "category_hint": "military",
    "score_hint": 64
   },
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction",
-   "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
-   "summary": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it one of the world’s most expensive fossils. The skeleton, named “Jodi” after the person who found th",
-   "published_at": "2026-10-27T21:40:13Z",
+   "title": "Danny Masterson loses appeal against rape conviction after arguing judge was biased against Scientology",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/oct/28/danny-masterson-loses-scientology-bias-appeal-ntwnfb",
+   "summary": "That ’70s Show actor was sentenced to 30 years in prison for two counts of rape against two women, who were also Scientologists Danny Masterson has lost the appeal of his rape conviction, meaning his 30-year prison sentence has been upheld. The actor, best known for his role on That ’70s Show, was convicted in 2023 of two counts of rape against two women in ",
+   "published_at": "2026-10-28T00:22:32Z",
    "category_hint": "policy",
    "score_hint": 46
   },
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
-   "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
-   "summary": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather events Sweeping cuts to the premier US climate agency under Donald Trump have severely hampered the country’s capacity to forecast, research and respond to extreme weather events, former government officials and scientis",
-   "published_at": "2026-10-27T21:34:54Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "JD Vance steps up extreme attacks on Democratic Senate candidate Abdul El-Sayed",
-   "url": "https://www.theguardian.com/us-news/2026/oct/27/jd-vance-el-sayed-attacks",
-   "summary": "Vice-president tries to link El-Sayed to Paris protests and claims he would lead rioters in ‘burning down’ Detroit JD Vance has escalated his inflammatory attacks on Abdul El-Sayed, the Democratic candidate for US Senate in Michigan who has faced an onslaught of Islamophobia, claiming he would lead rioters in “burning down” Detroit. El-Sayed, who would becom",
-   "published_at": "2026-10-27T21:30:59Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Alexander brothers each sentenced to 30 years for drugging and raping dozens of women",
-   "url": "https://www.theguardian.com/us-news/2026/oct/27/oren-alon-tal-alexander-sentenced-sex-trafficking",
-   "summary": "Oren, Alon and Tal Alexander sentenced to prison in New York after being convicted in sex trafficking case Three Florida brothers who exploited the wealth and influence of their family’s luxury real estate business to drug and rape dozens of women were each sentenced to 30 years in prison in New York on Tuesday for sex trafficking. Twins Oren and Alon Alexan",
-   "published_at": "2026-10-27T20:45:59Z",
+   "title": "DNA links serial killer Ted Bundy to 1974 murder of Utah girl",
+   "url": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder",
+   "summary": "Discovery comes months after Utah county detectives confirmed that Bundy had killed another Utah girl that year The notorious serial killer Ted Bundy has been found responsible, through DNA evidence, for the murder of a 17-year-old Utah girl who went missing in 1974 before her nude body was found days later, state authorities announced at a Tuesday news conf",
+   "published_at": "2026-10-27T23:52:55Z",
    "category_hint": "policy",
    "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Body of missing California hiker recovered on Mount Whitney",
+   "url": "https://www.theguardian.com/us-news/2026/oct/27/california-missing-hiker-mount-whitney",
+   "summary": "Hazardous storm conditions delayed retrieval efforts on mountain that has proved to be a perilous hiking spot The body of a missing California hiker, blanketed in a layer of snow, was recovered on Mount Whitney on Sunday after a blustery storm delayed retrieval operations for five days. The Inyo county sheriff’s office extended its condolences to the loved o",
+   "published_at": "2026-10-27T23:39:17Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "‘Shameful’: Alex Pretti’s parents accuse Trump officials of shielding son’s killers",
+   "url": "https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing",
+   "summary": "Susan and Michael Pretti say they have been ‘ignored and misled’ in quest for justice over son’s killing by US agents The parents of Alex Pretti, the 37-year-old nurse killed by federal immigration agents in Minneapolis earlier this year, accused federal officials of stonewalling them and shielding their son’s killers. During a press conference on Tuesday, M",
+   "published_at": "2026-10-27T23:25:50Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "With China having fewer kids, dairies rethink milk for adults",
+   "url": "https://asia.nikkei.com/business/food-beverage/with-china-having-fewer-kids-dairies-rethink-milk-for-adults",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Statesman: Stephen Schwarzman (27)",
+   "url": "https://asia.nikkei.com/spotlight/my-personal-history/statesman-stephen-schwarzman-27",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "military",
+   "score_hint": 62
   },
   {
    "source": "gh_nikkei",
@@ -2141,62 +2131,22 @@
    "score_hint": 50
   },
   {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japan to team with Germany on fusion energy project, including power plant",
-   "url": "https://asia.nikkei.com/business/energy/japan-to-team-with-germany-on-fusion-energy-project-including-power-plant",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japan to back perovskite solar cell mass production with $640m in subsidies",
-   "url": "https://asia.nikkei.com/business/energy/japan-to-back-perovskite-solar-cell-mass-production-with-640m-in-subsidies",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Australian insurer Challenger rejects Daiichi Life unit's takeover bid",
-   "url": "https://asia.nikkei.com/business/business-deals/australian-insurer-challenger-rejects-daiichi-life-unit-s-takeover-bid",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
    "source": "gh_ft",
    "source_name": "Financial Times",
    "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
    "url": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
    "summary": "Gadi Eisenkot’s bloc slightly ahead of Benjamin Netanyahu’s coalition, but neither forecast to secure a majority, according to TV surveys",
-   "published_at": "2026-10-27T21:37:38Z",
+   "published_at": "2026-10-27T23:50:27Z",
    "category_hint": "economy",
    "score_hint": 52
   },
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
-   "title": "Israel election turnout highest in decades",
-   "url": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
-   "summary": "First vote since October 7 2023 attack pits Netanyahu’s far-right coalition against opposition bloc in knife-edge contest",
-   "published_at": "2026-10-27T19:13:09Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Dirty tricks and Maga theatrics shake up bruising battle for Texas Senate",
-   "url": "https://www.ft.com/content/e9475864-d8ae-401e-8a3e-e3a7fa75f0c1?syn-25a6b1a6=1",
-   "summary": "Scandal-prone Trump pick goes head-to-head with seminarian Democrat in race that could determine control of the upper house of Congress",
-   "published_at": "2026-10-27T11:00:08Z",
+   "title": "Washington to issue Flávio Bolsonaro US visa after election loss",
+   "url": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1",
+   "summary": "Defeated rightwing presidential candidate is under investigation by Brazilian police over alleged corruption and money laundering",
+   "published_at": "2026-10-27T21:41:13Z",
    "category_hint": "economy",
    "score_hint": 52
   },
@@ -2223,40 +2173,10 @@
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
-   "title": "Washington to issue Flávio Bolsonaro US visa after election loss",
-   "url": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1",
-   "summary": "Defeated rightwing presidential candidate is under investigation by Brazilian police over alleged corruption and money laundering",
-   "published_at": "2026-10-27T21:41:13Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Lula faces a fiscal reckoning after Brazil’s market rout",
-   "url": "https://www.ft.com/content/0231b234-14dc-4ff0-8263-e1063b0a25d5?syn-25a6b1a6=1",
-   "summary": "Concerns about management of economy trigger worst day for currency in more than 25 years",
-   "published_at": "2026-10-27T13:15:18Z",
-   "category_hint": "economy",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
    "title": "Law firm Weil prepares for possible wind-down as crisis deepens",
    "url": "https://www.ft.com/content/69ccfcb0-3f5e-4b77-9e04-a386e827b872?syn-25a6b1a6=1",
    "summary": "Big Law powerhouse working with Davis Polk on options that also include last-minute merger or slimmed-down entity",
    "published_at": "2026-10-27T18:06:33Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems",
-   "url": "https://www.ft.com/content/324875fb-8631-4339-8516-6057de9ac085?syn-25a6b1a6=1",
-   "summary": "Claims of flaws in Big Tech company’s first foldable smartphone are a setback for new chief executive John Ternus",
-   "published_at": "2026-10-27T17:55:41Z",
    "category_hint": "economy",
    "score_hint": 52
   },
@@ -2281,104 +2201,164 @@
    "score_hint": 52
   },
   {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems",
+   "url": "https://www.ft.com/content/324875fb-8631-4339-8516-6057de9ac085?syn-25a6b1a6=1",
+   "summary": "Claims of flaws in Big Tech company’s first foldable smartphone are a setback for new chief executive John Ternus",
+   "published_at": "2026-10-27T17:55:41Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Healey to reverse cuts to cash Isa allowance",
+   "url": "https://www.ft.com/content/619978f5-4400-4bf0-8b1f-4cf62bee9774?syn-25a6b1a6=1",
+   "summary": "Chancellor will use Wednesday’s Budget to maintain tax-free limit at £20,000 a year, reversing plan by predecessor Rachel Reeves",
+   "published_at": "2026-10-27T22:39:52Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Healey puts UK energy reform at centre of his ‘do no harm’ Budget",
+   "url": "https://www.ft.com/content/427a7624-d710-4078-9a7e-d23fdb0b2975?syn-25a6b1a6=1",
+   "summary": "Chancellor to pledge extra support for businesses, entrepreneurs and households during ‘difficult moment’",
+   "published_at": "2026-10-27T23:35:42Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "BNP Paribas Exane cuts Itron stock price target on valuation shift",
-   "url": "https://www.investing.com/news/analyst-ratings/bnp-paribas-exane-cuts-itron-stock-price-target-on-valuation-shift-93CH-4977092",
+   "title": "U.S. stock futures flat with Fed rate decision, megacap tech earnings on tap",
+   "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-with-fed-rate-decision-megacap-tech-earnings-on-tap-4977314",
    "summary": "",
-   "published_at": "2026-10-27T21:34:57Z",
+   "published_at": "2026-10-28T00:53:02Z",
    "category_hint": "economy",
    "score_hint": 50
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "First Busey earnings missed by $0.04, revenue fell short of estimates",
-   "url": "https://www.investing.com/news/earnings/first-busey-earnings-missed-by-004-revenue-fell-short-of-estimates-4977090",
+   "title": "Earnings call transcript: Boss Energy Q1 2026 revenue beats as shares jump 9%",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-boss-energy-q1-2026-revenue-beats-as-shares-jump-9-93CH-4977313",
    "summary": "",
-   "published_at": "2026-10-27T21:32:45Z",
+   "published_at": "2026-10-28T00:52:56Z",
    "category_hint": "economy",
    "score_hint": 50
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "LPL Financial earnings beat by $0.30, revenue fell short of estimates",
-   "url": "https://www.investing.com/news/earnings/lpl-financial-earnings-beat-by-030-revenue-fell-short-of-estimates-4977091",
+   "title": "Australia Q3 inflation quickens, bolstering RBA rate hike case",
+   "url": "https://www.investing.com/news/economic-indicators/australia-q3-inflation-quickens-bolstering-rba-rate-hike-case-4977312",
    "summary": "",
-   "published_at": "2026-10-27T21:32:45Z",
+   "published_at": "2026-10-28T00:51:41Z",
    "category_hint": "economy",
    "score_hint": 50
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Earnings call transcript: Ultra Clean Technology tops Q3 2026 estimates",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ultra-clean-technology-tops-q3-2026-estimates-93CH-4977089",
+   "title": "TOP Ships announces 1-for-10 reverse stock split effective Nov. 6",
+   "url": "https://www.investing.com/news/company-news/top-ships-announces-1for10-reverse-stock-split-effective-nov-6-93CH-4977311",
    "summary": "",
-   "published_at": "2026-10-27T21:31:58Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Spero Therapeutics COO Timothy Keutzer to retire at year-end, will serve as consultant",
-   "url": "https://www.investing.com/news/sec-filings/spero-therapeutics-coo-timothy-keutzer-to-retire-at-yearend-will-serve-as-consultant-93CH-4977088",
-   "summary": "",
-   "published_at": "2026-10-27T21:31:57Z",
+   "published_at": "2026-10-28T00:48:28Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Walmart’s margins in Mexico tighten as costs outpace sales growth",
-   "url": "https://www.investing.com/news/stock-market-news/walmarts-margins-in-mexico-tighten-as-costs-outpace-sales-growth-4977085",
+   "title": "Earnings call transcript: Woolworths Group posts strong Q1 2026 sales growth",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-woolworths-group-posts-strong-q1-2026-sales-growth-93CH-4977304",
    "summary": "",
-   "published_at": "2026-10-27T21:30:36Z",
+   "published_at": "2026-10-28T00:34:15Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Macom senior VP and CFO Kober sells $242,988 in company stock",
+   "url": "https://www.investing.com/news/insider-trading-news/macom-senior-vp-and-cfo-kober-sells-242988-in-company-stock-93CH-4977303",
+   "summary": "",
+   "published_at": "2026-10-28T00:30:51Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.35%",
-   "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-035-4977075",
+   "title": "Dollar holds gains ahead of Fed policy signal, RBNZ decision",
+   "url": "https://www.investing.com/news/economy-news/dollar-holds-gains-ahead-of-fed-policy-signal-rbnz-decision-4977299",
    "summary": "",
-   "published_at": "2026-10-27T21:30:04Z",
+   "published_at": "2026-10-28T00:24:44Z",
    "category_hint": "economy",
    "score_hint": 50
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Earnings call transcript: NXP beats Q3 2026 estimates but shares fall after hours",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nxp-beats-q3-2026-estimates-but-shares-fall-after-hours-93CH-4977074",
+   "title": "Block director Anthony Eisen sells $1.37 million in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-137-million-in-stock-93CH-4977296",
    "summary": "",
-   "published_at": "2026-10-27T21:29:36Z",
+   "published_at": "2026-10-28T00:21:24Z",
    "category_hint": "economy",
-   "score_hint": 50
+   "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Goldman Sachs cuts Innio stock price target on raised estimates",
-   "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-innio-stock-price-target-on-raised-estimates-93CH-4977073",
+   "title": "betr Q1 FY27 slides: turnover surges 19%, margin pressure eases",
+   "url": "https://www.investing.com/news/company-news/betr-q1-fy27-slides-turnover-surges-19-margin-pressure-eases-93CH-4977291",
    "summary": "",
-   "published_at": "2026-10-27T21:28:55Z",
+   "published_at": "2026-10-28T00:18:09Z",
    "category_hint": "economy",
-   "score_hint": 50
+   "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Earnings call transcript: Manhattan Associates tops Q3 2026 forecasts, stock jumps",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-manhattan-associates-tops-q3-2026-forecasts-stock-jumps-93CH-4977072",
+   "title": "Aurelia Metals Q1 FY27 slides: record cash flow, production surge",
+   "url": "https://www.investing.com/news/company-news/aurelia-metals-q1-fy27-slides-record-cash-flow-production-surge-93CH-4977290",
    "summary": "",
-   "published_at": "2026-10-27T21:27:46Z",
+   "published_at": "2026-10-28T00:17:17Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "America Produces Less Than 1% of the Rare Earth Magnets It Needs",
+   "url": "https://oilprice.com/Energy/Energy-General/America-Produces-Less-Than-1-of-the-Rare-Earth-Magnets-It-Needs.html",
+   "summary": "China’s ongoing weaponization of rare earths, which has now been bolstered to include measures to keep individuals with sensitive technological knowledge from leaving the country, gives it leverage over a $1.5 trillion U.S. civilian economy that depends on permanent magnets. The Pentagon has spent years preparing for life without Chinese rare earths, but the",
+   "published_at": "2026-10-28T00:00:00Z",
    "category_hint": "economy",
    "score_hint": 50
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Americans Hit Hardest by War-Driven Oil Price Surge",
+   "url": "https://oilprice.com/Energy/Crude-Oil/Americans-Hit-Hardest-by-War-Driven-Oil-Price-Surge.html",
+   "summary": "Americans are paying the biggest portion of global energy price inflation resulting from the war in the Middle East, a Finnish energy and climate outlet has reported. Estimating the global total in fuel inflation at $468 billion, the Centre for Research on Energy and Clean Air said the U.S. portion of this total stood at $160 billion. On a per-capita basis, ",
+   "published_at": "2026-10-27T23:00:00Z",
+   "category_hint": "military",
+   "score_hint": 68
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Will Rubio’s Jamnagar Move Permanently Break The Russia-India Oil Axis?",
+   "url": "https://oilprice.com/Energy/Energy-General/Will-Rubios-Jamnagar-Move-Permanently-Break-The-Russia-India-Oil-Axis.html",
+   "summary": "The announcement by India’s largest private refiner Reliance Industries Ltd that it is open to collaborating with U.S. companies across oil, gas and clean energy, including in Venezuela, is a welcome signal to Washington that all is not lost in its ongoing attempts to utilise the Asian subcontinent as a key economic, political and military counterpoint to Ch",
+   "published_at": "2026-10-27T22:00:00Z",
+   "category_hint": "economy",
+   "score_hint": 56
   },
   {
    "source": "gh_oilprice",
@@ -2499,36 +2479,6 @@
    "published_at": "2026-10-27T14:30:00Z",
    "category_hint": "economy",
    "score_hint": 56
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters",
-   "url": "https://oilprice.com/Geopolitics/Middle-East/Iran-Turns-to-Russia-for-Nuclear-Power-as-IAEA-Oversight-Falters.html",
-   "summary": "Russia and Iran are expanding their nuclear cooperation as both countries face Western sanctions and international isolation. Their partnership includes the construction of nuclear power plants, fuel supplies, and broader technological cooperation. While Bushehr, Iran’s first operating nuclear power station, has long been the centerpiece of their relationshi",
-   "published_at": "2026-10-27T14:00:00Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Investors From 119 Countries Pile Into Dangote’s Record Refinery IPO",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Investors-From-119-Countries-Pile-Into-Dangotes-Record-Refinery-IPO.html",
-   "summary": "The initial public offering of Nigeria’s Dangote refinery has reached its target to raise $1.6 billion in funds from domestic and retail investors alone, sources with knowledge of the IPO process told Bloomberg on Tuesday. Demand from international investors is set to significantly exceed even the $2.1-billion target with a 30% over-allotment option, accordi",
-   "published_at": "2026-10-27T13:30:00Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Ras Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Ras-Tanura-Fire-Follows-Attacks-on-Aramco-Offices-and-Near-Shaybah-Field.html",
-   "summary": "A fire broke out near Saudi Arabia’s key oil export hub of Ras Tanura on the Persian Gulf following an attack early on Tuesday, but the Kingdom quickly contained the fire, an unnamed source familiar with the events told Bloomberg. The extent of the damage was not clear, nor whether the hub was affected. Saudi Arabia early on Tuesday said it had intercepted a",
-   "published_at": "2026-10-27T12:30:00Z",
-   "category_hint": "military",
-   "score_hint": 62
   },
   {
    "source": "gh_coindesk",
@@ -2823,6 +2773,26 @@
   {
    "source": "gh_twz",
    "source_name": "The War Zone",
+   "title": "Where Are The Aircraft Carriers?: October 27, 2026",
+   "url": "https://www.twz.com/sea/where-are-the-aircraft-carriers-october-27-2026",
+   "summary": "The Makin Island amphibious ready group pulls into Yokosuka a week behind the Theodore Roosevelt carrier strike group, as the carrier's jets conduct a simulated strike during exercise Keen Sword 27. The post Where Are The Aircraft Carriers?: October 27, 2026 appeared first on TWZ .",
+   "published_at": "2026-10-27T23:43:17Z",
+   "category_hint": "military",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_twz",
+   "source_name": "The War Zone",
+   "title": "This Serbian Truck Carries A Truly Massive Mortar",
+   "url": "https://www.twz.com/land/this-serbian-truck-carries-a-truly-massive-mortar",
+   "summary": "The TSMB M-25 represents a modern attempt to combine great destructive potential with very high mobility. The post This Serbian Truck Carries A Truly Massive Mortar appeared first on TWZ .",
+   "published_at": "2026-10-27T22:18:39Z",
+   "category_hint": "military",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_twz",
+   "source_name": "The War Zone",
    "title": "U.S. Intel Confirms This Is China’s Secret Spaceplane",
    "url": "https://www.twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
    "summary": "The Chinese spaceplane design is unsurprisingly very similar to the U.S. Space Force's history-making X-37B. The post U.S. Intel Confirms This Is China&#8217;s Secret Spaceplane appeared first on TWZ .",
@@ -3071,14 +3041,14 @@
    "score_hint": 46
   },
   {
-   "source": "gh_techreview",
-   "source_name": "MIT Tech Review",
-   "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-   "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&#8230",
-   "published_at": "2026-10-26T12:40:00Z",
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+   "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+   "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing [&#8230;]",
+   "published_at": "2026-10-27T22:55:05Z",
    "category_hint": "other",
-   "score_hint": 50
+   "score_hint": 44
   },
   {
    "source": "gh_verge",
@@ -3169,16 +3139,6 @@
    "published_at": "2026-10-27T16:02:43Z",
    "category_hint": "other",
    "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Google’s next Genie AI model generates more realistic experiences",
-   "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-   "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",
-   "published_at": "2026-10-27T16:00:00Z",
-   "category_hint": "economy",
-   "score_hint": 56
   },
   {
    "source": "gh_stat",
@@ -3379,6 +3339,706 @@
    "published_at": "2026-10-26T13:37:51Z",
    "category_hint": "other",
    "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+   "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+   "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+   "published_at": "2026-10-27T19:30:37Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+   "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+   "summary": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
+   "published_at": "2026-10-27T21:12:39Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Why it could take time for a new Israeli government to form",
+   "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+   "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
+   "published_at": "2026-10-27T08:37:30Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
+   "url": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss",
+   "summary": "It's the first time an English player has lifted the trophy since Michael Owen in 2001.",
+   "published_at": "2026-10-27T07:22:41Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+   "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+   "summary": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
+   "published_at": "2026-10-26T18:00:10Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Israel and the US are both going to the polls - the consequences will be global",
+   "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+   "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+   "published_at": "2026-10-26T16:30:34Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
+   "published_at": "2026-10-26T15:37:33Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Exit polls following Israeli elections indicate no clear winner",
+   "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
+   "summary": "The official results are due to be published on November 4, more than a week after the vote.",
+   "published_at": "2026-10-27T20:18:18Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+   "summary": "High turnout in vote widely described as the most consequential in Israel&#039;s history.",
+   "published_at": "2026-10-27T19:28:12Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Russia jails IT worker for 13 years for donating money to Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss",
+   "summary": "Cryptocurrency exchange Binance shared Ukraine donation data with Russian authorities resulting in his conviction.",
+   "published_at": "2026-10-27T18:42:48Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Rain brings temporary relief as Southeast Asia battles fires and toxic haze",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss",
+   "summary": "Rain has offered brief relief from wildfires in Indonesia, but underground peat fires continue to burn",
+   "published_at": "2026-10-27T18:41:28Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Harry Kane: How the ‘runt of the litter’ conquered a historic Ballon d’Or",
+   "url": "https://www.aljazeera.com/sports/2026/10/27/ballon-dor-harry-kane-england-bayern-munich?traffic_source=rss",
+   "summary": "Once mocked for being the most famous player never to win a trophy, Kane now has the most prestigious individual honour.",
+   "published_at": "2026-10-27T18:38:13Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
+   "url": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss",
+   "summary": "Andre Janones built a WhatsApp army of nearly 11 million subscribers. Did it help Lula win?",
+   "published_at": "2026-10-27T18:35:05Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "‘If they’re honest’: Trump casts latest suspicion on US midterm elections",
+   "url": "https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss",
+   "summary": "Trump&#039;s comments come as his administration files legal challenges to Democrat-led US states over election integrity.",
+   "published_at": "2026-10-27T18:24:13Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Jerusalem Daily: Israeli elections underway",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
+   "summary": "Voting has begun in Israel, with over seven million eligible voters expected at the polls.",
+   "published_at": "2026-10-27T18:12:17Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
+   "url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
+   "summary": "In one social media post, PM Netanyahu accused Arab voters of &#039;raiding the polling stations and stealing the elections&#039;.",
+   "published_at": "2026-10-27T18:11:57Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Protesters storm Serbian pro-Vucic TV station after his loss at polls",
+   "url": "https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss",
+   "summary": "President Vucic called the incident an attack on free speech and the freedom of journalism.",
+   "published_at": "2026-10-27T17:37:51Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Spain deports migrants from Ceuta in move criticised by rights group",
+   "url": "https://www.aljazeera.com/news/2026/10/27/spain-deports-migrants-from-ceuta-in-move-criticised-by-rights-group?traffic_source=rss",
+   "summary": "The deportation was the first of its kind since a mass border crossing into the territory from Morocco in July.",
+   "published_at": "2026-10-27T17:10:58Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Fire engulfs Seoul’s last shanty-town, forcing hundreds to evacuate",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/fire-engulfs-seouls-last-shanty-town-forcing-hundreds-to-evacuate?traffic_source=rss",
+   "summary": "A fire has torn through Guryong Village, Seoul’s last shanty-town, forcing more than 100 people to evacuate.",
+   "published_at": "2026-10-27T17:10:03Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Israel opposition holds narrow edge over Netanyahu in first election projections",
+   "url": "https://www.scmp.com/news/world/middle-east/article/3372354/israel-exit-polls-show-election-deadlock-netanyahus-fate-balance",
+   "summary": "Israeli voters on Tuesday gave a narrow edge to opposition parties over Prime Minister Benjamin Netanyahu, initial projections showed, after decades-high turnout in the country’s first election since the trauma of the October 7, 2023 attacks. Netanyahu, Israel’s longest-serving prime minister, had run on promises to fight enemies from Hamas to Iran and had s",
+   "published_at": "2026-10-27T20:26:06Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Flavio Bolsonaro flees Brazil for US after shock loss to Lula",
+   "url": "https://www.scmp.com/news/world/americas/article/3372350/brazil-wonders-where-earth-flavio-bolsonaro",
+   "summary": "Brazilian Senator Flavio Bolsonaro has ⁠left the country for the ⁠US after losing Sunday’s presidential election and ⁠refusing to comply with a Supreme Court order to hand over his passports, two sources said. The US embassy in Brazil did not immediately respond to a request for comment. Bolsonaro’s lawyer also did not respond. It was not immediately clear w",
+   "published_at": "2026-10-27T17:41:44Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Indonesia’s 4-nation defence pact: strategic coup or paper tiger?",
+   "url": "https://www.scmp.com/week-asia/politics/article/3372306/indonesias-4-nation-defence-pact-strategic-coup-or-paper-tiger",
+   "summary": "Indonesia could gain critical defence technology, investment and export opportunities through a new multi-nation defence pact with Turkey, Qatar and Pakistan, but analysts warn its success hinges on turning high-level ambition into concrete projects. The four Muslim-majority nations signed the Badr Memorandum of Understanding in Doha on Wednesday. The agreem",
+   "published_at": "2026-10-27T10:30:06Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "US ends visa waiver for Chinese over birth tourism, people smuggling allegations",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3372309/us-ends-pacific-visa-waiver-over-birth-tourism-people-smuggling-allegations",
+   "summary": "Washington has suspended visa-free entry for Chinese visitors to the Northern Mariana Islands amid allegations of birth tourism and people smuggling in the US territory. The Department of Homeland Security (DHS) announced on Monday the suspension of the Commonwealth of the Northern Mariana Islands (CNMI) Economic Vitality and Security Travel Authorisation Pr",
+   "published_at": "2026-10-27T10:25:59Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Injured Hong Kong delivery rider seeks full trial on employment status question",
+   "url": "https://www.scmp.com/news/hong-kong/society/article/3372308/injured-hong-kong-delivery-rider-seeks-full-trial-employment-status-question",
+   "summary": "A former Deliveroo rider who suffered severe brain injuries in a traffic accident has taken the platform to a Hong Kong court to seek compensation, arguing that resolving the legal question of his employment status at the time of the accident warrants a full trial. In the District Court on Tuesday, Deliveroo’s Hong Kong liquidator applied to strike out the l",
+   "published_at": "2026-10-27T10:20:46Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Fire at Hong Kong’s first incinerator prompts calls to rethink waste strategy",
+   "url": "https://www.scmp.com/news/hong-kong/society/article/3372305/fire-hong-kongs-first-incinerator-prompts-calls-rethink-waste-strategy",
+   "summary": "The abrupt suspension of Hong Kong’s first waste-to-energy incinerator after a fire is a stark warning against relying too heavily on the HK$31.3 billion (US$4 billion) plant, environmentalists have said, while a former lawmaker has urged the government to keep its landfill-free timetable on track. Monday’s blaze broke out on the roof of the third incinerati",
+   "published_at": "2026-10-27T10:11:35Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Greenhouse gas levels hit record highs, climate impact to last centuries: UN",
+   "url": "https://www.scmp.com/news/world/article/3372304/greenhouse-gas-levels-hit-record-highs-climate-impact-will-last-centuries-un",
+   "summary": "Greenhouse gas concentrations in the atmosphere rose to record highs in 2025, locking in climate impact that will persist for centuries to come, the United Nations said on Tuesday. Levels of the three main greenhouse gases – the climate-warming carbon dioxide, methane and nitrous oxide – all rose to unprecedented figures in 2025, the UN’s weather and climate",
+   "published_at": "2026-10-27T10:08:33Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Football star Kylian Mbappe faces huge China backlash over ‘unacceptable’ remark",
+   "url": "https://www.scmp.com/economy/china-economy/article/3372298/football-star-kylian-mbappe-faces-huge-china-backlash-over-unacceptable-remark",
+   "summary": "French football superstar Kylian Mbappe has issued an apology after an “ill-judged” comment about China sparked intense backlash on social media and led a string of major Chinese brands to cut ties with him. After a video began circulating widely online that appeared to show the France and Real Madrid striker making a controversial remark about former Chines",
+   "published_at": "2026-10-27T10:00:17Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "China eatery creates egg tarts topped with ‘giant cockroaches’, drawing widespread curiosity",
+   "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372291/china-eatery-creates-egg-tarts-topped-giant-cockroaches-drawing-widespread-curiosity",
+   "summary": "A restaurant in Shunde, Guangdong, is turning heads online with a bizarre new dessert: egg tarts topped with crispy water beetles that look exactly like gigantic cockroaches. Shunde is a city known for its Cantonese cuisine and recognised as a Unesco Creative City of Gastronomy. In early October, it introduced a new “water roach egg tart”, priced at 28 yuan ",
+   "published_at": "2026-10-27T10:00:14Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Air Force crash revives debate on Philippine military’s modernisation limits",
+   "url": "https://www.scmp.com/week-asia/politics/article/3372299/air-force-crash-revives-debate-philippine-militarys-modernisation-limits",
+   "summary": "The collision of two Philippine Air Force training aircraft that killed four pilots has raised questions about whether the service’s training, maintenance and safety systems can keep pace with Manila’s ambitions to acquire more advanced combat aircraft. The crash, which occurred during a fly-by rehearsal at Fernando Air Base in Lipa City, Batangas province, ",
+   "published_at": "2026-10-27T09:45:50Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Fragile India-China thaw tested by reported fresh Himalayan border face-offs",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3372296/fragile-india-china-thaw-tested-reported-fresh-himalayan-border-face-offs",
+   "summary": "A fragile rapprochement between China and India is facing a renewed test following reports of military face-offs along their hotly contested border. Shatrujeet Kapur, director general of the Indo-Tibetan Border Police (ITBP), said last week that confrontations with Chinese troops were “continuing at multiple locations along the Arunachal Pradesh border”. “In",
+   "published_at": "2026-10-27T09:25:48Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Live Updates: Opposition Parties Ahead of Netanyahu’s Coalition in Israeli Exit Polls",
+   "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+   "summary": "No clear winner emerged in pivotal parliamentary elections. A bloc of parties led by a former Army chief of staff is trying to unseat Prime Minister Benjamin Netanyahu’s Likud party and his allies.",
+   "published_at": "2026-10-27T21:48:33Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Israelis Surge to Polls With Nation’s Future on the Ballot",
+   "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israeli-election-turnout.html",
+   "summary": "As Prime Minister Benjamin Netanyahu and his right-wing allies fought to remain in power, voter turnout, especially among Israeli Arabs, hit a new high.",
+   "published_at": "2026-10-27T19:42:33Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "France Makes Concessions to Students, but Not Enough to Halt Protests",
+   "url": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
+   "summary": "The government promised to phase out an unpopular university admissions system by 2028. Student groups are pushing for more.",
+   "published_at": "2026-10-27T01:59:55Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+   "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+   "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy? The water was rising rapidly. It had already reached Cayni Ali’s waist. Her home, five metres from the flooded River Juba in southern Som",
+   "published_at": "2026-10-26T11:00:40Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+   "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+   "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese army Sudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across the country’s east, a government official said. The drones hit two power stations each in the states of Al-Jazira and Geda",
+   "published_at": "2026-10-26T09:59:27Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your questions",
+   "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+   "summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. The Guardian’s Latin America corrrespondent Tom Phillips answered your questions on what’s next for Brazil. Jeremy Hurley asks: Why did the Brazil stock market tank after the election re",
+   "published_at": "2026-10-27T16:46:23Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+   "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+   "summary": "Far-right senator banned from leaving country as supreme court judge’s ruling cites money-laundering case The far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his dramatic loss in the presidential election to the leftist president Luiz Inácio Lula da Silva. The ruling was issued by Alex",
+   "published_at": "2026-10-26T23:02:17Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; Labor says One Nation should justify Bluey ‘satire’",
+   "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
+   "summary": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a conv",
+   "published_at": "2026-10-27T21:47:41Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Guardian Essential poll: One Nation and Labor’s primary vote on par as discontent with Albanese rises",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/28/guardian-essential-poll-labor-albanese-one-nation-hanson-coalition-ntwnfb",
+   "summary": "Prime minister’s disapproval rating increases to 56%, the equal highest in Essential polls since he took the job in 2022 Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast One Nation’s primary vote is back on par with Labor in the latest Guardian Essential poll, with Anthony Albanese’s p",
+   "published_at": "2026-10-27T14:00:32Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "‘Are you waiting for me to be attacked?’ Fatima Payman slams PM over staffing",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb",
+   "summary": "Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Anthony Albanese has promised a “swift government response” to safety threats to MPs and floated the provision of duress alarms for electorate offi",
+   "published_at": "2026-10-27T12:18:15Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Israel election live: exit polls project no clear winner, as anti-Netanyahu bloc leads but Likud remains biggest party",
+   "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+   "summary": "Israel’s major TV stations project majority of Israelis have voted against Netanyahu’s coalition, but his Likud party has emerged as largest party Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of tho",
+   "published_at": "2026-10-27T21:48:21Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Jordan attacks militants in Syria in retaliation for church attack",
+   "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+   "summary": "Jordanian air force says it carried out strikes against ‘terrorist groups’ tied to killing of nine during funeral Jordan has carried out airstrikes against armed groups in Syria in retaliation for Friday’s attack on a Greek Orthodox church in the southern Jordanian governorate of Karak that killed nine people, the Jordanian air force has said in a statement.",
+   "published_at": "2026-10-26T22:08:38Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Unpaid carers say chancellor’s plan to scrap allowance cliff edge falls short",
+   "url": "https://www.theguardian.com/society/2026/oct/27/unpaid-carers-chancellor-plan-scrap-allowance-cliff-edge-falls-short-budget",
+   "summary": "Digital taper system for benefit expected in budget, but those already hit with overpayments will still have to pay “On the surface it sounds really positive – and I really hope that it is,” says unpaid carer Guy Shahar of the government’s decision to abolish the notorious carer’s allowance cliff edge . But Shahar is angry that most carers hit with unjust ov",
+   "published_at": "2026-10-27T19:48:53Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Rosebank oilfield would not breach UK emission targets, say government insiders",
+   "url": "https://www.theguardian.com/environment/2026/oct/27/rosebank-oilfield-north-sea-uk-emissions-targets-insiders",
+   "summary": "Emissions from exported oil would not count against carbon budget, insiders say – reasoning likely to draw dismay from climate campaigners The giant Rosebank oilfield can be approved without breaching the UK’s emission targets, according to government insiders, in a boost to those in the cabinet who are pushing for it to be given the go-ahead. The Guardian r",
+   "published_at": "2026-10-27T19:17:55Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Parents inflicted fatal physical and sexual abuse on their baby, Warwick court hears",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/27/parents-inflicted-fatal-physical-and-sexual-abuse-their-baby-warwick-court-hears",
+   "summary": "Michal Stasiak and Kinga Wydrzynska pleaded not guilty to 11 counts relating to death of 13-month-old Isabella Stasiak A 13-month-old girl was subjected to physical and sexual abuse at the hands of her parents before she was fatally injured by her mother, a court has heard. Michal Stasiak, 28, and Kinga Wydrzynska, 26, appeared at Warwick crown court on Tues",
+   "published_at": "2026-10-27T19:05:57Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction",
+   "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
+   "summary": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it one of the world’s most expensive fossils. The skeleton, named “Jodi” after the person who found th",
+   "published_at": "2026-10-27T21:40:13Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
+   "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
+   "summary": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather events Sweeping cuts to the premier US climate agency under Donald Trump have severely hampered the country’s capacity to forecast, research and respond to extreme weather events, former government officials and scientis",
+   "published_at": "2026-10-27T21:34:54Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "JD Vance steps up extreme attacks on Democratic Senate candidate Abdul El-Sayed",
+   "url": "https://www.theguardian.com/us-news/2026/oct/27/jd-vance-el-sayed-attacks",
+   "summary": "Vice-president tries to link El-Sayed to Paris protests and claims he would lead rioters in ‘burning down’ Detroit JD Vance has escalated his inflammatory attacks on Abdul El-Sayed, the Democratic candidate for US Senate in Michigan who has faced an onslaught of Islamophobia, claiming he would lead rioters in “burning down” Detroit. El-Sayed, who would becom",
+   "published_at": "2026-10-27T21:30:59Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Alexander brothers each sentenced to 30 years for drugging and raping dozens of women",
+   "url": "https://www.theguardian.com/us-news/2026/oct/27/oren-alon-tal-alexander-sentenced-sex-trafficking",
+   "summary": "Oren, Alon and Tal Alexander sentenced to prison in New York after being convicted in sex trafficking case Three Florida brothers who exploited the wealth and influence of their family’s luxury real estate business to drug and rape dozens of women were each sentenced to 30 years in prison in New York on Tuesday for sex trafficking. Twins Oren and Alon Alexan",
+   "published_at": "2026-10-27T20:45:59Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Japan to team with Germany on fusion energy project, including power plant",
+   "url": "https://asia.nikkei.com/business/energy/japan-to-team-with-germany-on-fusion-energy-project-including-power-plant",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Japan to back perovskite solar cell mass production with $640m in subsidies",
+   "url": "https://asia.nikkei.com/business/energy/japan-to-back-perovskite-solar-cell-mass-production-with-640m-in-subsidies",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Australian insurer Challenger rejects Daiichi Life unit's takeover bid",
+   "url": "https://asia.nikkei.com/business/business-deals/australian-insurer-challenger-rejects-daiichi-life-unit-s-takeover-bid",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Israel election turnout highest in decades",
+   "url": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
+   "summary": "First vote since October 7 2023 attack pits Netanyahu’s far-right coalition against opposition bloc in knife-edge contest",
+   "published_at": "2026-10-27T19:13:09Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Dirty tricks and Maga theatrics shake up bruising battle for Texas Senate",
+   "url": "https://www.ft.com/content/e9475864-d8ae-401e-8a3e-e3a7fa75f0c1?syn-25a6b1a6=1",
+   "summary": "Scandal-prone Trump pick goes head-to-head with seminarian Democrat in race that could determine control of the upper house of Congress",
+   "published_at": "2026-10-27T11:00:08Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Lula faces a fiscal reckoning after Brazil’s market rout",
+   "url": "https://www.ft.com/content/0231b234-14dc-4ff0-8263-e1063b0a25d5?syn-25a6b1a6=1",
+   "summary": "Concerns about management of economy trigger worst day for currency in more than 25 years",
+   "published_at": "2026-10-27T13:15:18Z",
+   "category_hint": "economy",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "BNP Paribas Exane cuts Itron stock price target on valuation shift",
+   "url": "https://www.investing.com/news/analyst-ratings/bnp-paribas-exane-cuts-itron-stock-price-target-on-valuation-shift-93CH-4977092",
+   "summary": "",
+   "published_at": "2026-10-27T21:34:57Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "First Busey earnings missed by $0.04, revenue fell short of estimates",
+   "url": "https://www.investing.com/news/earnings/first-busey-earnings-missed-by-004-revenue-fell-short-of-estimates-4977090",
+   "summary": "",
+   "published_at": "2026-10-27T21:32:45Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "LPL Financial earnings beat by $0.30, revenue fell short of estimates",
+   "url": "https://www.investing.com/news/earnings/lpl-financial-earnings-beat-by-030-revenue-fell-short-of-estimates-4977091",
+   "summary": "",
+   "published_at": "2026-10-27T21:32:45Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Earnings call transcript: Ultra Clean Technology tops Q3 2026 estimates",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ultra-clean-technology-tops-q3-2026-estimates-93CH-4977089",
+   "summary": "",
+   "published_at": "2026-10-27T21:31:58Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Spero Therapeutics COO Timothy Keutzer to retire at year-end, will serve as consultant",
+   "url": "https://www.investing.com/news/sec-filings/spero-therapeutics-coo-timothy-keutzer-to-retire-at-yearend-will-serve-as-consultant-93CH-4977088",
+   "summary": "",
+   "published_at": "2026-10-27T21:31:57Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Walmart’s margins in Mexico tighten as costs outpace sales growth",
+   "url": "https://www.investing.com/news/stock-market-news/walmarts-margins-in-mexico-tighten-as-costs-outpace-sales-growth-4977085",
+   "summary": "",
+   "published_at": "2026-10-27T21:30:36Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.35%",
+   "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-035-4977075",
+   "summary": "",
+   "published_at": "2026-10-27T21:30:04Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Earnings call transcript: NXP beats Q3 2026 estimates but shares fall after hours",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nxp-beats-q3-2026-estimates-but-shares-fall-after-hours-93CH-4977074",
+   "summary": "",
+   "published_at": "2026-10-27T21:29:36Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Goldman Sachs cuts Innio stock price target on raised estimates",
+   "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-innio-stock-price-target-on-raised-estimates-93CH-4977073",
+   "summary": "",
+   "published_at": "2026-10-27T21:28:55Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Earnings call transcript: Manhattan Associates tops Q3 2026 forecasts, stock jumps",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-manhattan-associates-tops-q3-2026-forecasts-stock-jumps-93CH-4977072",
+   "summary": "",
+   "published_at": "2026-10-27T21:27:46Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters",
+   "url": "https://oilprice.com/Geopolitics/Middle-East/Iran-Turns-to-Russia-for-Nuclear-Power-as-IAEA-Oversight-Falters.html",
+   "summary": "Russia and Iran are expanding their nuclear cooperation as both countries face Western sanctions and international isolation. Their partnership includes the construction of nuclear power plants, fuel supplies, and broader technological cooperation. While Bushehr, Iran’s first operating nuclear power station, has long been the centerpiece of their relationshi",
+   "published_at": "2026-10-27T14:00:00Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Investors From 119 Countries Pile Into Dangote’s Record Refinery IPO",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Investors-From-119-Countries-Pile-Into-Dangotes-Record-Refinery-IPO.html",
+   "summary": "The initial public offering of Nigeria’s Dangote refinery has reached its target to raise $1.6 billion in funds from domestic and retail investors alone, sources with knowledge of the IPO process told Bloomberg on Tuesday. Demand from international investors is set to significantly exceed even the $2.1-billion target with a 30% over-allotment option, accordi",
+   "published_at": "2026-10-27T13:30:00Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Ras Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Ras-Tanura-Fire-Follows-Attacks-on-Aramco-Offices-and-Near-Shaybah-Field.html",
+   "summary": "A fire broke out near Saudi Arabia’s key oil export hub of Ras Tanura on the Persian Gulf following an attack early on Tuesday, but the Kingdom quickly contained the fire, an unnamed source familiar with the events told Bloomberg. The extent of the damage was not clear, nor whether the hub was affected. Saudi Arabia early on Tuesday said it had intercepted a",
+   "published_at": "2026-10-27T12:30:00Z",
+   "category_hint": "military",
+   "score_hint": 62
+  },
+  {
+   "source": "gh_techreview",
+   "source_name": "MIT Tech Review",
+   "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+   "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at&#8230",
+   "published_at": "2026-10-26T12:40:00Z",
+   "category_hint": "other",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Google’s next Genie AI model generates more realistic experiences",
+   "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+   "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",
+   "published_at": "2026-10-27T16:00:00Z",
+   "category_hint": "economy",
+   "score_hint": 56
   },
   {
    "source": "gh_bbc",
@@ -11349,666 +12009,6 @@
    "published_at": "2026-10-25T14:46:45Z",
    "category_hint": "policy",
    "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Eye on China: Japan reopens taboo debate over nuclear-powered submarines",
-   "url": "https://www.scmp.com/news/china/military/article/3372066/eye-china-japan-reopens-taboo-debate-over-nuclear-powered-submarines",
-   "summary": "With China flexing its naval power across the Pacific and bilateral tensions running high, Japanese Prime Minister Sanae Takaichi is weighing a move long viewed as taboo – nuclear-powered submarines for the Maritime Self-Defence Force fleet. “We will seriously consider [the possibility] in a concrete and realistic manner,” Takaichi told the Japanese parliame",
-   "published_at": "2026-10-25T14:00:10Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Hong Kong to boost Huanggang Port capacity after Halloween, concert congestion",
-   "url": "https://www.scmp.com/news/hong-kong/transport/article/3372083/hong-kong-boost-huanggang-port-capacity-after-halloween-concert-congestion",
-   "summary": "Hong Kong’s No 2 official has pledged to open extra clearance counters and vehicle lanes at the recently revamped Huanggang Port control point ahead of peak hours, after Halloween crowds and concertgoers created heavy cross-border congestion. Chief Secretary Eric Chan Kwok-ki, who inspected the Shenzhen Bay and Huanggang ports on Sunday, said he had instruct",
-   "published_at": "2026-10-25T13:39:49Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "War of words over Xinjiang erupts between Chinese and Turkish social media users",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3372077/war-words-over-xinjiang-erupts-between-chinese-and-turkish-social-media-users",
-   "summary": "The debate over ethnic identity in Xinjiang has triggered an online clash between Chinese and Turkish social media users. The row began earlier this month when a Turkish social media user recalled an encounter with a Uygur from Xinjiang, the region in China that is home to nearly 12 million mainly Muslim Turkic speakers. The user wrote that the woman did not",
-   "published_at": "2026-10-25T13:00:09Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Louie Shum’s death: heart disease in Hong Kong and what to do in an emergency",
-   "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3372082/louie-shums-death-heart-disease-hong-kong-and-what-do-emergency",
-   "summary": "The death of veteran Hong Kong stock market commentator Louie Shum Chun-ying has drawn public attention to heart disease, after a police source revealed he had a history of the condition as well as diabetes. Heart disease was one of the leading causes of death in Hong Kong, with more than 6,500 fatalities recorded in 2024, according to the Department of Heal",
-   "published_at": "2026-10-25T12:50:34Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "The West’s double standard on global unrest",
-   "url": "https://www.scmp.com/opinion/world-opinion/article/3371928/wests-double-standard-global-unrest",
-   "summary": "In the early days of the student protests in France, mainstream Western media took the protesters’ claims about poor school facilities and declining resources at face value. Only when the violence spread across the country, and to some of its European neighbours, did people begin to ask whether deeper causes were at play. Leftists blame social problems, from",
-   "published_at": "2026-10-25T12:30:08Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "China’s Liaoning carrier and USS Theodore Roosevelt may be in Philippine Sea at same time",
-   "url": "https://www.scmp.com/news/china/military/article/3372078/chinas-liaoning-aircraft-carrier-and-uss-theodore-roosevelt-converge-philippine-sea",
-   "summary": "China’s Liaoning aircraft carrier strike group sailed beyond the first island chain last week to reach the southernmost waters of the Philippines, suggesting an intent to position itself closer to ongoing US-Japan joint exercises. Philippine news channel BNC reported that the carrier group reached about 25 nautical miles (46km) east-southeast of Balut Island",
-   "published_at": "2026-10-25T12:13:45Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "US Marine indictment in Okinawa murder trial renews anti-base movement",
-   "url": "https://www.scmp.com/news/asia/east-asia/article/3372075/us-marine-indictment-okinawa-murder-trial-renews-anti-base-movement",
-   "summary": "Prosecutors indicted a 20-year-old US Marine on Sunday on suspicion of robbing and murdering a woman in Okinawa earlier this month as the case renews anti-base sentiment among locals burdened with hosting the bulk of US military installations in Japan. Devin Ballard, who is stationed at Futenma Air Base, is charged with killing the woman by wrapping a phone ",
-   "published_at": "2026-10-25T11:33:33Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
-   "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
-   "summary": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled.",
-   "published_at": "2026-10-26T05:08:03Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
-   "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
-   "summary": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.",
-   "published_at": "2026-10-25T19:53:55Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
-   "url": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
-   "summary": "The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze.",
-   "published_at": "2026-10-24T19:53:56Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
-   "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
-   "summary": "After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.",
-   "published_at": "2026-10-24T21:23:15Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
-   "url": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
-   "summary": "Brazil’s President Luiz Inácio Lula da Silva, a leftist, staged a remarkable comeback on Sunday, winning re-election and stopping a right-wing wave.",
-   "published_at": "2026-10-26T04:45:47Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
-   "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
-   "summary": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
-   "published_at": "2026-10-24T17:45:17Z",
-   "category_hint": "military",
-   "score_hint": 62
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
-   "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
-   "summary": "This year’s olive harvest in the Israeli-occupied West Bank is the most violent in years, as settlers have attacked farmers and besieged homes, drawing condemnation from U.S. officials and others.",
-   "published_at": "2026-10-24T19:31:56Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
-   "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-   "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of",
-   "published_at": "2026-10-26T04:38:16Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-   "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-   "summary": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election result Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, has staged a dramatic election fightback , defeating his far-right opponent, Flávio Bolsonaro , to claim a historic fourth te",
-   "published_at": "2026-10-26T00:19:05Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
-   "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-   "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel peace prize. “I’m here. With you,” she wrote on X on Sunday lunchtime. Continue",
-   "published_at": "2026-10-25T19:56:56Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-   "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-   "summary": "Incumbent president lost in first round to senator and son of convicted ex-president Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, Luiz Inácio Lula da Silva , is attempting an unprecedented comeback against the far-right senator Flávio Bolsonaro , who won the first-round vote. Bolsonaro’s surpris",
-   "published_at": "2026-10-25T14:41:17Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Australia politics live: Zali Steggall accuses Angus Taylor of not ‘reading the room’ in Haines tribute speech",
-   "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-   "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make sure there is more civility and respect. Social media is a platform where they ca",
-   "published_at": "2026-10-26T04:56:09Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
-   "summary": "Former police officer accused of shooting dead Jesse Baird and Luke Davies apologised to friend, acknowledging ‘you’re involved because of me’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast A covert recording captured Beau Lamarre-Condon telling a friend during a meeting in prison in De",
-   "published_at": "2026-10-26T03:26:57Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "‘Someone has been following me’: safety fears after bullet inscribed with ‘RAT’ left on Victorian minister’s car",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
-   "summary": "Paul Edbrooke says he fears for family’s safety amid heightened concerns for MPs after alleged attack on Helen Haines Get our breaking news email , free app or daily news podcast Victoria’s emergency services minister believes he is being followed and fears for his family’s safety after a bullet, etched with the word “RAT” and his former firefighter number, ",
-   "published_at": "2026-10-26T02:38:37Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
-   "summary": "Prohibition of salty, yeast-based condiment in Victoria’s prisons remains after convicted murderer claimed it denied him right to ‘enjoy his culture’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast A murderer who claimed a refusal to allow him Vegemite in prison is a breach of his human ",
-   "published_at": "2026-10-26T02:34:11Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
-   "url": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
-   "summary": "Making innocent protesters liable for damage would be bad for rule of law and play into far-right hands, say opponents Emmanuel Macron has been accused by trade unions of trying to curb the fundamental French right to protest as the government fast-tracks a bill to make protesters pay for damage caused by vandalism at street demonstrations even if they did n",
-   "published_at": "2026-10-25T19:57:40Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Portuguese police with dogs and batons dismantle housing protest camps",
-   "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
-   "summary": "More than 30 people arrested as officers clear at least 100 tents in central Lisbon and about 50 in Porto Police in Portugal have dismantled housing protest camps in Lisbon and Porto, baton-charging campaigners in the early hours of Sunday and arresting more than 30 people. The raids were the latest incident in days of clashes between police and campaigners ",
-   "published_at": "2026-10-25T15:32:20Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-   "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-   "summary": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company, Volkswagen, struggles with the impact of steep tariffs imposed by Donald Trump. The German brand’s chief executive, Ge",
-   "published_at": "2026-10-25T13:43:19Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Burnham to double spending on homelessness amid drive to end rough sleeping by Christmas",
-   "url": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
-   "summary": "Downing Street will allocate a further £432m in this week’s budget, bringing total funding for finding a ‘lasting solution’ to nearly £900m Andy Burnham is to double spending on ending rough sleeping to almost £900m by the end of the current parliament, as he steps up efforts to get people off the streets by Christmas. The prime minister has pledged to offer",
-   "published_at": "2026-10-25T22:30:13Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Two dead and 160,000 properties without power as Storm Boelo batters UK",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-   "summary": "Man aged 60 and another in his 20s killed by falling trees in Scotland and London as Met Office reports gusts of up to 84mph Two people have been killed and more than 160,000 properties have been left without power as Storm Boelo continues to batter the UK. Two men, one aged 60 and the other in his 20s, were killed by falling trees on Sunday, police said. Th",
-   "published_at": "2026-10-25T22:19:18Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Cabinet split emerges over controversial Rosebank oilfield decision",
-   "url": "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision",
-   "summary": "Chancellor is in favour of North Sea project, but energy secretary has said she is leaning towards rejecting it A cabinet split has emerged over whether to approve drilling at the Rosebank oilfield, with the chancellor, John Healey, in favour of the controversial North Sea project. The energy secretary, Miatta Fahnbulleh, is ultimately in charge of the decis",
-   "published_at": "2026-10-25T20:29:25Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Cabinet ministers back Burnham’s call for debate on return to free movement with EU",
-   "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
-   "summary": "PM’s plea supported by Angela Rayner, Ed Miliband and business leaders, while some ‘red wall’ MPs voice concern Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers but risked a rift with “red wall” Labour MPs, who say it could jeopardise Brexit-voting seats. The prime minister made his ",
-   "published_at": "2026-10-25T19:57:13Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Has Healey’s military-style budget secrecy really played out so differently to past budgets?",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
-   "summary": "Chancellor was said to be worried about market-sensitive leaks, yet significant policies have been heavily trailed in the media The public has been told repeatedly that John Healey is so concerned about budget leaks that he has set up defence-style “compartmentalisation” to prevent the Treasury’s financial secrets escaping. The macho military analogies began",
-   "published_at": "2026-10-25T19:35:17Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Manga is having its moment in the New York art scene",
-   "url": "https://asia.nikkei.com/life-arts/arts/manga-is-having-its-moment-in-the-new-york-art-scene",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "China's automaking rise spurs German industry's turn to arms",
-   "url": "https://asia.nikkei.com/spotlight/big-in-asia/china-s-automaking-rise-spurs-german-industry-s-turn-to-arms",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Mitsubishi Materials to boost thermal sensor output on AI demand",
-   "url": "https://asia.nikkei.com/spotlight/supply-chain/mitsubishi-materials-to-boost-thermal-sensor-output-on-ai-demand",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "PHP security flaws prompt Japan to take websites down while US keeps them up",
-   "url": "https://asia.nikkei.com/spotlight/cybersecurity/php-security-flaws-prompt-japan-to-take-websites-down-while-us-keeps-them-up",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "London’s most famous shopping street bans cars in bid to revive its fortunes",
-   "url": "https://www.ft.com/content/73a2ca6f-29b7-49e5-b8c7-0bde6c4e945b?syn-25a6b1a6=1",
-   "summary": "Oxford Street’s controversial pedestrianisation comes as big brands invest in flagship stores",
-   "published_at": "2026-10-25T12:26:15Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Marco Rubio still owes Europe answers about America’s intentions",
-   "url": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
-   "summary": "The US secretary of state’s recent speech in Athens evoked a shared destiny but offered no vision of a common future",
-   "published_at": "2026-10-25T16:00:05Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
-   "url": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
-   "summary": "Election loss marks a dramatic fall from power for strongman nationalist leader as near-record turnout favours grassroots party",
-   "published_at": "2026-10-26T00:38:57Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Serbia follows Hungary in showing the power of the people",
-   "url": "https://www.ft.com/content/dde6aa59-d48d-429a-9a29-db2dc5ae418c?syn-25a6b1a6=1",
-   "summary": "Anger at corruption and an unaccountable government turned the country decisively against autocratic leader Aleksandar Vučić",
-   "published_at": "2026-10-25T23:54:05Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Enough golfers commit to LIV 2.0 to keep hopes of new league alive",
-   "url": "https://www.ft.com/content/935f19bc-bb43-4840-8a55-d8ef409c7b52?syn-25a6b1a6=1",
-   "summary": "Around 15 players have expressed interest, with several others expected to join by a Friday deadline set by the Saudi Public Investment Fund",
-   "published_at": "2026-10-25T17:56:50Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "US voters worried about corruption under Trump — FT poll",
-   "url": "https://www.ft.com/content/2770ef24-198c-49bc-8cb8-b9d40108d797?syn-25a6b1a6=1",
-   "summary": "Americans link graft to affordability crisis as midterm elections loom",
-   "published_at": "2026-10-25T11:00:02Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Morning Bid: Elections, central banks and earnings on the menu",
-   "url": "https://www.investing.com/news/economy-news/elections-central-banks-and-earnings-on-the-menu-4971384",
-   "summary": "",
-   "published_at": "2026-10-26T04:54:23Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Mecca Pact nations to hold high-level talks with Iran in Tehran, Reuters reports",
-   "url": "https://www.investing.com/news/economy-news/mecca-pact-nations-to-hold-highlevel-talks-with-iran-in-tehran-reuters-reports-4971386",
-   "summary": "",
-   "published_at": "2026-10-26T04:51:34Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Unicommerce Q2 FY27 slides: 15% growth amid strategic AI investments",
-   "url": "https://www.investing.com/news/company-news/unicommerce-q2-fy27-slides-15-growth-amid-strategic-ai-investments-93CH-4971385",
-   "summary": "",
-   "published_at": "2026-10-26T04:49:12Z",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Asia FX muted, yuan at 4-yr high; dollar drifts lower ahead of c.bank-packed week",
-   "url": "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
-   "summary": "",
-   "published_at": "2026-10-26T04:43:36Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "China’s domestic car sales seen rising 2% in 2027 after 2026 slump",
-   "url": "https://www.investing.com/news/economic-indicators/chinas-domestic-car-sales-seen-rising-2-in-2027-after-2026-slump-4971380",
-   "summary": "",
-   "published_at": "2026-10-26T04:36:36Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Earnings call transcript: Unicommerce posts 15% revenue growth in Q2 2026",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-unicommerce-posts-15-revenue-growth-in-q2-2026-93CH-4971382",
-   "summary": "",
-   "published_at": "2026-10-26T04:35:20Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Why is MiniMax stock sliding today?",
-   "url": "https://www.investing.com/news/stock-market-news/why-is-minimax-stock-sliding-today-93CH-4971381",
-   "summary": "",
-   "published_at": "2026-10-26T04:34:29Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Oil drops from near six-month highs on hopes Iran war hostilities to ease",
-   "url": "https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306",
-   "summary": "",
-   "published_at": "2026-10-26T04:30:23Z",
-   "category_hint": "military",
-   "score_hint": 62
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI",
-   "url": "https://www.investing.com/news/stock-market-news/indonesia-strengthens-measures-against-stock-manipulation-after-market-rout-triggered-by-msci-4971379",
-   "summary": "",
-   "published_at": "2026-10-26T04:24:20Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Asia stocks slip as chipmakers retreat; earnings, central bank meetings loom",
-   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slip-as-chipmakers-retreat-earnings-central-bank-meetings-loom-4971378",
-   "summary": "",
-   "published_at": "2026-10-26T04:15:32Z",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
-   "url": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
-   "summary": "The Iran war has made oil tanker voyages so inefficient that vessel availability has crumbled and freight costs have soared to record-highs, all but erasing the incentive for shipping crude oil from the U.S. Gulf Coast to Asia. The cost of shipping crude oil from the U.S. Gulf Coast to China soared to as high as $80 million earlier this month. That’s ten tim",
-   "published_at": "2026-10-24T23:00:00Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
-   "url": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
-   "summary": "Singapore’s shipping-fuel market is adding another layer of cost to Asian trade. Disrupted supplies from the Middle East and Russia, resilient bunker demand and prohibitive freight rates have pushed high-sulphur fuel oil above the price of the crude used to produce it. Seasonal relief from Gulf producers and additional Chinese export allowances could ease th",
-   "published_at": "2026-10-24T21:00:00Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas",
-   "url": "https://oilprice.com/Energy/Energy-General/Syrias-Energy-Comeback-Could-Reshape-Middle-East-Oil-and-Gas.html",
-   "summary": "Syria is undergoing countrywide reconstruction after more than a decade of conflict, which caused extensive infrastructure damage and led to millions of people being displaced. As Syrians rebuild their lives, the government has big plans for economic diversification and growth to support long-term recovery. Thanks to its favourable geographic position, this ",
-   "published_at": "2026-10-24T19:00:00Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Blue Planet III is keeping the rough edges in the age of AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-   "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8230;]",
-   "published_at": "2026-10-24T21:29:12Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Pennsylvania will require labels on AI-generated ads",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-   "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as ",
-   "published_at": "2026-10-24T18:32:21Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-   "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-   "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-   "published_at": "2026-10-25T22:54:57Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-   "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-   "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-   "published_at": "2026-10-24T15:21:44Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-   "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
-   "published_at": "2026-10-24T15:56:48Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
-   "summary": "Trump&#039;s statement comes as Iran says renewed US-Israeli attacks &#039;will achieve no different outcome&#039;.",
-   "published_at": "2026-10-26T00:00:00Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
-   "url": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
-   "summary": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.",
-   "published_at": "2026-10-25T21:00:02Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
-   "url": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
-   "summary": "Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?",
-   "published_at": "2026-10-25T20:01:00Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Brazil election results 2026 live: Lula, Bolsonaro voters await final tally",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
-   "summary": "Legal challenges are likely, as the voting extension adds tension to Brazil&#039;s polarised political landscape.",
-   "published_at": "2026-10-25T20:00:04Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "The narrative battle over France’s unrest",
-   "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
-   "summary": "Student protests, police violence and French media obsessed with &#039;barbarians&#039;.",
-   "published_at": "2026-10-25T19:36:14Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Iraqis mark seven years since Tishreen protests with reform demands",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss",
-   "summary": "Thousands gather in Tahrir Square to mark seven years since Iraq’s 2019 ‘Tishreen’ protests.",
-   "published_at": "2026-10-25T19:36:05Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Serbia’s Vucic concedes election defeat to student-led movement",
-   "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
-   "summary": "Vucic says the opposition Student List is projected to win a parliamentary majority after nearly two years of protests.",
-   "published_at": "2026-10-25T19:19:54Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-   "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
-   "summary": "The Nobel laureate&#039;s homecoming follows national protests demanding free elections.",
-   "published_at": "2026-10-25T18:55:39Z",
-   "category_hint": "policy",
-   "score_hint": 48
   }
  ]
 }

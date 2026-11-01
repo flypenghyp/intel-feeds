@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-31T21:55:15Z",
+ "generated_at": "2026-11-01T00:43:19Z",
  "count": 1200,
- "fresh": 289,
+ "fresh": 274,
  "ok_sources": 18,
  "errors": [
   "Politico: HTTP Error 403: Forbidden",
@@ -45,8 +45,18 @@
    "source_name": "BBC World",
    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
    "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-   "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-   "published_at": "2026-10-31T16:32:08Z",
+   "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+   "published_at": "2026-10-31T22:11:45Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+   "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+   "published_at": "2026-11-01T00:12:07Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -143,36 +153,6 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-   "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-   "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-   "published_at": "2026-10-30T17:07:19Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-   "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-   "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-   "published_at": "2026-10-30T14:48:22Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-   "published_at": "2026-10-30T20:34:46Z",
-   "category_hint": "economy",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
    "title": "Emotional reunions with loved ones for Oleshky evacuees",
    "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
    "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
@@ -203,30 +183,20 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-   "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
-   "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
-   "published_at": "2026-10-30T23:19:17Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "What's at stake for Trump in the US midterms?",
-   "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
-   "published_at": "2026-10-30T10:19:48Z",
+   "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+   "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+   "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+   "published_at": "2026-10-31T02:12:19Z",
    "category_hint": "policy",
    "score_hint": 48
   },
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-   "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-   "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-   "published_at": "2026-10-31T02:12:19Z",
+   "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+   "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+   "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+   "published_at": "2026-10-31T23:06:13Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -277,6 +247,56 @@
    "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
    "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
    "published_at": "2026-10-31T04:32:07Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+   "summary": "Araghchi says Iran has reached a plan with Qatari mediators to open Hormuz in two days if the US meets its conditions.",
+   "published_at": "2026-11-01T00:00:51Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "ICE agent’s violent shove propels woman through the air",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss",
+   "summary": "A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car in Chicago.",
+   "published_at": "2026-10-31T23:45:36Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+   "url": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
+   "summary": "Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from.",
+   "published_at": "2026-10-31T22:38:03Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+   "url": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+   "summary": "Judge permanently drops Trump&#039;s $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper&#039;s reporting.",
+   "published_at": "2026-10-31T22:36:41Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Palestine Action supporters arrested outside US embassy in London",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+   "summary": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government&#039;s ban on Palestine Action.",
+   "published_at": "2026-10-31T22:10:53Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -481,56 +501,6 @@
    "score_hint": 48
   },
   {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Dakar Youth Olympics: Who gets to hold the flame?",
-   "url": "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss",
-   "summary": "Senegal makes history by becoming the first African country to host an Olympic event.",
-   "published_at": "2026-10-31T17:17:21Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Flavio Bolsonaro says he may run again for Brazilian presidency",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/flavio-bolsonaro-says-he-may-run-again-for-brazilian-presidency?traffic_source=rss",
-   "summary": "Flavio Bolsonaro says he may run again for Brazilian presidency",
-   "published_at": "2026-10-31T17:12:11Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Thousands rally in Berlin as Gen Z protests in more than 30 German cities",
-   "url": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-   "summary": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
-   "published_at": "2026-10-31T16:28:04Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
-   "url": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss",
-   "summary": "Simon Harmer picked a career-best 6-16 as South Africa beat Australia by 176 runs to clinch Test series 2-1.",
-   "published_at": "2026-10-31T15:43:46Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
-   "url": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
-   "summary": "Goals from Morgan Rogers and Cole Palmer give Chelsea a 2-0 win over Manchester United in the Premier League.",
-   "published_at": "2026-10-31T15:09:59Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
    "source": "gh_dw",
    "source_name": "DW World",
    "title": "Serbia after Vucic: The winners are losing patience",
@@ -591,12 +561,32 @@
    "score_hint": 46
   },
   {
-   "source": "gh_dw",
-   "source_name": "DW World",
-   "title": "Germany takes cautious approach on Israeli election results",
-   "url": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-world-4025-rdf",
-   "summary": "German politicians have been slow to respond as they wait to see who is likely to comprise the next coalition. Many are also hoping for a government without religious hardliners.",
-   "published_at": "2026-10-30T11:26:00Z",
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Southeast Asia’s EV boom sidelines local car parts suppliers",
+   "url": "https://www.scmp.com/week-asia/economics/article/3372760/southeast-asias-ev-boom-sidelines-local-car-parts-suppliers",
+   "summary": "Southeast Asia’s electric vehicle boom risks leaving the region’s smaller companies behind, as Chinese automotive giants bypass local part-makers in favour of imported components and locked-in supplier networks. Local manufacturers across Indonesia, Thailand and Malaysia are facing a double squeeze: demand is weakening for parts used in petrol and diesel car",
+   "published_at": "2026-11-01T00:00:10Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history",
+   "summary": "The theft of billions of dollars from Binance within a matter of minutes, the biggest cryptocurrency heist in history, was orchestrated by North Korean hackers, the FBI said on Saturday. The bureau said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a US$1.5 billion By",
+   "published_at": "2026-10-31T23:49:22Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "How the Zhuhai air show charted China’s path from catching up to flying high",
+   "url": "https://www.scmp.com/news/china/military/article/3372822/how-zhuhai-air-show-charted-chinas-path-catching-flying-high",
+   "summary": "When Zhuhai hosted its inaugural air show in November 1996, the event showcased the J-8IIM fighter, a second-generation fighter equipped with Russian radar and weapons, alongside a limited line-up of home-made aircraft. Imported planes were the focus and Chinese audiences curiously studied the much more advanced foreign designs. They crowded around two Russi",
+   "published_at": "2026-10-31T22:00:15Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -971,36 +961,6 @@
    "score_hint": 58
   },
   {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Hong Kong woman, 66, loses HK$2.7 million in money-laundering phone scam",
-   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372815/hong-kong-woman-66-loses-hk27-million-money-laundering-phone-scam",
-   "summary": "A 66-year-old Hong Kong woman has been swindled out of HK$2.7 million (US$344,158) in a phone scam after a caller claimed that her bank account had been involved in money laundering. Police said the woman, who lives in Sau Mau Ping, told the force at about 5am on Saturday that she had received the call earlier this month from a suspected scammer. He claimed ",
-   "published_at": "2026-10-31T05:29:25Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Hong Kong socialite Abby Choi’s remains found in soup pots and fridge, court told",
-   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372814/hong-kong-socialite-abby-chois-remains-found-soup-pots-and-fridge-court-told",
-   "summary": "Slain Hong Kong socialite Abby Choi Tin-fung’s remains were stored in two soup pots and a refrigerator after her body was dismembered with an electric saw in a rural village flat, a court has heard. The High Court trial took a turn towards the end of its fifth week when Choi’s former father-in-law, Kwong Kau, changed his plea to guilty on a charge of illegal",
-   "published_at": "2026-10-31T05:23:37Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "From digital pets to robot pals: how AI is changing Hong Kong classrooms",
-   "url": "https://www.scmp.com/news/hong-kong/education/article/3372812/digital-pets-robot-pals-how-ai-changing-hong-kong-classrooms",
-   "summary": "Hands shot up in a Hong Kong Primary Two classroom as pupils debated what their digital pet needed more, meal vouchers or the latest game cards. Their teacher at SKH Kei Oi Primary School in Sham Shui Po had created the virtual pet using artificial intelligence (AI) and web tools for a lesson on saving and budgeting. With each spending decision, the pet’s mo",
-   "published_at": "2026-10-31T05:09:55Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
    "source": "gh_nyt",
    "source_name": "NYT World",
    "title": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories",
@@ -1013,22 +973,32 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
+   "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+   "url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
+   "summary": "More than 300,000 people took to the streets, some wearing Halloween costumes, before the demonstrations ended in violence.",
+   "published_at": "2026-10-31T21:50:29Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+   "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+   "summary": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.",
+   "published_at": "2026-10-31T23:05:42Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
    "title": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
    "url": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
    "summary": "A 500-day campaign to find and identify fallen soldiers has unearthed hundreds of bodies, but not everyone gets a chance at closure.",
    "published_at": "2026-10-31T04:01:13Z",
    "category_hint": "military",
    "score_hint": 62
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Hundreds of Thousands Join Another Round of Protests in France",
-   "url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
-   "summary": "The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.",
-   "published_at": "2026-10-31T21:00:38Z",
-   "category_hint": "policy",
-   "score_hint": 50
   },
   {
    "source": "gh_nyt",
@@ -1093,16 +1063,6 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "Why Are There Protests in France?",
-   "url": "https://www.nytimes.com/article/france-student-protests-why.html",
-   "summary": "For a third consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots.",
-   "published_at": "2026-10-31T11:48:56Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
    "title": "Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery",
    "url": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
    "summary": "The premier’s comments represent a major change in British policy, but they are unlikely to satisfy those who hoped that reparations would follow.",
@@ -1139,26 +1099,6 @@
    "published_at": "2026-10-30T19:09:14Z",
    "category_hint": "military",
    "score_hint": 62
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
-   "url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
-   "summary": "More than 300,000 people took to the streets, some wearing Halloween costumes, before the demonstrations ended in violence.",
-   "published_at": "2026-10-31T21:50:29Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "North Korean Hackers May Have Stolen Billions. It Wouldn’t Be Their First Heist.",
-   "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-   "summary": "This week’s $6.3 billion hack of Binance is the largest to rock the crypto industry. North Korea, with a history of brazen cybercrime, is a suspect.",
-   "published_at": "2026-10-31T21:40:07Z",
-   "category_hint": "policy",
-   "score_hint": 50
   },
   {
    "source": "gh_nyt",
@@ -1226,7 +1166,7 @@
    "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
    "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
    "summary": "The move is part of the Canadian prime minister’s effort to reduce American influence over Canada and expand trade to other parts of the world.",
-   "published_at": "2026-10-30T21:08:01Z",
+   "published_at": "2026-10-30T21:08:02Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1303,16 +1243,6 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "How Ukrainian Soldiers Are Moving Underground",
-   "url": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
-   "summary": "Ukrainian soldiers are traveling underground through abandoned gas pipes to reach positions near the front. Our correspondent Maria Varenikova joins them on the journey through the kill zone and into positions where troops can spend weeks at a time.",
-   "published_at": "2026-10-30T11:14:40Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
    "title": "New ‘Call of Duty’ Game Draws Criticism for Using Footage of Deadly Seoul Crowd Crush",
    "url": "https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html",
    "summary": "Call of Duty: Modern Warfare 4 uses actual visuals from a Halloween crowd crush in South Korea, in which over 150 people died in a narrow alleyway.",
@@ -1363,10 +1293,10 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case",
-   "url": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
-   "summary": "Judges took away the possibility of parole for an Australian woman, Erin Patterson, and rejected a bid to overturn her conviction over a deadly beef Wellington lunch.",
-   "published_at": "2026-10-30T10:14:33Z",
+   "title": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
+   "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
+   "summary": "After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system.",
+   "published_at": "2026-10-30T17:52:18Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1393,30 +1323,10 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-   "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-   "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms. During a particularly intense thunderst",
-   "published_at": "2026-10-30T10:07:16Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
    "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
    "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
    "summary": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM ",
    "published_at": "2026-10-30T17:37:46Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Beijing Queer film festival cancelled after harassment from authorities",
-   "url": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
-   "summary": "Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a campaign of sustained harassment from authorities. Beijing Queer film festival, which was due to begin on Friday in China’s capital, is one of t",
-   "published_at": "2026-10-30T11:04:12Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1473,6 +1383,16 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
+   "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+   "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+   "summary": "Prime minister says shake-up is vital to restore tribunal crippled by years of political disputes Poland’s prime minister, Donald Tusk, has vowed to see through a contested overhaul of the country’s constitutional court, declaring that “in certain matters, there can be no compromise”. In a prime-time television address on Saturday night , Tusk was defiant, d",
+   "published_at": "2026-10-31T22:43:09Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
    "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
    "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
    "summary": "Residents of nearby villages line highway waving flags to greet the evacuees’ convoy from the Russian-occupied city Evacuees from Russian-occupied Oleshky have been reunited with their families after crossing into Ukrainian-held territory on Saturday. The major rescue operation began on Friday and was carried out under the most significant truce since Russia",
@@ -1507,16 +1427,6 @@
    "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
    "summary": "Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM says The UK and other European nations must draw closer together as the US becomes a less-reliable partner, Keir Starmer has said in his first significant political intervention since leaving No 10. The former prime minister warned European leaders of the threat po",
    "published_at": "2026-10-31T13:32:25Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
-   "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
-   "summary": "Activists call for people to make their anger known over poor public services including education and housing Street protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with police mobilised to stop potential looting and rioting on the fringes of what organisers hope will be peaceful rallies. Weeks of, at times viol",
-   "published_at": "2026-10-31T09:13:22Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1583,6 +1493,16 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
+   "title": "Abdul El-Sayed’s campaign disinvites Haley Stevens from events to limit ‘distractions’",
+   "url": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events",
+   "summary": "A public spat has cast Democratic tensions in the spotlight as the close US Senate race draws to a head Abdul El-Sayed, the Democratic nominee for Michigan’s tightly fought US Senate race, has asked Democratic congresswoman Haley Stevens to stay away from his campaign events. “I don’t want any distractions,” El-Sayed told reporters after a campaign rally, ac",
+   "published_at": "2026-10-31T23:58:44Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
    "title": "Virginia and DC sue to stop Trump’s arch as government looks to start construction",
    "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia",
    "summary": "Legal challenges to Donald Trump’s proposed memorial arch are mounting even as its construction is imminent The legal challenges to Donald Trump ’s proposed memorial arch are mounting, with the District of Columbia and Virginia suing in federal court on Saturday as the administration says construction could begin as early as next week. There are now three la",
@@ -1621,14 +1541,14 @@
    "score_hint": 46
   },
   {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Trump beware: US voters are concerned about government corruption",
-   "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters",
-   "summary": "Alleged self-dealing by the president and his allies doesn’t look so good as corruption emerges as a key issue for midterm voters Government corruption a top issue for US midterm voters, exclusive poll finds Voters under 50 probably won’t remember the “ welfare queen ”. But she once embodied Republicans’ claim of the underlying reason for US societal decay: ",
-   "published_at": "2026-10-31T10:00:41Z",
-   "category_hint": "military",
-   "score_hint": 58
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "China mega complex in Dalian puts spotlight on investment push",
+   "url": "https://asia.nikkei.com/business/markets/property/china-mega-complex-in-dalian-puts-spotlight-on-investment-push",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
   },
   {
    "source": "gh_nikkei",
@@ -2021,16 +1941,6 @@
    "score_hint": 50
   },
   {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japan prepares for commercial drone flocks after operating limit lifted",
-   "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-prepares-for-commercial-drone-flocks-after-operating-limit-lifted",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "military",
-   "score_hint": 62
-  },
-  {
    "source": "gh_ft",
    "source_name": "Financial Times",
    "title": "Investors trim growth bets over fears of US economy’s AI exposure",
@@ -2039,16 +1949,6 @@
    "published_at": "2026-10-31T14:00:02Z",
    "category_hint": "economy",
    "score_hint": 62
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-   "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
-   "summary": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
-   "published_at": "2026-10-31T00:05:08Z",
-   "category_hint": "economy",
-   "score_hint": 56
   },
   {
    "source": "gh_ft",
@@ -2083,22 +1983,22 @@
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
+   "title": "Michigan feud threatens Democratic unity in key Senate race",
+   "url": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
+   "summary": "Abdul El-Sayed disinvites former primary rival Haley Stevens from campaign event amid war of words over Israel",
+   "published_at": "2026-10-31T23:57:07Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
    "title": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections",
    "url": "https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8?syn-25a6b1a6=1",
    "summary": "Former White House chief strategist predicts ‘monster’ legislative battles before new Congress is sworn in",
    "published_at": "2026-10-31T12:00:01Z",
    "category_hint": "military",
    "score_hint": 64
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "US midterms loom over jittery investors",
-   "url": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
-   "summary": "Caution certainly seems warranted for the coming weeks",
-   "published_at": "2026-10-31T05:00:39Z",
-   "category_hint": "economy",
-   "score_hint": 52
   },
   {
    "source": "gh_ft",
@@ -2123,22 +2023,62 @@
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
-   "title": "Rating agency Fitch hits France with unscheduled outlook downgrade",
-   "url": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1",
-   "summary": "Move comes hours after data showed an unexpected contraction in third-quarter economic output",
-   "published_at": "2026-10-31T09:36:34Z",
+   "title": "Tusk vows to press on with overhaul of Poland’s judiciary",
+   "url": "https://www.ft.com/content/d49a7943-fc11-45cb-bcf2-f5876c3c381d?syn-25a6b1a6=1",
+   "summary": "Prime minister defends suspension of constitutional court’s president as opposition accuses him of staging an institutional coup",
+   "published_at": "2026-10-31T22:51:11Z",
    "category_hint": "economy",
    "score_hint": 52
   },
   {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "French banks’ rising profits fail to reverse sell-off as political fears bite",
-   "url": "https://www.ft.com/content/d1c2c34b-7bfb-470a-a51d-bbada1c6ccef?syn-25a6b1a6=1",
-   "summary": "BNP Paribas, SocGen and Crédit Agricole reported strong third-quarter earnings but have been hit by investor nerves over political and economic uncertainty",
-   "published_at": "2026-10-31T05:00:40Z",
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Republic Bancorp EVP Jeff Starke sells $75,769 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/republic-bancorp-evp-jeff-starke-sells-75769-in-stock-93CH-4989350",
+   "summary": "",
+   "published_at": "2026-11-01T00:16:11Z",
    "category_hint": "economy",
-   "score_hint": 52
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Russian oil tankers deploy makeshift drone defenses amid Ukraine attacks - WSJ",
+   "url": "https://www.investing.com/news/economy-news/russian-oil-tankers-deploy-makeshift-drone-defenses-amid-ukraine-attacks--wsj-4989348",
+   "summary": "",
+   "published_at": "2026-10-31T23:56:53Z",
+   "category_hint": "military",
+   "score_hint": 62
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+   "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+   "summary": "",
+   "published_at": "2026-10-31T23:00:35Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Top takeaways from Bernstein’s annual Global Sportswear survey",
+   "url": "https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
+   "summary": "",
+   "published_at": "2026-10-31T22:57:05Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "UK PM Burnham says he is ’open’ to formal apology for slavery, but rules out reparations",
+   "url": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
+   "summary": "",
+   "published_at": "2026-10-31T22:00:23Z",
+   "category_hint": "economy",
+   "score_hint": 44
   },
   {
    "source": "gh_investing",
@@ -2157,16 +2097,6 @@
    "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
    "summary": "",
    "published_at": "2026-10-31T20:56:59Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
-   "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
-   "summary": "",
-   "published_at": "2026-10-31T20:48:20Z",
    "category_hint": "economy",
    "score_hint": 44
   },
@@ -2201,44 +2131,14 @@
    "score_hint": 44
   },
   {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Citi sees European gas prices rising in 2027 as Middle East risks spur price gains",
-   "url": "https://www.investing.com/news/commodities-news/citi-sees-european-gas-prices-rising-in-2027-as-middle-east-risks-spur-price-gains-4989323",
-   "summary": "",
-   "published_at": "2026-10-31T19:33:24Z",
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Chevron Raises Exploration Spending By 50%",
+   "url": "https://oilprice.com/Energy/Crude-Oil/Chevron-Raises-Exploration-Spending-By-50.html",
+   "summary": "After years of focusing on growing exploration and production in the U.S. Gulf of Mexico and the Permian shale basin, U.S. oil and gas supermajor Chevron returns to high-impact frontier exploration as it seeks to renew its portfolio with diverse opportunities globally. Exploration in South America, Africa, and the Eastern Mediterranean is now a key focus of ",
+   "published_at": "2026-10-31T23:00:00Z",
    "category_hint": "economy",
    "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-   "url": "https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
-   "summary": "",
-   "published_at": "2026-10-31T19:24:18Z",
-   "category_hint": "military",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Why the sell-off in French bonds is a warning for global governments",
-   "url": "https://www.investing.com/news/stock-market-news/why-the-selloff-in-french-bonds-is-a-warning-for-global-governments-4989316",
-   "summary": "",
-   "published_at": "2026-10-31T18:53:38Z",
-   "category_hint": "military",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Countries reach COP17 deal to speed up biodiversity action, but money still short",
-   "url": "https://www.investing.com/news/economy-news/countries-reach-cop17-deal-to-speed-up-biodiversity-action-but-money-still-short-4989314",
-   "summary": "",
-   "published_at": "2026-10-31T18:36:22Z",
-   "category_hint": "economy",
-   "score_hint": 44
   },
   {
    "source": "gh_oilprice",
@@ -2377,16 +2277,6 @@
    "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Tops-101-Euros-for-First-Time-Since-2022.html",
    "summary": "Europe’s benchmark natural gas prices have topped 101 euros per megawatt-hour (MWh) for the first time since the 2022 crisis as winter looms amid historically low European gas storage levels. The front-month price at the Dutch Title Transfer Facility (TTF), the benchmark for Europe’s gas trading, surged by 4% as of 9 a.m. in Amsterdam on Friday. The TTF pric",
    "published_at": "2026-10-30T14:30:00Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Trump Considers Lifting Sanctions on Putin’s ‘Slush Fund’",
-   "url": "https://oilprice.com/Geopolitics/Europe/Trump-Considers-Lifting-Sanctions-on-Putins-Slush-Fund.html",
-   "summary": "Four days after Russia launched its all-out effort to subjugate Ukraine, the US government and other Western allies fired a broadside of financial sanctions aimed at punishing the Kremlin’s wallet for the assault. The Russian Central Bank was prominent. So was a multibillion-dollar sovereign wealth fund that the Kremlin calls the Russian Direct Investment Fu",
-   "published_at": "2026-10-30T14:00:00Z",
    "category_hint": "economy",
    "score_hint": 56
   },
@@ -2541,46 +2431,6 @@
    "score_hint": 50
   },
   {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
-   "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
-   "summary": "Binance said it reserved its own funds to cover the $6.3 billion hack, including freezes of roughly $3 billion in stolen assets.",
-   "published_at": "2026-10-30T12:13:02Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Here's how big bitcoin traders responded after the Binance hack hit",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
-   "summary": "Your day-ahead look for Oct. 30, 2026",
-   "published_at": "2026-10-30T11:51:26Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-   "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-   "summary": "On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet.",
-   "published_at": "2026-10-30T11:35:16Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-   "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-   "summary": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.",
-   "published_at": "2026-10-30T11:09:24Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
    "source": "gh_defenseone",
    "source_name": "Defense One",
    "title": "Across the line",
@@ -2729,16 +2579,6 @@
    "published_at": "2026-10-30T14:45:56Z",
    "category_hint": "military",
    "score_hint": 62
-  },
-  {
-   "source": "gh_techreview",
-   "source_name": "MIT Tech Review",
-   "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-   "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can&#8230;",
-   "published_at": "2026-10-30T11:30:00Z",
-   "category_hint": "military",
-   "score_hint": 58
   },
   {
    "source": "gh_verge",
@@ -2899,6 +2739,386 @@
    "published_at": "2026-10-30T13:12:49Z",
    "category_hint": "other",
    "score_hint": 46
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+   "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+   "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+   "published_at": "2026-10-30T17:07:19Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+   "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+   "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+   "published_at": "2026-10-30T14:48:22Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+   "published_at": "2026-10-30T20:34:46Z",
+   "category_hint": "economy",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+   "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+   "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
+   "published_at": "2026-10-30T23:19:17Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "What's at stake for Trump in the US midterms?",
+   "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+   "published_at": "2026-10-30T10:19:48Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Dakar Youth Olympics: Who gets to hold the flame?",
+   "url": "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss",
+   "summary": "Senegal makes history by becoming the first African country to host an Olympic event.",
+   "published_at": "2026-10-31T17:17:21Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Flavio Bolsonaro says he may run again for Brazilian presidency",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/flavio-bolsonaro-says-he-may-run-again-for-brazilian-presidency?traffic_source=rss",
+   "summary": "Flavio Bolsonaro says he may run again for Brazilian presidency",
+   "published_at": "2026-10-31T17:12:11Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Thousands rally in Berlin as Gen Z protests in more than 30 German cities",
+   "url": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
+   "summary": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
+   "published_at": "2026-10-31T16:28:04Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
+   "url": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss",
+   "summary": "Simon Harmer picked a career-best 6-16 as South Africa beat Australia by 176 runs to clinch Test series 2-1.",
+   "published_at": "2026-10-31T15:43:46Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
+   "url": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
+   "summary": "Goals from Morgan Rogers and Cole Palmer give Chelsea a 2-0 win over Manchester United in the Premier League.",
+   "published_at": "2026-10-31T15:09:59Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_dw",
+   "source_name": "DW World",
+   "title": "Germany takes cautious approach on Israeli election results",
+   "url": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-world-4025-rdf",
+   "summary": "German politicians have been slow to respond as they wait to see who is likely to comprise the next coalition. Many are also hoping for a government without religious hardliners.",
+   "published_at": "2026-10-30T11:26:00Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Hong Kong woman, 66, loses HK$2.7 million in money-laundering phone scam",
+   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372815/hong-kong-woman-66-loses-hk27-million-money-laundering-phone-scam",
+   "summary": "A 66-year-old Hong Kong woman has been swindled out of HK$2.7 million (US$344,158) in a phone scam after a caller claimed that her bank account had been involved in money laundering. Police said the woman, who lives in Sau Mau Ping, told the force at about 5am on Saturday that she had received the call earlier this month from a suspected scammer. He claimed ",
+   "published_at": "2026-10-31T05:29:25Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Hong Kong socialite Abby Choi’s remains found in soup pots and fridge, court told",
+   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372814/hong-kong-socialite-abby-chois-remains-found-soup-pots-and-fridge-court-told",
+   "summary": "Slain Hong Kong socialite Abby Choi Tin-fung’s remains were stored in two soup pots and a refrigerator after her body was dismembered with an electric saw in a rural village flat, a court has heard. The High Court trial took a turn towards the end of its fifth week when Choi’s former father-in-law, Kwong Kau, changed his plea to guilty on a charge of illegal",
+   "published_at": "2026-10-31T05:23:37Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "From digital pets to robot pals: how AI is changing Hong Kong classrooms",
+   "url": "https://www.scmp.com/news/hong-kong/education/article/3372812/digital-pets-robot-pals-how-ai-changing-hong-kong-classrooms",
+   "summary": "Hands shot up in a Hong Kong Primary Two classroom as pupils debated what their digital pet needed more, meal vouchers or the latest game cards. Their teacher at SKH Kei Oi Primary School in Sham Shui Po had created the virtual pet using artificial intelligence (AI) and web tools for a lesson on saving and budgeting. With each spending decision, the pet’s mo",
+   "published_at": "2026-10-31T05:09:55Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Hundreds of Thousands Join Another Round of Protests in France",
+   "url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
+   "summary": "The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.",
+   "published_at": "2026-10-31T21:00:38Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Why Are There Protests in France?",
+   "url": "https://www.nytimes.com/article/france-student-protests-why.html",
+   "summary": "For a third consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots.",
+   "published_at": "2026-10-31T11:48:56Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "North Korean Hackers May Have Stolen Billions. It Wouldn’t Be Their First Heist.",
+   "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+   "summary": "This week’s $6.3 billion hack of Binance is the largest to rock the crypto industry. North Korea, with a history of brazen cybercrime, is a suspect.",
+   "published_at": "2026-10-31T21:40:07Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "How Ukrainian Soldiers Are Moving Underground",
+   "url": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
+   "summary": "Ukrainian soldiers are traveling underground through abandoned gas pipes to reach positions near the front. Our correspondent Maria Varenikova joins them on the journey through the kill zone and into positions where troops can spend weeks at a time.",
+   "published_at": "2026-10-30T11:14:40Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case",
+   "url": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
+   "summary": "Judges took away the possibility of parole for an Australian woman, Erin Patterson, and rejected a bid to overturn her conviction over a deadly beef Wellington lunch.",
+   "published_at": "2026-10-30T10:14:33Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+   "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+   "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms. During a particularly intense thunderst",
+   "published_at": "2026-10-30T10:07:16Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Beijing Queer film festival cancelled after harassment from authorities",
+   "url": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
+   "summary": "Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a campaign of sustained harassment from authorities. Beijing Queer film festival, which was due to begin on Friday in China’s capital, is one of t",
+   "published_at": "2026-10-30T11:04:12Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+   "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+   "summary": "Activists call for people to make their anger known over poor public services including education and housing Street protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with police mobilised to stop potential looting and rioting on the fringes of what organisers hope will be peaceful rallies. Weeks of, at times viol",
+   "published_at": "2026-10-31T09:13:22Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Trump beware: US voters are concerned about government corruption",
+   "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters",
+   "summary": "Alleged self-dealing by the president and his allies doesn’t look so good as corruption emerges as a key issue for midterm voters Government corruption a top issue for US midterm voters, exclusive poll finds Voters under 50 probably won’t remember the “ welfare queen ”. But she once embodied Republicans’ claim of the underlying reason for US societal decay: ",
+   "published_at": "2026-10-31T10:00:41Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Japan prepares for commercial drone flocks after operating limit lifted",
+   "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-prepares-for-commercial-drone-flocks-after-operating-limit-lifted",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "military",
+   "score_hint": 62
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+   "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+   "summary": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
+   "published_at": "2026-10-31T00:05:08Z",
+   "category_hint": "economy",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "US midterms loom over jittery investors",
+   "url": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
+   "summary": "Caution certainly seems warranted for the coming weeks",
+   "published_at": "2026-10-31T05:00:39Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Rating agency Fitch hits France with unscheduled outlook downgrade",
+   "url": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1",
+   "summary": "Move comes hours after data showed an unexpected contraction in third-quarter economic output",
+   "published_at": "2026-10-31T09:36:34Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "French banks’ rising profits fail to reverse sell-off as political fears bite",
+   "url": "https://www.ft.com/content/d1c2c34b-7bfb-470a-a51d-bbada1c6ccef?syn-25a6b1a6=1",
+   "summary": "BNP Paribas, SocGen and Crédit Agricole reported strong third-quarter earnings but have been hit by investor nerves over political and economic uncertainty",
+   "published_at": "2026-10-31T05:00:40Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Citi sees European gas prices rising in 2027 as Middle East risks spur price gains",
+   "url": "https://www.investing.com/news/commodities-news/citi-sees-european-gas-prices-rising-in-2027-as-middle-east-risks-spur-price-gains-4989323",
+   "summary": "",
+   "published_at": "2026-10-31T19:33:24Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+   "url": "https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
+   "summary": "",
+   "published_at": "2026-10-31T19:24:18Z",
+   "category_hint": "military",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Why the sell-off in French bonds is a warning for global governments",
+   "url": "https://www.investing.com/news/stock-market-news/why-the-selloff-in-french-bonds-is-a-warning-for-global-governments-4989316",
+   "summary": "",
+   "published_at": "2026-10-31T18:53:38Z",
+   "category_hint": "military",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Countries reach COP17 deal to speed up biodiversity action, but money still short",
+   "url": "https://www.investing.com/news/economy-news/countries-reach-cop17-deal-to-speed-up-biodiversity-action-but-money-still-short-4989314",
+   "summary": "",
+   "published_at": "2026-10-31T18:36:22Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Trump Considers Lifting Sanctions on Putin’s ‘Slush Fund’",
+   "url": "https://oilprice.com/Geopolitics/Europe/Trump-Considers-Lifting-Sanctions-on-Putins-Slush-Fund.html",
+   "summary": "Four days after Russia launched its all-out effort to subjugate Ukraine, the US government and other Western allies fired a broadside of financial sanctions aimed at punishing the Kremlin’s wallet for the assault. The Russian Central Bank was prominent. So was a multibillion-dollar sovereign wealth fund that the Kremlin calls the Russian Direct Investment Fu",
+   "published_at": "2026-10-30T14:00:00Z",
+   "category_hint": "economy",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
+   "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
+   "summary": "Binance said it reserved its own funds to cover the $6.3 billion hack, including freezes of roughly $3 billion in stolen assets.",
+   "published_at": "2026-10-30T12:13:02Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
+   "summary": "Your day-ahead look for Oct. 30, 2026",
+   "published_at": "2026-10-30T11:51:26Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
+   "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+   "summary": "On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet.",
+   "published_at": "2026-10-30T11:35:16Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+   "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+   "summary": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.",
+   "published_at": "2026-10-30T11:09:24Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_techreview",
+   "source_name": "MIT Tech Review",
+   "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+   "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can&#8230;",
+   "published_at": "2026-10-30T11:30:00Z",
+   "category_hint": "military",
+   "score_hint": 58
   },
   {
    "source": "gh_bbc",
@@ -3167,16 +3387,6 @@
    "url": "https://www.nytimes.com/2026/10/30/travel/via-transilvanica-romania-hike.html",
    "summary": "On a three-day hike in Romania, a writer sidesteps the usual Bram Stoker draws and instead discovers medieval villages, ancient forests and rich living history.",
    "published_at": "2026-10-30T09:00:23Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
-   "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-   "summary": "After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system.",
-   "published_at": "2026-10-30T17:52:18Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -11799,216 +12009,6 @@
    "published_at": "2026-10-29T20:46:41Z",
    "category_hint": "economy",
    "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Forrester earnings beat by $0.03, revenue topped estimates",
-   "url": "https://www.investing.com/news/earnings/forrester-earnings-beat-by-003-revenue-topped-estimates-4985207",
-   "summary": "",
-   "published_at": "2026-10-29T20:46:38Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "FMC earnings missed by $4.48, revenue fell short of estimates",
-   "url": "https://www.investing.com/news/earnings/fmc-earnings-missed-by-448-revenue-fell-short-of-estimates-4985206",
-   "summary": "",
-   "published_at": "2026-10-29T20:46:36Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Merit earnings beat by $0.08, revenue topped estimates",
-   "url": "https://www.investing.com/news/earnings/merit-earnings-beat-by-008-revenue-topped-estimates-4985204",
-   "summary": "",
-   "published_at": "2026-10-29T20:45:56Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Exelixis earnings beat by $0.07, revenue topped estimates",
-   "url": "https://www.investing.com/news/earnings/exelixis-earnings-beat-by-007-revenue-topped-estimates-4985198",
-   "summary": "",
-   "published_at": "2026-10-29T20:45:41Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "PTC Therapeutics earnings missed by $0.92, revenue topped estimates",
-   "url": "https://www.investing.com/news/earnings/ptc-therapeutics-earnings-missed-by-092-revenue-topped-estimates-4985199",
-   "summary": "",
-   "published_at": "2026-10-29T20:45:41Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Weyerhaeuser earnings beat by $0.02, revenue fell short of estimates",
-   "url": "https://www.investing.com/news/earnings/weyerhaeuser-earnings-beat-by-002-revenue-fell-short-of-estimates-4985184",
-   "summary": "",
-   "published_at": "2026-10-29T20:45:05Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "UK National Grid to Extend France Power Link Operation to 2050",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-National-Grid-to-Extend-France-Power-Link-Operation-to-2050.html",
-   "summary": "UK’s National Grid plans to invest up to $532 million (£400 million) in extending the operation of the UK-France power interconnector until at least 2050 to preserve a vital electricity flexibility link. National Grid said on Thursday that after 40 years of operation to date, the Interconnexion France-Angleterre (IFA), the cross-border electricity link joint",
-   "published_at": "2026-10-29T14:30:00Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Fragile Ukraine Truce Faces Critical Test Amid Fears of Forced Deportations",
-   "url": "https://oilprice.com/Energy/Energy-General/Fragile-Ukraine-Truce-Faces-Critical-Test-Amid-Fears-of-Forced-Deportations.html",
-   "summary": "A fragile cease-fire around Russian-occupied Oleshky entered its third day on October 29, offering hope to thousands of civilians facing severe shortages and perilous escape routes, amid fears that Russia could use the pause to forcibly transfer residents to Russia or occupied Crimea. The localized truce, brokered with the involvement of US First Lady Melani",
-   "published_at": "2026-10-29T14:00:00Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Iran War Hikes EU’s Oil Import Bill By $11 Billion Per Month",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Hikes-EUs-Oil-Import-Bill-By-11-Billion-Per-Month.html",
-   "summary": "The European Union has been paying $11 billion more to import oil since the Middle East crisis choked crude oil supplies and triggered a global fuel crisis, an analysis by Euronews Business showed on Thursday. The value of the EU’s petroleum imports jumped by 55.8% in the second quarter of 2026, despite the relatively stable volume of imports, according to E",
-   "published_at": "2026-10-29T13:30:00Z",
-   "category_hint": "military",
-   "score_hint": 68
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Shell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Profits-Nearly-Double-to-108-Billion-as-Refining-Margins-Hit-Record.html",
-   "summary": "Record refining margins and higher LNG and gas prices boosted Shell’s third-quarter earnings to over $10.8 billion, nearly double compared to the same period last year, as the Middle East crisis squeezed fuel supplies and hiked oil and gas prices. Shell on Thursday reported adjusted earnings of $10.814 billion for the third quarter, the highest since 2022, a",
-   "published_at": "2026-10-29T12:29:00Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Live updates: Bitcoin falls below $80,000 as weak tech earnings set Nasdaq up for more losses",
-   "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-   "summary": "Strategy's STRC has hit its highest price since May, and the company could soon be ready to restart large bitcoin purchases.",
-   "published_at": "2026-10-29T10:41:39Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "The chart bitcoin traders should be paying attention to",
-   "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
-   "summary": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.",
-   "published_at": "2026-10-29T07:44:44Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-   "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
-   "summary": "Three flaws a language-model scan dug up are the first disclosed under Core’s new rules for bugs that are easy to find.",
-   "published_at": "2026-10-29T05:54:39Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_techreview",
-   "source_name": "MIT Tech Review",
-   "title": "The Download: dead startups fueling AI and interspecies communication",
-   "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s&#8230;",
-   "published_at": "2026-10-28T12:10:00Z",
-   "category_hint": "other",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_techreview",
-   "source_name": "MIT Tech Review",
-   "title": "Pairing industrial AI autonomy and human control",
-   "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-   "summary": "",
-   "published_at": "2026-10-28T12:00:00Z",
-   "category_hint": "other",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
-   "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
-   "summary": "Utah has filed criminal charges against Kalshi and its executives, accusing the prediction market of breaking anti-gambling laws, as reported by The Salt Lake Tribune and the Associated Press. The state has filed 14 charges against Kalshi, as well as CEO Tarek Mansour and COO Luana Lopes Lara, including 12 counts of illegally promoting online [&#8230;]",
-   "published_at": "2026-10-29T17:40:23Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Data centers could send US climate pollution skyrocketing",
-   "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
-   "summary": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to a new analysis by the Sierra Club. That would essentially wipe out 15 years of greenhouse gas reductions. CO2 [&#8230;]",
-   "published_at": "2026-10-29T17:10:46Z",
-   "category_hint": "other",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "This open-source project lets you sync Withings data to other apps without a subscription",
-   "url": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
-   "summary": "When it was revealed earlier this month that Withings would require new users to subscribe to a Withings Plus subscription to sync heath data from the company's devices to third-party apps, Tom Anthony, who was already fed up with the Withings mobile app which they describe as a \"bloated mess,\" became motivated to \"free\" their [&#8230;]",
-   "published_at": "2026-10-29T16:14:06Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-   "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-   "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
-   "published_at": "2026-10-29T11:07:35Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Israel's election result is messy - here's why",
-   "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-   "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
-   "published_at": "2026-10-28T14:26:24Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
-   "url": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
-   "published_at": "2026-10-28T17:34:41Z",
-   "category_hint": "policy",
-   "score_hint": 48
   }
  ]
 }

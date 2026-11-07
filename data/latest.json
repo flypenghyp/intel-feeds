@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T22:23:16Z",
+ "generated_at": "2026-11-07T02:10:42Z",
  "count": 1200,
- "fresh": 338,
+ "fresh": 330,
  "ok_sources": 18,
  "errors": [
   "Politico: HTTP Error 403: Forbidden",
@@ -213,16 +213,6 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-   "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-   "summary": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
-   "published_at": "2026-11-05T10:33:21Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
    "title": "US midterm results spark fears in Israel over future of two countries' ties",
    "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
    "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
@@ -261,14 +251,104 @@
    "score_hint": 60
   },
   {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "Did a data centre revolt affect the US midterm election results?",
-   "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
-   "published_at": "2026-11-06T06:01:13Z",
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+   "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+   "summary": "Children and teenagers make up almost 60 percent of confirmed cases.",
+   "published_at": "2026-11-07T01:55:03Z",
    "category_hint": "policy",
    "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "EU prosecutor office investigates fatal train crash in Spain",
+   "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+   "summary": "The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.",
+   "published_at": "2026-11-07T01:33:39Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+   "summary": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
+   "published_at": "2026-11-07T00:55:51Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+   "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+   "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+   "published_at": "2026-11-07T00:31:41Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+   "summary": "Marjorie Taylor Greene says Trump&#039;s White House personnel shuffle will sink the party’s next presidential campaign.",
+   "published_at": "2026-11-07T00:21:49Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+   "summary": "Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.",
+   "published_at": "2026-11-07T00:00:00Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "New Zealanders head to polls on final day of voting",
+   "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+   "summary": "More than half of New Zealand’s voters cast early ballots in the tightly contested race.",
+   "published_at": "2026-11-06T23:48:01Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+   "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
+   "summary": "TikTok&#039;s algorithm &#039;leading users down rabbit holes they cannot easily escape from&#039;, European Commission says.",
+   "published_at": "2026-11-06T23:33:28Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+   "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+   "summary": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.",
+   "published_at": "2026-11-06T23:07:22Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "US urges China to honour Busan trade deal commitments",
+   "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+   "summary": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China&#039;s fulfilment of commitments.",
+   "published_at": "2026-11-06T23:00:37Z",
+   "category_hint": "economy",
+   "score_hint": 54
   },
   {
    "source": "gh_aljazeera",
@@ -333,9 +413,9 @@
   {
    "source": "gh_aljazeera",
    "source_name": "Al Jazeera",
-   "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
+   "title": "Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour",
    "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
-   "summary": "The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month.",
+   "summary": "The pontiff praises Uruguay&#039;s clean energy transition and calls for universal healthcare.",
    "published_at": "2026-11-06T20:22:22Z",
    "category_hint": "policy",
    "score_hint": 48
@@ -417,106 +497,6 @@
    "url": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
    "summary": "Ueno collapse raises questions about state influence and accountability.",
    "published_at": "2026-11-06T18:54:08Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Goats on weed-clearing duty become unlikely Tokyo celebrities",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-tokyo-goats-weed-clearing?traffic_source=rss",
-   "summary": "Two goats deployed to clear overgrown grass near a Tokyo railway station have become social media stars.",
-   "published_at": "2026-11-06T18:45:00Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "‘Message to the West’ bomb threats target European newsrooms, travel",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss",
-   "summary": "Newsrooms in Ireland and Bulgaria received bomb threats from someone identifying themself as ‘Mikhail Andropov’.",
-   "published_at": "2026-11-06T18:38:44Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
-   "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss",
-   "summary": "Moscow is suffering losses on the battlefield as US traders reportedly refuse to honour Trump&#039;s diesel deal with Putin.",
-   "published_at": "2026-11-06T18:23:11Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
-   "summary": "Israeli settlers have forced dozens of Palestinians from their homes in Jericho after seizing eight properties.",
-   "published_at": "2026-11-06T18:17:39Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
-   "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
-   "summary": "The attack on al-Hadara market in Taiz governorate&#039;s al-Waziiya district killed at least 30 people, Houthi rebels say.",
-   "published_at": "2026-11-06T18:09:49Z",
-   "category_hint": "military",
-   "score_hint": 66
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
-   "url": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-   "summary": "A win at struggling Valencia would provisionally take Madrid level on points with league leaders Barcelona.",
-   "published_at": "2026-11-06T17:50:13Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "How Paraguay’s Ueno collapse is only its latest banking crisis",
-   "url": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss",
-   "summary": "President Santiago Pena is under fire over links to parent company of collapsed bank.",
-   "published_at": "2026-11-06T17:42:22Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "US city votes to divest from Israel",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
-   "summary": "Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.",
-   "published_at": "2026-11-06T17:40:13Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
-   "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
-   "summary": "Jason Reding Quinones&#039; resignation comes as administration braces for Democrat-led investigations.",
-   "published_at": "2026-11-06T17:02:19Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
-   "url": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
-   "summary": "Political turmoil comes after a digital bank&#039;s failure has left half the population without access to their accounts.",
-   "published_at": "2026-11-06T16:58:56Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -643,7 +623,117 @@
   {
    "source": "gh_scmp",
    "source_name": "SCMP",
-   "title": "Will the US midterm ‘blue tsunami’ erode China’s faith in Trump and Xi’s relationship?",
+   "title": "Iran’s nuclear programme: US offers US$20 million reward for information",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3373625/irans-nuclear-programme-us-offers-us20-million-reward-information",
+   "summary": "Washington is offering a US$20 million reward “and possible relocation” for information about Iran’s nuclear programme, the US military has said, as President Donald Trump reiterated that Tehran wants to make a deal to end the war. A State Department programme, Rewards for Justice, “is offering a reward of up to US$20 million and possible relocation for info",
+   "published_at": "2026-11-07T02:04:14Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "AI-generated cats showcasing rural life, Chinese cuisine land major brand sponsorships",
+   "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3373622/ai-generated-cats-showcasing-rural-life-chinese-cuisine-land-major-brand-sponsorships",
+   "summary": "China’s pet scene has found its digital answer to cottagecore icon Li Ziqi – “Meow Ziqi,” a social media account featuring three AI-generated cats that cook traditional Chinese dishes and practise heritage crafts. Since bursting onto the scene in April, the account has amassed over 1.76 million followers and more than 500 million views. The parallels with Si",
+   "published_at": "2026-11-07T02:00:31Z",
+   "category_hint": "economy",
+   "score_hint": 54
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Myanmar’s will to fight money laundering questioned as tougher curbs loom",
+   "url": "https://www.scmp.com/week-asia/politics/article/3373586/myanmars-will-fight-money-laundering-questioned-tougher-curbs-loom",
+   "summary": "Myanmar’s military-backed government may find its reluctance to address the international community’s concerns a greater obstacle to economic recovery than the threat of tougher international financial restrictions, according to analysts. The Financial Action Task Force (FATF), the global money-laundering and terrorist-financing watchdog, warned on October 3",
+   "published_at": "2026-11-07T02:00:27Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "In the Pacific century, Chinatowns in the US deserve more than preservation",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3373179/pacific-century-chinatowns-us-deserve-more-preservation",
+   "summary": "I was sitting in my car in Oakland’s Chinatown with Desta, my dog, while my wife visited her Chinese-American doctor. Across the street stood the Shoong Family Chinese Cultural Centre. On the pavements, older shoppers carrying bags of greens paused to greet acquaintances. People threaded between produce displays, fish counters and shopfronts crowded with eve",
+   "published_at": "2026-11-07T01:30:07Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Is Russia’s seizure of Japan Tobacco assets the last straw for Tokyo amid frosty ties?",
+   "url": "https://www.scmp.com/week-asia/politics/article/3373624/russias-seizure-japan-tobacco-assets-last-straw-tokyo-amid-frosty-ties",
+   "summary": "Russia’s seizure of the assets of a Japanese company could prove to be Tokyo’s red line after a series of bitter exchanges between both nations and ties that continue to spiral. The Japanese government on Friday lodged a formal complaint with Russia and demanded that Moscow immediately reverse a decree announced the previous day that transferred the assets o",
+   "published_at": "2026-11-07T01:00:16Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Sanae Takaichi slammed online for praising calligraphy without mentioning China",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3373580/sanae-takaichi-slammed-online-praising-calligraphy-without-mentioning-china",
+   "summary": "Japanese Prime Minister Sanae Takaichi has faced backlash online after writing a social media post celebrating Japan’s shodo calligraphy without mentioning its Chinese roots. On Thursday, Unesco released this year’s nominations for inclusion on its Representative List of the Intangible Cultural Heritage of Humanity. The 59 nominations submitted for considera",
+   "published_at": "2026-11-07T01:00:12Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Hong Kong draws growing interest from Irish firms seeking expansion across Asia",
+   "url": "https://www.scmp.com/news/hong-kong/article/3373552/hong-kong-draws-growing-interest-irish-firms-seeking-expansion-across-asia",
+   "summary": "More Irish companies are considering Hong Kong as a base for expansion across Asia, according to the head of the country’s chamber of commerce in the city, who described the two as “natural partners”. Padraig Seif, president of the Irish Chamber of Commerce in Hong Kong, said momentum was building ahead of the Asia-Pacific Irish Business Forum as Irish firms",
+   "published_at": "2026-11-07T01:00:08Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "By all memes: why Asia’s Gen Z are revolting",
+   "url": "https://www.scmp.com/week-asia/politics/article/3373473/all-memes-why-asias-gen-z-are-revolting",
+   "summary": "All across Asia, anti-establishment protests have been flaring up, led by a generation that came of age in the digital era. Memes are mobilising a young, permanently online cohort against specific government policies, insults and injustices – its many members determined to seize their own destinies before the future they fear takes root. Asia is home to 60 p",
+   "published_at": "2026-11-07T00:00:14Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Paraguay’s President Pena impeached over Ueno banking crisis, placed under house arrest",
+   "url": "https://www.scmp.com/news/world/americas/article/3373623/paraguays-president-pena-impeached-over-ueno-banking-crisis-placed-under-house-arrest",
+   "summary": "Paraguayan President Santiago Pena was placed under house arrest on Friday on suspicion of breach of trust, shortly after the Senate removed him from office over the collapse of a major bank tied to his government. Pena had offered his resignation over the disaster, but lawmakers pressed ahead with impeachment proceedings that would strip him of immunity gra",
+   "published_at": "2026-11-06T23:41:08Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Cornell faculty vote no-confidence in leadership after gang rape case",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3373621/cornell-faculty-vote-no-confidence-leadership-after-gang-rape-case",
+   "summary": "Faculty members at Cornell University on Friday passed a no-confidence resolution against the elite college’s leadership over its handling of an alleged gang rape that has sparked outcry in the US. The vote is not binding but marks a strong symbolic rebuke of administrators at the Ivy League college in New York state. According to a lawsuit, a female student",
+   "published_at": "2026-11-06T23:06:09Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Ted Lieu seeks Congress leadership post, aiming to break another glass ceiling",
+   "url": "https://www.scmp.com/news/us/us-elections/article/3373620/ted-lieu-seeks-congress-leadership-post-aiming-break-another-glass-ceiling",
+   "summary": "California Democratic Congressman Ted Lieu is seeking to become the next chairman of the House Democratic Caucus, one of the top leadership jobs in the US Congress, and potentially making history again as the highest-ranking Asian-American on Capitol Hill. He announced his caucus chair candidacy in a letter to fellow Democrats on Thursday. He’s currently the",
+   "published_at": "2026-11-06T23:01:56Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Will the US midterm ‘blue tsunami’ erode China’s faith in Xi and Trump’s relationship?",
    "url": "https://www.scmp.com/news/china/diplomacy/article/3373574/will-us-midterm-blue-tsunami-erode-chinas-faith-trump-and-xis-relationship",
    "summary": "China may start looking for ways to make its deals with the United States less dependent on the personal relationship between presidents Xi Jinping and Donald Trump after the midterm elections left the US leader in a weaker position to deliver results, analysts have said. Some observers believe Beijing will start paying closer attention to what the White Hou",
    "published_at": "2026-11-06T22:00:09Z",
@@ -733,9 +823,9 @@
   {
    "source": "gh_scmp",
    "source_name": "SCMP",
-   "title": "Meghan’s father Thomas Markle arrested in US on child sex abuse material charges",
+   "title": "Thomas Markle, father of Meghan, charged in US with possession of child sex abuse photos",
    "url": "https://www.scmp.com/news/world/united-states-canada/article/3373612/meghans-father-thomas-markle-arrested-us-child-sex-abuse-material-charges",
-   "summary": "Thomas Markle, the father of Prince Harry’s wife Meghan, was arrested on Friday morning by federal agents in Florida on charges related to child sexual abuse material, people familiar with the matter said. The people who confirmed his arrest were not authorised to publicly discuss the investigation and spoke on the condition of anonymity. Markle, 82, was tak",
+   "summary": "The 82-year-old estranged father of Meghan, the Duchess of Sussex, was arrested on Friday at a senior care facility in Florida on a charge of keeping child sexual abuse material in storage units in California, authorities said. Thomas Markle Snr was in a wheelchair wearing handcuffs when he was transported by ambulance with federal agents, according to video",
    "published_at": "2026-11-06T16:02:13Z",
    "category_hint": "policy",
    "score_hint": 46
@@ -931,122 +1021,12 @@
    "score_hint": 46
   },
   {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "28 arrested in crackdown as bid-rigging task force launches first operation",
-   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373575/hong-kong-authorities-arrest-28-crackdown-bid-rigging-after-tai-po-fire",
-   "summary": "Hong Kong authorities have cracked down on a syndicate and arrested 28 people allegedly involved in bid-rigging, including board members of contractors and consultancy firms, in the first operation by a joint task force set up after the release of a scathing report on the devastating Wang Fuk Court fire. Secretary for Security Chris Tang Ping-keung said on F",
-   "published_at": "2026-11-06T10:59:46Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "China’s AI chipmakers report first profits, but will the trend continue?",
-   "url": "https://www.scmp.com/tech/big-tech/article/3373532/chinas-ai-chipmakers-report-first-profits-will-trend-continue",
-   "summary": "China’s pure-play artificial intelligence chipmakers crossed an important milestone in the third quarter as several firms swung into profit, but severe supply chain hurdles and soaring memory costs cloud their long-term growth prospects. Domestic graphics processing unit (GPU) developers including Moore Threads, MetaX and Iluvatar CoreX are racing to fill th",
-   "published_at": "2026-11-06T10:30:06Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "China puts DF missiles on display as flight bans fuel speculation about ICBM test",
-   "url": "https://www.scmp.com/news/china/military/article/3373567/china-puts-df-missiles-display-flight-bans-fuel-speculation-about-icbm-test",
-   "summary": "Chinese state media showcased several Dongfeng-series missiles on Thursday to mark a key anniversary, including the nuclear-capable DF-61 intercontinental ballistic missile (ICBM) and the rarely seen DF-100 long-range supersonic cruise missile. The coverage coincided with social media reports suggesting that the PLA Rocket Force might have conducted an inlan",
-   "published_at": "2026-11-06T10:18:32Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Viral Chinese app lets strangers vote on purchases to stop impulse buying",
-   "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373558/viral-chinese-app-lets-strangers-vote-purchases-stop-impulse-buying",
-   "summary": "Ahead of China’s Double 11 shopping spree, a viral WeChat mini-programme called “Wallet, Please Wait” is helping consumers curb impulse purchases. The free tool borrows from corporate finance workflows, outsourcing approval of everyday purchases to the crowd. Users can submit purchase requests detailing the item, its price, their reasons for wanting it and a",
-   "published_at": "2026-11-06T10:00:16Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Japan deploys AI, specialist teams to counter cyberattack wave",
-   "url": "https://www.scmp.com/news/asia/east-asia/article/3373555/japan-deploys-ai-specialist-teams-counter-cyberattack-wave",
-   "summary": "Japan’s government on Friday compiled a package of emergency measures to address a spate of recent personal data breaches caused by unauthorised access, amid growing public concerns over cybersecurity. Among the measures are promoting the use of artificial intelligence to identify vulnerabilities in computer systems and creating several teams of highly skill",
-   "published_at": "2026-11-06T09:37:42Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Why Malaysia may still face trade uncertainty after US midterms",
-   "url": "https://www.scmp.com/week-asia/economics/article/3373541/why-malaysia-may-still-face-trade-uncertainty-after-us-midterms",
-   "summary": "Malaysia’s hope for a shift in US trade policy is unlikely to be realised for some time, experts warn, as the new Democratic-led Congress will face strong opposition from US President Donald Trump in its attempt to reverse some of his tariff measures. Trump’s Republicans suffered their worst rout in recent times in the US midterm elections on Tuesday, losing",
-   "published_at": "2026-11-06T09:00:26Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Hong Kong temperatures to fall to 18 degrees next week as cold front hits",
-   "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3373545/hong-kong-temperatures-fall-18-degrees-next-week-cold-front-hits",
-   "summary": "Temperatures in Hong Kong are expected to drop to as low as 18 degrees Celsius (64.4 Fahrenheit) on Tuesday as a cold front hits the city early next week. According to the Hong Kong Observatory, a strong monsoon over the weekend will bring cooler weather. “A strong northeast monsoon will affect the coast of Guangdong over the weekend. A cold front is expecte",
-   "published_at": "2026-11-06T08:57:41Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Indonesia doubles down on climate goals despite surging wildfire emissions",
-   "url": "https://www.scmp.com/week-asia/health-environment/article/3373544/indonesia-doubles-down-climate-goals-despite-surging-wildfire-emissions",
-   "summary": "Indonesia’s climate ambitions are being undermined by devastating wildfires that contradict its emissions-cutting strategy, casting a shadow over Jakarta’s push for a greener economy ahead of the 31st UN Climate Change Conference (Cop31). However, Environment Minister Jumhur Hidayat has doubled down, arguing that his country’s climate goals should not come a",
-   "published_at": "2026-11-06T08:54:01Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Democrats’ blue wave means rough waters ahead for US-China relations",
-   "url": "https://www.scmp.com/opinion/world-opinion/article/3373368/democrats-blue-wave-means-rough-waters-ahead-us-china-relations",
-   "summary": "Comedian Patton Oswalt once joked about the United States electing a KKK president after the progressive years of Barack Obama. The joke is worth retelling, not just because it’s funny but because it captures the swing between extremes in US politics. That’s worth keeping in mind in light of the so-called Democratic blue wave sweeping the country. It goes: “",
-   "published_at": "2026-11-06T08:42:20Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Chinese space firm builds wooden rocket nose cone for cheaper, frequent launches",
-   "url": "https://www.scmp.com/news/china/science/article/3373486/chinese-space-firm-builds-wooden-rocket-nose-cone-cheaper-frequent-launches",
-   "summary": "Chinese commercial space firm Light Year Explorer has manufactured a rocket fairing with a wooden outer skin as part of the company’s push for lower-cost, mass-produced launch vehicles. The design of the protective shell uses low-density plywood formed into a smooth aerodynamic curve, supported by an internal metal framework to bear loads, according to the J",
-   "published_at": "2026-11-06T08:00:33Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Ex-Miss Thailand arrested over claims charity donations funded luxury lifestyle",
-   "url": "https://www.scmp.com/week-asia/people/article/3373526/ex-miss-thailand-arrested-over-claims-charity-donations-funded-luxury-lifestyle",
-   "summary": "A former Miss Thailand and well-known social activist was arrested on Friday alongside her husband, accused of siphoning off money from her charity to buy luxury homes as police examine an estimated 1 billion baht (US$30 million) in donations. Panadda “Boom” Wongphudee, 50, was detained at her Bangkok home early on Friday morning after the Criminal Court iss",
-   "published_at": "2026-11-06T07:25:51Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
    "source": "gh_nyt",
    "source_name": "NYT World",
    "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
    "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
    "summary": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
-   "published_at": "2026-11-06T18:36:57Z",
+   "published_at": "2026-11-06T22:36:15Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1054,9 +1034,9 @@
    "source": "gh_nyt",
    "source_name": "NYT World",
    "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
-   "url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-polls.html",
+   "url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
    "summary": "In the lead-up to an election in which economic concerns dominate, there was no clear front-runner. Minor parties will most likely determine who governs.",
-   "published_at": "2026-11-06T20:51:39Z",
+   "published_at": "2026-11-06T23:05:42Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -1179,6 +1159,16 @@
    "published_at": "2026-11-06T12:28:55Z",
    "category_hint": "military",
    "score_hint": 62
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+   "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+   "summary": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.",
+   "published_at": "2026-11-07T01:29:30Z",
+   "category_hint": "policy",
+   "score_hint": 50
   },
   {
    "source": "gh_nyt",
@@ -1403,26 +1393,6 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
-   "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
-   "summary": "The Israeli leader and his allies are alleging that Arab voters last month stole the election. Election officials say that while foul play was being investigated, it could not have affected the result.",
-   "published_at": "2026-11-05T11:04:18Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "At the Root of K-Pop’s Controversies, a Restrictive Business Model",
-   "url": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
-   "summary": "Labels exert extraordinary control over performers because only a few acts turn a profit.",
-   "published_at": "2026-11-05T10:23:51Z",
-   "category_hint": "policy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
    "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
    "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
    "summary": "President Isaac Herzog wrapped up two days of talks with party leaders by saying he will ask one of them on Sunday to try to assemble a governing coalition.",
@@ -1441,6 +1411,16 @@
    "score_hint": 62
   },
   {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
+   "url": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
+   "summary": "A boat in Micronesia went missing in July. This weekend, five of its passengers landed, unclothed and emaciated, on an island in Kiribati — more than 3,000 miles away.",
+   "published_at": "2026-11-05T20:31:32Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
    "source": "gh_guardian",
    "source_name": "Guardian World",
    "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
@@ -1457,6 +1437,16 @@
    "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
    "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally with more than 80% of ballots counted. Wednesday’s fragmented",
    "published_at": "2026-11-06T12:48:37Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+   "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+   "summary": "Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank Paraguay’s rightwing president has been placed under house arrest minutes after he was impeached by Congress, amid a severe crisis that left more than half the country’s population unable to access t",
+   "published_at": "2026-11-07T01:55:11Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1503,16 +1493,6 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
-   "url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
-   "summary": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said. The spiders were hidden inside dirty socks contained in three suitcases carried by two Germans and a Polish citizen, the National Forestr",
-   "published_at": "2026-11-06T01:22:49Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
    "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
    "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
    "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stock markets on F",
@@ -1537,6 +1517,26 @@
    "url": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
    "summary": "New report finds that record label Ador stripped child protections from group’s contracts when they were minors The superstar K-pop group NewJeans signed restrictive record label contracts that waived their right to “sleep, rest and free choice”. A new report from the New York Times found that the contracts were signed when the members of the record-breaking",
    "published_at": "2026-11-05T17:08:29Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
+   "summary": "Zero Limits supplements is co-owned by rightwing podcaster and fitness coach Chris Katelaris, also known as ‘Big Chocky’ Get our breaking news email , free app or daily news podcast Ben Roberts-Smith has collaborated with a gym supplements company run by a right-wing influencer which recently sold a pre-workout product called “war crimes”. Roberts-Smith, one",
+   "published_at": "2026-11-07T00:58:11Z",
+   "category_hint": "military",
+   "score_hint": 64
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "When a single vowel stands in the path to victory, the stakes could not be higher for these spelling bee champions",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions",
+   "summary": "Primary school students bested 200,000 competitors across New South Wales to reach the Premier’s Spelling Bee finals in Sydney Get our breaking news email , free app or daily news podcast Competing in a spelling bee is not for the faint of heart. Sometimes, the difference between victory and loss is one incorrect vowel and you’re undone, months of training r",
+   "published_at": "2026-11-06T23:06:10Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1569,26 +1569,6 @@
    "published_at": "2026-11-06T08:23:10Z",
    "category_hint": "policy",
    "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
-   "summary": "She was shot on 14 December 2025 during Hanukah festival and had been in and out of hospital since Get our breaking news email , free app or daily news podcast A woman who was shot during the Bondi beach terror attack has died in hospital almost 12 months after the massacre. Eva Geller, 90, had been in and out of hospital this year for treatment of injuries ",
-   "published_at": "2026-11-06T06:26:03Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
-   "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024 The day in court: Prosecution begins cross-examination of double murder accused Beau Lamarre-Condon Beau Lamarre-Condon “stands by” his decision to shoot Jesse Baird but did not intend to kill him, the New South Wales supreme c",
-   "published_at": "2026-11-06T05:17:05Z",
-   "category_hint": "policy",
-   "score_hint": 48
   },
   {
    "source": "gh_guardian",
@@ -1653,12 +1633,22 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
-   "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
-   "summary": "Dismissals follow Houthi victories and pressure from southern Yemenis for more power The UN-recognised government of Yemen has shaken up its political and military leadership in an attempt to regain territory lost to the Houthis in September and lift the four-week siege of Taiz , the country’s third largest city. A counteroffensive launched on 5 October and ",
-   "published_at": "2026-11-05T13:47:00Z",
+   "title": "Russell Brand suspected to have attacked at least 10 other women",
+   "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
+   "summary": "Met police chief says ‘many more’ victims could come forward, as actor and comedian awaits sentencing Police are bracing themselves for more victims of Russell Brand to come forward, with at least 10 more women suspected of having been attacked by the disgraced star. Brand, 51, will be sentenced on Monday to what is expected to be a lengthy jail sentence for",
+   "published_at": "2026-11-07T00:00:47Z",
    "category_hint": "military",
    "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
+   "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual abuse material, according to the Federal Bureau of Investigation (FBI). Markle, 82, was taken into ",
+   "published_at": "2026-11-06T22:09:01Z",
+   "category_hint": "policy",
+   "score_hint": 46
   },
   {
    "source": "gh_guardian",
@@ -1673,32 +1663,12 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-   "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual abuse material, according to the Federal Bureau of Investigation (FBI). Markle, 82, was taken into ",
-   "published_at": "2026-11-06T20:41:11Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
    "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
    "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
    "summary": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand’s victims coming forward: ‘I hope you are pleased with yourself’ Russell Brand’s barrister has reported himself to his professional regulator after being accused of launching a tirade at a journalist shortly after his client had been found guilty of rape. Ian Winter KC “c",
    "published_at": "2026-11-06T19:59:23Z",
    "category_hint": "policy",
    "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Russell Brand suspected to have attacked at least 10 other women",
-   "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
-   "summary": "Met police chief says ‘many more’ victims could come forward, as actor and comedian awaits sentencing Police are bracing themselves for more victims of Russell Brand to come forward, with at least 10 more women suspected of having been attacked by the disgraced star. Brand, 51, will be sentenced on Monday to what is expected to be a lengthy jail sentence for",
-   "published_at": "2026-11-06T19:23:24Z",
-   "category_hint": "military",
-   "score_hint": 58
   },
   {
    "source": "gh_guardian",
@@ -1713,52 +1683,92 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-   "summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump ‘learned nothing from his historic defeat’ in the midterms Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed",
-   "published_at": "2026-11-06T21:56:43Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
-   "url": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
-   "summary": "Faculty senate passed resolution expressing deep discontent with school’s response to alleged fraternity rape Cornell University’s faculty senate approved a resolution on Friday declaring “no confidence” in the school’s top leaders, a symbolic gesture reflecting deep discontent on campus in the wake of a former student’s lawsuit saying she was gang-raped at ",
-   "published_at": "2026-11-06T21:46:37Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Several Democrats renew calls for datacenter pauses after blue wave",
-   "url": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
-   "summary": "Tech industry fears delays to its multi-trillion dollar infrastructure buildout meant to power artificial intelligence Several newly elected Democrats and Senator Bernie Sanders have renewed calls for datacenter moratoriums in the days after the US midterm elections. The sweeping Democratic victory , which was buoyed in part by backlash to the tech industry ",
-   "published_at": "2026-11-06T21:14:46Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
    "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
    "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
    "summary": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down US politics live – latest updates Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping immigration crackdown, will become his new White House chief of staff days after Republicans lost control of the US Congress ",
-   "published_at": "2026-11-06T20:06:11Z",
+   "published_at": "2026-11-07T01:38:06Z",
    "category_hint": "policy",
    "score_hint": 46
   },
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
-   "title": "Macklemore says that nine US arenas turned down his Free Palestine tour",
-   "url": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
-   "summary": "Rapper called out ‘intimidation, manipulation and suppression’ in a social media post, claiming major arenas refused to host him after the Ed Sheeran controversy Macklemore says that nine major US arenas have refused to host his Free Palestine fundraising tour, calling out “intimidation, manipulation and suppression” tactics. In an Instagram post , the rappe",
-   "published_at": "2026-11-06T19:46:56Z",
+   "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+   "summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump ‘learned nothing from his historic defeat’ in the midterms Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed",
+   "published_at": "2026-11-07T01:08:08Z",
    "category_hint": "policy",
    "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
+   "url": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
+   "summary": "US voters repudiated mass deportation campaign, but choice of new chief of staff shows Trump doesn’t care On Tuesday, voters resoundingly rebuked Donald Trump and his brutal mass deportation campaign that sent military tanks and masked agents though residential streets. But on Friday, the president doubled down. He named Stephen Miller – the architect of the",
+   "published_at": "2026-11-07T01:04:52Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Man in custody after being found in vehicle near White House with guns",
+   "url": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
+   "summary": "Ronny Yordrix Guanipa Chrinos arrested by secret service after telling officers voices told him to kill Donald Trump The US secret service said a suspect has been taken into custody and charged after officers found him in a vehicle near the White House with multiple guns, claiming he heard voices in his head telling him to kill Donald Trump. The arrest Thurs",
+   "published_at": "2026-11-07T00:31:59Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
+   "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+   "summary": "Wiles thanks president for ‘honor of a lifetime’ as departure leaves behind overwhelmingly male leadership team US politics live – latest updates Donald Trump on Friday said Susie Wiles, the first woman to serve as White House chief of staff, will leave her post, a major shake-up of his inner circle that comes amid a steady exodus of senior female officials ",
+   "published_at": "2026-11-06T22:35:09Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Activist Au Kam-san jailed 12.5 years in 1st Macao national security case",
+   "url": "https://asia.nikkei.com/politics/activist-au-kam-san-jailed-12.5-years-in-1st-macao-national-security-case",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Taiwan's KMT old guard fights for power base in tight Taipei mayoral races",
+   "url": "https://asia.nikkei.com/politics/taiwan-s-kmt-old-guard-fights-for-power-base-in-tight-taipei-mayoral-races",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Seres, Li Auto join Chinese EVs' charge into Europe",
+   "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/seres-li-auto-join-chinese-evs-charge-into-europe",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "US slaps sanctions on Cambodia's Prince Group over online scams",
+   "url": "https://asia.nikkei.com/spotlight/society/crime/us-slaps-sanctions-on-cambodia-s-prince-group-over-online-scams",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 56
   },
   {
    "source": "gh_nikkei",
@@ -1839,16 +1849,6 @@
    "published_at": "",
    "category_hint": "economy",
    "score_hint": 60
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Activist Au Kam-san jailed 12.5 years in 1st Macao national security case",
-   "url": "https://asia.nikkei.com/politics/activist-au-kam-san-jailed-12.5-years-in-1st-macao-national-security-case",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
   },
   {
    "source": "gh_nikkei",
@@ -2131,36 +2131,6 @@
    "score_hint": 50
   },
   {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Indonesia's GDP grows 5.5% in Q3, helped by government spending",
-   "url": "https://asia.nikkei.com/economy/indonesia-s-gdp-grows-5.5-in-q3-helped-by-government-spending",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Toyota ready to 'regain market share' in China on expanded local sourcing",
-   "url": "https://asia.nikkei.com/business/automobiles/toyota-ready-to-regain-market-share-in-china-on-expanded-local-sourcing",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Taiwan's chipmakers shine brightest in living memory",
-   "url": "https://asia.nikkei.com/techasia/taiwan-s-chipmakers-shine-brightest-in-living-memory",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
    "source": "gh_ft",
    "source_name": "Financial Times",
    "title": "Trump taps immigration hardliner Stephen Miller as chief of staff",
@@ -2215,7 +2185,7 @@
    "source_name": "Financial Times",
    "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
    "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
-   "summary": "Claude-maker intends to list before Thanksgiving despite brutal tech rout",
+   "summary": "Claude maker intends to list before Thanksgiving despite brutal tech rout",
    "published_at": "2026-11-06T21:00:09Z",
    "category_hint": "economy",
    "score_hint": 52
@@ -2236,7 +2206,7 @@
    "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
    "url": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
    "summary": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
-   "published_at": "2026-11-06T17:20:21Z",
+   "published_at": "2026-11-06T22:53:51Z",
    "category_hint": "military",
    "score_hint": 70
   },
@@ -2256,119 +2226,129 @@
    "title": "US economy outstrips forecasts to add 165,000 jobs in October",
    "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
    "summary": "Hiring rebound reinforces expectations Federal Reserve will raise interest rates",
-   "published_at": "2026-11-06T18:45:36Z",
+   "published_at": "2026-11-06T22:16:13Z",
    "category_hint": "economy",
    "score_hint": 58
   },
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
-   "title": "Ex-OpenAI employee accused of spying pleads not guilty",
-   "url": "https://www.ft.com/content/daee9cd2-3477-4fcc-859f-46acb9fdfbd9?syn-25a6b1a6=1",
-   "summary": "Abdulrahman Alfozan, a Saudi Arabian national, was arrested last month after a bug was discovered in the AI lab’s office",
-   "published_at": "2026-11-06T20:47:31Z",
+   "title": "Voters take their pick in New Zealand’s ‘supermarket election’",
+   "url": "https://www.ft.com/content/1e80651b-14f3-4cf0-9b47-2f6dee158496?syn-25a6b1a6=1",
+   "summary": "Christopher Luxon tries to hang on as cost of living crisis and high energy prices weigh on consumers",
+   "published_at": "2026-11-06T21:00:10Z",
+   "category_hint": "economy",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Vertical Data closes $4.24M private placement at $3 per share",
+   "url": "https://www.investing.com/news/company-news/vertical-data-closes-424m-private-placement-at-3-per-share-93CH-5009541",
+   "summary": "",
+   "published_at": "2026-11-07T02:04:33Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Porch Group CEO Matt Ehrlichman sells $9.8M in PRCH stock",
+   "url": "https://www.investing.com/news/insider-trading-news/porch-group-ceo-matt-ehrlichman-sells-98m-in-prch-stock-93CH-5009540",
+   "summary": "",
+   "published_at": "2026-11-07T02:02:14Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Fair Isaac director David Rey sells $27,048 in company stock",
+   "url": "https://www.investing.com/news/insider-trading-news/fair-isaac-director-david-rey-sells-27048-in-company-stock-93CH-5009539",
+   "summary": "",
+   "published_at": "2026-11-07T02:02:06Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Walt Disney SEVP Horacio Gutierrez sells $2.47M in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/walt-disney-sevp-horacio-gutierrez-sells-247m-in-stock-93CH-5009538",
+   "summary": "",
+   "published_at": "2026-11-07T02:01:06Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Baker Bros. Advisors, director Baker acquire $35M Madrigal Pharma shares",
+   "url": "https://www.investing.com/news/insider-trading-news/baker-bros-advisors-director-baker-acquire-35m-madrigal-pharma-shares-93CH-5009527",
+   "summary": "",
+   "published_at": "2026-11-07T01:46:27Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Arini hedge fund losses deepen to 32% as credit selloff intensifies - Bloomberg",
+   "url": "https://www.investing.com/news/company-news/arini-hedge-fund-losses-deepen-to-32-as-credit-selloff-intensifies--bloomberg-5009518",
+   "summary": "",
+   "published_at": "2026-11-07T01:39:55Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Procore director Elisa Steele sells $230,586 in PCOR stock",
+   "url": "https://www.investing.com/news/insider-trading-news/procore-director-elisa-steele-sells-230586-in-pcor-stock-93CH-5009511",
+   "summary": "",
+   "published_at": "2026-11-07T01:31:05Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Qualcomm director Sylvia Acevedo sells $10,074 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/qualcomm-director-sylvia-acevedo-sells-10074-in-stock-93CH-5009510",
+   "summary": "",
+   "published_at": "2026-11-07T01:31:02Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Procore Technologies chief legal officer sells $193,950 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/procore-technologies-chief-legal-officer-sells-193950-in-stock-93CH-5009509",
+   "summary": "",
+   "published_at": "2026-11-07T01:30:59Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Accel Entertainment chairman Andrew Rubenstein sells $517,628 in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/accel-entertainment-chairman-andrew-rubenstein-sells-517628-in-shares-93CH-5009508",
+   "summary": "",
+   "published_at": "2026-11-07T01:30:56Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
+   "url": "https://oilprice.com/Energy/Natural-Gas/Wall-Streets-Energy-Transition-Funds-Are-Packed-With-Natural-Gas.html",
+   "summary": "As we head into the United Nations’ 31st annual flagship climate conference (COP31), to be held next week in Antalya, Türkiye, greenwashing presents a large and growing problem in the private sector. As the tech sector’s greenhouse gas emissions explode against the backdrop of the artificial intelligence boom and the clean energy incentives dry up under the ",
+   "published_at": "2026-11-06T23:00:00Z",
    "category_hint": "economy",
    "score_hint": 56
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Royal Caribbean director Arne Wilhelmsen sells $82.1M in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/royal-caribbean-director-arne-wilhelmsen-sells-821m-in-stock-93CH-5009283",
-   "summary": "",
-   "published_at": "2026-11-06T22:01:15Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Xometry director Altschuler reports $1.09M class A common stock sale",
-   "url": "https://www.investing.com/news/insider-trading-news/xometry-director-altschuler-reports-109m-class-a-common-stock-sale-93CH-5009284",
-   "summary": "",
-   "published_at": "2026-11-06T22:01:15Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "As tech swoon roils market, US inflation data on tap",
-   "url": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
-   "summary": "",
-   "published_at": "2026-11-06T22:00:52Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "ZipRecruiter (NASDAQ:ZIP) cto Shimanovsky sells $140,877 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/ziprecruiter-nasdaqzip-cto-shimanovsky-sells-140877-in-shares-93CH-5009280",
-   "summary": "",
-   "published_at": "2026-11-06T22:00:52Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "RPM International CEO Frank C. Sullivan announces planned retirement",
-   "url": "https://www.investing.com/news/sec-filings/rpm-international-ceo-frank-c-sullivan-announces-planned-retirement-93CH-5009279",
-   "summary": "",
-   "published_at": "2026-11-06T22:00:49Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Democrats planning flood of AI bills when they take control of Congress",
-   "url": "https://www.investing.com/news/stock-market-news/democrats-planning-flood-of-ai-bills-when-they-take-control-of-congress-5007213",
-   "summary": "",
-   "published_at": "2026-11-06T22:00:24Z",
-   "category_hint": "economy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "S&P revises Boston Scientific outlook to negative on franchise pressures",
-   "url": "https://www.investing.com/news/stock-market-news/sp-revises-boston-scientific-outlook-to-negative-on-franchise-pressures-5009270",
-   "summary": "",
-   "published_at": "2026-11-06T21:58:19Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "American Healthcare REIT launches $1.75 billion at-the-market equity program",
-   "url": "https://www.investing.com/news/sec-filings/american-healthcare-reit-launches-175-billion-atthemarket-equity-program-93CH-5009269",
-   "summary": "",
-   "published_at": "2026-11-06T21:56:44Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Silgan Holdings updates credit agreement to facilitate planned business contribution",
-   "url": "https://www.investing.com/news/sec-filings/silgan-holdings-updates-credit-agreement-to-facilitate-planned-business-contribution-93CH-5009267",
-   "summary": "",
-   "published_at": "2026-11-06T21:52:18Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "ReAlpha Tech shareholders approve board proposals including reverse stock split",
-   "url": "https://www.investing.com/news/sec-filings/realpha-tech-shareholders-approve-board-proposals-including-reverse-stock-split-93CH-5009256",
-   "summary": "",
-   "published_at": "2026-11-06T21:48:07Z",
-   "category_hint": "economy",
-   "score_hint": 44
   },
   {
    "source": "gh_oilprice",
@@ -2506,16 +2486,6 @@
    "title": "Israel’s Election Dispute Escalates Amid Claims of Foreign Interference",
    "url": "https://oilprice.com/Energy/Energy-General/Israels-Election-Dispute-Escalates-Amid-Claims-of-Foreign-Interference.html",
    "summary": "Politics, Geopolitics & Conflict Benjamin Netanyahu is using the Shin Bet to challenge an election his bloc lost. Shin Bet chief David Zini, whom Netanyahu appointed, is seeking to question four Arab party leaders, including Ra’am’s Mansour Abbas, over alleged foreign-funded interference, and he has presented no evidence. All but one of the agency’s election",
-   "published_at": "2026-11-06T12:30:00Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "A New Middle East Power Struggle Is Taking Shape in the Red Sea",
-   "url": "https://oilprice.com/Energy/Energy-General/A-New-Middle-East-Power-Struggle-Is-Taking-Shape-in-the-Red-Sea.html",
-   "summary": "Israel’s security establishment, in a panic of its own design, is referring to the Turkish-led defense bloc forming around Saudi Arabia as a “Sunni ring of fire,” the successor to the Shiite ring Iran built from Hezbollah, the Houthis and Iraqi militias. The bloc’s founding document is the Mecca pact, signed by Saudi Arabia, Turkey and Pakistan, with Turkey’",
    "published_at": "2026-11-06T12:30:00Z",
    "category_hint": "economy",
    "score_hint": 50
@@ -2721,56 +2691,6 @@
    "score_hint": 44
   },
   {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
-   "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
-   "summary": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group.",
-   "published_at": "2026-11-05T14:00:00Z",
-   "category_hint": "military",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-   "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-   "summary": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
-   "published_at": "2026-11-05T13:29:40Z",
-   "category_hint": "economy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
-   "url": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
-   "summary": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.",
-   "published_at": "2026-11-05T12:55:03Z",
-   "category_hint": "military",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-   "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-   "summary": "Ukraine’s central bank won’t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote.",
-   "published_at": "2026-11-05T12:50:57Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
-   "summary": "Your day-ahead look for Nov. 5, 2026",
-   "published_at": "2026-11-05T12:27:04Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
    "source": "gh_defenseone",
    "source_name": "Defense One",
    "title": "Blue wave presages a defense-spending showdown",
@@ -2837,6 +2757,16 @@
    "url": "https://www.defenseone.com/policy/2026/11/navy-marines-amphibious-ships-fix/417070/",
    "summary": "With the average amphib sidelined more than half the time, the services have drawn up a plan to add 9 more instead.",
    "published_at": "2026-11-05T18:35:58Z",
+   "category_hint": "military",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_twz",
+   "source_name": "The War Zone",
+   "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+   "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-214",
+   "summary": "Why won't the buzzing stop??! The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ .",
+   "published_at": "2026-11-06T23:06:57Z",
    "category_hint": "military",
    "score_hint": 52
   },
@@ -3081,14 +3011,34 @@
    "score_hint": 50
   },
   {
-   "source": "gh_techreview",
-   "source_name": "MIT Tech Review",
-   "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-   "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;",
-   "published_at": "2026-11-05T13:10:00Z",
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+   "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [&#8230;]",
+   "published_at": "2026-11-06T23:46:18Z",
    "category_hint": "other",
-   "score_hint": 50
+   "score_hint": 48
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+   "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+   "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed [&#8230;]",
+   "published_at": "2026-11-06T23:00:44Z",
+   "category_hint": "other",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+   "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+   "summary": "SpaceX has declared that it&#8217;s going to make Starlink Mobile a &#8220;major&#8221; mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&#38;T, Verizon, and T-Mobile, SpaceX has inked a deal [&#8230",
+   "published_at": "2026-11-06T22:45:43Z",
+   "category_hint": "other",
+   "score_hint": 44
   },
   {
    "source": "gh_verge",
@@ -3157,36 +3107,6 @@
    "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
    "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and Synthient, which discovered residential proxy activity on the White [&#8230;]",
    "published_at": "2026-11-06T17:40:06Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Kobo will soon let you upload and sync your own ebooks across devices, for a price",
-   "url": "https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files",
-   "summary": "Kobo is launching a new monthly subscription service called Stack that lets you upload your own ebooks and documents to the company's servers where they'll be synced across multiple devices and apps, including your reading progress, highlights, and annotations. Kobo Stack is similar to Amazon's Send to Kindle feature that allows users to upload a [&#8230;]",
-   "published_at": "2026-11-06T17:32:16Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
-   "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
-   "summary": "Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable. \"It's been wonderful to see how quickly developers have embraced iPhone Duo, and we're grateful for their creativity and innovation,\" Susan Prescott, Apple's VP [&#8230;]",
-   "published_at": "2026-11-06T17:24:36Z",
-   "category_hint": "other",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "AI is the new dating dealbreaker",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-   "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where [&#8230;]",
-   "published_at": "2026-11-06T17:00:00Z",
    "category_hint": "other",
    "score_hint": 44
   },
@@ -3389,6 +3309,606 @@
    "published_at": "2026-11-05T18:09:39Z",
    "category_hint": "other",
    "score_hint": 46
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+   "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+   "summary": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+   "published_at": "2026-11-05T10:33:21Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Did a data centre revolt affect the US midterm election results?",
+   "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+   "published_at": "2026-11-06T06:01:13Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
+   "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
+   "summary": "The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month.",
+   "published_at": "2026-11-06T20:22:22Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Goats on weed-clearing duty become unlikely Tokyo celebrities",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-tokyo-goats-weed-clearing?traffic_source=rss",
+   "summary": "Two goats deployed to clear overgrown grass near a Tokyo railway station have become social media stars.",
+   "published_at": "2026-11-06T18:45:00Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "‘Message to the West’ bomb threats target European newsrooms, travel",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss",
+   "summary": "Newsrooms in Ireland and Bulgaria received bomb threats from someone identifying themself as ‘Mikhail Andropov’.",
+   "published_at": "2026-11-06T18:38:44Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
+   "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss",
+   "summary": "Moscow is suffering losses on the battlefield as US traders reportedly refuse to honour Trump&#039;s diesel deal with Putin.",
+   "published_at": "2026-11-06T18:23:11Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+   "summary": "Israeli settlers have forced dozens of Palestinians from their homes in Jericho after seizing eight properties.",
+   "published_at": "2026-11-06T18:17:39Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+   "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
+   "summary": "The attack on al-Hadara market in Taiz governorate&#039;s al-Waziiya district killed at least 30 people, Houthi rebels say.",
+   "published_at": "2026-11-06T18:09:49Z",
+   "category_hint": "military",
+   "score_hint": 66
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
+   "url": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
+   "summary": "A win at struggling Valencia would provisionally take Madrid level on points with league leaders Barcelona.",
+   "published_at": "2026-11-06T17:50:13Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "How Paraguay’s Ueno collapse is only its latest banking crisis",
+   "url": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss",
+   "summary": "President Santiago Pena is under fire over links to parent company of collapsed bank.",
+   "published_at": "2026-11-06T17:42:22Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "US city votes to divest from Israel",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
+   "summary": "Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.",
+   "published_at": "2026-11-06T17:40:13Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
+   "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
+   "summary": "Jason Reding Quinones&#039; resignation comes as administration braces for Democrat-led investigations.",
+   "published_at": "2026-11-06T17:02:19Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
+   "url": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
+   "summary": "Political turmoil comes after a digital bank&#039;s failure has left half the population without access to their accounts.",
+   "published_at": "2026-11-06T16:58:56Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Will the US midterm ‘blue tsunami’ erode China’s faith in Trump and Xi’s relationship?",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3373574/will-us-midterm-blue-tsunami-erode-chinas-faith-trump-and-xis-relationship",
+   "summary": "China may start looking for ways to make its deals with the United States less dependent on the personal relationship between presidents Xi Jinping and Donald Trump after the midterm elections left the US leader in a weaker position to deliver results, analysts have said. Some observers believe Beijing will start paying closer attention to what the White Hou",
+   "published_at": "2026-11-06T22:00:09Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Meghan’s father Thomas Markle arrested in US on child sex abuse material charges",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3373612/meghans-father-thomas-markle-arrested-us-child-sex-abuse-material-charges",
+   "summary": "Thomas Markle, the father of Prince Harry’s wife Meghan, was arrested on Friday morning by federal agents in Florida on charges related to child sexual abuse material, people familiar with the matter said. The people who confirmed his arrest were not authorised to publicly discuss the investigation and spoke on the condition of anonymity. Markle, 82, was tak",
+   "published_at": "2026-11-06T16:02:13Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "28 arrested in crackdown as bid-rigging task force launches first operation",
+   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373575/hong-kong-authorities-arrest-28-crackdown-bid-rigging-after-tai-po-fire",
+   "summary": "Hong Kong authorities have cracked down on a syndicate and arrested 28 people allegedly involved in bid-rigging, including board members of contractors and consultancy firms, in the first operation by a joint task force set up after the release of a scathing report on the devastating Wang Fuk Court fire. Secretary for Security Chris Tang Ping-keung said on F",
+   "published_at": "2026-11-06T10:59:46Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "China’s AI chipmakers report first profits, but will the trend continue?",
+   "url": "https://www.scmp.com/tech/big-tech/article/3373532/chinas-ai-chipmakers-report-first-profits-will-trend-continue",
+   "summary": "China’s pure-play artificial intelligence chipmakers crossed an important milestone in the third quarter as several firms swung into profit, but severe supply chain hurdles and soaring memory costs cloud their long-term growth prospects. Domestic graphics processing unit (GPU) developers including Moore Threads, MetaX and Iluvatar CoreX are racing to fill th",
+   "published_at": "2026-11-06T10:30:06Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "China puts DF missiles on display as flight bans fuel speculation about ICBM test",
+   "url": "https://www.scmp.com/news/china/military/article/3373567/china-puts-df-missiles-display-flight-bans-fuel-speculation-about-icbm-test",
+   "summary": "Chinese state media showcased several Dongfeng-series missiles on Thursday to mark a key anniversary, including the nuclear-capable DF-61 intercontinental ballistic missile (ICBM) and the rarely seen DF-100 long-range supersonic cruise missile. The coverage coincided with social media reports suggesting that the PLA Rocket Force might have conducted an inlan",
+   "published_at": "2026-11-06T10:18:32Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Viral Chinese app lets strangers vote on purchases to stop impulse buying",
+   "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373558/viral-chinese-app-lets-strangers-vote-purchases-stop-impulse-buying",
+   "summary": "Ahead of China’s Double 11 shopping spree, a viral WeChat mini-programme called “Wallet, Please Wait” is helping consumers curb impulse purchases. The free tool borrows from corporate finance workflows, outsourcing approval of everyday purchases to the crowd. Users can submit purchase requests detailing the item, its price, their reasons for wanting it and a",
+   "published_at": "2026-11-06T10:00:16Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Japan deploys AI, specialist teams to counter cyberattack wave",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3373555/japan-deploys-ai-specialist-teams-counter-cyberattack-wave",
+   "summary": "Japan’s government on Friday compiled a package of emergency measures to address a spate of recent personal data breaches caused by unauthorised access, amid growing public concerns over cybersecurity. Among the measures are promoting the use of artificial intelligence to identify vulnerabilities in computer systems and creating several teams of highly skill",
+   "published_at": "2026-11-06T09:37:42Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Why Malaysia may still face trade uncertainty after US midterms",
+   "url": "https://www.scmp.com/week-asia/economics/article/3373541/why-malaysia-may-still-face-trade-uncertainty-after-us-midterms",
+   "summary": "Malaysia’s hope for a shift in US trade policy is unlikely to be realised for some time, experts warn, as the new Democratic-led Congress will face strong opposition from US President Donald Trump in its attempt to reverse some of his tariff measures. Trump’s Republicans suffered their worst rout in recent times in the US midterm elections on Tuesday, losing",
+   "published_at": "2026-11-06T09:00:26Z",
+   "category_hint": "economy",
+   "score_hint": 52
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Hong Kong temperatures to fall to 18 degrees next week as cold front hits",
+   "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3373545/hong-kong-temperatures-fall-18-degrees-next-week-cold-front-hits",
+   "summary": "Temperatures in Hong Kong are expected to drop to as low as 18 degrees Celsius (64.4 Fahrenheit) on Tuesday as a cold front hits the city early next week. According to the Hong Kong Observatory, a strong monsoon over the weekend will bring cooler weather. “A strong northeast monsoon will affect the coast of Guangdong over the weekend. A cold front is expecte",
+   "published_at": "2026-11-06T08:57:41Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Indonesia doubles down on climate goals despite surging wildfire emissions",
+   "url": "https://www.scmp.com/week-asia/health-environment/article/3373544/indonesia-doubles-down-climate-goals-despite-surging-wildfire-emissions",
+   "summary": "Indonesia’s climate ambitions are being undermined by devastating wildfires that contradict its emissions-cutting strategy, casting a shadow over Jakarta’s push for a greener economy ahead of the 31st UN Climate Change Conference (Cop31). However, Environment Minister Jumhur Hidayat has doubled down, arguing that his country’s climate goals should not come a",
+   "published_at": "2026-11-06T08:54:01Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Democrats’ blue wave means rough waters ahead for US-China relations",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3373368/democrats-blue-wave-means-rough-waters-ahead-us-china-relations",
+   "summary": "Comedian Patton Oswalt once joked about the United States electing a KKK president after the progressive years of Barack Obama. The joke is worth retelling, not just because it’s funny but because it captures the swing between extremes in US politics. That’s worth keeping in mind in light of the so-called Democratic blue wave sweeping the country. It goes: “",
+   "published_at": "2026-11-06T08:42:20Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Chinese space firm builds wooden rocket nose cone for cheaper, frequent launches",
+   "url": "https://www.scmp.com/news/china/science/article/3373486/chinese-space-firm-builds-wooden-rocket-nose-cone-cheaper-frequent-launches",
+   "summary": "Chinese commercial space firm Light Year Explorer has manufactured a rocket fairing with a wooden outer skin as part of the company’s push for lower-cost, mass-produced launch vehicles. The design of the protective shell uses low-density plywood formed into a smooth aerodynamic curve, supported by an internal metal framework to bear loads, according to the J",
+   "published_at": "2026-11-06T08:00:33Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Ex-Miss Thailand arrested over claims charity donations funded luxury lifestyle",
+   "url": "https://www.scmp.com/week-asia/people/article/3373526/ex-miss-thailand-arrested-over-claims-charity-donations-funded-luxury-lifestyle",
+   "summary": "A former Miss Thailand and well-known social activist was arrested on Friday alongside her husband, accused of siphoning off money from her charity to buy luxury homes as police examine an estimated 1 billion baht (US$30 million) in donations. Panadda “Boom” Wongphudee, 50, was detained at her Bangkok home early on Friday morning after the Criminal Court iss",
+   "published_at": "2026-11-06T07:25:51Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
+   "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+   "summary": "The Israeli leader and his allies are alleging that Arab voters last month stole the election. Election officials say that while foul play was being investigated, it could not have affected the result.",
+   "published_at": "2026-11-05T11:04:18Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "At the Root of K-Pop’s Controversies, a Restrictive Business Model",
+   "url": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
+   "summary": "Labels exert extraordinary control over performers because only a few acts turn a profit.",
+   "published_at": "2026-11-05T10:23:51Z",
+   "category_hint": "policy",
+   "score_hint": 54
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+   "url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+   "summary": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said. The spiders were hidden inside dirty socks contained in three suitcases carried by two Germans and a Polish citizen, the National Forestr",
+   "published_at": "2026-11-06T01:22:49Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+   "summary": "She was shot on 14 December 2025 during Hanukah festival and had been in and out of hospital since Get our breaking news email , free app or daily news podcast A woman who was shot during the Bondi beach terror attack has died in hospital almost 12 months after the massacre. Eva Geller, 90, had been in and out of hospital this year for treatment of injuries ",
+   "published_at": "2026-11-06T06:26:03Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
+   "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024 The day in court: Prosecution begins cross-examination of double murder accused Beau Lamarre-Condon Beau Lamarre-Condon “stands by” his decision to shoot Jesse Baird but did not intend to kill him, the New South Wales supreme c",
+   "published_at": "2026-11-06T05:17:05Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
+   "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
+   "summary": "Dismissals follow Houthi victories and pressure from southern Yemenis for more power The UN-recognised government of Yemen has shaken up its political and military leadership in an attempt to regain territory lost to the Houthis in September and lift the four-week siege of Taiz , the country’s third largest city. A counteroffensive launched on 5 October and ",
+   "published_at": "2026-11-05T13:47:00Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
+   "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual abuse material, according to the Federal Bureau of Investigation (FBI). Markle, 82, was taken into ",
+   "published_at": "2026-11-06T20:41:11Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
+   "url": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
+   "summary": "Faculty senate passed resolution expressing deep discontent with school’s response to alleged fraternity rape Cornell University’s faculty senate approved a resolution on Friday declaring “no confidence” in the school’s top leaders, a symbolic gesture reflecting deep discontent on campus in the wake of a former student’s lawsuit saying she was gang-raped at ",
+   "published_at": "2026-11-06T21:46:37Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Several Democrats renew calls for datacenter pauses after blue wave",
+   "url": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
+   "summary": "Tech industry fears delays to its multi-trillion dollar infrastructure buildout meant to power artificial intelligence Several newly elected Democrats and Senator Bernie Sanders have renewed calls for datacenter moratoriums in the days after the US midterm elections. The sweeping Democratic victory , which was buoyed in part by backlash to the tech industry ",
+   "published_at": "2026-11-06T21:14:46Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Macklemore says that nine US arenas turned down his Free Palestine tour",
+   "url": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
+   "summary": "Rapper called out ‘intimidation, manipulation and suppression’ in a social media post, claiming major arenas refused to host him after the Ed Sheeran controversy Macklemore says that nine major US arenas have refused to host his Free Palestine fundraising tour, calling out “intimidation, manipulation and suppression” tactics. In an Instagram post , the rappe",
+   "published_at": "2026-11-06T19:46:56Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Indonesia's GDP grows 5.5% in Q3, helped by government spending",
+   "url": "https://asia.nikkei.com/economy/indonesia-s-gdp-grows-5.5-in-q3-helped-by-government-spending",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Toyota ready to 'regain market share' in China on expanded local sourcing",
+   "url": "https://asia.nikkei.com/business/automobiles/toyota-ready-to-regain-market-share-in-china-on-expanded-local-sourcing",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Taiwan's chipmakers shine brightest in living memory",
+   "url": "https://asia.nikkei.com/techasia/taiwan-s-chipmakers-shine-brightest-in-living-memory",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 54
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Ex-OpenAI employee accused of spying pleads not guilty",
+   "url": "https://www.ft.com/content/daee9cd2-3477-4fcc-859f-46acb9fdfbd9?syn-25a6b1a6=1",
+   "summary": "Abdulrahman Alfozan, a Saudi Arabian national, was arrested last month after a bug was discovered in the AI lab’s office",
+   "published_at": "2026-11-06T20:47:31Z",
+   "category_hint": "economy",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Royal Caribbean director Arne Wilhelmsen sells $82.1M in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/royal-caribbean-director-arne-wilhelmsen-sells-821m-in-stock-93CH-5009283",
+   "summary": "",
+   "published_at": "2026-11-06T22:01:15Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Xometry director Altschuler reports $1.09M class A common stock sale",
+   "url": "https://www.investing.com/news/insider-trading-news/xometry-director-altschuler-reports-109m-class-a-common-stock-sale-93CH-5009284",
+   "summary": "",
+   "published_at": "2026-11-06T22:01:15Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "As tech swoon roils market, US inflation data on tap",
+   "url": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
+   "summary": "",
+   "published_at": "2026-11-06T22:00:52Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "ZipRecruiter (NASDAQ:ZIP) cto Shimanovsky sells $140,877 in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/ziprecruiter-nasdaqzip-cto-shimanovsky-sells-140877-in-shares-93CH-5009280",
+   "summary": "",
+   "published_at": "2026-11-06T22:00:52Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "RPM International CEO Frank C. Sullivan announces planned retirement",
+   "url": "https://www.investing.com/news/sec-filings/rpm-international-ceo-frank-c-sullivan-announces-planned-retirement-93CH-5009279",
+   "summary": "",
+   "published_at": "2026-11-06T22:00:49Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Democrats planning flood of AI bills when they take control of Congress",
+   "url": "https://www.investing.com/news/stock-market-news/democrats-planning-flood-of-ai-bills-when-they-take-control-of-congress-5007213",
+   "summary": "",
+   "published_at": "2026-11-06T22:00:24Z",
+   "category_hint": "economy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "S&P revises Boston Scientific outlook to negative on franchise pressures",
+   "url": "https://www.investing.com/news/stock-market-news/sp-revises-boston-scientific-outlook-to-negative-on-franchise-pressures-5009270",
+   "summary": "",
+   "published_at": "2026-11-06T21:58:19Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "American Healthcare REIT launches $1.75 billion at-the-market equity program",
+   "url": "https://www.investing.com/news/sec-filings/american-healthcare-reit-launches-175-billion-atthemarket-equity-program-93CH-5009269",
+   "summary": "",
+   "published_at": "2026-11-06T21:56:44Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Silgan Holdings updates credit agreement to facilitate planned business contribution",
+   "url": "https://www.investing.com/news/sec-filings/silgan-holdings-updates-credit-agreement-to-facilitate-planned-business-contribution-93CH-5009267",
+   "summary": "",
+   "published_at": "2026-11-06T21:52:18Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "ReAlpha Tech shareholders approve board proposals including reverse stock split",
+   "url": "https://www.investing.com/news/sec-filings/realpha-tech-shareholders-approve-board-proposals-including-reverse-stock-split-93CH-5009256",
+   "summary": "",
+   "published_at": "2026-11-06T21:48:07Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "A New Middle East Power Struggle Is Taking Shape in the Red Sea",
+   "url": "https://oilprice.com/Energy/Energy-General/A-New-Middle-East-Power-Struggle-Is-Taking-Shape-in-the-Red-Sea.html",
+   "summary": "Israel’s security establishment, in a panic of its own design, is referring to the Turkish-led defense bloc forming around Saudi Arabia as a “Sunni ring of fire,” the successor to the Shiite ring Iran built from Hezbollah, the Houthis and Iraqi militias. The bloc’s founding document is the Mecca pact, signed by Saudi Arabia, Turkey and Pakistan, with Turkey’",
+   "published_at": "2026-11-06T12:30:00Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+   "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
+   "summary": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group.",
+   "published_at": "2026-11-05T14:00:00Z",
+   "category_hint": "military",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
+   "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
+   "summary": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
+   "published_at": "2026-11-05T13:29:40Z",
+   "category_hint": "economy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
+   "url": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
+   "summary": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.",
+   "published_at": "2026-11-05T12:55:03Z",
+   "category_hint": "military",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+   "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
+   "summary": "Ukraine’s central bank won’t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote.",
+   "published_at": "2026-11-05T12:50:57Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
+   "summary": "Your day-ahead look for Nov. 5, 2026",
+   "published_at": "2026-11-05T12:27:04Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_techreview",
+   "source_name": "MIT Tech Review",
+   "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+   "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;",
+   "published_at": "2026-11-05T13:10:00Z",
+   "category_hint": "other",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Kobo will soon let you upload and sync your own ebooks across devices, for a price",
+   "url": "https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files",
+   "summary": "Kobo is launching a new monthly subscription service called Stack that lets you upload your own ebooks and documents to the company's servers where they'll be synced across multiple devices and apps, including your reading progress, highlights, and annotations. Kobo Stack is similar to Amazon's Send to Kindle feature that allows users to upload a [&#8230;]",
+   "published_at": "2026-11-06T17:32:16Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
+   "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+   "summary": "Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable. \"It's been wonderful to see how quickly developers have embraced iPhone Duo, and we're grateful for their creativity and innovation,\" Susan Prescott, Apple's VP [&#8230;]",
+   "published_at": "2026-11-06T17:24:36Z",
+   "category_hint": "other",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "AI is the new dating dealbreaker",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+   "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where [&#8230;]",
+   "published_at": "2026-11-06T17:00:00Z",
+   "category_hint": "other",
+   "score_hint": 44
   },
   {
    "source": "gh_bbc",
@@ -4977,16 +5497,6 @@
    "url": "https://www.nytimes.com/2026/11/05/world/europe/voter-turnout-democracy-autocrats-elections.html",
    "summary": "In country after country stricken by democratic decay, overwhelming turnout in elections is making a difference.",
    "published_at": "2026-11-05T05:01:06Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
-   "url": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
-   "summary": "A boat in Micronesia went missing in July. This weekend, five of its passengers landed, unclothed and emaciated, on an island in Kiribati — more than 3,000 miles away.",
-   "published_at": "2026-11-05T20:31:32Z",
    "category_hint": "policy",
    "score_hint": 50
   },
@@ -11499,516 +12009,6 @@
    "published_at": "2026-11-03T19:47:00Z",
    "category_hint": "military",
    "score_hint": 62
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
-   "url": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
-   "summary": "Some administration officials suggested Prime Minister Benjamin Netanyahu is trying to draw President Trump back into military action.",
-   "published_at": "2026-11-03T17:48:03Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest",
-   "url": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
-   "summary": "Hours after the Russian attack, which killed at least 31 and left dozens missing, the United States said that peace talks with the two countries would resume after nine months.",
-   "published_at": "2026-11-03T15:58:26Z",
-   "category_hint": "military",
-   "score_hint": 62
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Australian Court Hears Challenge to Social Media Ban",
-   "url": "https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html",
-   "summary": "Reddit and an Australian digital advocacy group are claiming a law that restricts children younger than 16 from popular platforms infringes on their constitutional rights.",
-   "published_at": "2026-11-03T19:18:57Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "A 31,000-Mile Walk Ends in England, at Mom’s House",
-   "url": "https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html",
-   "summary": "Karl Bushby arrived in Hull, England, on Monday after spending 28 years crossing four continents on foot.",
-   "published_at": "2026-11-03T15:50:46Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
-   "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-   "summary": "Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.",
-   "published_at": "2026-11-03T16:32:56Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
-   "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
-   "url": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
-   "summary": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.",
-   "published_at": "2026-11-04T00:23:46Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-   "summary": "The 31-year-old former police officer is accused of fatally shooting couple Jesse Baird and Luke Davies in Sydney in 2024 Former police officer Beau Lamarre-Condon enters witness box in Sydney double murder trial Get our breaking news email , free app or daily news podcast Lamarre-Condon has accused his former supervisor of making homophobic remarks while he",
-   "published_at": "2026-11-05T01:59:01Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Former police officer Beau Lamarre-Condon enters witness box in Sydney double murder trial",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
-   "summary": "Lamarre-Condon gives evidence in court after pleading not guilty to murdering Jesse Baird and Luke Davies in early 2024 Live updates: Beau Lamarre-Condon gives evidence in murder trial Get our breaking news email , free app or daily news podcast Former police officer Beau Lamarre-Condon is giving evidence from the witness box in his double murder trial as hi",
-   "published_at": "2026-11-05T01:47:59Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Telstra apologises after customers mystified by phantom missed call notifications",
-   "url": "https://www.theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology",
-   "summary": "Telco blames its MessageBank service and apologises for customer confusion Get our breaking news email , free app or daily news podcast Thousands of Telstra users have reported phantom missed-call notifications on their mobile devices with some messages arriving days after the actual phone calls. The company acknowledged an issue with its MessageBank service",
-   "published_at": "2026-11-04T21:10:20Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
-   "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-   "summary": "School in Komyshuvakha in the Zaporizhzhia region was struck on Monday Meanwhile, the Kremlin said that ⁠it ​hopes that the ⁠results of the US ⁠midterm ​elections ‌will not impact ‌what it ‌said were president Donald Trump’s “peacemaking efforts\" on Ukraine, Reuters said. In comments ‌broadcast by Russian state ​media, Kremlin spokesperson Dmitry Peskov said",
-   "published_at": "2026-11-04T16:09:19Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Spain’s deadly train crashes have damaged public confidence in the system",
-   "url": "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system",
-   "summary": "Pedro Sánchez and his socialist-led coalition government are racing to rebuild trust ahead of a snap election, but the task they face is immense • Don’t get This Is Europe delivered to your inbox? Sign up here A week ago today, for the second time in nine months, I got in my car and drove south from Madrid to cover a deadly train crash. At 8.53am last Wednes",
-   "published_at": "2026-11-04T15:40:37Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Trump claims US will end military aid to Israel by end of this year",
-   "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
-   "summary": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment Donald Trump has said that the US will end military aid to Israel at the end of this year in a surprise election day announcement that appeared to be targeted at voters sceptical of US support for Israel and the war in Gaza . In a phone interview with Fo",
-   "published_at": "2026-11-03T17:17:11Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
-   "url": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
-   "summary": "A previously unseen family archive offers a glimpse into the Indian Nobel prize winner’s artistic process and personal relationships in his final years Don’t get This is India delivered to your inbox? Sign up here It’s easy to run out of words to describe Rabindranath Tagore. The first non-European to win the Nobel prize in literature, Tagore was a Bengali p",
-   "published_at": "2026-11-03T15:24:53Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Milburn review to call for jobs ’revolution’ for young people with disabilities",
-   "url": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
-   "summary": "Exclusive: Government should introduce ‘flexi-jobs’ alongside subsidies and skills support, former minister will say The British state should create and subsidise paid jobs for thousands of disabled young people as part of an “opportunity revolution” aimed at reversing years of labour market discrimination, the Milburn review of youth employment will recomme",
-   "published_at": "2026-11-05T00:01:47Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "UK and Caribbean to begin ‘dialogue’ within next year after slavery reparations call",
-   "url": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
-   "summary": "Antigua and Barbuda’s prime minister says there was a consensus at Commonwealth summit on way forward The UK has agreed to “structured dialogue” in the next year with Caribbean nations affected by the slave trade and its legacy, Commonwealth leaders have said. Gaston Browne, Antigua and Barbuda’s prime minister, said there was a “consensus” in discussions be",
-   "published_at": "2026-11-04T23:51:58Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "UK government considers smart glasses ban over secret filming concerns",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
-   "summary": "Minister hints at restriction on selling technology ‘to certain users’ amid worries over surreptitious filming of women The government is considering placing restrictions on smart glasses amid concerns the technology is being used to surreptitiously film women, a minister has said. Speaking in the House of Commons, the safeguarding minister, Satvir Kaur, hin",
-   "published_at": "2026-11-04T20:43:21Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Husband who invited men to rape wife asked for an online review, court told",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/04/husband-who-invited-men-to-rape-wife-asked-for-an-online-review-court-told",
-   "summary": "Nine men on trial in Manchester accused of either taking part in abuse or encouraging offending on internet A husband who invited other men to rape and sexually assault his wife arranged for “more and more individuals” to visit his marital home as he resolved “to satisfy his own perversity”, a jury has been told. The husband, who is in his 60s and from Stock",
-   "published_at": "2026-11-04T18:07:57Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "UK politics: Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – as it happened",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
-   "summary": "‘I think people want to see the world coming together and focusing on the things that matter to people,’ PM says Louise Haigh starts by saying she is standing in for Andy Burnham. She says this weekend the whole country will fall silent to mark Remembrance Sunday. Continue reading...",
-   "published_at": "2026-11-04T17:01:31Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-   "summary": "Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes with 96% of the vote counted – a small but growing margin Live results | Republican losses mapped Tell us: how do you feel about the midterm results? Sign up for Breaking News US email Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control",
-   "published_at": "2026-11-05T01:59:10Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Datacenters were on the ballot. US voters rejected them",
-   "url": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
-   "summary": "Voters approved nearly every datacenter moratorium that was on the ballot, dozens in total in Tuesday’s elections Track live results from all 50 states Send us your questions about the US midterms results and Democrats’ ‘blue wave’ There were three big losers in Tuesday’s midterm elections in the US: Donald Trump, Elon Musk and datacenters. Datacenters, the ",
-   "published_at": "2026-11-05T01:30:14Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Pete Hegseth may take fall for Republicans’ midterm losses, despite Trump support",
-   "url": "https://www.theguardian.com/us-news/2026/nov/04/pete-hegseth-republicans-midterm-losses",
-   "summary": "JD Vance calls Iran war into question as Thomas Massie files eight articles of impeachment Send us your questions about the US midterms results and Democrats’ ‘blue wave’ Pete Hegseth is increasingly looking like he may take the fall for Republicans’ midterm losses, despite Donald Trump’s vocal support for his defense secretary, even calling him a champion o",
-   "published_at": "2026-11-05T00:41:00Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "California progressive Randy Villegas ousts longtime Republican in redrawn House district",
-   "url": "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms",
-   "summary": "Community college professor unseats incumbent Republican David Valadao in seat redrawn under Prop 50 Send us your questions about the midterm results Track live results from all 50 states Democrat Randy Villegas, a community college professor with notable progressive endorsements, has won the race for California ’s 22nd congressional district in an contest t",
-   "published_at": "2026-11-04T20:37:17Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Trump boasts about ‘magnificent’ ballroom day after Republican rout",
-   "url": "https://www.theguardian.com/us-news/2026/nov/04/trump-ballroom-midterms-reaction",
-   "summary": "US president rhapsodized about ballroom features for more than 20 minutes, with no mention of Democrats’ ‘blue wave’ Send us your questions about the midterm results Track live results from all 50 states Less than 24 hours after suffering historic party losses in the US midterm elections , Donald Trump gathered reporters and network TV cameras at the White H",
-   "published_at": "2026-11-04T20:34:08Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "US midterms live: Wall Street rallies as Trump signals cooperation",
-   "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-wall-street-rallies-as-trump-signals-cooperation",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japan regional banks form united front on cybersecurity",
-   "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-regional-banks-form-united-front-on-cybersecurity2",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "The best is yet to come: Asia's chance to reimagine AI",
-   "url": "https://asia.nikkei.com/opinion/the-best-is-yet-to-come-asia-s-chance-to-reimagine-ai",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months",
-   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Fukushima tries to reinvent itself as hub for drones, robots and rockets",
-   "url": "https://asia.nikkei.com/business/startups/fukushima-tries-to-reinvent-itself-as-hub-for-drones-robots-and-rockets",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "military",
-   "score_hint": 66
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japan's Yamato targets 'leaner' delivery service in push for profit: president",
-   "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-yamato-targets-leaner-delivery-service-in-push-for-profit-president",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "New MUFG digital bank to forgo ATM cards in cybercrime safeguard",
-   "url": "https://asia.nikkei.com/business/finance/new-mufg-digital-bank-to-forgo-atm-cards-in-cybercrime-safeguard",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japan to bolster defenses with unified missile, artillery systems",
-   "url": "https://asia.nikkei.com/politics/defense/japan-to-bolster-defenses-with-unified-missile-artillery-systems",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "military",
-   "score_hint": 62
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "NTT to help Japanese companies update at-risk aging IT with AI",
-   "url": "https://asia.nikkei.com/spotlight/cybersecurity/ntt-to-help-japanese-companies-update-at-risk-aging-it-with-ai",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "5 things to know about the US midterms and what they mean for Asia",
-   "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/5-things-to-know-about-the-us-midterms-and-what-they-mean-for-asia",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "China's cable-cutting threat reaches Taiwan and the Philippines",
-   "url": "https://asia.nikkei.com/opinion/china-s-cable-cutting-threat-reaches-taiwan-and-the-philippines",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Vienna entrepreneur takes leaders on lux train to China to foster ties",
-   "url": "https://asia.nikkei.com/politics/vienna-entrepreneur-takes-leaders-on-lux-train-to-china-to-foster-ties",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "US stocks post best day since August after Democrats sweep midterms",
-   "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
-   "summary": "Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom",
-   "published_at": "2026-11-04T21:33:37Z",
-   "category_hint": "economy",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Vance blames Iran war for crushing Republican midterms defeat",
-   "url": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
-   "summary": "Oil prices tumble as Democrats’ landslide victory piles pressure on Donald Trump to end Middle East conflict",
-   "published_at": "2026-11-04T21:34:58Z",
-   "category_hint": "military",
-   "score_hint": 64
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Democrats debate how far to take their fight against Trump",
-   "url": "https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b?syn-25a6b1a6=1",
-   "summary": "Even with control of both the Senate and the House, Democratic legislation could still be obstructed by presidential veto",
-   "published_at": "2026-11-04T15:43:36Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "How the Trump era crashed",
-   "url": "https://www.ft.com/content/637bfe05-69f9-4650-b043-731c1ebb4be6?syn-25a6b1a6=1",
-   "summary": "The US president forgot the economic bit of populism",
-   "published_at": "2026-11-04T12:22:14Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Democratic wave keeps US wealth taxes on the agenda despite California setback",
-   "url": "https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1",
-   "summary": "Proposition 40 billionaire tax set to be defeated in a rare victory for mega-donors in the US midterms",
-   "published_at": "2026-11-05T00:52:16Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Republicans turn on each other after disastrous midterms",
-   "url": "https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82?syn-25a6b1a6=1",
-   "summary": "Party figures lash out at Donald Trump, his candidates and his staff over Iran war, cost of living and corruption allegations",
-   "published_at": "2026-11-04T18:29:39Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "‘Cartwheels’ in Canada after Trump punished in US midterm elections",
-   "url": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1",
-   "summary": "Voters’ repudiation of Republican agenda seen as a ‘victory’ for neighbour targeted by president’s trade war",
-   "published_at": "2026-11-04T18:34:21Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Dutch Bros executive chairman Boersma sells $106.4m in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/dutch-bros-executive-chairman-boersma-sells-1064m-in-stock-93CH-5002001",
-   "summary": "",
-   "published_at": "2026-11-05T01:50:22Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Dutch Bros 10% owner sells $37M in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/dutch-bros-10-owner-sells-37m-in-shares-93CH-5002000",
-   "summary": "",
-   "published_at": "2026-11-05T01:50:12Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Defense firms fall as Democratic victory stokes fears of tighter Pentagon budget",
-   "url": "https://www.investing.com/news/stock-market-news/defense-firms-fall-as-democratic-victory-stokes-fears-of-tighter-pentagon-budget-5000702",
-   "summary": "",
-   "published_at": "2026-11-05T01:48:22Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Dutch Bros 10% owner DM Trust Aggregator sells $69.4 million in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/dutch-bros-10-owner-dm-trust-aggregator-sells-694-million-in-shares-93CH-5001992",
-   "summary": "",
-   "published_at": "2026-11-05T01:46:12Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Monopar Therapeutics director Raymond Anderson sells $214,746 stock",
-   "url": "https://www.investing.com/news/insider-trading-news/monopar-therapeutics-director-raymond-anderson-sells-214746-stock-93CH-5001991",
-   "summary": "",
-   "published_at": "2026-11-05T01:46:06Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Monopar Therapeutics director Kim Tsuchimoto sells $290,061 in shares.",
-   "url": "https://www.investing.com/news/insider-trading-news/monopar-therapeutics-director-kim-tsuchimoto-sells-290061-in-shares-93CH-5001990",
-   "summary": "",
-   "published_at": "2026-11-05T01:46:01Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Rubrik director Yvonne Wassenaar sells $84,075 in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/rubrik-director-yvonne-wassenaar-sells-84075-in-stock-93CH-5001989",
-   "summary": "",
-   "published_at": "2026-11-05T01:45:56Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "CrowdStrike director Sameer Gandhi sells $3.44M in stock on Nov. 2",
-   "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-director-sameer-gandhi-sells-344m-in-stock-on-nov-2-93CH-5001983",
-   "summary": "",
-   "published_at": "2026-11-05T01:36:43Z",
-   "category_hint": "military",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "CrowdStrike CEO George Kurtz sells $746,799 in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-746799-in-stock-93CH-5001982",
-   "summary": "",
-   "published_at": "2026-11-05T01:36:17Z",
-   "category_hint": "military",
-   "score_hint": 56
   }
  ]
 }

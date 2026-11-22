@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-21T22:07:50Z",
+ "generated_at": "2026-11-22T02:12:01Z",
  "count": 1200,
- "fresh": 294,
+ "fresh": 282,
  "ok_sources": 18,
  "errors": [
   "Politico: HTTP Error 403: Forbidden",
@@ -33,30 +33,10 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-   "published_at": "2026-11-20T22:42:47Z",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
    "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "published_at": "2026-11-21T19:33:49Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-   "published_at": "2026-11-21T16:35:15Z",
+   "published_at": "2026-11-21T22:19:43Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -66,17 +46,17 @@
    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
    "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "published_at": "2026-11-21T21:05:29Z",
+   "published_at": "2026-11-22T01:25:03Z",
    "category_hint": "policy",
    "score_hint": 48
   },
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
-   "title": "French police officers sentenced for beating of music producer Michel Zecler",
-   "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-   "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-   "published_at": "2026-11-20T22:37:09Z",
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "published_at": "2026-11-22T00:10:44Z",
    "category_hint": "policy",
    "score_hint": 48
   },
@@ -103,12 +83,42 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
+   "title": "Lock of former US President George Washington's hair sells for $4,000",
+   "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+   "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+   "published_at": "2026-11-21T22:01:19Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
    "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
    "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
    "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
    "published_at": "2026-11-21T09:40:55Z",
    "category_hint": "policy",
    "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "French police officers sentenced for beating of music producer Michel Zecler",
+   "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+   "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+   "published_at": "2026-11-20T22:37:09Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+   "published_at": "2026-11-20T22:42:47Z",
+   "category_hint": "economy",
+   "score_hint": 54
   },
   {
    "source": "gh_bbc",
@@ -223,6 +233,26 @@
   {
    "source": "gh_bbc",
    "source_name": "BBC World",
+   "title": "How a teen gamer and his mother helped rescue a missing girl",
+   "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+   "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+   "published_at": "2026-11-22T00:09:58Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+   "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+   "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+   "published_at": "2026-11-22T00:10:37Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
    "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
    "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
    "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
@@ -251,24 +281,64 @@
    "score_hint": 48
   },
   {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
-   "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
-   "published_at": "2026-11-20T23:28:17Z",
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Moviegoers head for the exits as quake strikes Peru",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+   "summary": "Moviegoers head for the exits as quake strikes Peru",
+   "published_at": "2026-11-22T01:07:19Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Clashes erupt across France in another night of protest",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+   "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
+   "published_at": "2026-11-22T00:37:32Z",
    "category_hint": "policy",
    "score_hint": 48
   },
   {
-   "source": "gh_bbc",
-   "source_name": "BBC World",
-   "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-   "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-   "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-   "published_at": "2026-11-20T22:14:17Z",
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+   "summary": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+   "published_at": "2026-11-21T23:59:03Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+   "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+   "summary": "Joseph Aoun says &#039;two fundamental obstacles, inseparably linked&#039; mean Lebanon cannot fully celebrate its independence.",
+   "published_at": "2026-11-21T23:44:00Z",
    "category_hint": "policy",
    "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Iran faces a ‘silent economic war’, says Iranian president",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+   "summary": "Iran faces a ‘silent economic war’, says Iranian president",
+   "published_at": "2026-11-21T23:18:14Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Bahrain says Iranian attack hits industrial facility",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+   "summary": "Bahrain says Iranian attack hits industrial facility",
+   "published_at": "2026-11-21T22:02:03Z",
+   "category_hint": "military",
+   "score_hint": 62
   },
   {
    "source": "gh_aljazeera",
@@ -461,66 +531,6 @@
    "score_hint": 48
   },
   {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-   "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-   "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
-   "published_at": "2026-11-21T16:03:16Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "US midterms 2026: What happens before the new Congress takes office?",
-   "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
-   "summary": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
-   "published_at": "2026-11-21T15:49:32Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "French presidential candidate blames media for racist attack",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
-   "summary": "French presidential candidate blames media for racist attack",
-   "published_at": "2026-11-21T15:46:18Z",
-   "category_hint": "military",
-   "score_hint": 60
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
-   "summary": "Africa&#039;s CAF join South America&#039;s CONMEBOL in giving unanimous support of FIFA President Gianni Infantino&#039;s re-election.",
-   "published_at": "2026-11-21T15:20:43Z",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-   "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
-   "published_at": "2026-11-21T15:01:18Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
-   "source": "gh_aljazeera",
-   "source_name": "Al Jazeera",
-   "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
-   "summary": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
-   "published_at": "2026-11-21T14:35:52Z",
-   "category_hint": "policy",
-   "score_hint": 48
-  },
-  {
    "source": "gh_dw",
    "source_name": "DW World",
    "title": "Russian helicopter suspected of violating Finnish airspace",
@@ -633,6 +643,86 @@
   {
    "source": "gh_scmp",
    "source_name": "SCMP",
+   "title": "Singapore hosts 8 of the top 10 drug makers – now it needs commercial wins",
+   "url": "https://www.scmp.com/week-asia/health-environment/article/3375240/singapore-hosts-8-top-10-drug-makers-now-it-needs-commercial-wins",
+   "summary": "Singapore has long sought to become Southeast Asia’s premier biomedicine hub – with its investments and initiatives having already attracted some of the world’s biggest pharmaceutical manufacturers. But as competition for investment in the sector intensifies, industry experts say the city state needs to use its scientific strengths to produce commercially su",
+   "published_at": "2026-11-22T02:00:08Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Xi’s Apec summit speech is a call to cooperation suited to the times",
+   "url": "https://www.scmp.com/opinion/china-opinion/article/3375061/xis-apec-summit-speech-call-cooperation-suited-times",
+   "summary": "In his keynote speech at the Apec CEO Summit in Shenzhen on November 18, President Xi Jinping quoted the ancient Chinese saying “fan yi zhi dao yu shi jie xing”, which suggests that all approaches must move with the times to be of benefit. Of all the messages in his speech, the eight characters of the Chinese saying caught my attention. Rooted in the I Ching",
+   "published_at": "2026-11-22T01:30:06Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "How the battle to host UN high seas treaty tests China’s push for global leadership",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3375214/how-battle-host-un-high-seas-treaty-tests-chinas-push-global-leadership",
+   "summary": "A rival joint bid by Belgium and Chile to host the secretariat for the landmark UN high seas treaty could present a fresh diplomatic test for Beijing ahead of the 2027 vote. Observers say the surprise November 6 announcement of their merged bid to oversee the Agreement on Biodiversity Beyond National Jurisdiction (BBNJ) will complicate China’s efforts to sec",
+   "published_at": "2026-11-22T01:00:09Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Paolo Bulgari, the Italian jeweller who dazzled stars and supermodels, dies at 89",
+   "url": "https://www.scmp.com/news/world/europe/article/3375352/paolo-bulgari-italian-jeweller-who-dazzled-stars-and-supermodels-dies-89",
+   "summary": "Paolo Bulgari, the grandson of a Greek silversmith who helped transform the family jewellery business into a global luxury brand synonymous with Italian glamour and design, has died. He was 89. His family announced his death on Saturday, describing him as “the greatest jeweller of our time” and praising his humanity and entrepreneurial talent. Bulgari presid",
+   "published_at": "2026-11-22T00:57:19Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Hong Kong’s Election Committee race: how voting works and new candidates to watch",
+   "url": "https://www.scmp.com/news/hong-kong/politics/article/3375344/hong-kongs-election-committee-race-how-voting-works-and-new-candidates-watch",
+   "summary": "Hong Kong goes to the polls on Sunday for some 5,700 eligible voters to choose members of the powerful Election Committee, a 1,500-strong electoral college that will nominate candidates and elect the city leader in next year’s chief executive race, as well as nominate candidates and elect legislators in the 2029 Legislative Council election. Here is what you",
+   "published_at": "2026-11-22T00:00:23Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Weak yen, tax cuts put Japan’s defence plans in a Trump bind",
+   "url": "https://www.scmp.com/week-asia/politics/article/3375224/weak-yen-tax-cuts-put-japans-defence-plans-trump-bind",
+   "summary": "Japanese Prime Minister Sanae Takaichi is facing growing backlash from fellow conservatives over plans to rein in the country’s next five-year defence budget, but analysts say pressure from Washington could pose an even bigger challenge. The dispute pits demands for a stronger military against Japan’s economic constraints, with a weak yen and concerns over g",
+   "published_at": "2026-11-22T00:00:12Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "How a retracted UK Covid-19 vaccine study tainted the global hunt for mutation-proof shots",
+   "url": "https://www.scmp.com/news/china/science/article/3375190/how-retracted-uk-covid-19-vaccine-study-tainted-global-hunt-mutation-proof-shots",
+   "summary": "A 2022 study exploring a vaccine design for pan-Sars-CoV-2 immunity was retracted last month after its lead author, then in Britain, admitted to fabricating data and falsifying images in the paper. While the retraction of the study, widely cited up until this year by international scientists, marks a significant blow to vaccine research, virologists said the",
+   "published_at": "2026-11-22T00:00:11Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Xi’s bay-area vision offers scope for cooperation despite US, Tokyo hurdles: analysts",
+   "url": "https://www.scmp.com/news/hong-kong/politics/article/3375348/xis-bay-area-vision-offers-scope-cooperation-despite-us-tokyo-hurdles-analysts",
+   "summary": "Chinese President Xi Jinping’s call for a global association of bay areas signals a long-term economic vision to the United States and Japan, although geopolitical tensions and difficulty finding common ground pose significant obstacles, observers have said. Xi proposed closer economic links between major coastal innovation centres across the globe at the Ap",
+   "published_at": "2026-11-21T22:30:05Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
    "title": "Croatians demand justice over psychiatric hospital death after brutal video surfaces",
    "url": "https://www.scmp.com/news/world/europe/article/3375351/croatians-demand-justice-over-psychiatric-hospital-death-after-brutal-video-surfaces",
    "summary": "Thousands gathered in Croatia’s capital on ⁠Saturday evening to ⁠protest over the death ⁠of 32-year-old Kristian Josip Peris in a psychiatric hospital, demanding accountability for those responsible and better regulation of treatments in hospitals. Peris, a former athlete and coach, died on October ‌21 after being admitted to the clinic. His death sparked pu",
@@ -693,9 +783,9 @@
   {
    "source": "gh_scmp",
    "source_name": "SCMP",
-   "title": "Mexico captures drug kingpin on FBI’s most wanted list",
+   "title": "Mexico captures drug kingpin on FBI’s most wanted list in firefight that left 11 dead",
    "url": "https://www.scmp.com/news/world/americas/article/3375342/mexico-captures-drug-kingpin-fbis-most-wanted-list",
-   "summary": "Mexico’s military announced on Saturday that it had captured the leader of a drug-trafficking group who was among the 10 most-wanted fugitives sought by US law enforcement. Fausto Isidro Meza, alias “Chapo Isidro”, and two other leaders of his drug gang were captured during a special forces raid on Friday night in Sinaloa state, the Mexican National Defence ",
+   "summary": "Mexico’s military announced on Saturday that it had captured a drug kingpin on the FBI’s list of 10 most wanted fugitives in an operation that left four soldiers and seven suspected gunmen dead. Fausto Isidro Meza, alias “Chapo Isidro,” was captured on Friday night during a special forces raid in the northwestern state of Sinaloa, along with his alleged seco",
    "published_at": "2026-11-21T14:00:45Z",
    "category_hint": "policy",
    "score_hint": 46
@@ -951,86 +1041,6 @@
    "score_hint": 58
   },
   {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Hong Kong commerce chief ‘cautiously optimistic’ after China-US-Russia peace declaration",
-   "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375308/hong-kong-commerce-chief-cautiously-optimistic-after-china-us-russia-peace-declaration",
-   "summary": "The China-US-Russia joint peace declaration at the Asia-Pacific Economic Cooperation (Apec) summit sent a positive message about the global and local economies, but Hong Kong should remain “cautiously optimistic” as problems cannot be solved overnight, the city’s commerce chief has said. Secretary for Commerce and Economic Development Algernon Yau Ying-wah s",
-   "published_at": "2026-11-21T03:55:19Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Japan’s ‘Rabbit Island’ draws tourists with fluffy bunnies and dark wartime past",
-   "url": "https://www.scmp.com/news/asia/east-asia/article/3375307/japans-rabbit-island-draws-tourists-fluffy-bunnies-and-dark-wartime-past",
-   "summary": "Stepping onto an island in western Japan, tourists squeal with joy at the sight of hundreds of fluffy rabbits, but few realise the land was once home to a secret chemical weapons factory for the country’s Imperial Army. Okunoshima – also known as “Rabbit Island” – has a perimeter of just four kilometres (2.5 miles) but welcomes thousands of snap-happy visito",
-   "published_at": "2026-11-21T03:25:40Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "China pet ‘memorial diamond’ industry charging US$15,000 for ash gems faces scrutiny",
-   "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375306/china-pet-memorial-diamond-industry-charging-us15000-ash-gems-faces-scrutiny",
-   "summary": "Moving beyond traditional urns and paw-print keepsakes, some grieving pet owners in China are having their companions’ fur and ashes turned into lab-grown diamonds. A woman in northeastern China has sparked widespread debate about the growing industry after paying 8,950 yuan (US$1,350) for a diamond ring made using her dog’s fur. According to Jimu News, Chen",
-   "published_at": "2026-11-21T02:36:04Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "North Korea’s Kim Jong-un visits school gear factories after apparent Trump snub",
-   "url": "https://www.scmp.com/news/asia/east-asia/article/3375305/north-koreas-kim-jong-un-visits-school-gear-factories-after-apparent-trump-snub",
-   "summary": "North Korean leader Kim Jong-un was seen inspecting school equipment and teaching aids, state media said on Saturday, after an apparent snub of US President Donald Trump during his Asia tour. Trump met Kim three times during his first term and has repeatedly floated another meeting since his return to the White House, including during his Asia tour this week",
-   "published_at": "2026-11-21T02:10:03Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Japan wants an Asian energy agency. Will the region buy in?",
-   "url": "https://www.scmp.com/week-asia/economics/article/3375246/japan-wants-asian-energy-agency-will-region-buy",
-   "summary": "Asia already has oil-sharing pacts it has never used. Now, Japan wants to add another that critics warn will do little to solve the region’s dependence on energy imports and may simply add another level of bureaucracy. Japanese Prime Minister Sanae Takaichi announced the plan on Tuesday at an Asia Zero-Emission Community leaders’ meeting in Manila, on the si",
-   "published_at": "2026-11-21T02:00:10Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "China’s top intelligence agency touts ‘common international security’ after summit",
-   "url": "https://www.scmp.com/news/china/politics/article/3375207/chinas-top-intelligence-agency-touts-common-international-security-after-summit",
-   "summary": "China’s top intelligence agency has warned that no nation can achieve “absolute security” at the expense of others, underscoring Beijing’s messaging on security just a day after Thursday’s unprecedented China-US-Russia trilateral summit. In a commentary published on its official social account on Friday, the Ministry of State Security (MSS) framed China’s se",
-   "published_at": "2026-11-21T02:00:08Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Who are you calling a ‘Chinese honeypot’?",
-   "url": "https://www.scmp.com/opinion/world-opinion/article/3374874/who-are-you-calling-chinese-honeypot",
-   "summary": "“Please stop being such a Chinese honeypot.” When reports emerged alleging that then-Nvidia chief executive Jensen Huang had been romantically involved with a Chinese woman suspected of espionage, my inbox filled with remarks from friends and acquaintances about my supposed career as a Chinese spy. One came from an old university mate I hadn’t seen in more t",
-   "published_at": "2026-11-21T01:30:06Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_scmp",
-   "source_name": "SCMP",
-   "title": "Nvidia faces further blow after shock US export permit data release: analysts",
-   "url": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts",
-   "summary": "US lawmakers have thrown the cross-border semiconductor trade into fresh turmoil after releasing confidential licensing records showing Washington approved the sale of nearly 880,000 advanced AI chips to Chinese tech companies earlier this year. The disclosures, made by a US House committee on Thursday, could prompt Chinese buyers to pivot from Nvidia to Adv",
-   "published_at": "2026-11-21T01:00:13Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
    "source": "gh_nyt",
    "source_name": "NYT World",
    "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
@@ -1143,16 +1153,6 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-   "url": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-   "summary": "As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully.",
-   "published_at": "2026-11-20T10:38:19Z",
-   "category_hint": "policy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nyt",
-   "source_name": "NYT World",
    "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
    "url": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
    "summary": "Protests across Europe are the latest example of global youth anger that has driven demonstrations and election upsets.",
@@ -1163,12 +1163,12 @@
   {
    "source": "gh_nyt",
    "source_name": "NYT World",
-   "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
-   "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-   "summary": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
-   "published_at": "2026-11-20T13:56:56Z",
-   "category_hint": "policy",
-   "score_hint": 50
+   "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+   "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+   "summary": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
+   "published_at": "2026-11-22T01:56:16Z",
+   "category_hint": "military",
+   "score_hint": 62
   },
   {
    "source": "gh_nyt",
@@ -1305,7 +1305,7 @@
    "source_name": "Guardian World",
    "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
    "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-   "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged le",
+   "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leader",
    "published_at": "2026-11-21T17:46:55Z",
    "category_hint": "policy",
    "score_hint": 46
@@ -1317,16 +1317,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
    "summary": "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situation A bullet-peppered mural of the Haitian striker Emmanuel Sanon covers the facade of Port-au-Prince’s main football ground. But more than two years have passed since any sports stars graced the pitch. In 2024, as the sur",
    "published_at": "2026-11-21T11:00:57Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-   "summary": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the tube in me to feed me.” A Cu",
-   "published_at": "2026-11-20T11:00:31Z",
    "category_hint": "military",
    "score_hint": 58
   },
@@ -1363,6 +1353,36 @@
   {
    "source": "gh_guardian",
    "source_name": "Guardian World",
+   "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
+   "summary": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plans Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Victoria’s electricity supply will be at risk when a major power plant shuts in 2028 and neither major party is offe",
+   "published_at": "2026-11-22T01:00:13Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
+   "summary": "Controversial figure frequently took positions against drug use, abortion and homosexuality, but in later years supported legislation expunging homosexual convictions Get our daily political email , free app or daily news podcast The former New South Wales MP and longstanding figurehead of the rightwing Christian Democratic party, the Rev Fred Nile, has died",
+   "published_at": "2026-11-22T00:26:35Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+   "summary": "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable condition Get our breaking news email , free app or daily news podcast An on-duty police officer has been shot and a man found dead nearby as police investigate two firearm incidents in a tiny Tasmanian town. The officer was w",
+   "published_at": "2026-11-21T22:41:36Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
    "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
    "url": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
    "summary": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors Get our daily political email , free app or daily news podcast At the beginning of another Queensland parliamentary sitting week, anonymous sources were out in force, this time background briefing against the st",
@@ -1377,36 +1397,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
    "summary": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’ Get our breaking news email , free app or daily news podcast An Australian beauty company that promotes “clean” ingredients “free from skin irritants” has been referred to state health regulators after appearing to offer cigarettes to guests at",
    "published_at": "2026-11-21T19:00:07Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
-   "summary": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’ Get our breaking news email , free app or daily news podcast Australian neo-Nazis have raised hundreds of thousands of dollars on the global crowdfunding platform GiveSendGo, which ha",
-   "published_at": "2026-11-21T19:00:06Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
-   "summary": "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’ Get our breaking news email , free app or daily news podcast Victorian police allege a 17-year-old boy tasked others to carry out a series of arsons, home invasions and a mistaken identity kidnapping that resulted in the partial amputation of a victim’s finger during Melbour",
-   "published_at": "2026-11-21T04:44:00Z",
-   "category_hint": "military",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-   "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens are seeking an urgent injunction from the supreme court to stop an independent candidate distributing how-to-vote cards that allegedly mimic the party",
-   "published_at": "2026-11-21T00:26:56Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1477,16 +1467,6 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
    "summary": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizen An Indian ⁠man was sentenced to more ⁠than 19 ​years in US prison on Friday after admitting to orchestrating a failed Indian government-backed plot to kill a Sikh separatist in New York ⁠City , in connection with what US and Canadian authoritie",
    "published_at": "2026-11-20T18:24:12Z",
-   "category_hint": "policy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_guardian",
-   "source_name": "Guardian World",
-   "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
-   "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
-   "summary": "Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreach The US has greeted with caution the world’s highest court’s ruling that Myanmar committed genocide against its Rohingya minority, while China has raised concerns of judicial overreach. Reactions to Thursday’s historic ruling underlined deep inte",
-   "published_at": "2026-11-20T11:57:43Z",
    "category_hint": "policy",
    "score_hint": 46
   },
@@ -1589,6 +1569,46 @@
    "published_at": "2026-11-21T15:30:07Z",
    "category_hint": "policy",
    "score_hint": 46
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Hello Kitty owner Sanrio bets on games to expand global reach",
+   "url": "https://asia.nikkei.com/business/media-entertainment/hello-kitty-owner-sanrio-bets-on-games-to-expand-global-reach",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Restored Okinawa castle to reopen with extensive fire safety measures",
+   "url": "https://asia.nikkei.com/business/travel-leisure/restored-okinawa-castle-to-reopen-with-extensive-fire-safety-measures",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "AI good for business but may sap joy of creation: game creator Hideo Kojima",
+   "url": "https://asia.nikkei.com/business/media-entertainment/ai-good-for-business-but-may-sap-joy-of-creation-game-creator-hideo-kojima",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Bangkok revisited: Fresh finds and old favorites",
+   "url": "https://asia.nikkei.com/life-arts/life/destinations/bangkok-revisited-fresh-finds-and-old-favorites",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
   },
   {
    "source": "gh_nikkei",
@@ -1853,8 +1873,8 @@
   {
    "source": "gh_nikkei",
    "source_name": "Nikkei Asia",
-   "title": "Nepal's Shah to meet Modi for Indian flood aid and connectivity",
-   "url": "https://asia.nikkei.com/politics/international-relations/nepal-s-shah-to-meet-modi-for-indian-flood-aid-and-connectivity",
+   "title": "Nepal's PM Shah to meet Modi for Indian flood aid and connectivity",
+   "url": "https://asia.nikkei.com/politics/international-relations/nepal-s-pm-shah-to-meet-modi-for-indian-flood-aid-and-connectivity",
    "summary": "",
    "published_at": "",
    "category_hint": "economy",
@@ -1951,46 +1971,6 @@
    "score_hint": 50
   },
   {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Global goodwill assets hit $10.5tn on M&A boom but interest rate risk looms",
-   "url": "https://asia.nikkei.com/business/companies/global-goodwill-assets-hit-10.5tn-on-m-a-boom-but-interest-rate-risk-looms",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "International students in Japan face language hurdles when seeking jobs",
-   "url": "https://asia.nikkei.com/spotlight/japan-immigration/international-students-in-japan-face-language-hurdles-when-seeking-jobs",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Anthropic closes 17% above IPO price after 34% opening surge",
-   "url": "https://asia.nikkei.com/business/markets/ipo/anthropic-closes-17-above-ipo-price-after-34-opening-surge",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japanese automakers brace for 3rd year of global sales decline",
-   "url": "https://asia.nikkei.com/business/automobiles/japanese-automakers-brace-for-3rd-year-of-global-sales-decline",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
    "source": "gh_ft",
    "source_name": "Financial Times",
    "title": "Alice Huang’s links to the chip underworld",
@@ -2007,16 +1987,6 @@
    "url": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
    "summary": "Western officials and analysts say China’s Ministry of State Security is formidable in scale and technological capability",
    "published_at": "2026-11-21T03:58:46Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Nvidia faces US regulator’s probe into its accounting",
-   "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
-   "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
-   "published_at": "2026-11-20T21:58:08Z",
    "category_hint": "economy",
    "score_hint": 56
   },
@@ -2053,12 +2023,12 @@
   {
    "source": "gh_ft",
    "source_name": "Financial Times",
-   "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-   "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
-   "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
-   "published_at": "2026-11-20T21:52:25Z",
+   "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+   "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+   "summary": "Acquisition would help AWS compete with Nvidia in race for computing power",
+   "published_at": "2026-11-21T17:21:36Z",
    "category_hint": "economy",
-   "score_hint": 58
+   "score_hint": 56
   },
   {
    "source": "gh_ft",
@@ -2069,16 +2039,6 @@
    "published_at": "2026-11-21T16:19:19Z",
    "category_hint": "economy",
    "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
-   "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
-   "summary": "Acquisition would help AWS compete with Nvidia in race for computing power",
-   "published_at": "2026-11-21T17:21:36Z",
-   "category_hint": "economy",
-   "score_hint": 56
   },
   {
    "source": "gh_ft",
@@ -2101,104 +2061,124 @@
    "score_hint": 52
   },
   {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-   "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5043590",
-   "summary": "",
-   "published_at": "2026-11-21T21:20:04Z",
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "India’s $126bn insurance sector slams proposed commission cap",
+   "url": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95?syn-25a6b1a6=1",
+   "summary": "Industry argues regulation would hamper growth of a market that only recently opened up fully to foreign investment",
+   "published_at": "2026-11-22T01:30:02Z",
    "category_hint": "economy",
-   "score_hint": 50
+   "score_hint": 52
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Presurance Holdings director Smith acquires $7,650 in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/presurance-holdings-director-smith-acquires-7650-in-stock-93CH-5043589",
+   "title": "German industrial strikes widen as IG Metall calls 23,000 workers to walk out",
+   "url": "https://www.investing.com/news/stock-market-news/german-industrial-strikes-widen-as-ig-metall-calls-23000-workers-to-walk-out-5043690",
    "summary": "",
-   "published_at": "2026-11-21T21:17:05Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Tecogen CFO Roger Deschenes buys $17,997 in company stock",
-   "url": "https://www.investing.com/news/insider-trading-news/tecogen-cfo-roger-deschenes-buys-17997-in-company-stock-93CH-5043588",
-   "summary": "",
-   "published_at": "2026-11-21T21:16:16Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Tecogen director Earl Lewis buys $19,556 in company stock",
-   "url": "https://www.investing.com/news/insider-trading-news/tecogen-director-earl-lewis-buys-19556-in-company-stock-93CH-5043587",
-   "summary": "",
-   "published_at": "2026-11-21T21:15:55Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Tecogen general counsel buys $19,600 in company stock",
-   "url": "https://www.investing.com/news/insider-trading-news/tecogen-general-counsel-buys-19600-in-company-stock-93CH-5043586",
-   "summary": "",
-   "published_at": "2026-11-21T21:15:53Z",
-   "category_hint": "economy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Origin Bancorp director Michael Jones buys $78,660 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/origin-bancorp-director-michael-jones-buys-78660-in-shares-93CH-5043579",
-   "summary": "",
-   "published_at": "2026-11-21T20:45:59Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Bahrain blames Iran for strike on industrial site; Trump seeks \"permanent\" deal",
-   "url": "https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277",
-   "summary": "",
-   "published_at": "2026-11-21T20:34:46Z",
+   "published_at": "2026-11-22T01:48:54Z",
    "category_hint": "military",
    "score_hint": 58
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Clene Inc. director Reed N. Wilcox buys $34,240 in company stock",
-   "url": "https://www.investing.com/news/insider-trading-news/clene-inc-director-reed-n-wilcox-buys-34240-in-company-stock-93CH-5043573",
+   "title": "Wabtec evp operations Gregory Sbrocco sells $280,782 in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/wabtec-evp-operations-gregory-sbrocco-sells-280782-in-shares-93CH-5043688",
    "summary": "",
-   "published_at": "2026-11-21T20:01:06Z",
+   "published_at": "2026-11-22T01:45:55Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Terrance Ford, First Community Corp director, buys $20,928 in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/terrance-ford-first-community-corp-director-buys-20928-in-stock-93CH-5043565",
+   "title": "C&F Financial evp John Seaman sells $46,800 in company shares",
+   "url": "https://www.investing.com/news/insider-trading-news/cf-financial-evp-john-seaman-sells-46800-in-company-shares-93CH-5043687",
    "summary": "",
-   "published_at": "2026-11-21T19:31:54Z",
+   "published_at": "2026-11-22T01:45:49Z",
    "category_hint": "economy",
    "score_hint": 44
   },
   {
    "source": "gh_investing",
    "source_name": "Investing.com",
-   "title": "Trump orders contractors to report Congress inquiries",
-   "url": "https://www.investing.com/news/economy-news/trump-orders-contractors-to-report-congress-inquiries-5043559",
+   "title": "Stereotaxis director Paul Isaac acquires $10,900 of STXS shares",
+   "url": "https://www.investing.com/news/insider-trading-news/stereotaxis-director-paul-isaac-acquires-10900-of-stxs-shares-93CH-5043682",
    "summary": "",
-   "published_at": "2026-11-21T19:00:57Z",
+   "published_at": "2026-11-22T01:31:09Z",
    "category_hint": "economy",
    "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "COP31 climate talks close to final deal, says summit president",
+   "url": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
+   "summary": "",
+   "published_at": "2026-11-22T01:18:18Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Sean Feeley, president, buys $12,370 in Barings Global (BGH) shares",
+   "url": "https://www.investing.com/news/insider-trading-news/sean-feeley-president-buys-12370-in-barings-global-bgh-shares-93CH-5043676",
+   "summary": "",
+   "published_at": "2026-11-22T01:15:54Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "China’s AI stocks lose $1.7 trillion as tech selloff deepens",
+   "url": "https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672",
+   "summary": "",
+   "published_at": "2026-11-22T01:09:28Z",
+   "category_hint": "economy",
+   "score_hint": 54
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Filana Therapeutics CEO Barry Richard buys $206,896 in company stock",
+   "url": "https://www.investing.com/news/insider-trading-news/filana-therapeutics-ceo-barry-richard-buys-206896-in-company-stock-93CH-5043668",
+   "summary": "",
+   "published_at": "2026-11-22T00:45:56Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Texas Community Bancshares COO Haskell Strange sells $14,911 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/texas-community-bancshares-coo-haskell-strange-sells-14911-in-stock-93CH-5043660",
+   "summary": "",
+   "published_at": "2026-11-22T00:30:54Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Amphastar CFO William Peters sells $329,890 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/amphastar-cfo-william-peters-sells-329890-in-stock-93CH-5043651",
+   "summary": "",
+   "published_at": "2026-11-22T00:16:03Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "AI Boom Forces Massive Investment in Power Grids Worldwide",
+   "url": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Forces-Massive-Investment-in-Power-Grids-Worldwide.html",
+   "summary": "The information technology industry is driving massive growth in global electricity demand, which is set to rise by more than 10,000 TWh over the next ten years. For this electricity to reach demand hubs, grids around the world will need urgent upgrades. The big question is who will pay for it. In its World Energy Outlook released this week, the Internationa",
+   "published_at": "2026-11-22T00:00:00Z",
+   "category_hint": "economy",
+   "score_hint": 50
   },
   {
    "source": "gh_oilprice",
@@ -2341,16 +2321,6 @@
    "score_hint": 56
   },
   {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "China’s Oil Imports from Persian Gulf Jump to Wartime High",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Imports-from-Persian-Gulf-Jump-to-Wartime-High.html",
-   "summary": "China’s crude oil imports from the Persian Gulf surged by 42.4% in October from September, to the highest level since the Iran war began, as supply via the Strait of Hormuz rebounded and Gulf producers slashed prices for their crude to attract buyers amid record-high freight rates. China imported 19.7 million tons of crude oil from the Persian Gulf producers",
-   "published_at": "2026-11-20T15:36:00Z",
-   "category_hint": "military",
-   "score_hint": 68
-  },
-  {
    "source": "gh_coindesk",
    "source_name": "CoinDesk",
    "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
@@ -2471,64 +2441,14 @@
    "score_hint": 62
   },
   {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
-   "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-   "summary": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%.",
-   "published_at": "2026-11-20T13:35:33Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-   "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-   "summary": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds.",
-   "published_at": "2026-11-20T13:30:22Z",
-   "category_hint": "economy",
-   "score_hint": 46
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-   "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-   "summary": "The ECB president called for common rules as the EU's new blockchain settlement system handled a 1 billion-euro ($1.1 billion) digital bond transaction.",
-   "published_at": "2026-11-20T13:11:49Z",
+   "source": "gh_defenseone",
+   "source_name": "Defense One",
+   "title": "Canada joins NATO innovation fund, promises ‘business as usual’ with US",
+   "url": "https://www.defenseone.com/policy/2026/11/canada-joins-nato-innovation-fund-promises-business-usual-us/417391/",
+   "summary": "But the investment is a pointed reaction to the Trump administration’s dwindling cooperation with its northern ally.",
+   "published_at": "2026-11-21T23:16:41Z",
    "category_hint": "military",
-   "score_hint": 62
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-   "summary": "Your day-ahead look for Nov. 20, 2026",
-   "published_at": "2026-11-20T12:15:08Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Bitcoin drops for third straight day as Asian tech shares slide",
-   "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-   "summary": "BlackRock’s spot bitcoin ETF recorded the largest single-day outflow since its introduction more than two years ago as investors continued to flee the sector.",
-   "published_at": "2026-11-20T11:42:02Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-   "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-   "summary": "The move would reduce Coinbase's reliance on a partnership Kalshi, which brought in $200 million in annualized revenue in the third quarter.",
-   "published_at": "2026-11-20T10:48:04Z",
-   "category_hint": "economy",
-   "score_hint": 50
+   "score_hint": 52
   },
   {
    "source": "gh_defenseone",
@@ -2721,16 +2641,6 @@
    "score_hint": 50
   },
   {
-   "source": "gh_breakingdef",
-   "source_name": "Breaking Defense",
-   "title": "Skylark Labs demonstrates humanoid search for explosive hazards",
-   "url": "https://breakingdefense.com/2026/11/skylark-labs-demonstrates-humanoid-search-for-explosive-hazards/",
-   "summary": "[Sponsored] CFAM delivered about 30% higher task success than a standard model in a real-world robot test. Skylark is applying that learning approach to explosive-hazard search.",
-   "published_at": "2026-11-20T13:20:00Z",
-   "category_hint": "military",
-   "score_hint": 56
-  },
-  {
    "source": "gh_techreview",
    "source_name": "MIT Tech Review",
    "title": "The most misunderstood graph in AI just got a major update",
@@ -2741,14 +2651,14 @@
    "score_hint": 50
   },
   {
-   "source": "gh_techreview",
-   "source_name": "MIT Tech Review",
-   "title": "The Download: inside the quest to make our minds immortal",
-   "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond&#8230;",
-   "published_at": "2026-11-20T13:10:00Z",
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Amazon is complaining about NYC Council on shipping labels, too",
+   "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+   "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently [&#8230;]",
+   "published_at": "2026-11-21T21:59:31Z",
    "category_hint": "other",
-   "score_hint": 46
+   "score_hint": 44
   },
   {
    "source": "gh_verge",
@@ -2841,16 +2751,6 @@
    "score_hint": 44
   },
   {
-   "source": "gh_verge",
-   "source_name": "The Verge",
-   "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-   "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-   "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up [&#8230;]",
-   "published_at": "2026-11-21T12:00:00Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
    "source": "gh_stat",
    "source_name": "STAT News",
    "title": "Opinion: When should medical school start?",
@@ -2928,6 +2828,516 @@
    "summary": "Sanofi weighs an Insmed takeover, the FDA slams J&#038;J over misleading bladder cancer drug claims, and more pharma news:",
    "published_at": "2026-11-20T14:16:35Z",
    "category_hint": "other",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
+   "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+   "published_at": "2026-11-20T23:28:17Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_bbc",
+   "source_name": "BBC World",
+   "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+   "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+   "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+   "published_at": "2026-11-20T22:14:17Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+   "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+   "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
+   "published_at": "2026-11-21T16:03:16Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "US midterms 2026: What happens before the new Congress takes office?",
+   "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+   "summary": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
+   "published_at": "2026-11-21T15:49:32Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "French presidential candidate blames media for racist attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+   "summary": "French presidential candidate blames media for racist attack",
+   "published_at": "2026-11-21T15:46:18Z",
+   "category_hint": "military",
+   "score_hint": 60
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+   "summary": "Africa&#039;s CAF join South America&#039;s CONMEBOL in giving unanimous support of FIFA President Gianni Infantino&#039;s re-election.",
+   "published_at": "2026-11-21T15:20:43Z",
+   "category_hint": "economy",
+   "score_hint": 54
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+   "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+   "published_at": "2026-11-21T15:01:18Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_aljazeera",
+   "source_name": "Al Jazeera",
+   "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
+   "summary": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
+   "published_at": "2026-11-21T14:35:52Z",
+   "category_hint": "policy",
+   "score_hint": 48
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Mexico captures drug kingpin on FBI’s most wanted list",
+   "url": "https://www.scmp.com/news/world/americas/article/3375342/mexico-captures-drug-kingpin-fbis-most-wanted-list",
+   "summary": "Mexico’s military announced on Saturday that it had captured the leader of a drug-trafficking group who was among the 10 most-wanted fugitives sought by US law enforcement. Fausto Isidro Meza, alias “Chapo Isidro”, and two other leaders of his drug gang were captured during a special forces raid on Friday night in Sinaloa state, the Mexican National Defence ",
+   "published_at": "2026-11-21T14:00:45Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Hong Kong commerce chief ‘cautiously optimistic’ after China-US-Russia peace declaration",
+   "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375308/hong-kong-commerce-chief-cautiously-optimistic-after-china-us-russia-peace-declaration",
+   "summary": "The China-US-Russia joint peace declaration at the Asia-Pacific Economic Cooperation (Apec) summit sent a positive message about the global and local economies, but Hong Kong should remain “cautiously optimistic” as problems cannot be solved overnight, the city’s commerce chief has said. Secretary for Commerce and Economic Development Algernon Yau Ying-wah s",
+   "published_at": "2026-11-21T03:55:19Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Japan’s ‘Rabbit Island’ draws tourists with fluffy bunnies and dark wartime past",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3375307/japans-rabbit-island-draws-tourists-fluffy-bunnies-and-dark-wartime-past",
+   "summary": "Stepping onto an island in western Japan, tourists squeal with joy at the sight of hundreds of fluffy rabbits, but few realise the land was once home to a secret chemical weapons factory for the country’s Imperial Army. Okunoshima – also known as “Rabbit Island” – has a perimeter of just four kilometres (2.5 miles) but welcomes thousands of snap-happy visito",
+   "published_at": "2026-11-21T03:25:40Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "China pet ‘memorial diamond’ industry charging US$15,000 for ash gems faces scrutiny",
+   "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375306/china-pet-memorial-diamond-industry-charging-us15000-ash-gems-faces-scrutiny",
+   "summary": "Moving beyond traditional urns and paw-print keepsakes, some grieving pet owners in China are having their companions’ fur and ashes turned into lab-grown diamonds. A woman in northeastern China has sparked widespread debate about the growing industry after paying 8,950 yuan (US$1,350) for a diamond ring made using her dog’s fur. According to Jimu News, Chen",
+   "published_at": "2026-11-21T02:36:04Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "North Korea’s Kim Jong-un visits school gear factories after apparent Trump snub",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3375305/north-koreas-kim-jong-un-visits-school-gear-factories-after-apparent-trump-snub",
+   "summary": "North Korean leader Kim Jong-un was seen inspecting school equipment and teaching aids, state media said on Saturday, after an apparent snub of US President Donald Trump during his Asia tour. Trump met Kim three times during his first term and has repeatedly floated another meeting since his return to the White House, including during his Asia tour this week",
+   "published_at": "2026-11-21T02:10:03Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Japan wants an Asian energy agency. Will the region buy in?",
+   "url": "https://www.scmp.com/week-asia/economics/article/3375246/japan-wants-asian-energy-agency-will-region-buy",
+   "summary": "Asia already has oil-sharing pacts it has never used. Now, Japan wants to add another that critics warn will do little to solve the region’s dependence on energy imports and may simply add another level of bureaucracy. Japanese Prime Minister Sanae Takaichi announced the plan on Tuesday at an Asia Zero-Emission Community leaders’ meeting in Manila, on the si",
+   "published_at": "2026-11-21T02:00:10Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "China’s top intelligence agency touts ‘common international security’ after summit",
+   "url": "https://www.scmp.com/news/china/politics/article/3375207/chinas-top-intelligence-agency-touts-common-international-security-after-summit",
+   "summary": "China’s top intelligence agency has warned that no nation can achieve “absolute security” at the expense of others, underscoring Beijing’s messaging on security just a day after Thursday’s unprecedented China-US-Russia trilateral summit. In a commentary published on its official social account on Friday, the Ministry of State Security (MSS) framed China’s se",
+   "published_at": "2026-11-21T02:00:08Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Who are you calling a ‘Chinese honeypot’?",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3374874/who-are-you-calling-chinese-honeypot",
+   "summary": "“Please stop being such a Chinese honeypot.” When reports emerged alleging that then-Nvidia chief executive Jensen Huang had been romantically involved with a Chinese woman suspected of espionage, my inbox filled with remarks from friends and acquaintances about my supposed career as a Chinese spy. One came from an old university mate I hadn’t seen in more t",
+   "published_at": "2026-11-21T01:30:06Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_scmp",
+   "source_name": "SCMP",
+   "title": "Nvidia faces further blow after shock US export permit data release: analysts",
+   "url": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts",
+   "summary": "US lawmakers have thrown the cross-border semiconductor trade into fresh turmoil after releasing confidential licensing records showing Washington approved the sale of nearly 880,000 advanced AI chips to Chinese tech companies earlier this year. The disclosures, made by a US House committee on Thursday, could prompt Chinese buyers to pivot from Nvidia to Adv",
+   "published_at": "2026-11-21T01:00:13Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
+   "url": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
+   "summary": "As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully.",
+   "published_at": "2026-11-20T10:38:19Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nyt",
+   "source_name": "NYT World",
+   "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
+   "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+   "summary": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
+   "published_at": "2026-11-20T13:56:56Z",
+   "category_hint": "policy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+   "summary": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the tube in me to feed me.” A Cu",
+   "published_at": "2026-11-20T11:00:31Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
+   "summary": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’ Get our breaking news email , free app or daily news podcast Australian neo-Nazis have raised hundreds of thousands of dollars on the global crowdfunding platform GiveSendGo, which ha",
+   "published_at": "2026-11-21T19:00:06Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+   "summary": "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’ Get our breaking news email , free app or daily news podcast Victorian police allege a 17-year-old boy tasked others to carry out a series of arsons, home invasions and a mistaken identity kidnapping that resulted in the partial amputation of a victim’s finger during Melbour",
+   "published_at": "2026-11-21T04:44:00Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+   "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens are seeking an urgent injunction from the supreme court to stop an independent candidate distributing how-to-vote cards that allegedly mimic the party",
+   "published_at": "2026-11-21T00:26:56Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_guardian",
+   "source_name": "Guardian World",
+   "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+   "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+   "summary": "Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreach The US has greeted with caution the world’s highest court’s ruling that Myanmar committed genocide against its Rohingya minority, while China has raised concerns of judicial overreach. Reactions to Thursday’s historic ruling underlined deep inte",
+   "published_at": "2026-11-20T11:57:43Z",
+   "category_hint": "policy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Nepal's Shah to meet Modi for Indian flood aid and connectivity",
+   "url": "https://asia.nikkei.com/politics/international-relations/nepal-s-shah-to-meet-modi-for-indian-flood-aid-and-connectivity",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Global goodwill assets hit $10.5tn on M&A boom but interest rate risk looms",
+   "url": "https://asia.nikkei.com/business/companies/global-goodwill-assets-hit-10.5tn-on-m-a-boom-but-interest-rate-risk-looms",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "International students in Japan face language hurdles when seeking jobs",
+   "url": "https://asia.nikkei.com/spotlight/japan-immigration/international-students-in-japan-face-language-hurdles-when-seeking-jobs",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Anthropic closes 17% above IPO price after 34% opening surge",
+   "url": "https://asia.nikkei.com/business/markets/ipo/anthropic-closes-17-above-ipo-price-after-34-opening-surge",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_nikkei",
+   "source_name": "Nikkei Asia",
+   "title": "Japanese automakers brace for 3rd year of global sales decline",
+   "url": "https://asia.nikkei.com/business/automobiles/japanese-automakers-brace-for-3rd-year-of-global-sales-decline",
+   "summary": "",
+   "published_at": "",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "Nvidia faces US regulator’s probe into its accounting",
+   "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+   "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
+   "published_at": "2026-11-20T21:58:08Z",
+   "category_hint": "economy",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_ft",
+   "source_name": "Financial Times",
+   "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+   "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+   "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
+   "published_at": "2026-11-20T21:52:25Z",
+   "category_hint": "economy",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5043590",
+   "summary": "",
+   "published_at": "2026-11-21T21:20:04Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Presurance Holdings director Smith acquires $7,650 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/presurance-holdings-director-smith-acquires-7650-in-stock-93CH-5043589",
+   "summary": "",
+   "published_at": "2026-11-21T21:17:05Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Tecogen CFO Roger Deschenes buys $17,997 in company stock",
+   "url": "https://www.investing.com/news/insider-trading-news/tecogen-cfo-roger-deschenes-buys-17997-in-company-stock-93CH-5043588",
+   "summary": "",
+   "published_at": "2026-11-21T21:16:16Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Tecogen director Earl Lewis buys $19,556 in company stock",
+   "url": "https://www.investing.com/news/insider-trading-news/tecogen-director-earl-lewis-buys-19556-in-company-stock-93CH-5043587",
+   "summary": "",
+   "published_at": "2026-11-21T21:15:55Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Tecogen general counsel buys $19,600 in company stock",
+   "url": "https://www.investing.com/news/insider-trading-news/tecogen-general-counsel-buys-19600-in-company-stock-93CH-5043586",
+   "summary": "",
+   "published_at": "2026-11-21T21:15:53Z",
+   "category_hint": "economy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Origin Bancorp director Michael Jones buys $78,660 in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/origin-bancorp-director-michael-jones-buys-78660-in-shares-93CH-5043579",
+   "summary": "",
+   "published_at": "2026-11-21T20:45:59Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Bahrain blames Iran for strike on industrial site; Trump seeks \"permanent\" deal",
+   "url": "https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277",
+   "summary": "",
+   "published_at": "2026-11-21T20:34:46Z",
+   "category_hint": "military",
+   "score_hint": 58
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Clene Inc. director Reed N. Wilcox buys $34,240 in company stock",
+   "url": "https://www.investing.com/news/insider-trading-news/clene-inc-director-reed-n-wilcox-buys-34240-in-company-stock-93CH-5043573",
+   "summary": "",
+   "published_at": "2026-11-21T20:01:06Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Terrance Ford, First Community Corp director, buys $20,928 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/terrance-ford-first-community-corp-director-buys-20928-in-stock-93CH-5043565",
+   "summary": "",
+   "published_at": "2026-11-21T19:31:54Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_investing",
+   "source_name": "Investing.com",
+   "title": "Trump orders contractors to report Congress inquiries",
+   "url": "https://www.investing.com/news/economy-news/trump-orders-contractors-to-report-congress-inquiries-5043559",
+   "summary": "",
+   "published_at": "2026-11-21T19:00:57Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_oilprice",
+   "source_name": "OilPrice",
+   "title": "China’s Oil Imports from Persian Gulf Jump to Wartime High",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Imports-from-Persian-Gulf-Jump-to-Wartime-High.html",
+   "summary": "China’s crude oil imports from the Persian Gulf surged by 42.4% in October from September, to the highest level since the Iran war began, as supply via the Strait of Hormuz rebounded and Gulf producers slashed prices for their crude to attract buyers amid record-high freight rates. China imported 19.7 million tons of crude oil from the Persian Gulf producers",
+   "published_at": "2026-11-20T15:36:00Z",
+   "category_hint": "military",
+   "score_hint": 68
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
+   "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+   "summary": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%.",
+   "published_at": "2026-11-20T13:35:33Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+   "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+   "summary": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds.",
+   "published_at": "2026-11-20T13:30:22Z",
+   "category_hint": "economy",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
+   "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+   "summary": "The ECB president called for common rules as the EU's new blockchain settlement system handled a 1 billion-euro ($1.1 billion) digital bond transaction.",
+   "published_at": "2026-11-20T13:11:49Z",
+   "category_hint": "military",
+   "score_hint": 62
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
+   "summary": "Your day-ahead look for Nov. 20, 2026",
+   "published_at": "2026-11-20T12:15:08Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Bitcoin drops for third straight day as Asian tech shares slide",
+   "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
+   "summary": "BlackRock’s spot bitcoin ETF recorded the largest single-day outflow since its introduction more than two years ago as investors continued to flee the sector.",
+   "published_at": "2026-11-20T11:42:02Z",
+   "category_hint": "economy",
+   "score_hint": 44
+  },
+  {
+   "source": "gh_coindesk",
+   "source_name": "CoinDesk",
+   "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
+   "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
+   "summary": "The move would reduce Coinbase's reliance on a partnership Kalshi, which brought in $200 million in annualized revenue in the third quarter.",
+   "published_at": "2026-11-20T10:48:04Z",
+   "category_hint": "economy",
+   "score_hint": 50
+  },
+  {
+   "source": "gh_breakingdef",
+   "source_name": "Breaking Defense",
+   "title": "Skylark Labs demonstrates humanoid search for explosive hazards",
+   "url": "https://breakingdefense.com/2026/11/skylark-labs-demonstrates-humanoid-search-for-explosive-hazards/",
+   "summary": "[Sponsored] CFAM delivered about 30% higher task success than a standard model in a real-world robot test. Skylark is applying that learning approach to explosive-hazard search.",
+   "published_at": "2026-11-20T13:20:00Z",
+   "category_hint": "military",
+   "score_hint": 56
+  },
+  {
+   "source": "gh_techreview",
+   "source_name": "MIT Tech Review",
+   "title": "The Download: inside the quest to make our minds immortal",
+   "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+   "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond&#8230;",
+   "published_at": "2026-11-20T13:10:00Z",
+   "category_hint": "other",
+   "score_hint": 46
+  },
+  {
+   "source": "gh_verge",
+   "source_name": "The Verge",
+   "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+   "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+   "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up [&#8230;]",
+   "published_at": "2026-11-21T12:00:00Z",
+   "category_hint": "economy",
    "score_hint": 50
   },
   {
@@ -11599,416 +12009,6 @@
    "published_at": "2026-11-19T14:15:15Z",
    "category_hint": "policy",
    "score_hint": 48
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Anthropic opens up 34% in trading debut after record IPO",
-   "url": "https://asia.nikkei.com/business/markets/ipo/anthropic-opens-up-34-in-trading-debut-after-record-ipo",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Steelworkers union USW announces tentative labor pact with U.S. Steel",
-   "url": "https://asia.nikkei.com/business/companies/steelworkers-union-usw-announces-tentative-labor-pact-with-u.s.-steel",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japan automakers to standardize parts, materials for efficiency",
-   "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-to-standardize-parts-materials-for-efficiency",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Japan outlines foreign agent registry for lobbyists",
-   "url": "https://asia.nikkei.com/politics/japan-outlines-foreign-agent-registry-for-lobbyists",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Toyota, Suzuki rely on weak yen to keep profits growing",
-   "url": "https://asia.nikkei.com/business/automobiles/toyota-suzuki-rely-on-weak-yen-to-keep-profits-growing",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "'All Chinese players' will rely on domestic chips eventually: Tencent",
-   "url": "https://asia.nikkei.com/business/china-tech/all-chinese-players-will-rely-on-domestic-chips-eventually-tencent",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 54
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Xi urges freer trade as APEC leaders maneuver ahead of Trump talks",
-   "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-urges-freer-trade-as-apec-leaders-maneuver-ahead-of-trump-talks",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "China shows vision of future in Shenzhen with plenty of red tape",
-   "url": "https://asia.nikkei.com/politics/international-relations/apec/china-shows-vision-of-future-in-shenzhen-with-plenty-of-red-tape",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Indonesia raises key interest rate as rupiah hits record low",
-   "url": "https://asia.nikkei.com/business/markets/currencies/indonesia-raises-key-interest-rate-as-rupiah-hits-record-low",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "How will ASEAN fare under Singapore's leadership? 5 key topics",
-   "url": "https://asia.nikkei.com/politics/international-relations/how-will-asean-fare-under-singapore-s-leadership-5-key-topics",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Xi, Putin vow to lead multipolar world, slam protectionism",
-   "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-putin-vow-to-lead-multipolar-world-slam-protectionism",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_nikkei",
-   "source_name": "Nikkei Asia",
-   "title": "Takaichi's diplomatic chops to be tested at China's APEC",
-   "url": "https://asia.nikkei.com/politics/international-relations/apec/takaichi-s-diplomatic-chops-to-be-tested-at-china-s-apec",
-   "summary": "",
-   "published_at": "",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Anthropic shares indicated to open 34% higher at $111",
-   "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
-   "summary": "AI giant to begin trading after raising $81bn in record IPO",
-   "published_at": "2026-11-19T16:19:06Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Angry America and its housing market",
-   "url": "https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1",
-   "summary": "The country is failing to provide enough houses to enable people to move to where the good jobs are",
-   "published_at": "2026-11-19T05:00:17Z",
-   "category_hint": "economy",
-   "score_hint": 58
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Adani: the billionaire at the heart of Modi’s India",
-   "url": "https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1",
-   "summary": "Three years ago, the tycoon was fending off lawsuits and accusations of fraud. Now, his business empire looks more powerful than ever",
-   "published_at": "2026-11-19T05:00:11Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans",
-   "url": "https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1",
-   "summary": "SpaceX CEO backs away from Maga after monetary support for Trump’s party in midterm elections fails to sway voters",
-   "published_at": "2026-11-19T02:19:32Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Houthi air strike hits Saudi sovereign wealth fund headquarters",
-   "url": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
-   "summary": "Attack on powerful Public Investment Fund follows near-daily barrages on the kingdom by Houthi rebels",
-   "published_at": "2026-11-19T16:38:08Z",
-   "category_hint": "military",
-   "score_hint": 64
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Gulf flare-up stokes fears of return to Iran war",
-   "url": "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e?syn-25a6b1a6=1",
-   "summary": "A week of tit-for-tat escalation by Iran and the US has brought the countries closer to another full-scale confrontation, analysts say",
-   "published_at": "2026-11-19T14:53:28Z",
-   "category_hint": "military",
-   "score_hint": 64
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Putin invites European leaders to Moscow",
-   "url": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
-   "summary": "Russian leader signals Russia is unwilling to relax hardline demands for ending Ukraine conflict",
-   "published_at": "2026-11-19T15:24:55Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Ukraine’s western allies meet in Berlin to counter Yalta 2.0 optics",
-   "url": "https://www.ft.com/content/b102bd7f-175c-4cd3-8f05-6c9dd10115e1?syn-25a6b1a6=1",
-   "summary": "Germany hosts 40 delegations in show of solidarity for Kyiv while leaders of Russia, China and US meet in Shenzhen",
-   "published_at": "2026-11-19T11:48:38Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_ft",
-   "source_name": "Financial Times",
-   "title": "Gold loses its lustre for investors",
-   "url": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1",
-   "summary": "Precious metal long touted as a diversifier for portfolios has not offered protection during recent tech stock fall",
-   "published_at": "2026-11-19T05:00:17Z",
-   "category_hint": "economy",
-   "score_hint": 52
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Anthropic opens 34% above IPO price, reaches $2 trillion valuation in Nasdaq debut",
-   "url": "https://www.investing.com/news/stock-market-news/anthropic-opens-34-above-ipo-price-reaches-2-trillion-valuation-in-nasdaq-debut-5039595",
-   "summary": "",
-   "published_at": "2026-11-19T16:53:51Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Bybit Joins Proof of Talk in Abu Dhabi 2026 as Title Partner and Official Exchange Partner",
-   "url": "https://www.investing.com/news/cryptocurrency-news/bybit-joins-proof-of-talk-in-abu-dhabi-2026-as-title-partner-and-official-exchange-partner-5039600",
-   "summary": "",
-   "published_at": "2026-11-19T16:53:46Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "SoFi Technologies stock hits 52-week low at $13.84",
-   "url": "https://www.investing.com/news/company-news/sofi-technologies-stock-hits-52week-low-at-1384-93CH-5039597",
-   "summary": "",
-   "published_at": "2026-11-19T16:53:08Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "TD Cowen Top Pharma Pick for 2027",
-   "url": "https://www.investing.com/news/stock-market-news/td-cowen-top-pharma-pick-for-2027-5039596",
-   "summary": "",
-   "published_at": "2026-11-19T16:52:34Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Stocks wobble with focus on Anthropic debut; oil prices rise",
-   "url": "https://www.investing.com/news/economy-news/stocks-rise-after-anthropic-ipo-pricing-sets-stage-for-blockbuster-debut-5037540",
-   "summary": "",
-   "published_at": "2026-11-19T16:49:12Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Oil prices rise as tanker disruptions offset surplus supply outlook",
-   "url": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
-   "summary": "",
-   "published_at": "2026-11-19T16:48:24Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Earnings call transcript: Copa Holdings beats Q3 2026 estimates as shares rise",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-copa-holdings-beats-q3-2026-estimates-as-shares-rise-93CH-5039593",
-   "summary": "",
-   "published_at": "2026-11-19T16:46:07Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Earnings call transcript: Clear Blue Technologies posts first positive EBITDA in years in Q3 2026",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-clear-blue-technologies-posts-first-positive-ebitda-in-years-in-q3-2026-93CH-5039592",
-   "summary": "",
-   "published_at": "2026-11-19T16:45:47Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Moody’s upgrades Toyota outlook to positive, projects modest EBIT margin expansion",
-   "url": "https://www.investing.com/news/stock-market-news/moodys-upgrades-toyota-outlook-to-positive-projects-modest-ebit-margin-expansion-5039589",
-   "summary": "",
-   "published_at": "2026-11-19T16:43:21Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_investing",
-   "source_name": "Investing.com",
-   "title": "Wall St wavers ahead of Anthropic market debut",
-   "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-jump-as-anthropics-record-ipo-pricing-fuels-hopes-for-strong-debut-5038156",
-   "summary": "",
-   "published_at": "2026-11-19T16:42:57Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Global Cooling Demand Overtakes Heating for the First Time",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Global-Cooling-Demand-Overtakes-Heating-for-the-First-Time.html",
-   "summary": "Demand for cooling is overtaking demand for heating for the first time in energy history, the International Energy Agency (IEA) said in its World Energy Outlook 2026 on Thursday. The agency’s first annual outlook since the Iran war upended energy markets and forecasts found that higher temperatures, extreme heat waves in previously cooler regions, and higher",
-   "published_at": "2026-11-19T11:30:00Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "India’s Oil Imports Hit Record High as Saudi Shipments Surge",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Imports-Hit-Record-High-as-Saudi-Shipments-Surge.html",
-   "summary": "India imported a record-high level of crude oil volumes in October, trade data showed on Thursday, as volumes from Saudi Arabia jumped to an eight-month high amid a recovery in Gulf shipments. India imported a record 5.58 million barrels per day (bpd) of crude oil last month, up by 4.7% compared to September and a 6.9% rise from October 2025, according to th",
-   "published_at": "2026-11-19T10:30:00Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/The-Middle-East-War-Has-Wiped-28-Billion-Barrels-Off-Global-Oil-Supply.html",
-   "summary": "The war in the Middle East has caused global oil supply losses of a total of 2.8 billion barrels plus 60 billion cubic meters of natural gas, the International Energy Agency estimated in its latest World Energy Outlook, released today. This disruption is going to affect oil demand, the IEA predicted, but only if governments around the world stay the course w",
-   "published_at": "2026-11-19T09:00:00Z",
-   "category_hint": "military",
-   "score_hint": 68
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "EU Delays Methane Rules by Two Years Amid Energy Supply Fears",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Delays-Methane-Rules-by-Two-Years-Amid-Energy-Supply-Fears.html",
-   "summary": "The European Parliament and EU member states agreed today to delay the so-called methane regulation by two years under pressure from the top oil and gas supplier, the United States, and the continued disruption of normal supply resulting from the war in the Middle East. The European Parliament cited as a reason for the delay the supply disruption caused by t",
-   "published_at": "2026-11-19T07:30:00Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Oil Prices Steady as Hormuz Tanker Threats Offset Supply Glut Fears",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Steady-as-Hormuz-Tanker-Threats-Offset-Supply-Glut-Fears.html",
-   "summary": "Crude oil prices steadied today after a decline earlier this week, as the perception of a return to oversupply and continued attacks on tankers in the Strait of Hormuz basically canceled each other out. At the time of writing, Brent crude was trading at $92.01 per barrel, with West Texas Intermediate at $83.00 per barrel, as forecasters warn of a glut even t",
-   "published_at": "2026-11-19T06:00:00Z",
-   "category_hint": "economy",
-   "score_hint": 56
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Inside the Army’s 75 Year Plan to Escape China’s Rare Earth Dominance",
-   "url": "https://oilprice.com/Energy/Energy-General/Inside-the-Armys-75-Year-Plan-to-Escape-Chinas-Rare-Earth-Dominance.html",
-   "summary": "Over the past several years, the U.S. government has committed billions of dollars to solving the rare earth supply problem. MP Materials received more than $1 billion in combined financing. USA Rare Earth secured a $1.6 billion government financing package. The Department of Defense and Department of Energy have funded pilot programs, feasibility studies, a",
-   "published_at": "2026-11-19T02:00:00Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_oilprice",
-   "source_name": "OilPrice",
-   "title": "Permian Growth Turns Moderate Despite War",
-   "url": "https://oilprice.com/Energy/Crude-Oil/Permian-Growth-Turns-Moderate-Despite-War.html",
-   "summary": "Crude oil production in the most prolific basin in the United States has remained moderate despite the war premium that pushed prices to over $100 a barrel. For some, however, the very fact of production growth in the Permian is a surprise. The Permian has been the engine driving U.S. crude oil output growth for over a decade. Annual growth in the past consi",
-   "published_at": "2026-11-19T01:00:00Z",
-   "category_hint": "military",
-   "score_hint": 68
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
-   "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
-   "summary": "At that opening price, the company would be valued at more than $2 trillion",
-   "published_at": "2026-11-19T17:01:47Z",
-   "category_hint": "economy",
-   "score_hint": 50
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Live updates: Bitcoin gives up early gains ahead of Anthropic's Nasdaq debut",
-   "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
-   "summary": "The Nasdaq returned to almost flat on the session after an earlier gain of about 2%. The S&P 500 and DJIA were modestly lower.",
-   "published_at": "2026-11-19T10:48:26Z",
-   "category_hint": "economy",
-   "score_hint": 44
-  },
-  {
-   "source": "gh_coindesk",
-   "source_name": "CoinDesk",
-   "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-   "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
-   "summary": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure.",
-   "published_at": "2026-11-18T12:53:34Z",
-   "category_hint": "economy",
-   "score_hint": 44
   }
  ]
 }
